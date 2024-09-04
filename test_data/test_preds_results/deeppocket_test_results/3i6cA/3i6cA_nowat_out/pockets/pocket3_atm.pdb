@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2682
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9108
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6482
+HEADER 5  - Mean B-factor of pocket residues  : 0.2411
+HEADER 6  - Hydrophobicity Score              : -3.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 255.1943
+HEADER 10 - Pocket volume (convex hull)       : 3.5504
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.6667
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM    787   CB PHE A 151      19.965   1.724  29.163  0.00  0.00           C 0
+ATOM    796    C THR A 152      17.309  -2.437  30.774  0.00  0.00           C 0
+ATOM    797    O THR A 152      18.211  -2.867  30.063  0.75  4.29           O 0
+ATOM    807  OD1 ASP A 153      18.171  -3.714  34.454  0.00  0.00           O 0
+ATOM    634   CG GLN A 131      11.743  -2.678  33.007  0.00  0.00           C 0
+ATOM    633   CB GLN A 131      11.790  -1.140  32.804  0.00  0.00           C 0
+ATOM    630   CA GLN A 131      10.565  -0.502  33.502  0.00  0.00           C 0
+ATOM    638    N LYS A 132      11.239   1.472  34.750  0.00  0.00           N 0
+ATOM    636  OE1 GLN A 131      14.115  -2.978  32.660  0.75  2.14           O 0
+ATOM    808  OD2 ASP A 153      16.530  -4.770  35.484  0.57  9.64           O 0
+ATOM    652   CG PRO A 133      15.417   2.613  33.293  0.00  0.00           C 0
+ATOM    801    N ASP A 153      16.834  -3.160  31.780  0.00  0.00           N 0
+ATOM    795   CA THR A 152      16.613  -1.115  30.522  0.00  0.00           C 0
+ATOM    786    O PHE A 151      17.346   1.609  30.618  0.00  0.00           O 0
+ATOM    653   CD PRO A 133      14.068   2.194  33.805  0.00  0.00           C 0
+ATOM    785    C PHE A 151      17.686   0.894  29.651  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0836
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8451
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4599
+HEADER 5  - Mean B-factor of pocket residues  : 0.2842
+HEADER 6  - Hydrophobicity Score              : -15.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 284.3286
+HEADER 10 - Pocket volume (convex hull)       : 13.3777
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    107    O PRO B  16      68.048  19.115  -3.645  0.00  0.00           O 0
+ATOM    102  OD1 ASN B  15      72.273  18.568  -3.416  0.65  7.50           O 0
+ATOM   2012  OE1 GLU B 249      70.065  21.727 -10.531  0.00  0.00           O 0
+ATOM   2013  OE2 GLU B 249      69.978  23.171  -8.898  0.48  8.57           O 0
+ATOM     93    O SER B  14      72.115  23.244  -2.759  0.35  9.64           O 0
+ATOM    110   CD PRO B  16      69.048  22.145  -2.347  0.00  0.00           C 0
+ATOM   2008    O GLU B 249      66.759  20.393 -10.450  0.76  8.57           O 0
+ATOM    118    N HIS B  18      65.765  16.751  -5.246  0.58  3.28           N 0
+ATOM   2018   CB ALA B 250      66.219  22.703  -7.747  0.00  0.00           C 0
+ATOM    109   CG PRO B  16      67.569  22.245  -2.681  0.00  0.00           C 0
+ATOM    122   CB HIS B  18      65.437  16.196  -7.578  0.00  0.00           C 0
+ATOM    119   CA HIS B  18      64.806  16.792  -6.322  0.00  0.00           C 0
+ATOM    112   CA PRO B  17      66.510  16.935  -2.962  0.00  0.00           C 0
+ATOM   2015   CA ALA B 250      65.270  21.959  -8.690  0.00  0.00           C 0
+TER
+END

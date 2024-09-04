@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0869
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9850
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7977
+HEADER 5  - Mean B-factor of pocket residues  : 0.5348
+HEADER 6  - Hydrophobicity Score              : 35.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 331.2108
+HEADER 10 - Pocket volume (convex hull)       : 9.1735
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1964  ND2 ASN A 257      34.554  12.877  52.932  0.87  3.28           N 0
+ATOM   1705    N ILE A 225      31.553  12.978  53.907  0.00  0.00           N 0
+ATOM   1707    C ILE A 225      31.423  10.549  53.866  0.00  0.00           C 0
+ATOM   1703  CG2 ILE A 224      33.853  15.203  55.905  0.00  0.00           C 0
+ATOM   1713    N ASN A 226      31.285   9.485  54.664  0.00  0.00           N 0
+ATOM   1706   CA ILE A 225      30.720  11.837  54.296  0.00  0.00           C 0
+ATOM   1700    O ILE A 224      30.670  14.462  55.372  0.38  8.57           O 0
+ATOM   1708    O ILE A 225      32.109  10.525  52.828  0.00  0.00           O 0
+ATOM   1963  OD1 ASN A 257      34.761  10.963  51.772  0.60  9.64           O 0
+ATOM   1714   CA ASN A 226      31.866   8.199  54.258  0.00  0.00           C 0
+ATOM   1717   CB ASN A 226      32.048   7.224  55.447  0.00  0.00           C 0
+ATOM   1718   CG ASN A 226      30.735   6.697  56.037  0.00  0.00           C 0
+ATOM   1719  OD1 ASN A 226      30.754   6.057  57.109  0.88  6.43           O 0
+ATOM   1710  CG1 ILE A 225      28.307  10.969  54.335  0.00  0.00           C 0
+ATOM   1720  ND2 ASN A 226      29.614   6.933  55.368  0.64  6.56           N 0
+TER
+END

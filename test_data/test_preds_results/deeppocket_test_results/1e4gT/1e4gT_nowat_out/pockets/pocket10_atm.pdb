@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0217
+HEADER 1  - Drug Score                        : 0.0065
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.1863
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6449
+HEADER 5  - Mean B-factor of pocket residues  : 0.2934
+HEADER 6  - Hydrophobicity Score              : 51.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 366.5741
+HEADER 10 - Pocket volume (convex hull)       : 11.8149
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 19.0000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM   2155   OH TYR T 278       9.603  17.401  69.622  0.31  5.36           O 0
+ATOM   2236  CG2 THR T 289      14.574  17.820  72.398  0.00  0.00           C 0
+ATOM   2235  OG1 THR T 289      12.789  18.590  70.998  0.72  1.07           O 0
+ATOM   2226    O THR T 288      10.466  19.668  73.339  0.00  0.00           O 0
+ATOM   1902    O VAL T 248      10.633  11.765  70.064  0.00  0.00           O 0
+ATOM   2263   CG LYS T 293      16.818  16.265  75.904  0.00  0.00           C 0
+ATOM   2287  CG2 VAL T 296      21.799  13.313  74.908  0.00  0.00           C 0
+ATOM   2286  CG1 VAL T 296      21.008  11.096  74.116  0.00  0.00           C 0
+ATOM   2285   CB VAL T 296      21.196  12.556  73.758  0.00  0.00           C 0
+ATOM   2265   CE LYS T 293      15.451  15.588  77.877  0.00  0.00           C 0
+ATOM   2259   CA LYS T 293      18.516  15.910  74.051  0.00  0.00           C 0
+ATOM   2261    O LYS T 293      18.726  14.491  72.117  0.55  1.07           O 0
+ATOM   1912  CD1 LEU T 249      13.399  14.158  69.162  0.00  0.00           C 0
+ATOM   1904  CG1 VAL T 248      13.589  11.166  70.874  0.00  0.00           C 0
+ATOM   2295  CD1 ILE T 297      16.501  13.029  69.840  0.00  0.00           C 0
+ATOM   2293  CG1 ILE T 297      17.760  12.282  70.271  0.00  0.00           C 0
+ATOM   1911   CG LEU T 249      12.522  15.370  68.982  0.00  0.00           C 0
+ATOM   2264   CD LYS T 293      15.448  15.785  76.366  0.00  0.00           C 0
+ATOM   2262   CB LYS T 293      17.039  16.102  74.403  0.00  0.00           C 0
+TER
+END

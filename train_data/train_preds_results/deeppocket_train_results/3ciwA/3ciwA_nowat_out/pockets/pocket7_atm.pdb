@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.0024
+HEADER 1  - Drug Score                        : 0.0052
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 3.6216
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4200
+HEADER 5  - Mean B-factor of pocket residues  : 0.1547
+HEADER 6  - Hydrophobicity Score              : 14.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.6758
+HEADER 10 - Pocket volume (convex hull)       : 8.7979
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2188
+ATOM    845   NZALYS A 102      34.641  16.678  -1.615  0.81  7.66           N 0
+ATOM    841   CDALYS A 102      33.684  14.353  -1.363  0.00  0.00           C 0
+ATOM   2700    O GLY A 335      36.696  13.731  -3.794  0.73  4.29           O 0
+ATOM    826    O GLY A 100      35.568  17.273   1.139  0.58  4.29           O 0
+ATOM   2695   CG PRO A 334      40.229  16.379  -5.339  0.00  0.00           C 0
+ATOM    427  CD1 ILE A  53      41.335  15.638   0.603  0.00  0.00           C 0
+ATOM   2691   CA PRO A 334      40.905  14.301  -4.513  0.00  0.00           C 0
+ATOM   2710    O ASP A 337      33.910  10.899  -1.788  0.73  1.07           O 0
+ATOM    420    N ILE A  53      40.060  11.609   1.263  0.47  3.28           N 0
+ATOM    837   CBALYS A 102      33.606  13.315   0.975  0.00  0.00           C 0
+ATOM   2698   CA GLY A 335      38.103  11.833  -4.042  0.00  0.00           C 0
+ATOM    416  ND1 HIS A  52      37.939   8.800  -2.183  0.49  2.19           N 0
+ATOM    423    O ILE A  53      38.174  12.195   3.344  0.47  2.14           O 0
+ATOM   2718    O TRP A 338      34.232   7.967   0.940  0.00  0.00           O 0
+ATOM    437  NH1 ARG A  54      36.808   7.680   2.043  0.56  1.09           N 0
+ATOM    414   CB HIS A  52      39.411   8.646  -0.171  0.00  0.00           C 0
+ATOM   2697    N GLY A 335      39.263  12.650  -3.871  0.54  1.09           N 0
+ATOM    832    N LYS A 102      34.632  14.559   2.804  0.00  0.00           N 0
+ATOM    424   CB ILE A  53      40.365  13.855   2.148  0.00  0.00           C 0
+ATOM    425  CG1 ILE A  53      41.438  14.216   1.120  0.00  0.00           C 0
+ATOM   2613   CEAMET A 324      40.227  19.568   0.709  0.00  0.00           C 0
+ATOM   2609   CGAMET A 324      42.532  19.158  -0.500  0.00  0.00           C 0
+ATOM   2611   SDAMET A 324      41.362  20.489  -0.332  0.00  0.00           S 0
+ATOM    824   CA GLY A 100      35.391  19.606   1.577  0.00  0.00           C 0
+TER
+END

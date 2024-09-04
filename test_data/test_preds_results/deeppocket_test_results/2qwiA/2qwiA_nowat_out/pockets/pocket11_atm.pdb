@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0936
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0824
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6188
+HEADER 5  - Mean B-factor of pocket residues  : 0.4890
+HEADER 6  - Hydrophobicity Score              : 58.2222
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 304.7702
+HEADER 10 - Pocket volume (convex hull)       : 8.9600
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1000
+ATOM   2820  CD1 TRP A 438      11.931  11.061  75.227  0.00  0.00           C 0
+ATOM    465    O ILE A 140      10.182   7.797  73.499  0.36  1.07           O 0
+ATOM   3051    O PHE A 467       7.522  11.407  79.712  0.00  0.00           O 0
+ATOM   2822  NE1 TRP A 438      10.779  11.789  75.388  0.59  2.19           N 0
+ATOM    509   OG SER A 145      12.863   7.427  74.597  0.42  4.29           O 0
+ATOM   2787    O LYS A 435      12.338  14.635  81.661  0.00  0.00           O 0
+ATOM   3066  CD2 LEU A 468       9.173  14.932  81.786  0.00  0.00           C 0
+ATOM   3060   CA LEU A 468       7.053  12.656  82.093  0.00  0.00           C 0
+ATOM   3062    O LEU A 468       6.806  10.647  83.363  0.00  0.00           O 0
+ATOM    473    O ARG A 141       8.725   4.671  75.357  0.46  5.36           O 0
+ATOM   2800    N TRP A 437      14.557  12.394  78.421  0.60  1.09           N 0
+ATOM   3063   CB LEU A 468       7.178  13.903  82.968  0.00  0.00           C 0
+ATOM    477   NE ARG A 141       5.565   8.681  76.511  0.66  2.19           N 0
+ATOM    471   CA ARG A 141       7.942   6.346  73.902  0.00  0.00           C 0
+ATOM   2797   CB VAL A 436      12.050  14.095  77.744  0.00  0.00           C 0
+ATOM   2794   CA VAL A 436      12.947  14.094  79.036  0.00  0.00           C 0
+ATOM   2806  CD1 TRP A 437      15.350  10.607  81.199  0.00  0.00           C 0
+ATOM   2804   CB TRP A 437      15.965  10.485  78.732  0.00  0.00           C 0
+TER
+END

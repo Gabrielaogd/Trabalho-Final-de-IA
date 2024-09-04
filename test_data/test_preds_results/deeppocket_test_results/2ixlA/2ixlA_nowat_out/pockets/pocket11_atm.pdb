@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0446
+HEADER 1  - Drug Score                        : 0.0058
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8444
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5435
+HEADER 5  - Mean B-factor of pocket residues  : 0.1837
+HEADER 6  - Hydrophobicity Score              : 8.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.9170
+HEADER 10 - Pocket volume (convex hull)       : 11.6172
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4737
+ATOM     92   NE ARG A  13      11.912  -5.323 -14.067  0.53  5.47           N 0
+ATOM     99    O PRO A  14       8.235  -1.102 -17.142  0.22  9.64           O 0
+ATOM     91   CD ARG A  13      12.474  -4.785 -15.312  0.00  0.00           C 0
+ATOM    867   OH TYR A 109       5.556  -6.603 -14.161  0.00  0.00           O 0
+ATOM     89   CB ARG A  13      11.517  -2.463 -15.077  0.00  0.00           C 0
+ATOM    166  OE1 GLU A  23       7.270  -5.486 -12.377  0.44  2.14           O 0
+ATOM    167  OE2 GLU A  23       8.915  -6.684 -11.556  0.00  0.00           O 0
+ATOM    864  CE1 TYR A 109       3.591  -6.204 -15.478  0.00  0.00           C 0
+ATOM    118  OE2 GLU A  16       5.537  -3.991 -23.299  0.00  0.00           O 0
+ATOM    862  CD1 TYR A 109       2.334  -5.589 -15.639  0.00  0.00           C 0
+ATOM    115   CG GLU A  16       4.747  -2.288 -21.818  0.00  0.00           C 0
+ATOM    104   CA VAL A  15       5.498  -0.755 -16.802  0.00  0.00           C 0
+ATOM    108  CG1 VAL A  15       3.277  -1.825 -16.215  0.00  0.00           C 0
+ATOM    109  CG2 VAL A  15       5.134  -1.746 -14.508  0.00  0.00           C 0
+ATOM    866   CZ TYR A 109       4.318  -5.992 -14.313  0.00  0.00           C 0
+ATOM    119    N ALA A  17       2.279  -0.611 -20.037  0.79  1.09           N 0
+ATOM    123   CB ALA A  17       0.129  -1.784 -19.867  0.00  0.00           C 0
+ATOM    110    N GLU A  16       5.023  -0.723 -19.183  0.62  3.28           N 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0134
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0566
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7264
+HEADER 5  - Mean B-factor of pocket residues  : 0.3264
+HEADER 6  - Hydrophobicity Score              : -3.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 214.8160
+HEADER 10 - Pocket volume (convex hull)       : 5.2282
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1173    O PRO A 145       5.298 -36.328 -27.052  0.53  3.21           O 0
+ATOM   1175   CG PRO A 145       4.173 -38.332 -29.285  0.00  0.00           C 0
+ATOM   1176   CD PRO A 145       3.322 -37.337 -30.058  0.00  0.00           C 0
+ATOM   1404  CD1 LEU A 174       8.796 -38.807 -28.654  0.00  0.00           C 0
+ATOM   1165   CD ARG A 144       3.417 -32.468 -31.336  0.00  0.00           C 0
+ATOM   1164   CG ARG A 144       2.644 -33.466 -30.504  0.00  0.00           C 0
+ATOM   1178   CA GLU A 146       4.592 -33.754 -26.261  0.00  0.00           C 0
+ATOM   1183   CD GLU A 146       5.542 -30.965 -27.403  0.00  0.00           C 0
+ATOM   1184  OE1 GLU A 146       6.437 -31.349 -26.595  0.50  7.50           O 0
+ATOM   1186    N THR A 147       6.664 -33.807 -25.070  0.60  1.09           N 0
+ATOM   1191  OG1 THR A 147       9.189 -35.125 -25.321  0.50  5.36           O 0
+ATOM   1166   NE ARG A 144       3.780 -31.307 -30.527  0.73  1.09           N 0
+ATOM   1185  OE2 GLU A 146       5.768 -30.172 -28.346  0.58  9.64           O 0
+ATOM   2188  NH2 ARG A 268       9.487 -29.316 -33.327  0.00  0.00           N 0
+ATOM   2197  OE2 GLU A 269       5.966 -28.781 -31.463  0.64  1.07           O 0
+ATOM   2196  OE1 GLU A 269       5.418 -29.409 -33.501  0.00  0.00           O 0
+TER
+END

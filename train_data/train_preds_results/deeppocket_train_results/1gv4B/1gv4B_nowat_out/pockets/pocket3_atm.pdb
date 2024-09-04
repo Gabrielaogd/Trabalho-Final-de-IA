@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0183
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8997
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7383
+HEADER 5  - Mean B-factor of pocket residues  : 0.5695
+HEADER 6  - Hydrophobicity Score              : -4.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 225.4631
+HEADER 10 - Pocket volume (convex hull)       : 5.8534
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   1188   CG GLU B 275      12.939 110.464  42.464  0.00  0.00           C 0
+ATOM   1213   OG SER B 278      15.773 107.722  38.408  0.44  8.57           O 0
+ATOM   1190  OE1 GLU B 275      13.498 112.717  41.945  0.00  0.00           O 0
+ATOM   1189   CD GLU B 275      13.838 111.681  42.551  0.00  0.00           C 0
+ATOM   1184   CA GLU B 275      13.743 108.071  42.037  0.00  0.00           C 0
+ATOM   1180    C ALA B 274      12.331 106.395  41.007  0.00  0.00           C 0
+ATOM   1183    N GLU B 275      12.497 107.324  41.919  0.61  2.19           N 0
+ATOM   1182   CB ALA B 274       9.901 106.802  40.377  0.00  0.00           C 0
+ATOM   1181    O ALA B 274      13.232 106.027  40.296  0.75  2.14           O 0
+ATOM   1212   CB SER B 278      15.994 106.919  37.257  0.00  0.00           C 0
+ATOM   1207   NZ LYS B 277      10.305 103.650  38.480  0.00  0.00           N 0
+ATOM   1206   CE LYS B 277      11.465 103.856  39.437  0.00  0.00           C 0
+ATOM   1202    O LYS B 277      16.715 102.988  37.811  0.00  0.00           O 0
+ATOM   1203   CB LYS B 277      14.146 102.600  39.572  0.00  0.00           C 0
+ATOM   1208    N SER B 278      16.359 105.032  38.700  0.00  0.00           N 0
+ATOM   1201    C LYS B 277      16.257 103.712  38.708  0.00  0.00           C 0
+TER
+END

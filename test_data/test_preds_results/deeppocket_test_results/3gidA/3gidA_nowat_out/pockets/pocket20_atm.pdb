@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0222
+HEADER 1  - Drug Score                        : 0.0034
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9581
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5425
+HEADER 5  - Mean B-factor of pocket residues  : 0.3213
+HEADER 6  - Hydrophobicity Score              : 61.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 202.9058
+HEADER 10 - Pocket volume (convex hull)       : 4.6491
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7895
+ATOM   2994  NH1 ARG A 652     -40.720  -7.216  39.502  0.60  9.84           N 0
+ATOM    879  NE1 TRP A 351     -32.663  -6.135  36.828  0.83  8.75           N 0
+ATOM   3210  CE2 PHE A 700     -36.116  -4.581  42.945  0.00  0.00           C 0
+ATOM   2496  CG1 VAL A 587     -36.018  -9.544  36.817  0.00  0.00           C 0
+ATOM    877  CD1 TRP A 351     -33.094  -5.511  35.675  0.00  0.00           C 0
+ATOM   3207  CD1 PHE A 700     -38.198  -3.493  44.421  0.00  0.00           C 0
+ATOM   2995  NH2 ARG A 652     -41.303  -5.636  41.078  0.00  0.00           N 0
+ATOM   3209  CE1 PHE A 700     -37.091  -2.702  44.079  0.00  0.00           C 0
+ATOM   3211   CZ PHE A 700     -36.050  -3.248  43.342  0.00  0.00           C 0
+ATOM   3208  CD2 PHE A 700     -37.226  -5.365  43.291  0.00  0.00           C 0
+ATOM   3224  CE1 HIS A 702     -38.054 -10.374  40.041  0.00  0.00           C 0
+ATOM   2497  CG2 VAL A 587     -34.105  -9.660  38.476  0.00  0.00           C 0
+ATOM    227  CG2 ILE A 270     -31.518  -7.344  41.440  0.00  0.00           C 0
+ATOM   3156   OH TYR A 683     -34.734  -9.607  41.773  0.68  1.07           O 0
+ATOM   2495   CB VAL A 587     -34.512  -9.373  37.011  0.00  0.00           C 0
+ATOM   3206   CG PHE A 700     -38.276  -4.830  44.032  0.00  0.00           C 0
+TER
+END

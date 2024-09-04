@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0244
+HEADER 1  - Drug Score                        : 0.0646
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8848
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6087
+HEADER 5  - Mean B-factor of pocket residues  : 0.6188
+HEADER 6  - Hydrophobicity Score              : 34.1429
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 315.3451
+HEADER 10 - Pocket volume (convex hull)       : 17.0202
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 21.6522
+HEADER 13 - Number of apolar alpha sphere     :    23
+HEADER 14 - Proportion of apolar alpha sphere : 0.9583
+ATOM    278   CG MET A 124      62.525  43.013  12.296  0.00  0.00           C 0
+ATOM    893   CG LYS A 202      64.091  39.004   6.798  0.00  0.00           C 0
+ATOM    892   CB LYS A 202      64.776  40.239   7.354  0.00  0.00           C 0
+ATOM    894   CD LYS A 202      63.940  37.937   7.870  0.00  0.00           C 0
+ATOM    300   CZ PHE A 126      62.879  39.489  15.137  0.00  0.00           C 0
+ATOM    279   SD MET A 124      64.080  42.134  12.535  0.00  0.00           S 0
+ATOM    920   CG ASP A 205      62.715  43.570   2.498  0.00  0.00           C 0
+ATOM    922  OD2 ASP A 205      63.467  42.670   2.075  0.62  8.57           O 0
+ATOM    919   CB ASP A 205      62.876  44.010   3.923  0.00  0.00           C 0
+ATOM    557  CE2 PHE A 160      66.348  38.999  13.160  0.00  0.00           C 0
+ATOM    870  OE1 GLU A 199      66.195  36.543  10.281  0.68  3.21           O 0
+ATOM    280   CE MET A 124      64.894  42.491  10.972  0.00  0.00           C 0
+ATOM    896   NZ LYS A 202      63.139  35.640   8.387  0.43  6.56           N 0
+ATOM    558   CZ PHE A 160      66.777  39.428  11.926  0.00  0.00           C 0
+ATOM    891    O LYS A 202      64.491  43.468   7.047  0.00  0.00           O 0
+ATOM    930   CE MET A 206      60.203  44.748   7.141  0.00  0.00           C 0
+ATOM    889   CA LYS A 202      65.134  41.277   6.286  0.00  0.00           C 0
+ATOM    921  OD1 ASP A 205      61.830  44.150   1.812  0.36  7.50           O 0
+ATOM    929   SD MET A 206      60.509  45.147   8.863  0.00  0.00           S 0
+ATOM    928   CG MET A 206      62.312  45.071   8.919  0.00  0.00           C 0
+TER
+END

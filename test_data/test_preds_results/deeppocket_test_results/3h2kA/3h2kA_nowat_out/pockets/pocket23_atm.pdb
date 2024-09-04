@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0407
+HEADER 1  - Drug Score                        : 0.0030
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1464
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7008
+HEADER 5  - Mean B-factor of pocket residues  : 0.2047
+HEADER 6  - Hydrophobicity Score              : 20.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 337.4085
+HEADER 10 - Pocket volume (convex hull)       : 9.3247
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM   2234   CG PRO A 303      12.874 -16.674   0.808  0.00  0.00           C 0
+ATOM   2233   CB PRO A 303      14.334 -16.342   0.682  0.00  0.00           C 0
+ATOM   1567  CD1 TRP A 219      12.663 -16.492   4.547  0.00  0.00           C 0
+ATOM   1579   CB SER A 220      15.058 -21.568   7.180  0.00  0.00           C 0
+ATOM   2203   OH TYR A 299      11.211 -19.206   7.320  0.97  4.29           O 0
+ATOM   1576   CA SER A 220      14.346 -20.344   7.760  0.00  0.00           C 0
+ATOM   1565   CB TRP A 219      15.034 -16.475   5.551  0.00  0.00           C 0
+ATOM   2195    O TYR A 299       9.610 -16.376   2.524  0.71  1.07           O 0
+ATOM   2201  CE2 TYR A 299       9.447 -19.251   5.700  0.00  0.00           C 0
+ATOM   2205   CA SER A 300       8.468 -17.102   0.178  0.00  0.00           C 0
+ATOM   2199  CD2 TYR A 299       8.433 -18.582   5.005  0.00  0.00           C 0
+ATOM   2208   CB SER A 300       7.554 -18.069  -0.588  0.00  0.00           C 0
+ATOM   1575    N SER A 220      15.045 -19.120   7.369  0.00  0.00           N 0
+ATOM   1542    O LEU A 216      18.409 -16.531   4.510  0.62  9.64           O 0
+ATOM   1580   OG SER A 220      16.341 -21.725   7.764  0.00  0.00           O 0
+ATOM   1550    O ASP A 217      20.233 -18.457   7.041  0.21  7.50           O 0
+ATOM   2207    O SER A 300      10.103 -16.314  -1.389  0.63  3.21           O 0
+TER
+END

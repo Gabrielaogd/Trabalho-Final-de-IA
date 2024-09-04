@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0618
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7051
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4605
+HEADER 5  - Mean B-factor of pocket residues  : 0.7461
+HEADER 6  - Hydrophobicity Score              : 4.2222
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.1922
+HEADER 10 - Pocket volume (convex hull)       : 7.2732
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1880    N ASP B 238      55.955 -44.673  -3.281  0.57  1.09           N 0
+ATOM   1823    O CYS B 229      54.824 -47.761  -8.420  0.65  1.07           O 0
+ATOM   1818    O ASP B 228      57.532 -45.383  -7.732  0.00  0.00           O 0
+ATOM   1840    O ILE B 231      59.307 -48.244  -6.797  0.53  1.07           O 0
+ATOM   1887  OD2 ASP B 238      57.433 -47.740  -1.802  0.50  4.29           O 0
+ATOM   1850    N GLY B 233      59.425 -50.344  -4.253  0.69  5.47           N 0
+ATOM   1851   CA GLY B 233      60.361 -50.052  -3.184  0.00  0.00           C 0
+ATOM   2009  ND2AASN B 251      54.609 -50.558   0.607  0.53  9.84           N 0
+ATOM   1886  OD1 ASP B 238      55.291 -48.195  -1.899  0.41  4.29           O 0
+ATOM   2003   CBAASN B 251      52.755 -50.424  -0.952  0.00  0.00           C 0
+ATOM   2065  NH2 ARG B 259      52.935 -51.079  -7.503  0.50  5.47           N 0
+ATOM   1846   CA ASP B 232      58.779 -50.971  -6.502  0.00  0.00           C 0
+ATOM   1885   CG ASP B 238      56.235 -47.408  -1.671  0.00  0.00           C 0
+ATOM   2064  NH1 ARG B 259      52.494 -52.203  -5.553  0.00  0.00           N 0
+ATOM   1849   CB ASP B 232      58.692 -52.476  -6.767  0.00  0.00           C 0
+ATOM   2001    OAASN B 251      51.688 -53.252  -0.093  0.00  8.57           O 0
+ATOM   1910  CD1 TRP B 241      52.629 -46.801  -5.266  0.00  0.00           C 0
+ATOM   1912  NE1 TRP B 241      52.571 -47.527  -6.431  0.67  1.09           N 0
+TER
+END

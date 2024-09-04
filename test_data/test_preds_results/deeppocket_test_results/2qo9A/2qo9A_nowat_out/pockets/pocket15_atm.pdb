@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0395
+HEADER 1  - Drug Score                        : 0.0043
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.6947
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5436
+HEADER 5  - Mean B-factor of pocket residues  : 0.3509
+HEADER 6  - Hydrophobicity Score              : -4.1667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 119.3696
+HEADER 10 - Pocket volume (convex hull)       : 1.6582
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5238
+ATOM    137  OD2AASP A 624     -16.343  -2.274  43.930  0.50  6.43           O 0
+ATOM    146   CE LYS A 625     -13.885  -3.252  46.867  0.00  0.00           C 0
+ATOM    147   NZ LYS A 625     -13.228  -4.364  46.111  0.61  7.66           N 0
+ATOM    757   OH TYR A 701      -9.961  -0.060  45.662  0.73  8.57           O 0
+ATOM    228   CB SER A 637     -14.341   1.572  46.418  0.00  0.00           C 0
+ATOM    233    O GLY A 638     -15.550   4.053  42.133  0.58  4.29           O 0
+ATOM    230    N GLY A 638     -16.209   3.322  44.633  0.83  1.09           N 0
+ATOM    331   OG SER A 649     -12.181   2.863  39.787  0.00  0.00           O 0
+ATOM    756   CZ TYR A 701     -10.016   1.223  45.147  0.00  0.00           C 0
+ATOM    330   CB SER A 649     -11.890   3.987  40.588  0.00  0.00           C 0
+ATOM    229   OG SER A 637     -15.073   0.379  46.585  0.97  1.07           O 0
+ATOM    755  CE2 TYR A 701      -9.446   1.512  43.923  0.00  0.00           C 0
+ATOM    751   CG TYR A 701     -10.167   3.792  44.168  0.00  0.00           C 0
+ATOM    752  CD1 TYR A 701     -10.719   3.475  45.378  0.00  0.00           C 0
+ATOM    753  CD2 TYR A 701      -9.515   2.790  43.445  0.00  0.00           C 0
+ATOM    754  CE1 TYR A 701     -10.654   2.168  45.871  0.00  0.00           C 0
+TER
+END

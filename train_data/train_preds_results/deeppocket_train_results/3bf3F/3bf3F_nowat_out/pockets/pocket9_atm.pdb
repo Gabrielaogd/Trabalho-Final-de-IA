@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0407
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0209
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5556
+HEADER 5  - Mean B-factor of pocket residues  : 0.1363
+HEADER 6  - Hydrophobicity Score              : 18.1818
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.0909
+HEADER 9  - Pocket volume (Monte Carlo)       : 316.6572
+HEADER 10 - Pocket volume (convex hull)       : 13.7859
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM    853   CB ALA F 104     -25.284 -10.867  34.747  0.00  0.00           C 0
+ATOM    505    O SER F  61     -26.729  -8.471  32.392  0.00  0.00           O 0
+ATOM    709    O VAL F  85     -25.726  -9.699  38.006  0.41  5.36           O 0
+ATOM    826    O SER F 100     -19.200  -5.749  35.677  0.00  0.00           O 0
+ATOM    527   CG PRO F  64     -26.031  -2.920  30.042  0.00  0.00           C 0
+ATOM    832    O GLU F 101     -18.062  -7.742  31.943  0.60  6.43           O 0
+ATOM    722    N ALA F  87     -20.971 -10.067  39.783  0.54  6.56           N 0
+ATOM    714   CA LYS F  86     -23.338  -9.610  39.567  0.00  0.00           C 0
+ATOM    717   CB LYS F  86     -23.417  -8.171  40.099  0.00  0.00           C 0
+ATOM    849    N ALA F 104     -23.224 -10.998  33.373  0.54  3.28           N 0
+ATOM    841    O VAL F 102     -20.202  -9.652  34.221  0.34  7.50           O 0
+ATOM    846   CA GLY F 103     -21.295 -10.684  31.912  0.00  0.00           C 0
+ATOM    509   CA VAL F  62     -26.355  -8.609  29.626  0.00  0.00           C 0
+ATOM    513  CG1 VAL F  62     -24.884 -10.631  29.940  0.00  0.00           C 0
+ATOM    512   CB VAL F  62     -25.500  -9.692  28.906  0.00  0.00           C 0
+ATOM    511    O VAL F  62     -26.112  -7.195  27.698  0.33  7.50           O 0
+ATOM    510    C VAL F  62     -26.808  -7.516  28.659  0.00  0.00           C 0
+ATOM    528   CD PRO F  64     -26.648  -3.852  28.986  0.00  0.00           C 0
+TER
+END

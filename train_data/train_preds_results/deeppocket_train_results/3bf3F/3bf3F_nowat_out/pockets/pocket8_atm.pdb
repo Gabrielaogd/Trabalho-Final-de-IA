@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0378
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9963
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6991
+HEADER 5  - Mean B-factor of pocket residues  : 0.4773
+HEADER 6  - Hydrophobicity Score              : 17.2500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 264.1994
+HEADER 10 - Pocket volume (convex hull)       : 9.1161
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM    222   NE ARG F  25     -34.824 -23.260  29.697  0.00  0.00           N 0
+ATOM    218    O ARG F  25     -40.441 -22.835  29.200  0.00  0.00           O 0
+ATOM    220   CG ARG F  25     -36.945 -24.195  30.830  0.00  0.00           C 0
+ATOM    219   CB ARG F  25     -37.574 -22.835  30.544  0.00  0.00           C 0
+ATOM    247   NE ARG F  27     -33.826 -19.073  24.277  0.56  2.19           N 0
+ATOM    248   CZ ARG F  27     -34.165 -19.490  23.062  0.00  0.00           C 0
+ATOM    225  NH2 ARG F  25     -33.100 -22.020  28.757  0.50  6.56           N 0
+ATOM    249  NH1 ARG F  27     -35.424 -19.831  22.797  0.77  5.47           N 0
+ATOM   1686   CA GLY F 216     -29.364 -22.098  23.364  0.00  0.00           C 0
+ATOM    250  NH2 ARG F  27     -33.247 -19.552  22.110  0.59  4.37           N 0
+ATOM   1688    O GLY F 216     -29.824 -23.177  21.291  0.38  8.57           O 0
+ATOM    246   CD ARG F  27     -34.750 -18.975  25.401  0.00  0.00           C 0
+ATOM    244   CB ARG F  27     -37.205 -18.568  25.172  0.00  0.00           C 0
+ATOM    228    C TRP F  26     -39.123 -19.175  27.888  0.00  0.00           C 0
+ATOM    217    C ARG F  25     -39.795 -22.038  29.888  0.00  0.00           C 0
+ATOM    240    N ARG F  27     -39.195 -18.836  26.604  0.68  3.28           N 0
+ATOM    229    O TRP F  26     -38.250 -18.752  28.644  0.00  0.00           O 0
+ATOM    227   CA TRP F  26     -40.188 -20.135  28.403  0.00  0.00           C 0
+TER
+END

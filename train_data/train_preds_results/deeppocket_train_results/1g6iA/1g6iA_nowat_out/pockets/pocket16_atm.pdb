@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0173
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9729
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5628
+HEADER 5  - Mean B-factor of pocket residues  : 0.3514
+HEADER 6  - Hydrophobicity Score              : 8.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 183.7544
+HEADER 10 - Pocket volume (convex hull)       : 3.3173
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM   2345   CB GLU A 324     -24.286  54.274 -18.076  0.00  0.00           C 0
+ATOM   2388   CB GLN A 330     -29.668  58.490 -21.775  0.00  0.00           C 0
+ATOM   2355   CG GLN A 325     -25.604  52.501 -22.084  0.00  0.00           C 0
+ATOM   2349  OE2 GLU A 324     -26.094  53.203 -16.351  0.58  6.43           O 0
+ATOM   2350    N GLN A 325     -23.564  54.573 -21.284  0.37  1.09           N 0
+ATOM   2387    O GLN A 330     -26.489  59.002 -20.977  0.55  4.29           O 0
+ATOM   2384    N GLN A 330     -27.725  57.991 -23.166  0.76  3.28           N 0
+ATOM   2347   CD GLU A 324     -25.544  54.224 -15.888  0.00  0.00           C 0
+ATOM   2346   CG GLU A 324     -24.445  54.889 -16.698  0.00  0.00           C 0
+ATOM   2397    N SER A 332     -26.909  60.586 -17.561  0.00  0.00           N 0
+ATOM   2392    O LEU A 331     -28.817  61.574 -18.228  0.41  7.50           O 0
+ATOM   2391    C LEU A 331     -27.665  61.209 -18.461  0.00  0.00           C 0
+ATOM   2398   CA SER A 332     -27.403  60.306 -16.216  0.00  0.00           C 0
+ATOM   2401   CB SER A 332     -26.724  59.065 -15.642  0.00  0.00           C 0
+ATOM   2348  OE1 GLU A 324     -25.858  54.718 -14.786  0.50  9.64           O 0
+TER
+END

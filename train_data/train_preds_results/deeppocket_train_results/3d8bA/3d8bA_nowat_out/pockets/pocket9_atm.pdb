@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0326
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8788
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6224
+HEADER 5  - Mean B-factor of pocket residues  : 0.0497
+HEADER 6  - Hydrophobicity Score              : 24.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 129.2607
+HEADER 10 - Pocket volume (convex hull)       : 1.4446
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM    955  CE2 PHE A 498     -54.380  -2.221   8.133  0.00  0.00           C 0
+ATOM    953  CD2 PHE A 498     -54.540  -1.677   6.863  0.00  0.00           C 0
+ATOM    696   CBASER A 464     -52.117   1.251   4.866  0.00  0.00           C 0
+ATOM    583  CG2 THR A 448     -50.408  -2.443   7.992  0.00  0.00           C 0
+ATOM    969   CB ASP A 500     -55.996   0.559  10.699  0.00  0.00           C 0
+ATOM    695    O SER A 464     -53.049   4.295   4.761  0.46  7.50           O 0
+ATOM    694    C SER A 464     -53.689   3.255   4.872  0.00  0.00           C 0
+ATOM    698   OGASER A 464     -50.965   2.058   5.004  0.78  7.50           O 0
+ATOM    713   OG SER A 466     -54.940   4.434  11.166  0.67  9.64           O 0
+ATOM    700    N ILE A 465     -54.806   3.187   5.579  0.00  0.00           N 0
+ATOM    703    O ILE A 465     -56.715   2.877   7.547  0.00  0.00           O 0
+ATOM    702    C ILE A 465     -56.089   3.943   7.498  0.00  0.00           C 0
+ATOM    701   CA ILE A 465     -55.328   4.361   6.253  0.00  0.00           C 0
+ATOM    972  OD2 ASP A 500     -54.309   0.102  12.311  0.65  5.36           O 0
+ATOM    582  OG1 THR A 448     -51.529  -2.949  10.068  0.56  3.21           O 0
+ATOM    708    N SER A 466     -56.005   4.766   8.533  0.00  0.00           N 0
+TER
+END

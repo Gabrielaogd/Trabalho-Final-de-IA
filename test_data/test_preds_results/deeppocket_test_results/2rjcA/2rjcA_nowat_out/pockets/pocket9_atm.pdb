@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1105
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9102
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5200
+HEADER 5  - Mean B-factor of pocket residues  : 0.5540
+HEADER 6  - Hydrophobicity Score              : 18.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 287.2691
+HEADER 10 - Pocket volume (convex hull)       : 22.9088
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1739
+ATOM   2024   CE LYS A 454      40.810  11.934  53.081  0.00  0.00           C 0
+ATOM   2025   NZ LYS A 454      39.661  12.312  52.217  0.00  0.00           N 0
+ATOM    110   CB ALA A 217      42.228   8.851  54.302  0.00  0.00           C 0
+ATOM     91    O GLN A 215      39.127   7.650  56.676  0.58  6.43           O 0
+ATOM   2006   CG ASN A 452      38.407   6.522  48.386  0.00  0.00           C 0
+ATOM    100    O LYS A 216      41.392   5.524  55.657  0.00  0.00           O 0
+ATOM   2008  ND2 ASN A 452      38.122   5.243  48.449  0.65  8.75           N 0
+ATOM   2007  OD1 ASN A 452      37.568   7.370  48.068  0.54  8.57           O 0
+ATOM   2004    O ASN A 452      41.825   8.988  49.550  0.81  2.14           O 0
+ATOM     92   CB GLN A 215      39.706  10.624  56.910  0.00  0.00           C 0
+ATOM     95  OE1 GLN A 215      36.939  11.505  56.457  0.46  7.50           O 0
+ATOM   2005   CB ASN A 452      39.853   6.908  48.706  0.00  0.00           C 0
+ATOM    116  CG1 ILE A 218      46.103   6.397  50.907  0.00  0.00           C 0
+ATOM   2003    C ASN A 452      41.704   8.634  48.361  0.00  0.00           C 0
+ATOM   1997    O VAL A 451      41.396   5.739  46.381  0.63  7.50           O 0
+ATOM    111    N ILE A 218      44.860   7.757  53.329  0.62  1.09           N 0
+ATOM    117  CG2 ILE A 218      47.039   5.594  53.170  0.00  0.00           C 0
+ATOM    107   CA ALA A 217      42.972   7.624  54.809  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0331
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9999
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5795
+HEADER 5  - Mean B-factor of pocket residues  : 0.4144
+HEADER 6  - Hydrophobicity Score              : 8.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.0483
+HEADER 10 - Pocket volume (convex hull)       : 4.9086
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM    630  CD1 ILE A  80      25.429  16.081  70.260  0.00  0.00           C 0
+ATOM    618    O ASP A  79      27.359  15.060  68.204  0.00  0.00           O 0
+ATOM    693   CB THR A  90      22.670  21.041  67.725  0.00  0.00           C 0
+ATOM    694  OG1 THR A  90      23.035  21.191  69.109  0.08  6.43           O 0
+ATOM    615    N ASP A  79      24.995  15.453  65.820  0.72  2.19           N 0
+ATOM    622  OD2 ASP A  79      27.599  16.099  63.147  0.52  9.64           O 0
+ATOM    601    O GLN A  77      22.369  17.432  62.786  0.56  1.07           O 0
+ATOM    713   OG SER A  92      24.049  19.004  60.938  0.70  1.07           O 0
+ATOM    619   CB ASP A  79      27.443  15.512  65.468  0.00  0.00           C 0
+ATOM    692    O THR A  90      21.898  18.711  65.816  0.55  1.07           O 0
+ATOM    689    N THR A  90      21.410  19.040  68.506  0.00  0.00           N 0
+ATOM    712   CB SER A  92      23.788  20.358  61.245  0.00  0.00           C 0
+ATOM    695  CG2 THR A  90      22.465  22.433  67.138  0.00  0.00           C 0
+TER
+END

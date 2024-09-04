@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.1000
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0854
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.8111
+HEADER 5  - Mean B-factor of pocket residues  : 0.3182
+HEADER 6  - Hydrophobicity Score              : 6.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 351.7906
+HEADER 10 - Pocket volume (convex hull)       : 16.1481
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3500
+ATOM     81   CD GLU D  12      18.983  10.233  17.440  0.00  0.00           C 0
+ATOM    268    O GLU D  36      14.180   9.653  21.915  0.58  9.64           O 0
+ATOM     83  OE2 GLU D  12      18.424   9.336  18.107  0.68  4.29           O 0
+ATOM     82  OE1 GLU D  12      19.575  11.206  17.961  0.52  5.36           O 0
+ATOM    287   CG ARG D  38      15.435   7.547  14.996  0.00  0.00           C 0
+ATOM     80   CG GLU D  12      18.942  10.134  15.925  0.00  0.00           C 0
+ATOM    269   CB GLU D  36      11.646  11.580  22.132  0.00  0.00           C 0
+ATOM    270   CG GLU D  36      10.705  11.639  20.967  0.00  0.00           C 0
+ATOM    272  OE1 GLU D  36      11.076  13.973  20.573  0.00  0.00           O 0
+ATOM     56  CD1 LEU D   9      19.966  14.608  16.086  0.00  0.00           C 0
+ATOM    271   CD GLU D  36      10.223  13.067  20.743  0.00  0.00           C 0
+ATOM    277    O MET D  37      11.574   7.859  18.396  0.00  0.00           O 0
+ATOM    273  OE2 GLU D  36       8.994  13.283  20.748  0.00  0.00           O 0
+ATOM    293    N ASP D  39      10.960   6.651  15.615  0.44  3.28           N 0
+ATOM    300  OD2 ASP D  39       9.300   8.076  13.036  0.46  7.50           O 0
+ATOM    297   CB ASP D  39       8.635   6.724  14.883  0.00  0.00           C 0
+ATOM    283   CA ARG D  38      13.234   7.154  16.272  0.00  0.00           C 0
+ATOM    282    N ARG D  38      13.649   7.366  17.653  0.57  2.19           N 0
+ATOM    276    C MET D  37      12.779   7.688  18.610  0.00  0.00           C 0
+ATOM    267    C GLU D  36      12.972   9.458  21.809  0.00  0.00           C 0
+ATOM    274    N MET D  37      12.470   8.591  20.929  0.00  0.00           N 0
+ATOM    275   CA MET D  37      13.360   7.859  20.021  0.00  0.00           C 0
+TER
+END

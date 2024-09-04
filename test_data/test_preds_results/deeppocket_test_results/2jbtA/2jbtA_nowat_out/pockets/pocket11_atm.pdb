@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0557
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9018
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4742
+HEADER 5  - Mean B-factor of pocket residues  : 0.6842
+HEADER 6  - Hydrophobicity Score              : 13.1667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 207.5982
+HEADER 10 - Pocket volume (convex hull)       : 6.5203
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1238   CB ASN A 184      19.872  67.535  90.051  0.00  0.00           C 0
+ATOM   1240  OD1 ASN A 184      20.912  65.900  91.417  0.45  5.36           O 0
+ATOM    982    O PRO A 150      25.183  66.650  91.720  0.22  4.29           O 0
+ATOM   1000    O GLY A 152      25.282  70.922  90.823  0.37  7.50           O 0
+ATOM   1237    O ASN A 184      20.035  70.294  88.930  0.53  1.07           O 0
+ATOM   1259  CD1 PHE A 186      17.129  71.341  91.539  0.00  0.00           C 0
+ATOM   1015  CG1 VAL A 154      22.237  72.348  88.443  0.00  0.00           C 0
+ATOM   1013    O VAL A 154      21.236  75.962  89.554  0.39  8.57           O 0
+ATOM   1261  CE1 PHE A 186      18.046  70.658  92.328  0.00  0.00           C 0
+ATOM   1263   CZ PHE A 186      17.601  69.670  93.204  0.00  0.00           C 0
+ATOM   1010    N VAL A 154      23.643  74.291  89.694  0.54  1.09           N 0
+ATOM   1008   CE LYS A 153      25.333  74.302  95.173  0.00  0.00           C 0
+ATOM   1009   NZ LYS A 153      24.463  75.370  95.731  0.64  9.84           N 0
+ATOM   1002   CA LYS A 153      25.511  73.701  91.109  0.00  0.00           C 0
+TER
+END

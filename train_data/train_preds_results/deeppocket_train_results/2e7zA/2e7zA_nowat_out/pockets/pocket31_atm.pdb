@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0905
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.2991
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7332
+HEADER 5  - Mean B-factor of pocket residues  : 0.2993
+HEADER 6  - Hydrophobicity Score              : 34.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 284.2754
+HEADER 10 - Pocket volume (convex hull)       : 4.3533
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM   3783   CBAVAL A 321      52.072  51.030   3.266  0.00  0.00           C 0
+ATOM   3785  CG1AVAL A 321      52.184  50.141   4.512  0.00  0.00           C 0
+ATOM   5687    OAPHE A 548      55.312  46.184   5.420  0.46  9.64           O 0
+ATOM   3781    OAVAL A 321      53.627  52.854   1.598  0.32  5.36           O 0
+ATOM   5703    NAGLY A 549      57.249  46.736   6.394  0.66  1.09           N 0
+ATOM   5705   CAAGLY A 549      58.024  46.078   5.336  0.00  0.00           C 0
+ATOM   3777   CAAVAL A 321      52.377  52.516   3.624  0.00  0.00           C 0
+ATOM   5671  CD2ATYR A 547      56.084  52.238  11.400  0.00  0.00           C 0
+ATOM   5695  CD2APHE A 548      53.115  50.260   8.147  0.00  0.00           C 0
+ATOM   5681    NAPHE A 548      55.949  48.067   8.491  0.00  0.00           N 0
+ATOM   5665   CBATYR A 547      55.445  49.855  10.830  0.00  0.00           C 0
+ATOM   5685    CAPHE A 548      55.923  46.705   6.346  0.00  0.00           C 0
+ATOM   3759    OAPHE A 320      52.630  53.201   6.267  0.45  6.43           O 0
+ATOM   5657    NATYR A 547      57.772  49.195  10.371  0.40  2.19           N 0
+ATOM   5653  OD1AASP A 546      59.645  48.289   7.537  0.00  0.00           O 0
+ATOM   5637    O PRO A 545      59.572  51.419  11.377  0.00  0.00           O 0
+ATOM   5689   CBAPHE A 548      54.048  48.261   6.940  0.00  0.00           C 0
+TER
+END

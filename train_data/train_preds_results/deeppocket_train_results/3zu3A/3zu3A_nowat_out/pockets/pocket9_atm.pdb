@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0308
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7901
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5155
+HEADER 5  - Mean B-factor of pocket residues  : 0.2716
+HEADER 6  - Hydrophobicity Score              : 3.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 248.2173
+HEADER 10 - Pocket volume (convex hull)       : 10.8590
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   1277   CAAVAL A 164     -18.365 -40.042 -15.356  0.00  0.00           C 0
+ATOM   1283  CG1AVAL A 164     -16.360 -41.442 -15.959  0.00  0.00           C 0
+ATOM   1287    N ASN A 165     -19.082 -42.250 -14.663  0.00  0.00           N 0
+ATOM   1274    O ALA A 163     -20.006 -38.448 -16.940  0.00  0.00           O 0
+ATOM   1267   CB ASN A 162     -20.005 -36.009 -19.790  0.00  0.00           C 0
+ATOM   1285  CG2AVAL A 164     -16.458 -39.035 -16.647  0.00  0.00           C 0
+ATOM   1850  OD2 ASP A 233     -14.599 -41.871 -19.373  0.00  0.00           O 0
+ATOM   1849  OD1 ASP A 233     -13.621 -40.216 -20.441  0.00  0.00           O 0
+ATOM   1266    O ASN A 162     -18.065 -35.820 -17.219  0.00  0.00           O 0
+ATOM   1254    O ILE A 160     -15.363 -33.738 -19.515  0.28  9.64           O 0
+ATOM   1846    O ASP A 233     -11.734 -37.743 -17.059  0.62  1.07           O 0
+ATOM   1248   CB PRO A 159     -14.874 -36.099 -15.625  0.00  0.00           C 0
+ATOM   1270  ND2 ASN A 162     -19.649 -35.109 -22.009  0.00  0.00           N 0
+ATOM   1263    N ASN A 162     -18.606 -34.059 -19.355  0.62  1.09           N 0
+ATOM   1888    O ASN A 237     -10.686 -34.317 -19.505  0.79  3.21           O 0
+ATOM   1889   CB ASN A 237      -9.734 -36.271 -21.407  0.00  0.00           C 0
+TER
+END

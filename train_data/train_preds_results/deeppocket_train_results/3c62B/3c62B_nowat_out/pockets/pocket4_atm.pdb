@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0082
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8717
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7022
+HEADER 5  - Mean B-factor of pocket residues  : 0.1743
+HEADER 6  - Hydrophobicity Score              : 13.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 176.7434
+HEADER 10 - Pocket volume (convex hull)       : 1.1267
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM    187    O GLN B  25      -5.259 -23.117  -2.204  0.00  0.00           O 0
+ATOM    216  OD2 ASP B  28      -3.395 -27.550  -0.543  0.00  0.00           O 0
+ATOM    213   CB ASP B  28      -4.530 -25.750   0.482  0.00  0.00           C 0
+ATOM    185   CA GLN B  25      -7.554 -23.290  -1.531  0.00  0.00           C 0
+ATOM    125  CG1 VAL B  16      -4.663 -25.073  -5.957  0.00  0.00           C 0
+ATOM    188   CB GLN B  25      -8.432 -23.287  -2.777  0.00  0.00           C 0
+ATOM    189   CG GLN B  25      -9.534 -24.313  -2.717  0.00  0.00           C 0
+ATOM    182    O ALA B  24      -6.826 -23.397   1.132  0.00  0.00           O 0
+ATOM    215  OD1 ASP B  28      -4.464 -27.921   1.324  0.00  0.00           O 0
+ATOM    183   CB ALA B  24      -9.996 -23.202   2.130  0.00  0.00           C 0
+ATOM    184    N GLN B  25      -8.317 -22.759  -0.417  0.00  0.00           N 0
+ATOM    181    C ALA B  24      -7.892 -22.865   0.832  0.00  0.00           C 0
+ATOM    214   CG ASP B  28      -4.103 -27.178   0.409  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.1040
+HEADER 1  - Drug Score                        : 0.0036
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8849
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3794
+HEADER 5  - Mean B-factor of pocket residues  : 0.4605
+HEADER 6  - Hydrophobicity Score              : -20.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 376.6617
+HEADER 10 - Pocket volume (convex hull)       : 16.4471
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3077
+ATOM      4    O MET A 110      36.557  33.582  38.747  0.52  5.36           O 0
+ATOM    634   NE ARG A 191      34.838  36.361  41.957  0.56  2.19           N 0
+ATOM    633   CD ARG A 191      34.381  35.333  42.886  0.00  0.00           C 0
+ATOM      8   CE MET A 110      39.729  30.362  40.831  0.00  0.00           C 0
+ATOM    641    O ASP A 192      32.747  30.437  43.174  0.57  5.36           O 0
+ATOM      2   CA MET A 110      37.318  31.381  38.136  0.00  0.00           C 0
+ATOM      3    C MET A 110      36.604  32.715  37.867  0.00  0.00           C 0
+ATOM    638    N ASP A 192      31.074  31.790  41.302  0.00  0.00           N 0
+ATOM      7   SD MET A 110      39.261  29.253  39.503  0.00  0.00           S 0
+ATOM      1    N MET A 110      36.826  30.289  37.255  0.00  7.66           N 0
+ATOM    632   CG ARG A 191      33.429  34.403  42.195  0.00  0.00           C 0
+ATOM    642   CB ASP A 192      31.045  29.374  40.824  0.00  0.00           C 0
+ATOM     12    O ASP A 111      33.310  33.121  36.646  0.10  9.64           O 0
+ATOM    645  OD2 ASP A 192      30.338  28.711  38.583  0.59  6.43           O 0
+ATOM    649    O ARG A 193      33.632  28.844  45.746  0.59  5.36           O 0
+ATOM    660    O PRO A 194      36.502  30.637  47.192  0.00  0.00           O 0
+ATOM    678    O GLU A 196      37.108  26.137  47.345  0.00  0.00           O 0
+ATOM    658   CA PRO A 194      34.541  31.384  46.103  0.00  0.00           C 0
+ATOM    661   CB PRO A 194      34.509  32.911  46.197  0.00  0.00           C 0
+TER
+END

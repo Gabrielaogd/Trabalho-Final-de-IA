@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0101
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9662
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7304
+HEADER 5  - Mean B-factor of pocket residues  : 0.0543
+HEADER 6  - Hydrophobicity Score              : 18.3750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 227.1872
+HEADER 10 - Pocket volume (convex hull)       : 5.0221
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   3736    N ARG A 477      19.578 -16.663   5.010  0.69  1.09           N 0
+ATOM   3747    N ALA A 478      16.146 -17.198   4.771  0.00  0.00           N 0
+ATOM   3738    C ARG A 477      17.159 -16.628   5.389  0.00  0.00           C 0
+ATOM   3725    N ARG A 476      21.514 -15.018   3.580  0.00  0.00           N 0
+ATOM   3739    O ARG A 477      17.077 -15.522   5.930  0.77  2.14           O 0
+ATOM   3720  CD2 LEU A 474      17.733  -9.138   4.922  0.00  0.00           C 0
+ATOM   3748   CA ALA A 478      14.849 -16.568   4.650  0.00  0.00           C 0
+ATOM   3758   CD PRO A 479      12.816 -14.487   5.271  0.00  0.00           C 0
+ATOM   3700   CD ARG A 472      14.975 -10.877   7.517  0.00  0.00           C 0
+ATOM   3721    N GLY A 475      20.837 -12.399   3.040  0.73  5.47           N 0
+ATOM   3708    O LEU A 473      19.801 -13.887   5.569  0.38  1.07           O 0
+ATOM   3703  NH1 ARG A 472      14.244  -8.752   5.794  0.62  5.47           N 0
+ATOM   3727    C ARG A 476      20.593 -17.239   4.380  0.00  0.00           C 0
+ATOM   3728    O ARG A 476      20.588 -18.430   4.121  0.00  0.00           O 0
+ATOM   3723    C GLY A 475      22.098 -14.499   2.502  0.00  0.00           C 0
+ATOM   3724    O GLY A 475      22.838 -15.148   1.746  0.00  0.00           O 0
+ATOM   3714   CA LEU A 474      20.050 -11.213   5.005  0.00  0.00           C 0
+TER
+END

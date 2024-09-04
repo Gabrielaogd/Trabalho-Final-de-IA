@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0295
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8772
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6355
+HEADER 5  - Mean B-factor of pocket residues  : 0.2170
+HEADER 6  - Hydrophobicity Score              : -8.8000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 169.9464
+HEADER 10 - Pocket volume (convex hull)       : 4.5781
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4545
+ATOM    593   CB PRO A  95      13.942  14.457  29.518  0.00  0.00           C 0
+ATOM   1188   CA PRO A 168      10.044  12.410  29.044  0.00  0.00           C 0
+ATOM    594   CG PRO A  95      13.202  15.756  29.645  0.00  0.00           C 0
+ATOM   1177   CE LYS A 166      15.604  14.318  26.299  0.00  0.00           C 0
+ATOM   1175   CG LYS A 166      14.957  11.887  26.268  0.00  0.00           C 0
+ATOM   1176   CD LYS A 166      15.459  13.065  25.446  0.00  0.00           C 0
+ATOM   1540   OG SER A 213      13.546  11.187  20.828  0.68  8.57           O 0
+ATOM   1174   CB LYS A 166      15.069  10.589  25.455  0.00  0.00           C 0
+ATOM   1191   CB PRO A 168       8.704  12.608  28.324  0.00  0.00           C 0
+ATOM   1173    O LYS A 166      12.506   9.315  25.940  0.58  1.07           O 0
+ATOM   1541    N VAL A 214      10.360   9.152  22.549  0.00  0.00           N 0
+ATOM   1544    O VAL A 214       8.235  11.064  22.147  0.00  0.00           O 0
+ATOM   1539   CB SER A 213      12.429  10.371  20.590  0.00  0.00           C 0
+ATOM   1187    N PRO A 168      10.390  11.022  28.727  0.00  0.00           N 0
+ATOM   1193   CD PRO A 168       9.251  10.288  28.141  0.00  0.00           C 0
+ATOM   1545   CB VAL A 214       8.622   8.839  24.296  0.00  0.00           C 0
+TER
+END

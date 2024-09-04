@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1863
+HEADER 1  - Drug Score                        : 0.0069
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0920
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6653
+HEADER 5  - Mean B-factor of pocket residues  : 0.1103
+HEADER 6  - Hydrophobicity Score              : 36.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 331.7188
+HEADER 10 - Pocket volume (convex hull)       : 18.3225
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7778
+ATOM   1096    O CYS D 139      66.395  14.029 -25.242  0.00  0.00           O 0
+ATOM    649  NE2 HIS D  84      63.589  11.680 -27.032  0.57  1.09           N 0
+ATOM   1080    O ALA D 137      67.032   9.848 -23.848  0.27  5.36           O 0
+ATOM    647  CD2 HIS D  84      62.497  12.373 -26.567  0.00  0.00           C 0
+ATOM   1100   CA TYR D 140      66.414  15.909 -23.244  0.00  0.00           C 0
+ATOM   1111    NALYS D 141      64.810  17.632 -23.744  0.00  0.00           N 0
+ATOM   2342  CD1 ILE D 307      66.575  18.050 -19.201  0.00  0.00           C 0
+ATOM   1106  CD2 TYR D 140      66.294  13.376 -20.841  0.00  0.00           C 0
+ATOM   2317   CA PRO D 304      65.517  14.627 -16.086  0.00  0.00           C 0
+ATOM   2320   CB PRO D 304      64.590  13.410 -16.143  0.00  0.00           C 0
+ATOM   1103   CB TYR D 140      66.666  15.702 -21.750  0.00  0.00           C 0
+ATOM   1108  CE2 TYR D 140      66.734  12.092 -20.526  0.00  0.00           C 0
+ATOM   2341  CG2 ILE D 307      64.828  19.860 -17.466  0.00  0.00           C 0
+ATOM   2339   CB ILE D 307      65.929  18.958 -16.898  0.00  0.00           C 0
+ATOM   2319    O PRO D 304      64.866  16.393 -14.585  0.38  1.07           O 0
+ATOM   1117    OALYS D 141      64.260  19.473 -21.664  0.64  7.50           O 0
+ATOM   1119   CBALYS D 141      62.885  18.979 -24.424  0.00  0.00           C 0
+ATOM    657  CD2 LEU D  85      63.669  15.994 -27.793  0.00  0.00           C 0
+ATOM    643    O HIS D  84      60.348  15.311 -27.949  0.54  5.36           O 0
+TER
+END

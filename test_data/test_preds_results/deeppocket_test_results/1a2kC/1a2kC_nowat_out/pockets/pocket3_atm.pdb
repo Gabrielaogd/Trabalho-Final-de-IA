@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1077
+HEADER 1  - Drug Score                        : 0.1439
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 4.0886
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5437
+HEADER 5  - Mean B-factor of pocket residues  : 0.8351
+HEADER 6  - Hydrophobicity Score              : 57.1667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 282.6092
+HEADER 10 - Pocket volume (convex hull)       : 8.5520
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1552    C LEU C 201      68.936 -12.723  62.538  0.00  0.00           C 0
+ATOM   1565    N VAL C 203      68.247 -13.504  59.105  0.00  0.00           N 0
+ATOM   1569   CB VAL C 203      65.909 -13.525  58.340  0.00  0.00           C 0
+ATOM   1568    O VAL C 203      68.097 -11.364  57.364  0.00  0.00           O 0
+ATOM   1551   CA LEU C 201      67.697 -13.152  63.324  0.00  0.00           C 0
+ATOM   1069  NH2 ARG C 140      63.939  -7.189  63.379  0.00  0.00           N 0
+ATOM   1553    O LEU C 201      69.674 -11.793  62.862  0.66  6.43           O 0
+ATOM   1554   CB LEU C 201      67.297 -12.175  64.442  0.00  0.00           C 0
+ATOM   1068  NH1 ARG C 140      63.734  -5.839  61.544  0.00  0.00           N 0
+ATOM   1067   CZ ARG C 140      63.279  -6.850  62.274  0.00  0.00           C 0
+ATOM   1066   NE ARG C 140      62.190  -7.522  61.935  0.00  0.00           N 0
+ATOM   1050   CA HIS C 139      59.252  -8.370  56.538  0.00  0.00           C 0
+ATOM   1065   CD ARG C 140      61.339  -7.335  60.775  0.00  0.00           C 0
+ATOM   1041    O PHE C 138      59.757 -11.114  55.853  0.65  8.57           O 0
+ATOM   1570  CG1 VAL C 203      64.984 -13.617  57.140  0.00  0.00           C 0
+ATOM   1036  CG1 VAL C 137      62.352 -10.741  62.091  0.00  0.00           C 0
+ATOM   1037  CG2 VAL C 137      62.526 -13.107  61.347  0.00  0.00           C 0
+ATOM   1035   CB VAL C 137      61.903 -11.759  61.042  0.00  0.00           C 0
+ATOM   1040    C PHE C 138      59.048 -10.833  56.810  0.00  0.00           C 0
+ATOM   1049    N HIS C 139      58.826  -9.595  57.194  0.00  0.00           N 0
+ATOM   1034    O VAL C 137      60.439 -13.228  58.996  0.71  1.07           O 0
+TER
+END

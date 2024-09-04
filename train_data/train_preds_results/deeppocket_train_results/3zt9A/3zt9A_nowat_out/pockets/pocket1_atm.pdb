@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.4012
+HEADER 1  - Drug Score                        : 0.0239
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.7342
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4849
+HEADER 5  - Mean B-factor of pocket residues  : 0.2556
+HEADER 6  - Hydrophobicity Score              : 10.2500
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 262.7967
+HEADER 10 - Pocket volume (convex hull)       : 16.2487
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.3571
+ATOM   1424  CD1 LEU A  95      23.337  -1.499  96.353  0.00  0.00           C 0
+ATOM   2072   NZ LYS A 136      31.795  -1.687  94.687  0.00  0.00           N 0
+ATOM   1468  OE1 GLN A  97      28.200  -3.325  91.650  0.00  0.00           O 0
+ATOM   2070   CD LYS A 136      30.729   0.488  94.207  0.00  0.00           C 0
+ATOM   1401  OE1 GLN A  93      21.276  -5.199  96.116  0.08  8.57           O 0
+ATOM   1303  NH1 ARG A  88      23.742  -4.904  90.506  0.42  5.47           N 0
+ATOM   1466   CG GLN A  97      28.014  -1.047  90.889  0.00  0.00           C 0
+ATOM   2071   CE LYS A 136      31.381  -0.747  93.623  0.00  0.00           C 0
+ATOM   1422   CB LEU A  95      22.950   0.144  94.498  0.00  0.00           C 0
+ATOM   1425  CD2 LEU A  95      23.338   0.996  96.812  0.00  0.00           C 0
+ATOM   1341  OD2 ASP A  90      20.938  -4.353  93.158  0.31  1.07           O 0
+ATOM   1421    O LEU A  95      21.770   0.710  91.647  0.77  1.07           O 0
+ATOM   1297    O ARG A  88      23.793  -0.171  88.170  0.00  0.00           O 0
+ATOM   1438   CA TRP A  96      24.082   1.854  90.639  0.00  0.00           C 0
+ATOM   1440    O TRP A  96      26.308   2.101  91.584  0.00  0.00           O 0
+ATOM   2089    O GLY A 137      24.730   3.800  94.050  0.78  1.07           O 0
+ATOM   2068   CB LYS A 136      29.728   2.698  93.606  0.00  0.00           C 0
+ATOM   1439    C TRP A  96      25.608   1.707  90.635  0.00  0.00           C 0
+ATOM   1420    C LEU A  95      22.488   1.320  92.418  0.00  0.00           C 0
+ATOM   1461    N GLN A  97      26.113   1.052  89.589  0.00  0.00           N 0
+TER
+END

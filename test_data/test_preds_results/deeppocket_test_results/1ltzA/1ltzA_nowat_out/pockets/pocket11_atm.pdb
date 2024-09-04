@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0194
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9496
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5712
+HEADER 5  - Mean B-factor of pocket residues  : 0.1269
+HEADER 6  - Hydrophobicity Score              : 40.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 263.8248
+HEADER 10 - Pocket volume (convex hull)       : 7.0548
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM   1514   CB MET A 194       0.400  11.907   6.538  0.00  0.00           C 0
+ATOM   1513    O MET A 194       2.607  12.886   8.634  0.00  0.00           O 0
+ATOM   1649    O LEU A 212       3.481   5.832   8.125  0.00  0.00           O 0
+ATOM   1510    N MET A 194       2.169  13.577   5.914  0.00  0.00           N 0
+ATOM   2202  CD2 LEU A 283      -1.582   7.723   2.641  0.00  0.00           C 0
+ATOM   1703  NH1 ARG A 219      -1.661   3.676   5.982  0.61  7.66           N 0
+ATOM   1702   CZ ARG A 219      -1.464   4.332   7.113  0.00  0.00           C 0
+ATOM   1701   NE ARG A 219      -1.905   5.566   7.251  0.00  0.00           N 0
+ATOM   1516   SD MET A 194      -1.879  10.276   6.308  0.00  0.00           S 0
+ATOM   1700   CD ARG A 219      -2.648   6.334   6.268  0.00  0.00           C 0
+ATOM   1653  CD2 LEU A 212       1.043   9.411  10.034  0.00  0.00           C 0
+ATOM   1647   CA LEU A 212       2.004   6.548   9.838  0.00  0.00           C 0
+ATOM   1652  CD1 LEU A 212       3.004   9.978  11.478  0.00  0.00           C 0
+ATOM   1650   CB LEU A 212       2.876   7.733  10.304  0.00  0.00           C 0
+ATOM    409    O GLY A  57       6.379  12.712  11.058  0.00  0.00           O 0
+ATOM   1527  NH1 ARG A 195       5.152  14.287   8.339  0.00  0.00           N 0
+TER
+END

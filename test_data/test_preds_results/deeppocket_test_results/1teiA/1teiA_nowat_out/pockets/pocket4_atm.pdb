@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.2543
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7366
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5305
+HEADER 5  - Mean B-factor of pocket residues  : 0.2241
+HEADER 6  - Hydrophobicity Score              : -15.2857
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 288.1532
+HEADER 10 - Pocket volume (convex hull)       : 10.8159
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0476
+ATOM    140  OD1 ASP A  19      33.784  -2.271 -34.686  0.55  1.07           O 0
+ATOM    257   CB SER A  34      33.651  -6.444 -30.269  0.00  0.00           C 0
+ATOM    283  CG2 THR A  37      30.625  -5.051 -30.317  0.00  0.00           C 0
+ATOM    133    O GLY A  18      31.145  -5.621 -36.511  0.00  0.00           O 0
+ATOM    258   OG SER A  34      34.342  -5.224 -30.347  0.00  0.00           O 0
+ATOM    246   CB ARG A  33      36.381  -9.017 -34.972  0.00  0.00           C 0
+ATOM    256    O SER A  34      32.920  -9.104 -31.494  0.00  0.00           O 0
+ATOM    243   CA ARG A  33      36.435  -7.903 -33.930  0.00  0.00           C 0
+ATOM    269   CA LYS A  36      30.165  -8.824 -28.021  0.00  0.00           C 0
+ATOM    274   CD LYS A  36      27.550 -10.144 -26.446  0.00  0.00           C 0
+ATOM    276   NZ LYS A  36      25.187 -10.583 -26.810  0.00  0.00           N 0
+ATOM    262    O LYS A  35      30.744 -11.228 -29.240  0.79  9.64           O 0
+ATOM    132    C GLY A  18      31.946  -5.160 -37.303  0.00  0.00           C 0
+ATOM    244    C ARG A  33      35.778  -8.348 -32.620  0.00  0.00           C 0
+ATOM    277    N THR A  37      29.116  -6.659 -28.409  0.00  0.00           N 0
+ATOM    253    N SER A  34      35.200  -7.383 -31.902  0.51  2.19           N 0
+ATOM    282  OG1 THR A  37      28.298  -4.976 -30.705  0.00  0.00           O 0
+ATOM    280    O THR A  37      26.731  -5.416 -27.862  0.42  2.14           O 0
+TER
+END

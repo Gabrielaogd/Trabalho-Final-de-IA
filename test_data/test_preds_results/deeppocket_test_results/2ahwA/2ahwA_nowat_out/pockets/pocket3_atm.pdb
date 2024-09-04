@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1466
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.8939
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5771
+HEADER 5  - Mean B-factor of pocket residues  : 0.1509
+HEADER 6  - Hydrophobicity Score              : 33.9091
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3636
+HEADER 9  - Pocket volume (Monte Carlo)       : 384.4526
+HEADER 10 - Pocket volume (convex hull)       : 35.7467
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.3636
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.3667
+ATOM   1955  CD1 LEU A 259      26.674  -7.054  32.699  0.00  0.00           C 0
+ATOM   1947  OE1 GLN A 258      30.437 -11.645  34.309  0.38  2.14           O 0
+ATOM   1981   CB ALA A 263      28.931  -7.865  39.609  0.00  0.00           C 0
+ATOM   2033  CD1 ILE A 269      26.427 -11.369  33.295  0.00  0.00           C 0
+ATOM   2000   CB ASN A 266      28.193 -13.483  36.055  0.00  0.00           C 0
+ATOM   2003  ND2 ASN A 266      25.870 -13.792  36.707  0.37  9.84           N 0
+ATOM   1992    O VAL A 265      31.390 -14.314  38.195  0.00  0.00           O 0
+ATOM   1997   CA ASN A 266      29.443 -14.361  36.226  0.00  0.00           C 0
+ATOM   2024  CE2 PHE A 268      24.771 -19.132  37.177  0.00  0.00           C 0
+ATOM   2004    N ARG A 267      29.708 -16.661  35.450  0.00  0.00           N 0
+ATOM   1944   CB GLN A 258      31.406  -9.155  32.961  0.00  0.00           C 0
+ATOM   1949    N LEU A 259      30.771  -6.063  33.243  0.40  1.09           N 0
+ATOM   2002  OD1 ASN A 266      26.845 -15.346  35.416  0.00  0.00           O 0
+ATOM   2022  CD2 PHE A 268      25.043 -18.221  36.154  0.00  0.00           C 0
+ATOM   1985    O PRO A 264      30.887 -11.213  38.456  0.00  0.00           O 0
+ATOM   1987   CG PRO A 264      31.041 -11.157  42.126  0.00  0.00           C 0
+ATOM   1953   CB LEU A 259      28.434  -5.326  33.139  0.00  0.00           C 0
+ATOM   1960    O TYR A 260      28.184  -3.022  36.166  0.00  0.00           O 0
+ATOM   2001   CG ASN A 266      26.907 -14.296  36.034  0.00  0.00           C 0
+ATOM   1980    O ALA A 263      32.061  -8.295  38.724  0.24  1.07           O 0
+ATOM   1939   OG SER A 257      32.430  -5.724  36.481  0.00  0.00           O 0
+ATOM   1952    O LEU A 259      30.896  -4.094  35.043  0.63  1.07           O 0
+TER
+END

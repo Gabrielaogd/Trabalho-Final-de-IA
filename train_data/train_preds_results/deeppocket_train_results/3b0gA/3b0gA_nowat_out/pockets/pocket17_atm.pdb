@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0471
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.2732
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6660
+HEADER 5  - Mean B-factor of pocket residues  : 0.2969
+HEADER 6  - Hydrophobicity Score              : 40.1429
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 345.6980
+HEADER 10 - Pocket volume (convex hull)       : 12.4195
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM   4038   CB GLU A 527     -56.379  -7.580 -19.994  0.00  0.00           C 0
+ATOM   4035   CA GLU A 527     -55.269  -8.224 -19.156  0.00  0.00           C 0
+ATOM   4039   CG GLU A 527     -56.068  -7.441 -21.477  0.00  0.00           C 0
+ATOM   4043    N VAL A 528     -55.405  -6.912 -17.123  0.79  3.28           N 0
+ATOM   4042  OE2 GLU A 527     -57.302  -5.754 -22.610  0.00  0.00           O 0
+ATOM   3951  CE2 PHE A 514     -51.710  -7.521 -17.294  0.00  0.00           C 0
+ATOM   4049  CG2 VAL A 528     -53.937  -4.880 -15.566  0.00  0.00           C 0
+ATOM   2023    O CYS A 270     -49.593  -5.785 -26.812  0.75  9.64           O 0
+ATOM   4026   CB LEU A 525     -52.115 -10.656 -24.688  0.00  0.00           C 0
+ATOM   2024   CB CYS A 270     -48.260  -6.679 -24.215  0.00  0.00           C 0
+ATOM   4028  CD1 LEU A 525     -50.364  -9.548 -26.106  0.00  0.00           C 0
+ATOM   4040   CD GLU A 527     -57.265  -6.956 -22.266  0.00  0.00           C 0
+ATOM   4025    O LEU A 525     -54.838 -10.994 -23.296  0.68  4.29           O 0
+ATOM   4033    O GLY A 526     -53.304  -9.346 -20.821  0.87  4.29           O 0
+ATOM   3766   CG GLN A 489     -49.641  -8.990 -20.410  0.00  0.00           C 0
+ATOM   2025   SG CYS A 270     -47.448  -6.464 -22.624  0.00  0.00           S 0
+ATOM   3768  OE1 GLN A 489     -48.344  -7.303 -19.266  0.84  9.64           O 0
+TER
+END

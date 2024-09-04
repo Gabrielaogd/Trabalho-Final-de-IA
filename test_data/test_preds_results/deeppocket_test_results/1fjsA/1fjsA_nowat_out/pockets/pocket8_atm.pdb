@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0494
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0102
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5146
+HEADER 5  - Mean B-factor of pocket residues  : 0.3678
+HEADER 6  - Hydrophobicity Score              : -8.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 360.1614
+HEADER 10 - Pocket volume (convex hull)       : 20.6124
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0435
+ATOM    888   NE ARG A 125      31.143   0.467  20.329  0.68  1.09           N 0
+ATOM    887   CD ARG A 125      32.131   1.503  19.990  0.00  0.00           C 0
+ATOM    890  NH1 ARG A 125      32.045  -1.142  18.959  0.32  9.84           N 0
+ATOM   1752    O ALA A 233      27.797   3.613  16.121  0.38  8.57           O 0
+ATOM   1325  OD1 ASN A 179      23.084   0.600  16.507  0.48  5.36           O 0
+ATOM   1753   CB ALA A 233      26.311   2.196  18.302  0.00  0.00           C 0
+ATOM   1313    O GLN A 178      23.037  -1.171  19.896  0.57  3.21           O 0
+ATOM   1314   CB GLN A 178      22.635  -3.778  18.668  0.00  0.00           C 0
+ATOM   1217   NE ARG A 165      21.530  -5.015  23.759  0.55  4.37           N 0
+ATOM   1734   NZ LYS A 230      26.124  -1.157  22.985  0.00  0.00           N 0
+ATOM   1218   CZ ARG A 165      21.104  -3.772  23.552  0.00  0.00           C 0
+ATOM   1318  NE2 GLN A 178      24.185  -6.989  18.646  0.00  0.00           N 0
+ATOM   1216   CD ARG A 165      22.077  -5.467  25.034  0.00  0.00           C 0
+ATOM   1750   CA ALA A 233      27.544   3.088  18.433  0.00  0.00           C 0
+ATOM   1317  OE1 GLN A 178      23.783  -5.693  16.855  0.00  0.00           O 0
+ATOM   1315   CG GLN A 178      22.492  -5.290  18.820  0.00  0.00           C 0
+ATOM    891  NH2 ARG A 125      30.276  -1.677  20.330  0.00  0.00           N 0
+ATOM   1316   CD GLN A 178      23.529  -6.027  18.021  0.00  0.00           C 0
+ATOM    889   CZ ARG A 125      31.129  -0.771  19.842  0.00  0.00           C 0
+TER
+END

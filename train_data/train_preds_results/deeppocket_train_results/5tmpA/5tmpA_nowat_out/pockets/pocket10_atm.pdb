@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0069
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1176
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6907
+HEADER 5  - Mean B-factor of pocket residues  : 0.5927
+HEADER 6  - Hydrophobicity Score              : -21.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 255.8791
+HEADER 10 - Pocket volume (convex hull)       : 5.5288
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM    173   CD GLU A  25      21.080 123.807   4.235  0.00  0.00           C 0
+ATOM    175  OE2 GLU A  25      19.861 123.986   4.024  0.65  8.57           O 0
+ATOM    174  OE1 GLU A  25      21.792 124.642   4.839  0.67  9.64           O 0
+ATOM    208  NE2 GLN A  29      24.866 127.019  -0.018  0.00  0.00           N 0
+ATOM    168   CA GLU A  25      23.584 121.783   2.193  0.00  0.00           C 0
+ATOM    171   CB GLU A  25      23.183 122.631   3.398  0.00  0.00           C 0
+ATOM    172   CG GLU A  25      21.710 122.505   3.741  0.00  0.00           C 0
+ATOM    198  OE1 GLU A  28      20.676 120.345  -2.618  0.00  0.00           O 0
+ATOM    170    O GLU A  25      25.158 122.580   0.577  0.00  0.00           O 0
+ATOM    195   CB GLU A  28      23.493 120.926  -2.263  0.00  0.00           C 0
+ATOM    194    O GLU A  28      25.478 122.517  -4.308  0.00  0.00           O 0
+ATOM    243   NEAARG A  33      21.257 120.413  -5.828  0.87  3.28           N 0
+ATOM    193    C GLU A  28      25.499 122.178  -3.121  0.00  0.00           C 0
+ATOM    207  OE1 GLN A  29      25.023 127.447  -2.230  0.00  0.00           O 0
+ATOM    200    N GLN A  29      25.993 122.935  -2.146  0.80  1.09           N 0
+TER
+END

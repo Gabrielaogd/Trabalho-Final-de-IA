@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.1534
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.7725
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4498
+HEADER 5  - Mean B-factor of pocket residues  : 0.3197
+HEADER 6  - Hydrophobicity Score              : 2.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 311.8304
+HEADER 10 - Pocket volume (convex hull)       : 6.6361
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM    823   CB SER A 104      34.325  50.471  24.350  0.00  0.00           C 0
+ATOM   1278   NE ARG A 161      40.116  46.217  23.402  0.60  8.75           N 0
+ATOM    805   CA GLY A 101      33.296  47.753  20.548  0.00  0.00           C 0
+ATOM   1277   CD ARG A 161      39.742  46.442  22.009  0.00  0.00           C 0
+ATOM   1281  NH2 ARG A 161      40.993  46.861  25.443  0.58  9.84           N 0
+ATOM    822    O SER A 104      36.456  52.578  24.387  0.66  3.21           O 0
+ATOM   1279   CZ ARG A 161      40.691  47.138  24.177  0.00  0.00           C 0
+ATOM   1280  NH1 ARG A 161      40.962  48.346  23.686  0.00  0.00           N 0
+ATOM    825    N ASP A 105      35.958  52.558  22.193  0.00  0.00           N 0
+ATOM    826   CA ASP A 105      37.273  53.004  21.735  0.00  0.00           C 0
+ATOM    842  NH1 ARG A 106      38.905  53.875  29.666  0.00  0.00           N 0
+ATOM    831  OD1 ASP A 105      39.194  52.110  19.510  0.30  7.50           O 0
+ATOM    821    C SER A 104      35.667  52.368  23.478  0.00  0.00           C 0
+ATOM    807    O GLY A 101      34.624  49.721  20.807  0.62  2.14           O 0
+ATOM   1262  CE1 PHE A 159      36.530  45.700  18.985  0.00  0.00           C 0
+ATOM   1260  CD1 PHE A 159      36.958  47.008  18.779  0.00  0.00           C 0
+ATOM   1276   CG ARG A 161      39.412  45.161  21.272  0.00  0.00           C 0
+TER
+END

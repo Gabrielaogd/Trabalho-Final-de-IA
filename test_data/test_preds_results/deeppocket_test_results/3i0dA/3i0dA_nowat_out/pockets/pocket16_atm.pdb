@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0805
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9889
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6855
+HEADER 5  - Mean B-factor of pocket residues  : 0.2535
+HEADER 6  - Hydrophobicity Score              : -7.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.8674
+HEADER 10 - Pocket volume (convex hull)       : 1.7357
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   2013   CB GLN A 328     -19.158  -4.687   3.610  0.00  0.00           C 0
+ATOM   2007  OE1 GLN A 327     -20.797  -4.301  -3.342  0.00  0.00           O 0
+ATOM   2009    N GLN A 328     -18.133  -4.433   1.363  0.60  3.28           N 0
+ATOM   2153   CG PRO A 345     -22.791  -7.862   2.949  0.00  0.00           C 0
+ATOM   2010   CA GLN A 328     -18.348  -3.761   2.661  0.00  0.00           C 0
+ATOM   2006   CD GLN A 327     -20.061  -3.312  -3.307  0.00  0.00           C 0
+ATOM   1105  NH2 ARG A 217     -21.014  -7.008  -3.221  0.14  7.66           N 0
+ATOM   2139    O ALA A 343     -20.082 -10.427   0.592  0.21  2.14           O 0
+ATOM   2000    N GLN A 327     -16.933  -6.048  -0.691  0.21  3.28           N 0
+ATOM   2003    O GLN A 327     -17.368  -2.602   0.260  0.00  0.00           O 0
+ATOM   2005   CG GLN A 327     -18.773  -3.299  -2.450  0.00  0.00           C 0
+ATOM   2008  NE2 GLN A 327     -20.324  -2.219  -3.987  0.00  0.00           N 0
+ATOM   2002    C GLN A 327     -17.611  -3.807   0.304  0.00  0.00           C 0
+ATOM   2004   CB GLN A 327     -18.512  -4.631  -1.858  0.00  0.00           C 0
+TER
+END

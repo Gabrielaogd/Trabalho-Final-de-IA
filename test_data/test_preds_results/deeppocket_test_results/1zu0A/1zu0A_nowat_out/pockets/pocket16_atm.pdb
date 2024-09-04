@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0469
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9837
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6195
+HEADER 5  - Mean B-factor of pocket residues  : 0.2055
+HEADER 6  - Hydrophobicity Score              : -7.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 171.8664
+HEADER 10 - Pocket volume (convex hull)       : 2.2725
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM   3054   CE LYS A 382      10.066 -48.791 -13.418  0.00  0.00           C 0
+ATOM   2735  OD1 ASP A 341       9.975 -52.770 -16.630  0.00  0.00           O 0
+ATOM   3053   CD LYS A 382       8.866 -49.703 -13.239  0.00  0.00           C 0
+ATOM   2805   CB SER A 351       5.694 -49.915 -19.241  0.00  0.00           C 0
+ATOM   2822   CB GLU A 353       6.872 -46.529 -12.579  0.00  0.00           C 0
+ATOM   2809    C PHE A 352       4.570 -48.451 -14.285  0.00  0.00           C 0
+ATOM   2818    N GLU A 353       4.782 -47.307 -13.647  0.62  3.28           N 0
+ATOM   2807    N PHE A 352       4.127 -49.328 -16.535  0.60  1.09           N 0
+ATOM   2766  OE1 GLU A 345       6.413 -53.981 -17.584  0.27  4.29           O 0
+ATOM   2810    O PHE A 352       5.006 -49.538 -13.910  0.62  3.21           O 0
+ATOM   2808   CA PHE A 352       3.742 -48.337 -15.547  0.00  0.00           C 0
+ATOM   2803    C SER A 351       3.811 -49.165 -17.811  0.00  0.00           C 0
+ATOM   2804    O SER A 351       3.164 -48.201 -18.228  0.00  0.00           O 0
+TER
+END

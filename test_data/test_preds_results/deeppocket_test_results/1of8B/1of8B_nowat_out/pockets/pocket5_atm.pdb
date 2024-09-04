@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1577
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0056
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7284
+HEADER 5  - Mean B-factor of pocket residues  : 0.2526
+HEADER 6  - Hydrophobicity Score              : -4.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 370.4266
+HEADER 10 - Pocket volume (convex hull)       : 18.2809
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1429
+ATOM   2113   CG GLN B 302     158.395  51.730  -7.449  0.00  0.00           C 0
+ATOM   2115  OE1 GLN B 302     157.995  50.849  -5.287  0.83  1.07           O 0
+ATOM   2149  OE1 GLU B 307     156.851  54.796  -2.737  0.00  0.00           O 0
+ATOM   1795   CB ALA B 259     154.360  50.540  -6.713  0.00  0.00           C 0
+ATOM   2150  OE2 GLU B 307     158.151  55.676  -1.236  0.61  3.21           O 0
+ATOM   2141    O GLY B 306     158.980  59.841  -4.123  0.00  0.00           O 0
+ATOM   1845   NZ LYS B 266     155.665  55.728  -0.030  0.00  0.00           N 0
+ATOM   2159    N ALA B 309     160.634  56.398   0.250  0.00  0.00           N 0
+ATOM   2155   CB ASN B 308     161.175  59.751  -0.444  0.00  0.00           C 0
+ATOM   1844   CE LYS B 266     155.709  55.054   1.297  0.00  0.00           C 0
+ATOM   2163   CB ALA B 309     159.333  54.838   1.642  0.00  0.00           C 0
+ATOM   2112   CB GLN B 302     159.442  52.756  -7.159  0.00  0.00           C 0
+ATOM   2109   CA GLN B 302     159.592  53.794  -8.259  0.00  0.00           C 0
+ATOM   2133    O ASN B 305     157.699  59.970  -8.427  0.00  0.00           O 0
+ATOM   2111    O GLN B 302     159.917  56.018  -7.442  0.00  0.00           O 0
+ATOM   2142    N GLU B 307     159.596  57.945  -5.168  0.00  0.00           N 0
+ATOM   2146   CB GLU B 307     159.344  55.590  -4.349  0.00  0.00           C 0
+ATOM   2140    C GLY B 306     159.364  59.255  -5.129  0.00  0.00           C 0
+ATOM   2151    N ASN B 308     160.398  58.025  -1.970  0.50  1.09           N 0
+ATOM   2158  ND2 ASN B 308     160.467  61.684  -1.719  0.00  0.00           N 0
+ATOM   2143   CA GLU B 307     159.458  57.088  -3.981  0.00  0.00           C 0
+TER
+END

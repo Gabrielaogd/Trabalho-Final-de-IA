@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0107
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7656
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4984
+HEADER 5  - Mean B-factor of pocket residues  : 0.1804
+HEADER 6  - Hydrophobicity Score              : 48.1667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 247.9539
+HEADER 10 - Pocket volume (convex hull)       : 8.0350
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2609
+ATOM   1233    N ILE A 153      36.491  13.127  40.266  0.55  2.19           N 0
+ATOM   1237   CB ILE A 153      37.776  11.210  41.226  0.00  0.00           C 0
+ATOM   1238  CG1 ILE A 153      37.562   9.821  40.627  0.00  0.00           C 0
+ATOM   1240  CD1 ILE A 153      38.814   9.129  40.241  0.00  0.00           C 0
+ATOM   1217   CB ALA A 150      42.165  14.886  36.164  0.00  0.00           C 0
+ATOM   1229    N GLY A 152      36.844  15.664  39.090  0.66  1.09           N 0
+ATOM   1212  NH2 ARG A 149      42.635  15.258  42.317  0.00  0.00           N 0
+ATOM   1219   CA PHE A 151      38.893  16.816  38.471  0.00  0.00           C 0
+ATOM   1215    C ALA A 150      41.200  16.508  37.736  0.00  0.00           C 0
+ATOM   1220    C PHE A 151      37.622  16.038  38.082  0.00  0.00           C 0
+ATOM   1218    N PHE A 151      39.907  16.715  37.444  0.00  0.00           N 0
+ATOM   1221    O PHE A 151      37.358  15.790  36.908  0.00  0.00           O 0
+ATOM   1239  CG2 ILE A 153      38.357  11.055  42.624  0.00  0.00           C 0
+ATOM   1216    O ALA A 150      41.628  16.442  38.884  0.60  2.14           O 0
+ATOM   1236    O ILE A 153      36.533  13.719  42.870  0.41  4.29           O 0
+ATOM   1283   OH TYR A 158      37.967  18.094  42.054  0.58  6.43           O 0
+TER
+END

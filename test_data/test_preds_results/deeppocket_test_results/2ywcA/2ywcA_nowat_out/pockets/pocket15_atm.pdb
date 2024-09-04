@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0293
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8953
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5495
+HEADER 5  - Mean B-factor of pocket residues  : 0.1350
+HEADER 6  - Hydrophobicity Score              : 23.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 167.4940
+HEADER 10 - Pocket volume (convex hull)       : 2.2022
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7059
+ATOM    134    O ARG A  18     -37.974   8.276  67.683  0.00  0.00           O 0
+ATOM    165   CB GLU A  21     -40.116  10.832  66.669  0.00  0.00           C 0
+ATOM    168  OE1 GLU A  21     -38.753  11.666  64.409  0.43  7.50           O 0
+ATOM    175   CG LEU A  22     -40.258   5.657  67.025  0.00  0.00           C 0
+ATOM    137   CD ARG A  18     -35.794   9.490  63.641  0.00  0.00           C 0
+ATOM    176  CD1 LEU A  22     -39.170   4.614  66.861  0.00  0.00           C 0
+ATOM   1312    N GLN A 175     -39.235   2.562  61.353  0.52  7.66           N 0
+ATOM   1310    C GLY A 173     -36.192   3.516  60.878  0.00  0.00           C 0
+ATOM    135   CB ARG A  18     -35.256   8.472  65.860  0.00  0.00           C 0
+ATOM   1335  CD1 LEU A 177     -34.432   4.917  65.109  0.00  0.00           C 0
+ATOM    177  CD2 LEU A  22     -41.509   5.258  66.240  0.00  0.00           C 0
+ATOM    164    O GLU A  21     -42.507   9.062  67.331  0.38  6.43           O 0
+ATOM   1311    O GLY A 173     -35.963   2.814  61.871  0.00  0.00           O 0
+ATOM   1333   CB LEU A 177     -35.958   2.985  65.580  0.00  0.00           C 0
+TER
+END

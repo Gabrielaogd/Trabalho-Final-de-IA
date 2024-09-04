@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0038
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.6202
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3375
+HEADER 5  - Mean B-factor of pocket residues  : 0.5435
+HEADER 6  - Hydrophobicity Score              : 12.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 156.5617
+HEADER 10 - Pocket volume (convex hull)       : 4.8919
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2727
+ATOM     60   CE LYS D  20      31.194 -44.823 -14.103  0.00  0.00           C 0
+ATOM    351  CD2 LEU D  59      31.597 -40.721 -10.281  0.00  0.00           C 0
+ATOM    352    N ASP D  60      27.425 -43.176  -8.582  0.70  4.37           N 0
+ATOM    355    O ASP D  60      29.031 -44.775  -7.071  0.61  1.07           O 0
+ATOM     65    O LYS D  21      31.062 -47.988 -10.219  0.65  7.50           O 0
+ATOM     59   CD LYS D  20      30.139 -45.868 -14.469  0.00  0.00           C 0
+ATOM     86  CG2 VAL D  23      32.675 -43.809  -7.023  0.00  0.00           C 0
+ATOM    343    O GLY D  58      27.334 -40.358 -11.546  0.10  5.36           O 0
+ATOM    359  OD2 ASP D  60      24.590 -45.683 -10.236  0.44  8.57           O 0
+ATOM    357   CG ASP D  60      24.994 -44.858  -9.398  0.00  0.00           C 0
+ATOM    356   CB ASP D  60      26.158 -45.305  -8.502  0.00  0.00           C 0
+ATOM     57   CB LYS D  20      29.500 -48.308 -14.363  0.00  0.00           C 0
+ATOM     58   CG LYS D  20      30.391 -47.207 -13.781  0.00  0.00           C 0
+ATOM     56    O LYS D  20      28.879 -50.056 -11.925  0.57  6.43           O 0
+ATOM    345   CA LEU D  59      28.496 -41.045  -9.062  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0399
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.5444
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4040
+HEADER 5  - Mean B-factor of pocket residues  : 0.1285
+HEADER 6  - Hydrophobicity Score              : 60.3750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 83.8637
+HEADER 10 - Pocket volume (convex hull)       : 1.2314
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM    352  CG1 VAL B  45      65.653 -12.606  50.939  0.00  0.00           C 0
+ATOM   2005   CB LEU B 267      64.336 -17.851  46.631  0.00  0.00           C 0
+ATOM   2036  CD1 LEU B 271      62.804 -16.913  50.771  0.00  0.00           C 0
+ATOM   2014  CG1 VAL B 268      62.583 -12.964  47.514  0.00  0.00           C 0
+ATOM    353  CG2 VAL B  45      66.010 -14.809  52.067  0.00  0.00           C 0
+ATOM   1980   CG GLU B 264      68.448 -14.459  45.446  0.00  0.00           C 0
+ATOM   1979   CB GLU B 264      67.155 -14.081  44.739  0.00  0.00           C 0
+ATOM    886  CG1 VAL B 118      68.077 -18.406  50.743  0.00  0.00           C 0
+ATOM    364   OG SER B  47      70.526 -15.536  50.287  0.54  1.07           O 0
+ATOM   2114  CD1 TRP B 281      67.909 -11.221  47.915  0.00  0.00           C 0
+ATOM   1978    O GLU B 264      64.045 -14.721  44.795  0.00  0.00           O 0
+ATOM   2113   CG TRP B 281      66.722 -10.993  47.279  0.00  0.00           C 0
+ATOM   2112   CB TRP B 281      65.360 -10.823  47.922  0.00  0.00           C 0
+ATOM   2007  CD1 LEU B 267      66.701 -18.649  46.644  0.00  0.00           C 0
+TER
+END

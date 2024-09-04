@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0402
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8336
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6365
+HEADER 5  - Mean B-factor of pocket residues  : 0.0886
+HEADER 6  - Hydrophobicity Score              : 16.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 318.8680
+HEADER 10 - Pocket volume (convex hull)       : 25.2757
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.6667
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   3732   OG SER K 509     115.945 -34.352  49.304  0.37  9.64           O 0
+ATOM   3755  CD1 LEU K 513     110.947 -33.690  48.322  0.00  0.00           C 0
+ATOM   3754   CG LEU K 513     111.115 -34.513  47.051  0.00  0.00           C 0
+ATOM   3756  CD2 LEU K 513     110.377 -35.848  47.165  0.00  0.00           C 0
+ATOM   3730    O SER K 509     114.498 -34.090  46.322  0.57  3.21           O 0
+ATOM    833   NZ LYS K 117     114.099 -39.586  44.856  0.72  5.47           N 0
+ATOM   3728   CA SER K 509     116.797 -34.269  47.015  0.00  0.00           C 0
+ATOM    884  CG1 VAL K 124     123.873 -37.087  45.523  0.00  0.00           C 0
+ATOM   3701   CG GLN K 505     124.209 -35.511  49.323  0.00  0.00           C 0
+ATOM   3700   CB GLN K 505     122.982 -34.632  49.530  0.00  0.00           C 0
+ATOM   3704  NE2 GLN K 505     124.738 -37.563  50.484  0.00  0.00           N 0
+ATOM   3699    O GLN K 505     120.183 -33.792  48.056  0.56  4.29           O 0
+ATOM   3697   CA GLN K 505     122.560 -33.899  48.254  0.00  0.00           C 0
+ATOM    863  OD1 ASP K 121     118.104 -38.901  44.151  0.65  8.57           O 0
+ATOM    860    O ASP K 121     122.283 -41.017  43.546  0.58  2.14           O 0
+ATOM    891  OG1 THR K 125     123.326 -42.625  46.102  0.67  7.50           O 0
+ATOM    861   CB ASP K 121     118.990 -41.019  43.478  0.00  0.00           C 0
+ATOM    862   CG ASP K 121     117.843 -40.100  43.874  0.00  0.00           C 0
+ATOM   3726   CB ALA K 508     120.322 -34.527  44.197  0.00  0.00           C 0
+ATOM   3727    N SER K 509     117.942 -33.816  46.246  0.00  0.00           N 0
+ATOM   3731   CB SER K 509     117.088 -34.093  48.513  0.00  0.00           C 0
+ATOM    883   CB VAL K 124     123.524 -37.599  44.139  0.00  0.00           C 0
+TER
+END

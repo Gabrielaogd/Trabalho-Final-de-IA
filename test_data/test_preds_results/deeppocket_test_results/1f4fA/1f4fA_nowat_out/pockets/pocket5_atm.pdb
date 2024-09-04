@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0612
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8718
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6882
+HEADER 5  - Mean B-factor of pocket residues  : 0.1655
+HEADER 6  - Hydrophobicity Score              : -30.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 235.4897
+HEADER 10 - Pocket volume (convex hull)       : 6.1872
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM    104  OD2 ASP A  13      16.809  35.585  47.979  0.00  0.00           O 0
+ATOM    111   CD GLU A  14      19.051  38.373  43.039  0.00  0.00           C 0
+ATOM    101   CB ASP A  13      15.877  36.581  46.020  0.00  0.00           C 0
+ATOM    112  OE1 GLU A  14      18.295  39.340  43.291  0.00  0.00           O 0
+ATOM     81   NZ LYS A  10      22.739  36.212  43.534  0.70  5.47           N 0
+ATOM    113  OE2 GLU A  14      20.289  38.294  43.214  0.75  6.43           O 0
+ATOM     78   CG LYS A  10      20.458  34.216  43.025  0.00  0.00           C 0
+ATOM     73    N LYS A  10      18.338  32.021  45.293  0.62  1.09           N 0
+ATOM     42    O GLU A   6      20.421  30.401  46.351  0.73  3.21           O 0
+ATOM     69   CG GLN A   9      16.992  32.237  49.156  0.00  0.00           C 0
+ATOM     68   CB GLN A   9      17.570  31.085  48.329  0.00  0.00           C 0
+ATOM     74   CA LYS A  10      18.682  33.104  44.382  0.00  0.00           C 0
+ATOM     77   CB LYS A  10      20.109  32.980  43.852  0.00  0.00           C 0
+ATOM     80   CE LYS A  10      22.918  34.752  43.268  0.00  0.00           C 0
+ATOM     44   CG GLU A   6      23.104  29.279  49.707  0.00  0.00           C 0
+ATOM     40   CA GLU A   6      21.383  28.943  47.923  0.00  0.00           C 0
+ATOM     43   CB GLU A   6      22.834  29.352  48.210  0.00  0.00           C 0
+TER
+END

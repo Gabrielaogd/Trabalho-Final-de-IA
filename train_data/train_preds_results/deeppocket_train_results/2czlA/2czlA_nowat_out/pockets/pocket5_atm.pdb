@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1055
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9219
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6489
+HEADER 5  - Mean B-factor of pocket residues  : 0.3114
+HEADER 6  - Hydrophobicity Score              : 26.1250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 311.9095
+HEADER 10 - Pocket volume (convex hull)       : 16.1683
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   1915    N ARG A 248      30.887  15.269  75.184  0.00  0.00           N 0
+ATOM   1908    C GLU A 247      31.509  15.210  76.352  0.00  0.00           C 0
+ATOM   1910   CB GLU A 247      32.381  17.513  76.780  0.00  0.00           C 0
+ATOM   1920   CG ARG A 248      28.329  16.165  73.578  0.00  0.00           C 0
+ATOM   1909    O GLU A 247      31.124  14.519  77.289  0.67  2.14           O 0
+ATOM   2088    O PHE A 271      35.538  20.629  84.949  0.75  8.57           O 0
+ATOM   2089   CB PHE A 271      36.292  19.002  82.202  0.00  0.00           C 0
+ATOM    557  NH1 ARG A  72      35.882  21.564  78.683  0.14  4.37           N 0
+ATOM   2103  OXT VAL A 272      37.578  22.635  83.230  0.77  7.50           O 0
+ATOM   1916   CA ARG A 248      29.697  14.475  74.923  0.00  0.00           C 0
+ATOM   1942   CB ALA A 251      28.317  13.091  78.796  0.00  0.00           C 0
+ATOM   1913  OE1 GLU A 247      32.570  19.808  78.698  0.00  0.00           O 0
+ATOM   2083  CD1 LEU A 270      31.364  14.424  81.922  0.00  0.00           C 0
+ATOM   2085    N PHE A 271      34.934  18.041  83.994  0.70  1.09           N 0
+ATOM   2074   CB PRO A 269      31.827  20.152  86.302  0.00  0.00           C 0
+ATOM   2077    N LEU A 270      32.515  17.179  85.000  0.44  3.28           N 0
+ATOM   2071   CA PRO A 269      31.347  18.713  86.446  0.00  0.00           C 0
+ATOM   2091  CD1 PHE A 271      35.183  17.227  80.789  0.00  0.00           C 0
+ATOM   2081   CB LEU A 270      33.093  15.528  83.317  0.00  0.00           C 0
+TER
+END

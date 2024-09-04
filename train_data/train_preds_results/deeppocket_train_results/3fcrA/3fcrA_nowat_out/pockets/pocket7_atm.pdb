@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0707
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.8209
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5548
+HEADER 5  - Mean B-factor of pocket residues  : 0.2759
+HEADER 6  - Hydrophobicity Score              : 59.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 302.0995
+HEADER 10 - Pocket volume (convex hull)       : 16.8752
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM    277  NH1 ARG A  33      25.433  50.912  -1.786  0.67  5.47           N 0
+ATOM    414  CD1 LEU A  51      23.898  49.369   1.181  0.00  0.00           C 0
+ATOM   3139  CD1 LEU A 412      26.626  52.075   2.355  0.00  0.00           C 0
+ATOM   3140  CD2 LEU A 412      27.193  53.838   0.736  0.00  0.00           C 0
+ATOM   3187  CD1 ILE A 418      21.895  51.323   3.815  0.00  0.00           C 0
+ATOM   3185  CG1 ILE A 418      23.114  51.973   4.407  0.00  0.00           C 0
+ATOM   3186  CG2 ILE A 418      22.118  54.199   5.085  0.00  0.00           C 0
+ATOM   3181   CA ILE A 418      24.212  53.360   6.255  0.00  0.00           C 0
+ATOM   3191    O ALA A 419      24.865  57.921   6.498  0.54  3.21           O 0
+ATOM   3206   CZAARG A 420      19.628  58.080   3.835  0.00  0.00           C 0
+ATOM   3208  NH1AARG A 420      19.768  58.712   2.666  0.00  0.00           N 0
+ATOM   3200   CGAARG A 420      21.042  60.643   5.468  0.00  0.00           C 0
+ATOM   3137   CB LEU A 412      28.492  53.639   2.858  0.00  0.00           C 0
+ATOM   3108    O SER A 408      29.119  56.825   4.706  0.00  0.00           O 0
+ATOM   3175    O ILE A 417      27.031  52.904   6.195  0.00  0.00           O 0
+ATOM   3210  NH2AARG A 420      19.559  56.748   3.872  0.48  5.47           N 0
+ATOM   3188    N ALA A 419      24.483  55.514   7.377  0.00  0.00           N 0
+ATOM    274   CD ARG A  33      23.072  50.889  -3.438  0.00  0.00           C 0
+ATOM    348  CD1 ILE A  43      19.490  49.436   2.209  0.00  0.00           C 0
+ATOM    293  CD1 ILE A  35      19.338  48.937  -1.738  0.00  0.00           C 0
+ATOM   3110   OG SER A 408      26.704  58.920   4.870  0.00  0.00           O 0
+TER
+END

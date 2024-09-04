@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0034
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0312
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5703
+HEADER 5  - Mean B-factor of pocket residues  : 0.2442
+HEADER 6  - Hydrophobicity Score              : 22.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 211.2380
+HEADER 10 - Pocket volume (convex hull)       : 5.0833
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM   1567  OD2 ASP B 218     105.241  -7.190 -10.016  0.00  0.00           O 0
+ATOM   1564   CB ASP B 218     103.676  -5.399  -9.968  0.00  0.00           C 0
+ATOM   2555  NE2 GLN B 357      98.534  -9.868  -7.175  0.00  0.00           N 0
+ATOM   1551   CB LEU B 216     100.923  -4.504  -3.929  0.00  0.00           C 0
+ATOM   2538   OG SER B 355     100.278  -6.454 -11.608  0.00  0.00           O 0
+ATOM   2574   CD GLN B 360      98.868  -8.670  -2.921  0.00  0.00           C 0
+ATOM   2575  OE1 GLN B 360     100.020  -9.044  -2.700  0.00  0.00           O 0
+ATOM   1553  CD1 LEU B 216     102.142  -5.852  -2.222  0.00  0.00           C 0
+ATOM   1634  CE1 PHE B 227     105.167  -4.388  -4.512  0.00  0.00           C 0
+ATOM   1632  CD1 PHE B 227     105.857  -4.490  -5.720  0.00  0.00           C 0
+ATOM   1550    O LEU B 216      98.841  -3.754  -6.438  0.62  1.07           O 0
+ATOM   2551   CB GLN B 357      96.973  -7.656  -7.016  0.00  0.00           C 0
+ATOM   2536    O SER B 355      99.576  -3.813 -10.347  0.84  1.07           O 0
+ATOM   1558    O ALA B 217     103.178  -3.348  -7.533  0.89  1.07           O 0
+ATOM   1549    C LEU B 216      99.816  -3.322  -5.819  0.00  0.00           C 0
+ATOM   1557    C ALA B 217     102.262  -3.128  -8.326  0.00  0.00           C 0
+TER
+END

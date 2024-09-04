@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0174
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7596
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5123
+HEADER 5  - Mean B-factor of pocket residues  : 0.4274
+HEADER 6  - Hydrophobicity Score              : 25.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 175.4436
+HEADER 10 - Pocket volume (convex hull)       : 4.9071
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM    810   NE ARG B 112     -10.128  21.818  46.638  0.68  4.37           N 0
+ATOM    809   CD ARG B 112      -8.875  22.464  46.957  0.00  0.00           C 0
+ATOM   1022    O HIS B 138     -11.412  23.106  40.896  0.00  0.00           O 0
+ATOM    812  NH1 ARG B 112     -11.365  23.611  47.520  0.68  5.47           N 0
+ATOM    811   CZ ARG B 112     -11.290  22.407  46.928  0.00  0.00           C 0
+ATOM    801  CE1 HIS B 111      -3.178  24.001  43.118  0.00  0.00           C 0
+ATOM    807   CB ARG B 112      -7.187  20.957  45.762  0.00  0.00           C 0
+ATOM    190   CE LYS B  23      -6.610  24.882  39.858  0.00  0.00           C 0
+ATOM   1042  CE2 PHE B 140      -8.932  20.139  40.777  0.00  0.00           C 0
+ATOM    799  ND1 HIS B 111      -2.989  24.139  44.414  0.62  4.37           N 0
+ATOM    803    N ARG B 112      -4.953  21.621  46.232  0.00  0.00           N 0
+ATOM   1043   CZ PHE B 140      -7.607  20.242  41.164  0.00  0.00           C 0
+ATOM    806    O ARG B 112      -4.713  20.126  43.810  0.00  0.00           O 0
+ATOM    789    O VAL B 110      -4.050  25.420  47.943  0.36  2.14           O 0
+TER
+END

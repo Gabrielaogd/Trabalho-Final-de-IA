@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0588
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0068
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6686
+HEADER 5  - Mean B-factor of pocket residues  : 0.0722
+HEADER 6  - Hydrophobicity Score              : 8.6250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 244.6975
+HEADER 10 - Pocket volume (convex hull)       : 6.6161
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM    205    O THR A  29      26.177  13.060  -2.348  0.32  3.21           O 0
+ATOM    221    N ASN A  31      24.301  11.119  -6.185  0.00  0.00           N 0
+ATOM    209    N TYR A  30      25.710  10.960  -3.055  0.00  0.00           N 0
+ATOM    204    C THR A  29      25.878  11.877  -2.108  0.00  0.00           C 0
+ATOM    207  OG1 THR A  29      24.657  13.481   0.036  0.50  6.43           O 0
+ATOM   2223    N LYS A 297      18.583  10.745   0.774  0.00  0.00           N 0
+ATOM   2207    O ASN A 295      21.757  13.449   2.453  0.00  0.00           O 0
+ATOM   2239  ND2 ASN A 298      15.130  14.752  -0.080  0.00  0.00           N 0
+ATOM   2210  OD1 ASN A 295      18.548  14.621   3.111  0.00  0.00           O 0
+ATOM   2232    N ASN A 298      16.482  12.391   1.627  0.48  1.09           N 0
+ATOM    206   CB THR A  29      24.478  12.052  -0.016  0.00  0.00           C 0
+ATOM   2220  CE1 PHE A 296      21.522   8.055  -0.850  0.00  0.00           C 0
+ATOM    229    N GLY A  32      22.083   9.327  -5.699  0.00  0.00           N 0
+ATOM   2218  CD1 PHE A 296      21.607   8.991   0.195  0.00  0.00           C 0
+ATOM    230   CA GLY A  32      21.208   8.245  -5.250  0.00  0.00           C 0
+ATOM   2228   CG LYS A 297      17.729   8.409  -1.058  0.00  0.00           C 0
+TER
+END

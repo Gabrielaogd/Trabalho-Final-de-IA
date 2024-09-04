@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0767
+HEADER 1  - Drug Score                        : 0.0035
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.1234
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5968
+HEADER 5  - Mean B-factor of pocket residues  : 0.2576
+HEADER 6  - Hydrophobicity Score              : 15.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 357.7542
+HEADER 10 - Pocket volume (convex hull)       : 29.2638
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6364
+ATOM   2801    N SER D 369      -3.119   0.736  55.053  0.55  1.09           N 0
+ATOM   2800   CD PRO D 368      -3.564  -3.186  54.700  0.00  0.00           C 0
+ATOM   2806   OG SER D 369      -5.622   1.892  54.727  0.00  0.00           O 0
+ATOM   2798   CB PRO D 368      -1.875  -1.773  53.888  0.00  0.00           C 0
+ATOM   2590   CG TRP D 345       1.629  -0.626  50.716  0.00  0.00           C 0
+ATOM   2591  CD1 TRP D 345       1.298  -0.763  49.395  0.00  0.00           C 0
+ATOM   2805   CB SER D 369      -4.479   2.675  54.432  0.00  0.00           C 0
+ATOM   2589   CB TRP D 345       2.067   0.630  51.418  0.00  0.00           C 0
+ATOM   2802   CA SER D 369      -3.257   2.180  55.213  0.00  0.00           C 0
+ATOM   2827  CG2 VAL D 372       1.471   1.981  55.715  0.00  0.00           C 0
+ATOM   2230    O GLY D 301       2.656   6.775  51.763  0.63  6.43           O 0
+ATOM   2804    O SER D 369      -2.716   3.660  57.030  0.00  0.00           O 0
+ATOM   2826  CG1 VAL D 372       2.006   4.363  56.160  0.00  0.00           C 0
+ATOM   2825   CB VAL D 372       1.081   3.216  56.512  0.00  0.00           C 0
+ATOM   2585    N TRP D 345       3.934   2.013  52.207  0.00  0.00           N 0
+ATOM   2588    O TRP D 345       3.722   1.878  49.316  0.31  6.43           O 0
+ATOM   2614  OE1 GLU D 347       0.671   3.755  45.701  0.00  0.00           O 0
+TER
+END

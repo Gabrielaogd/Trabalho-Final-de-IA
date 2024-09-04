@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0136
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0331
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4209
+HEADER 5  - Mean B-factor of pocket residues  : 0.3563
+HEADER 6  - Hydrophobicity Score              : 12.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 2.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 208.2222
+HEADER 10 - Pocket volume (convex hull)       : 3.1405
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM      1    N ALA B  33     -28.120  11.017  49.410  0.00  0.00           N 0
+ATOM   1560   CA GLY B 234     -25.045   5.092  46.210  0.00  0.00           C 0
+ATOM   1562    O GLY B 234     -23.607   4.990  48.083  0.42  7.50           O 0
+ATOM   1561    C GLY B 234     -24.634   4.555  47.563  0.00  0.00           C 0
+ATOM   1552   CB ARG B 233     -28.370   5.463  43.175  0.00  0.00           C 0
+ATOM   1559    N GLY B 234     -26.343   4.740  45.690  0.80  5.47           N 0
+ATOM   1548    N ARG B 233     -28.741   3.696  44.831  0.75  4.37           N 0
+ATOM   1568  OG1 THR B 235     -27.498   2.821  49.907  0.38  1.07           O 0
+ATOM     11   OG SER B  34     -30.274   7.025  51.406  0.00  0.00           O 0
+ATOM   1554   CD ARG B 233     -30.492   6.658  42.472  0.00  0.00           C 0
+ATOM   1547   CB ALA B 232     -29.211   1.742  47.373  0.00  0.00           C 0
+ATOM   1544   CA ALA B 232     -29.942   1.969  46.039  0.00  0.00           C 0
+ATOM   1569  CG2 THR B 235     -26.352   4.800  50.746  0.00  0.00           C 0
+ATOM      6    N SER B  34     -28.736   9.688  51.735  0.41  1.09           N 0
+TER
+END

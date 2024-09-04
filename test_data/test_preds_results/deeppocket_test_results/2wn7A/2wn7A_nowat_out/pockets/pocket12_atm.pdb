@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0153
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1445
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5645
+HEADER 5  - Mean B-factor of pocket residues  : 0.2859
+HEADER 6  - Hydrophobicity Score              : 0.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 275.4210
+HEADER 10 - Pocket volume (convex hull)       : 9.2805
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM    806   CB GLU A 120      32.252  -7.996  12.692  0.00  0.00           C 0
+ATOM    816   CA SER A 122      28.708  -5.812   8.709  0.00  0.00           C 0
+ATOM    819   CB SER A 122      28.431  -6.780   7.546  0.00  0.00           C 0
+ATOM    815    N SER A 122      28.296  -6.385   9.994  0.00  0.00           N 0
+ATOM    791   CD GLN A 118      28.346 -14.028  12.498  0.00  0.00           C 0
+ATOM    790   CG GLN A 118      29.443 -14.223  13.542  0.00  0.00           C 0
+ATOM    793  NE2 GLN A 118      28.503 -14.679  11.344  0.00  0.00           N 0
+ATOM    805    O GLU A 120      29.167  -9.000  13.189  0.00  0.00           O 0
+ATOM    802    N GLU A 120      31.554  -9.186  14.723  0.00  0.00           N 0
+ATOM    820   OG SER A 122      27.041  -6.971   7.332  0.26  6.43           O 0
+ATOM    792  OE1 GLN A 118      27.372 -13.306  12.726  0.70  5.36           O 0
+ATOM    845   CE LYS A 125      22.714  -9.278   8.053  0.00  0.00           C 0
+ATOM    752    O ILE A 113      24.244  -9.258  12.072  0.65  1.07           O 0
+ATOM    789   CB GLN A 118      29.356 -13.215  14.693  0.00  0.00           C 0
+ATOM    794    N ASN A 119      31.610 -11.563  16.215  0.00  0.00           N 0
+TER
+END

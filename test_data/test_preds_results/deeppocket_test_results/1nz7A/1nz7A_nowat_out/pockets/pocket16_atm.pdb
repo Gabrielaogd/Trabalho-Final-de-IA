@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0045
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.3148
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6662
+HEADER 5  - Mean B-factor of pocket residues  : 0.4992
+HEADER 6  - Hydrophobicity Score              : -5.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.1985
+HEADER 10 - Pocket volume (convex hull)       : 1.4226
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM    164   CG GLN A  21      19.715  20.347  20.221  0.00  0.00           C 0
+ATOM    195    N HIS A  25      17.923  24.108  24.665  0.00  0.00           N 0
+ATOM    199   CB HIS A  25      15.660  23.416  24.058  0.00  0.00           C 0
+ATOM    162    O GLN A  21      18.726  21.432  23.603  0.58  2.14           O 0
+ATOM    187    O ARG A  24      18.730  26.187  24.959  0.68  9.64           O 0
+ATOM    194  NH2 ARG A  24      21.717  26.682  19.312  0.00  0.00           N 0
+ATOM    196   CA HIS A  25      16.536  24.544  24.611  0.00  0.00           C 0
+ATOM    201  ND1 HIS A  25      13.898  24.783  22.875  0.48  6.56           N 0
+ATOM    192   CZ ARG A  24      22.041  25.488  19.786  0.00  0.00           C 0
+ATOM    188   CB ARG A  24      20.778  24.195  23.395  0.00  0.00           C 0
+ATOM    186    C ARG A  24      18.915  24.977  24.827  0.00  0.00           C 0
+ATOM    191   NE ARG A  24      22.219  25.313  21.092  0.66  6.56           N 0
+ATOM    166  OE1 GLN A  21      21.198  21.901  19.170  0.00  0.00           O 0
+ATOM    193  NH1 ARG A  24      22.194  24.471  18.951  0.00  0.00           N 0
+TER
+END

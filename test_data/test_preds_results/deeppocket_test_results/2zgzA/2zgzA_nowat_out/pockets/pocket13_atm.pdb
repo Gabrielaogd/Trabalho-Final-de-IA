@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.1123
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.7832
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5448
+HEADER 5  - Mean B-factor of pocket residues  : 0.3207
+HEADER 6  - Hydrophobicity Score              : 15.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 225.6664
+HEADER 10 - Pocket volume (convex hull)       : 7.6139
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1596   CB ALA A 205       1.847  -3.123  17.714  0.00  0.00           C 0
+ATOM   1986   CD GLU A 254       0.104  -0.556  24.061  0.00  0.00           C 0
+ATOM   1987  OE1 GLU A 254      -1.130  -0.665  23.890  0.30  7.50           O 0
+ATOM   1988  OE2 GLU A 254       0.783  -1.435  24.635  0.00  0.00           O 0
+ATOM   1989    N ALA A 255       2.704   1.480  20.452  0.79  1.09           N 0
+ATOM   1990   CA ALA A 255       4.077   1.189  20.046  0.00  0.00           C 0
+ATOM   1985   CG GLU A 254       0.810   0.707  23.571  0.00  0.00           C 0
+ATOM   2019   CD LYS A 258       7.642  -0.036  24.387  0.00  0.00           C 0
+ATOM   1570  CD1 LEU A 201       7.601  -3.006  20.695  0.00  0.00           C 0
+ATOM   1567    O LEU A 201       5.297  -3.357  17.484  0.48  2.14           O 0
+ATOM   1993   CB ALA A 255       4.072   0.232  18.861  0.00  0.00           C 0
+ATOM   1984   CB GLU A 254       0.325   1.192  22.203  0.00  0.00           C 0
+ATOM   1962    O ALA A 251       0.097   0.355  19.015  0.00  0.00           O 0
+ATOM   2017   CB LYS A 258       6.811   2.082  23.283  0.00  0.00           C 0
+ATOM   1983    O GLU A 254       3.299   2.912  22.085  0.61  3.21           O 0
+ATOM   1620  OD2 ASP A 208      -2.343  -7.616  19.711  0.00  0.00           O 0
+ATOM   1593   CA ALA A 205       1.635  -4.538  17.229  0.00  0.00           C 0
+ATOM   1595    O ALA A 205      -0.631  -4.966  16.581  0.63  1.07           O 0
+ATOM   1963   CB ALA A 251      -2.288  -1.799  18.148  0.00  0.00           C 0
+ATOM   1960   CA ALA A 251      -2.153  -0.454  18.849  0.00  0.00           C 0
+TER
+END

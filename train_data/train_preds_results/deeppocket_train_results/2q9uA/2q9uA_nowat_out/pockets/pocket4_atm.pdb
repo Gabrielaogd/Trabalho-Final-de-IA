@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1392
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8297
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4428
+HEADER 5  - Mean B-factor of pocket residues  : 0.2280
+HEADER 6  - Hydrophobicity Score              : 8.6667
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.3184
+HEADER 10 - Pocket volume (convex hull)       : 2.9002
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM   1573  CD2 LEU A 195      15.433  10.426  14.906  0.00  0.00           C 0
+ATOM    276   CB ASP A  36      10.250   6.881  12.439  0.00  0.00           C 0
+ATOM   1602  OE2 GLU A 198      11.665   9.581  18.230  0.51  3.21           O 0
+ATOM    288  OE2 GLU A  37      14.004  10.945  11.364  0.56  7.50           O 0
+ATOM   1601  OE1 GLU A 198      13.489   8.459  17.750  0.79  4.29           O 0
+ATOM    279  OD2 ASP A  36       8.420   7.738  13.677  0.41  5.36           O 0
+ATOM   2380   CE LYS A 300       7.206   9.377  16.110  0.00  0.00           C 0
+ATOM   2401  CD2 LEU A 303      10.915  13.203  19.592  0.00  0.00           C 0
+ATOM   2378   CG LYS A 300       7.325   9.874  18.544  0.00  0.00           C 0
+ATOM   1565  NE2 HIS A 194      12.802  13.670  16.207  0.66  3.28           N 0
+ATOM   2379   CD LYS A 300       6.419   9.894  17.335  0.00  0.00           C 0
+ATOM   2411  NE2 HIS A 304       7.657  15.399  20.049  0.00  0.00           N 0
+ATOM   1564  CE1 HIS A 194      12.399  14.757  16.840  0.00  0.00           C 0
+ATOM    272    N ASP A  36      11.665   5.094  13.410  0.64  1.09           N 0
+ATOM    280    N GLU A  37      13.218   6.085  11.421  0.61  1.09           N 0
+ATOM   1409    O HIS A 176      17.391   6.608  13.935  0.44  2.14           O 0
+TER
+END

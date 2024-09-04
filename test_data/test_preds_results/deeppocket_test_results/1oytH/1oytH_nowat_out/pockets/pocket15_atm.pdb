@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0561
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.2582
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7308
+HEADER 5  - Mean B-factor of pocket residues  : 0.4007
+HEADER 6  - Hydrophobicity Score              : 36.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 274.9500
+HEADER 10 - Pocket volume (convex hull)       : 8.6098
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM   1035   CB ALA H 129      16.487   7.814  33.696  0.00  0.00           C 0
+ATOM   1034    O ALA H 129      13.978   7.073  35.680  0.57  2.14           O 0
+ATOM   1037   CA ALA H 129A     14.747   8.769  37.648  0.00  0.00           C 0
+ATOM   1033    C ALA H 129      14.651   8.041  35.364  0.00  0.00           C 0
+ATOM   1036    N ALA H 129A     15.057   8.949  36.243  0.00  0.00           N 0
+ATOM   1014  NH2 ARG H 126      22.928   9.634  36.698  0.00  0.00           N 0
+ATOM   1040   CB ALA H 129A     15.436   9.860  38.479  0.00  0.00           C 0
+ATOM   1009   CG ARG H 126      20.367  11.611  36.337  0.00  0.00           C 0
+ATOM   1007    O ARG H 126      17.269  10.951  35.606  0.61  1.07           O 0
+ATOM   1881  NE2 HIS H 230      18.143   2.695  33.651  0.00  0.00           N 0
+ATOM   1061  CD1 LEU H 130      15.266   4.187  33.317  0.00  0.00           C 0
+ATOM   1059   CB LEU H 130      13.464   3.958  34.957  0.00  0.00           C 0
+ATOM   1058    O LEU H 130      12.693   3.173  37.423  0.62  9.64           O 0
+ATOM   1898  CE2 PHE H 232      21.211   8.717  33.485  0.00  0.00           C 0
+ATOM   1896  CD2 PHE H 232      20.328   7.807  32.867  0.00  0.00           C 0
+ATOM   1906   CD ARG H 233      22.835   2.945  34.040  0.00  0.00           C 0
+ATOM   1880  CE1 HIS H 230      18.433   3.649  32.783  0.00  0.00           C 0
+ATOM   1905   CG ARG H 233      21.830   2.906  32.924  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0645
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6144
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4148
+HEADER 5  - Mean B-factor of pocket residues  : 0.0366
+HEADER 6  - Hydrophobicity Score              : 15.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 86.7951
+HEADER 10 - Pocket volume (convex hull)       : 0.6562
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM    466  OD2 ASP A  56     -25.298  -7.084  31.505  0.36  1.07           O 0
+ATOM    657   CA GLY A  85     -20.597  -8.583  29.345  0.00  0.00           C 0
+ATOM    446  CE1 PHE A  53     -25.665 -10.122  26.219  0.00  0.00           C 0
+ATOM   2983  CD1 PHE A 406     -27.047  -6.321  27.534  0.00  0.00           C 0
+ATOM    689  OE1 GLU A  89     -22.501  -3.053  29.339  0.42  2.14           O 0
+ATOM    492  NH2 ARG A  60     -24.266  -4.413  30.959  0.00  0.00           N 0
+ATOM    642    O ALA A  82     -23.204 -11.064  30.366  0.00  0.00           O 0
+ATOM   2925   CB PRO A 398     -23.343  -3.684  25.323  0.00  0.00           C 0
+ATOM   2981   CB PHE A 406     -27.128  -6.310  25.020  0.00  0.00           C 0
+ATOM    659    O GLY A  85     -20.765  -6.711  30.830  0.33  1.07           O 0
+ATOM   2964    O GLY A 403     -23.749  -6.419  22.550  0.82  1.07           O 0
+ATOM    658    C GLY A  85     -21.005  -7.901  30.643  0.00  0.00           C 0
+ATOM   2951  CD2 TYR A 401     -20.013  -7.458  26.103  0.00  0.00           C 0
+TER
+END

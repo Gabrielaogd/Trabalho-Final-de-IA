@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2400
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9188
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6463
+HEADER 5  - Mean B-factor of pocket residues  : 0.1753
+HEADER 6  - Hydrophobicity Score              : 17.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 344.9181
+HEADER 10 - Pocket volume (convex hull)       : 14.0202
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0833
+ATOM   1344    O ALA D 170     -19.728 -15.356  43.333  0.00  0.00           O 0
+ATOM   1349    O ARG D 171     -17.493 -12.809  44.273  0.50  1.07           O 0
+ATOM   1389  OD1 ASP D 174     -19.473 -11.997  47.447  0.00  0.00           O 0
+ATOM   1352   CD ARG D 171     -14.548 -15.542  44.859  0.00  0.00           C 0
+ATOM   1347   CA ARG D 171     -17.031 -14.812  43.015  0.00  0.00           C 0
+ATOM   1353   NE ARG D 171     -14.369 -16.915  44.376  0.00  0.00           N 0
+ATOM   1411   CB LEU D 177     -20.478 -21.604  41.314  0.00  0.00           C 0
+ATOM   1345   CB ALA D 170     -19.761 -17.874  41.238  0.00  0.00           C 0
+ATOM   1356  NH2 ARG D 171     -13.176 -18.673  43.480  0.14  9.84           N 0
+ATOM   1407    N LEU D 177     -21.722 -21.110  43.386  0.00  0.00           N 0
+ATOM   1314    O HIS D 167     -16.413 -17.119  40.010  0.65  1.07           O 0
+ATOM   1317  ND1 HIS D 167     -15.327 -22.064  39.038  0.20  6.56           N 0
+ATOM   1414  CD2 LEU D 177     -19.078 -22.230  39.321  0.00  0.00           C 0
+ATOM   1343    C ALA D 170     -19.188 -15.684  42.280  0.00  0.00           C 0
+ATOM   1346    N ARG D 171     -17.900 -15.463  42.032  0.00  0.00           N 0
+ATOM   1384   CA ASP D 174     -21.368 -13.523  45.851  0.00  0.00           C 0
+ATOM   1394    O VAL D 175     -21.569 -17.854  43.964  0.00  0.00           O 0
+ATOM   1391    N VAL D 175     -22.394 -15.339  44.626  0.00  0.00           N 0
+ATOM   1385    C ASP D 174     -22.511 -14.506  45.653  0.00  0.00           C 0
+ATOM   1312   CA HIS D 167     -16.642 -18.871  38.364  0.00  0.00           C 0
+ATOM   1393    C VAL D 175     -22.681 -17.695  44.450  0.00  0.00           C 0
+ATOM   1398    N GLU D 176     -23.306 -18.647  45.126  0.56  1.09           N 0
+TER
+END

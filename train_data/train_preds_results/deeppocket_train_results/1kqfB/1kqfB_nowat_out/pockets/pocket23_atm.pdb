@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : 0.0682
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8198
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5749
+HEADER 5  - Mean B-factor of pocket residues  : 0.0805
+HEADER 6  - Hydrophobicity Score              : 6.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.4448
+HEADER 10 - Pocket volume (convex hull)       : 1.4007
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM    207   CA ALA B  28      22.738  86.251  95.242  0.00  0.00           C 0
+ATOM    195   CZ TYR B  26      28.218  91.955  94.340  0.00  0.00           C 0
+ATOM    194  CE2 TYR B  26      27.834  91.818  95.668  0.00  0.00           C 0
+ATOM    196   OH TYR B  26      29.346  91.306  93.883  0.00  0.00           O 0
+ATOM    210   CB ALA B  28      23.616  85.205  95.901  0.00  0.00           C 0
+ATOM    199    C LYS B  27      22.169  88.574  95.579  0.00  0.00           C 0
+ATOM    206    N ALA B  28      22.657  87.442  96.073  0.65  6.56           N 0
+ATOM    200    O LYS B  27      21.774  88.677  94.417  0.34  3.21           O 0
+ATOM    192  CD2 TYR B  26      26.682  92.471  96.121  0.00  0.00           C 0
+ATOM    188    O TYR B  26      23.670  91.946  97.389  0.00  0.00           O 0
+ATOM    197    N LYS B  27      22.441  90.971  95.764  0.73  2.19           N 0
+ATOM    180    O ASP B  25      21.258  92.847  93.674  0.26  9.64           O 0
+ATOM    186   CA TYR B  26      23.399  93.144  95.317  0.00  0.00           C 0
+ATOM    191  CD1 TYR B  26      26.325  93.374  93.931  0.00  0.00           C 0
+ATOM    190   CG TYR B  26      25.914  93.255  95.260  0.00  0.00           C 0
+ATOM    193  CE1 TYR B  26      27.471  92.732  93.467  0.00  0.00           C 0
+TER
+END

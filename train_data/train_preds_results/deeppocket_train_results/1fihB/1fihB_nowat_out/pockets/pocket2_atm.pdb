@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.1031
+HEADER 1  - Drug Score                        : 0.2419
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.8977
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5014
+HEADER 5  - Mean B-factor of pocket residues  : 0.2372
+HEADER 6  - Hydrophobicity Score              : 49.2857
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.8125
+HEADER 10 - Pocket volume (convex hull)       : 6.8048
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM    324    C THR B 114      20.485  20.369  11.825  0.00  0.00           C 0
+ATOM    333   CB ASN B 115      19.340  17.001  12.347  0.00  0.00           C 0
+ATOM    325    O THR B 114      21.336  20.506  12.696  0.24  7.50           O 0
+ATOM    321  CG2 VAL B 113      19.440  23.437  14.790  0.00  0.00           C 0
+ATOM    329    N ASN B 115      20.013  19.185  11.453  0.54  1.09           N 0
+ATOM    320  CG1 VAL B 113      17.272  24.453  14.102  0.00  0.00           C 0
+ATOM    323   CA THR B 114      19.897  21.584  11.103  0.00  0.00           C 0
+ATOM    318    O VAL B 113      18.066  23.674  11.163  0.59  1.07           O 0
+ATOM   1172   SG CYS B 222      13.370  22.480  10.647  0.00  0.00           S 0
+ATOM   1158    O ALA B 220      18.097  21.022   7.953  0.71  2.14           O 0
+ATOM    335  OD1 ASN B 115      18.672  17.144  10.054  0.77  1.07           O 0
+ATOM    436  CD2 LEU B 127      13.731  17.147  10.045  0.00  0.00           C 0
+ATOM    334   CG ASN B 115      18.610  16.513  11.105  0.00  0.00           C 0
+ATOM    336  ND2 ASN B 115      17.898  15.396  11.231  0.00  0.00           N 0
+ATOM    464  CD1 LEU B 131      12.854  20.527  14.133  0.00  0.00           C 0
+ATOM    435  CD1 LEU B 127      11.992  16.745  11.803  0.00  0.00           C 0
+ATOM   1159   CB ALA B 220      15.978  19.110   6.907  0.00  0.00           C 0
+TER
+END

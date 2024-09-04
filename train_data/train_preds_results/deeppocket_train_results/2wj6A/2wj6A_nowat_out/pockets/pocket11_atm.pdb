@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0103
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.2407
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5954
+HEADER 5  - Mean B-factor of pocket residues  : 0.5670
+HEADER 6  - Hydrophobicity Score              : 5.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.0395
+HEADER 10 - Pocket volume (convex hull)       : 3.9926
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3500
+ATOM    451   CD ARG A  55      18.072  50.278  21.621  0.00  0.00           C 0
+ATOM    214   CA GLY A  27      12.820  46.198  25.989  0.00  0.00           C 0
+ATOM    201    O THR A  25      17.276  45.044  25.473  0.32  3.21           O 0
+ATOM    228   CB ALA A  29      13.380  51.227  22.689  0.00  0.00           C 0
+ATOM    758    O THR A  94      10.285  48.785  22.258  0.00  0.00           O 0
+ATOM    224    N ALA A  29      12.248  49.899  24.420  0.65  2.19           N 0
+ATOM    449   CB ARG A  55      17.535  50.765  23.977  0.00  0.00           C 0
+ATOM    208    O ASP A  26      14.949  46.465  27.736  0.00  0.00           O 0
+ATOM    746    N GLU A  93      11.271  47.025  18.283  0.46  5.47           N 0
+ATOM    740   CA VAL A  92      13.155  48.379  17.567  0.00  0.00           C 0
+ATOM    744  CG1 VAL A  92      12.177  50.065  19.180  0.00  0.00           C 0
+ATOM    745  CG2 VAL A  92      14.637  50.206  18.493  0.00  0.00           C 0
+ATOM    761  CG2 THR A  94       9.465  46.483  23.648  0.00  0.00           C 0
+ATOM    750   CB GLU A  93       9.844  45.029  18.528  0.00  0.00           C 0
+ATOM    755    N THR A  94       9.179  46.967  20.495  0.77  1.09           N 0
+ATOM    454  NH1 ARG A  55      18.341  48.807  19.295  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0924
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0290
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6226
+HEADER 5  - Mean B-factor of pocket residues  : 0.1922
+HEADER 6  - Hydrophobicity Score              : 49.6250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.4701
+HEADER 10 - Pocket volume (convex hull)       : 12.1246
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM   2809   CA LEU A 356     -40.162  -9.517  -1.681  0.00  0.00           C 0
+ATOM   2812   CB LEU A 356     -41.651  -9.198  -1.817  0.00  0.00           C 0
+ATOM   2461  OE2 GLU A 310     -40.117 -16.522  -1.952  0.52  5.36           O 0
+ATOM   2460  OE1 GLU A 310     -40.573 -15.039  -0.398  0.47  3.21           O 0
+ATOM   2814  CD1 LEU A 356     -41.650  -8.456  -4.212  0.00  0.00           C 0
+ATOM   2808    N LEU A 356     -39.955 -10.546  -0.662  0.55  1.09           N 0
+ATOM   2798  OG1 THR A 354     -42.812 -11.666   0.283  0.30  4.29           O 0
+ATOM   2682  CD1 LEU A 339     -38.985 -19.448  -4.490  0.00  0.00           C 0
+ATOM   2683  CD2 LEU A 339     -37.079 -18.928  -2.961  0.00  0.00           C 0
+ATOM   2698   CD ARG A 341     -34.487 -16.929  -5.457  0.00  0.00           C 0
+ATOM   2701  NH1 ARG A 341     -33.208 -15.375  -3.486  0.00  0.00           N 0
+ATOM   2806  CD1 LEU A 355     -36.548 -15.320   0.803  0.00  0.00           C 0
+ATOM   2804   CB LEU A 355     -37.670 -13.108   0.309  0.00  0.00           C 0
+ATOM   2802    C LEU A 355     -38.730 -10.922  -0.301  0.00  0.00           C 0
+ATOM   2823    O LEU A 358     -34.497  -9.733  -1.613  0.74  6.43           O 0
+ATOM   2841   CB ALA A 360     -33.068 -13.649   0.128  0.00  0.00           C 0
+ATOM   2803    O LEU A 355     -37.710 -10.438  -0.792  0.00  0.00           O 0
+TER
+END

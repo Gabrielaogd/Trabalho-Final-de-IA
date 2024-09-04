@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0899
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.2899
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6530
+HEADER 5  - Mean B-factor of pocket residues  : 0.1511
+HEADER 6  - Hydrophobicity Score              : 8.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 291.7971
+HEADER 10 - Pocket volume (convex hull)       : 6.0401
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM   1100   CG MET A 133      52.786  44.236  28.851  0.00  0.00           C 0
+ATOM   1102   CE MET A 133      50.722  43.687  27.166  0.00  0.00           C 0
+ATOM   1048  OE1 GLN A 127      54.870  37.701  24.155  0.00  0.00           O 0
+ATOM   1101   SD MET A 133      51.508  43.004  28.558  0.00  0.00           S 0
+ATOM   1041    N GLN A 127      55.583  38.896  28.561  0.00  0.00           N 0
+ATOM   1035   CA PRO A 126      54.100  40.472  29.671  0.00  0.00           C 0
+ATOM   1056   CD LYS A 128      61.851  38.829  26.694  0.00  0.00           C 0
+ATOM   1057   CE LYS A 128      62.085  37.832  25.570  0.00  0.00           C 0
+ATOM   1084   CE LYS A 131      61.661  44.798  25.492  0.00  0.00           C 0
+ATOM   1058   NZ LYS A 128      63.248  38.228  24.724  0.61  7.66           N 0
+ATOM   1082   CG LYS A 131      60.512  43.366  27.200  0.00  0.00           C 0
+ATOM   1045   CB GLN A 127      56.329  37.257  26.916  0.00  0.00           C 0
+ATOM   1055   CG LYS A 128      60.776  38.348  27.647  0.00  0.00           C 0
+ATOM   1080    O LYS A 131      57.123  43.545  29.595  0.73  3.21           O 0
+ATOM   1081   CB LYS A 131      59.333  43.260  28.151  0.00  0.00           C 0
+ATOM   1050    N LYS A 128      58.243  38.779  29.232  0.59  1.09           N 0
+ATOM   1023    O TRP A 125      52.014  39.443  28.193  0.59  1.07           O 0
+ATOM   1004   CG GLN A 123      51.337  38.643  24.495  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0667
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8003
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6686
+HEADER 5  - Mean B-factor of pocket residues  : 0.1299
+HEADER 6  - Hydrophobicity Score              : 1.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 250.5214
+HEADER 10 - Pocket volume (convex hull)       : 10.8074
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM   3397   CA VAL K 464     135.620 -21.413  27.788  0.00  0.00           C 0
+ATOM   3401  CG1 VAL K 464     137.654 -20.089  27.203  0.00  0.00           C 0
+ATOM   3422  ND2 ASN K 467     137.693 -26.209  25.797  0.00  0.00           N 0
+ATOM   3402  CG2 VAL K 464     135.523 -19.680  26.002  0.00  0.00           C 0
+ATOM   3393    O SER K 463     134.138 -23.636  28.263  0.55  2.14           O 0
+ATOM   3420   CG ASN K 467     136.653 -26.611  26.526  0.00  0.00           C 0
+ATOM   3419   CB ASN K 467     136.202 -25.681  27.631  0.00  0.00           C 0
+ATOM   3421  OD1 ASN K 467     136.070 -27.675  26.323  0.58  8.57           O 0
+ATOM   3396    N VAL K 464     134.188 -21.409  28.035  0.00  0.00           N 0
+ATOM   3392    C SER K 463     133.558 -22.557  28.255  0.00  0.00           C 0
+ATOM   3394   CB SER K 463     131.297 -22.506  27.189  0.00  0.00           C 0
+ATOM   3395   OG SER K 463     129.992 -23.027  27.390  0.00  0.00           O 0
+ATOM   3314  NH2 ARG K 452     130.135 -26.102  30.124  0.65  8.75           N 0
+ATOM   3415    N ASN K 467     135.618 -25.468  29.980  0.63  1.09           N 0
+ATOM   3416   CA ASN K 467     136.307 -26.314  29.021  0.00  0.00           C 0
+ATOM   3444   CE LYS K 470     133.480 -29.590  31.059  0.00  0.00           C 0
+ATOM   3445   NZ LYS K 470     132.290 -30.308  30.537  0.61  5.47           N 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : 0.0988
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8310
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6621
+HEADER 5  - Mean B-factor of pocket residues  : 0.0944
+HEADER 6  - Hydrophobicity Score              : 30.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 240.5416
+HEADER 10 - Pocket volume (convex hull)       : 9.0614
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM    350  NH1 ARG D  66      53.650   0.741  93.023  0.58  5.47           N 0
+ATOM    346   CG ARG D  66      50.657   1.768  92.763  0.00  0.00           C 0
+ATOM    468    O TRP D  82      52.892   7.959  91.352  0.00  0.00           O 0
+ATOM    355    O PHE D  67      50.692   4.715  89.029  0.59  1.07           O 0
+ATOM    484    N GLU D  84      53.073   5.137  87.755  0.00  0.00           N 0
+ATOM    342   CA ARG D  66      49.190   3.607  93.682  0.00  0.00           C 0
+ATOM    349   CZ ARG D  66      53.246   0.269  91.847  0.00  0.00           C 0
+ATOM    345   CB ARG D  66      49.543   2.119  93.746  0.00  0.00           C 0
+ATOM    352    N PHE D  67      49.202   4.814  91.579  0.00  0.00           N 0
+ATOM    332    O TYR D  65      49.153   5.868  95.276  0.52  6.43           O 0
+ATOM    485   CA GLU D  84      53.817   4.138  87.001  0.00  0.00           C 0
+ATOM    488   CB GLU D  84      53.671   2.754  87.636  0.00  0.00           C 0
+ATOM    482    O ALA D  83      54.574   6.772  87.378  0.62  2.14           O 0
+ATOM    481    C ALA D  83      53.514   6.387  87.870  0.00  0.00           C 0
+ATOM    351  NH2 ARG D  66      54.134   0.062  90.881  0.57  2.19           N 0
+ATOM    461    O PRO D  81      56.726   9.177  89.750  0.69  3.21           O 0
+ATOM    467    C TRP D  82      53.501   8.644  90.530  0.00  0.00           C 0
+TER
+END

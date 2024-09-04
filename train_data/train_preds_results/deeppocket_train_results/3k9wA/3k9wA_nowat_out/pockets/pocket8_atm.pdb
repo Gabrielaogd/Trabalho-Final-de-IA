@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0772
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0195
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5520
+HEADER 5  - Mean B-factor of pocket residues  : 0.2403
+HEADER 6  - Hydrophobicity Score              : 21.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.4800
+HEADER 10 - Pocket volume (convex hull)       : 2.8625
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM    401  OE2 GLU A  49      -6.225  32.597  -8.608  0.00  0.00           O 0
+ATOM   1323   CD LYS A 156      -5.959  30.915 -12.254  0.00  0.00           C 0
+ATOM   1342   CB ALA A 159      -0.177  29.218 -12.029  0.00  0.00           C 0
+ATOM   1354   CEAMET A 160      -3.079  26.626 -11.406  0.00  0.00           C 0
+ATOM   1324   CE LYS A 156      -6.542  29.612 -11.733  0.00  0.00           C 0
+ATOM   1325   NZ LYS A 156      -7.402  29.797 -10.531  0.00  0.00           N 0
+ATOM   1318   CA LYS A 156      -3.169  31.680 -14.242  0.00  0.00           C 0
+ATOM   1306    O GLU A 155      -0.414  31.997 -14.039  0.68  1.07           O 0
+ATOM   1321   CB LYS A 156      -4.675  31.944 -14.190  0.00  0.00           C 0
+ATOM   1317    N LYS A 156      -2.430  32.903 -14.548  0.00  0.00           N 0
+ATOM   1305    C GLU A 155      -1.107  32.964 -14.379  0.00  0.00           C 0
+ATOM   1307   CBAGLU A 155      -0.377  35.262 -13.528  0.00  0.00           C 0
+ATOM   1285  CZ3 TRP A 152      -5.426  36.607  -9.513  0.00  0.00           C 0
+ATOM   1313  OE1AGLU A 155       0.317  37.112 -11.459  0.00  0.00           O 0
+ATOM   1283  CE3 TRP A 152      -5.509  36.827 -10.892  0.00  0.00           C 0
+TER
+END

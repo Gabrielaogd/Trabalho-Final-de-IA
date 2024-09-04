@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1021
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8636
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5240
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 34.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.6575
+HEADER 10 - Pocket volume (convex hull)       : 6.3763
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM    454  ND2 ASN X  56       5.366  12.146  95.228  0.59  7.66           N 0
+ATOM    453  OD1 ASN X  56       7.008  10.623  95.389  0.00  0.00           O 0
+ATOM    689  CG1 VAL X  85       9.574  16.530  92.230  0.00  0.00           C 0
+ATOM    722  CD1 LEU X  89      13.117  16.352  94.841  0.00  0.00           C 0
+ATOM    233   CA GLY X  29       6.211  15.069  91.973  0.00  0.00           C 0
+ATOM    232    N GLY X  29       6.709  14.398  90.793  0.68  1.09           N 0
+ATOM    452   CG ASN X  56       6.068  11.115  94.774  0.00  0.00           C 0
+ATOM    448   CA ASN X  56       6.846   9.822  92.747  0.00  0.00           C 0
+ATOM    759   OH TYR X  93      11.650  11.035  91.192  0.66  7.50           O 0
+ATOM    460   CG PRO X  57      10.695   8.108  93.859  0.00  0.00           C 0
+ATOM    723  CD2 LEU X  89      15.157  15.069  94.130  0.00  0.00           C 0
+ATOM    461   CD PRO X  57       9.563   9.056  93.603  0.00  0.00           C 0
+ATOM    757  CE2 TYR X  93      12.666  13.104  90.449  0.00  0.00           C 0
+ATOM    443    O VAL X  55       6.506  11.562  90.567  0.00  0.00           O 0
+TER
+END

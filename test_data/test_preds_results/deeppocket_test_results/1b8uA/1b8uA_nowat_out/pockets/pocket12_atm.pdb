@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0094
+HEADER 1  - Drug Score                        : 0.0074
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9075
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5059
+HEADER 5  - Mean B-factor of pocket residues  : 0.0601
+HEADER 6  - Hydrophobicity Score              : 12.7500
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 290.6414
+HEADER 10 - Pocket volume (convex hull)       : 22.5515
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5500
+ATOM   1215   NE ARG A 165      42.117   9.239  34.920  0.70  2.19           N 0
+ATOM   1716   CG ARG A 229      44.747   7.461  33.462  0.00  0.00           C 0
+ATOM   1718   NE ARG A 229      45.426   5.270  34.369  0.77  3.28           N 0
+ATOM   1743  CD1 ILE A 233      42.376   4.217  31.763  0.00  0.00           C 0
+ATOM   1213   CG ARG A 165      43.324   9.036  37.011  0.00  0.00           C 0
+ATOM   1721  NH2 ARG A 229      46.015   3.670  35.902  0.00  0.00           N 0
+ATOM   1813   CB SER A 244      38.032   5.458  36.834  0.00  0.00           C 0
+ATOM   1814   OG SER A 244      38.227   5.650  35.449  0.67  5.36           O 0
+ATOM   1829   CB ASN A 247      34.962   5.668  41.229  0.00  0.00           C 0
+ATOM   1830   CG ASN A 247      35.482   5.315  42.615  0.00  0.00           C 0
+ATOM   1832  ND2 ASN A 247      36.526   5.997  43.040  0.22  7.66           N 0
+ATOM   1236   CB SER A 168      46.314   5.346  40.528  0.00  0.00           C 0
+ATOM   1209   CA ARG A 165      44.857   8.906  39.030  0.00  0.00           C 0
+ATOM   1204   CB ASN A 164      41.295   8.906  42.045  0.00  0.00           C 0
+ATOM   1812    O SER A 244      36.157   7.462  38.509  0.73  3.21           O 0
+ATOM   1207  ND2 ASN A 164      39.125   9.165  43.088  0.00  0.00           N 0
+ATOM   1180  CD1 LEU A 161      38.869   9.225  37.197  0.00  0.00           C 0
+ATOM   1810   CA SER A 244      36.551   5.486  37.245  0.00  0.00           C 0
+ATOM   1203    O ASN A 164      44.205   7.786  41.505  0.60  3.21           O 0
+ATOM   1202    C ASN A 164      43.655   8.838  41.154  0.00  0.00           C 0
+TER
+END

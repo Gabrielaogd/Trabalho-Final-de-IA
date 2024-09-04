@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1777
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7885
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4078
+HEADER 5  - Mean B-factor of pocket residues  : 0.0826
+HEADER 6  - Hydrophobicity Score              : 42.5556
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 197.5674
+HEADER 10 - Pocket volume (convex hull)       : 2.7194
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM    748   CB THR A 112      22.821   1.505   9.256  0.00  0.00           C 0
+ATOM    730   CA GLY A 110      26.499   5.828   9.626  0.00  0.00           C 0
+ATOM    757  CG2 VAL A 113      22.523   5.858  12.035  0.00  0.00           C 0
+ATOM    709  CD1 LEU A 107      26.177   5.843  13.594  0.00  0.00           C 0
+ATOM    729    N GLY A 110      27.646   4.939   9.677  0.51  2.19           N 0
+ATOM    711    N PHE A 108      28.641   2.951  13.447  0.56  2.19           N 0
+ATOM    749  OG1 THR A 112      23.602   0.424   8.741  0.00  0.00           O 0
+ATOM    699    O VAL A 106      25.377   1.090  15.142  0.43  8.57           O 0
+ATOM    686  OD1 ASP A 104      21.739   0.687  13.964  0.31  2.14           O 0
+ATOM    727  OG1 THR A 109      28.740   3.044   7.581  0.52  2.14           O 0
+ATOM    717  CD1 PHE A 108      31.627   0.117  10.731  0.00  0.00           C 0
+ATOM    556   OH TYR A  71      26.117   0.365   5.300  0.00  0.00           O 0
+ATOM    715   CB PHE A 108      30.086   1.399  12.235  0.00  0.00           C 0
+ATOM    728  CG2 THR A 109      30.974   2.306   8.121  0.00  0.00           C 0
+ATOM    722    N THR A 109      29.845   3.440  10.441  0.00  0.00           N 0
+TER
+END

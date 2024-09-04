@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.1220
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1655
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5597
+HEADER 5  - Mean B-factor of pocket residues  : 0.0284
+HEADER 6  - Hydrophobicity Score              : 22.7143
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.8394
+HEADER 10 - Pocket volume (convex hull)       : 0.8984
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM   1898   CA LEU A 252      11.055 -21.355 -25.601  0.00  0.00           C 0
+ATOM   1299  CG2 VAL A 160      16.378 -27.761 -23.993  0.00  0.00           C 0
+ATOM   1901   CB LEU A 252      11.298 -21.559 -27.100  0.00  0.00           C 0
+ATOM   1903  CD1 LEU A 252      13.420 -20.171 -27.239  0.00  0.00           C 0
+ATOM   1897    N LEU A 252      10.379 -22.533 -25.024  0.65  1.09           N 0
+ATOM   1891    O GLN A 251      10.909 -21.907 -22.945  0.39  2.14           O 0
+ATOM   1890    C GLN A 251      10.335 -22.678 -23.704  0.00  0.00           C 0
+ATOM   1309   CA GLY A 162      12.462 -24.775 -20.481  0.00  0.00           C 0
+ATOM   1895  OE1 GLN A 251      10.843 -27.164 -23.573  0.68  2.14           O 0
+ATOM   1303    O LEU A 161      14.583 -26.516 -20.566  0.70  4.29           O 0
+ATOM   1296    O VAL A 160      13.262 -28.669 -23.246  0.56  1.07           O 0
+ATOM   1267    O ASP A 157      10.041 -27.624 -26.498  0.32  5.36           O 0
+ATOM   1291   CG PRO A 159      14.254 -29.468 -27.876  0.00  0.00           C 0
+ATOM   1292   CD PRO A 159      12.788 -29.680 -27.536  0.00  0.00           C 0
+TER
+END

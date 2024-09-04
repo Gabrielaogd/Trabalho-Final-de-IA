@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1188
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7144
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4396
+HEADER 5  - Mean B-factor of pocket residues  : 0.2703
+HEADER 6  - Hydrophobicity Score              : -18.5714
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 176.1509
+HEADER 10 - Pocket volume (convex hull)       : 6.8519
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0500
+ATOM   1109    N ASP A 139     -10.826 -27.940 -56.392  0.54  2.19           N 0
+ATOM    303   NZ LYS A  41     -14.298 -30.007 -54.924  0.00  0.00           N 0
+ATOM   2374   NZ LYS A 302     -15.159 -22.949 -53.618  0.00  0.00           N 0
+ATOM   1116  OD2 ASP A 139     -13.671 -28.195 -59.267  0.36  6.43           O 0
+ATOM   1106   CB PRO A 138     -10.316 -27.597 -53.091  0.00  0.00           C 0
+ATOM    298    O LYS A  41     -14.768 -28.585 -50.195  0.24  5.36           O 0
+ATOM   1113   CB ASP A 139     -11.590 -27.259 -58.639  0.00  0.00           C 0
+ATOM   1124  CD2 TYR A 140     -11.727 -23.246 -58.294  0.00  0.00           C 0
+ATOM    835   NZ LYS A 104     -11.502 -24.658 -50.791  0.31  2.19           N 0
+ATOM   1120    O TYR A 140      -8.917 -24.625 -54.147  0.00  0.00           O 0
+ATOM   1114   CG ASP A 139     -12.552 -28.416 -58.749  0.00  0.00           C 0
+ATOM   1117    N TYR A 140      -9.758 -25.509 -56.688  0.00  0.00           N 0
+ATOM   2372   CD LYS A 302     -13.572 -21.613 -54.880  0.00  0.00           C 0
+ATOM   1443   CD LYS A 181     -15.819 -21.919 -59.237  0.00  0.00           C 0
+ATOM   1445   NZ LYS A 181     -17.583 -23.718 -59.054  0.00  0.00           N 0
+ATOM   1126  CE2 TYR A 140     -12.249 -23.233 -59.582  0.00  0.00           C 0
+TER
+END

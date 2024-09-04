@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0360
+HEADER 1  - Drug Score                        : 0.0310
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8962
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4895
+HEADER 5  - Mean B-factor of pocket residues  : 0.4601
+HEADER 6  - Hydrophobicity Score              : 5.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 163.5968
+HEADER 10 - Pocket volume (convex hull)       : 3.7771
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   1238   CB SER A 166       9.280  10.537 -16.222  0.00  0.00           C 0
+ATOM   1215  CG2 THR A 162       8.015  15.477 -17.140  0.00  0.00           C 0
+ATOM   1239   OG SER A 166       8.098  11.295 -16.405  0.87  1.07           O 0
+ATOM   1237    O SER A 166       9.472  10.182 -12.975  0.00  0.00           O 0
+ATOM   1241   CA VAL A 167       6.831  10.704 -12.440  0.00  0.00           C 0
+ATOM   1240    N VAL A 167       7.348  10.191 -13.704  0.00  0.00           N 0
+ATOM   1246  CG2 VAL A 167       5.148  12.189 -13.547  0.00  0.00           C 0
+ATOM    899   CD LYS A 121       7.944  17.736 -10.284  0.00  0.00           C 0
+ATOM    897   CB LYS A 121       6.104  16.287  -9.354  0.00  0.00           C 0
+ATOM   1214  OG1 THR A 162       5.722  15.003 -16.561  0.26  4.29           O 0
+ATOM    905    O GLY A 122       2.654  15.542 -11.972  0.21  4.29           O 0
+ATOM   1269   CB ASN A 170      10.290  11.894  -9.871  0.00  0.00           C 0
+ATOM   1270   CG ASN A 170      10.699  13.117  -9.070  0.00  0.00           C 0
+ATOM   1272  ND2 ASN A 170      11.625  13.899  -9.616  0.42  7.66           N 0
+ATOM   1213   CB THR A 162       6.873  14.475 -17.235  0.00  0.00           C 0
+TER
+END

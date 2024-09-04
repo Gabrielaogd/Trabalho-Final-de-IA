@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.1185
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8259
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5619
+HEADER 5  - Mean B-factor of pocket residues  : 0.4221
+HEADER 6  - Hydrophobicity Score              : 5.8889
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 280.4432
+HEADER 10 - Pocket volume (convex hull)       : 12.5575
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    467    O GLY F  87      -2.248  96.197  29.828  0.47  3.21           O 0
+ATOM    490    O TRP F  90       1.060  97.311  30.160  0.72  2.14           O 0
+ATOM    971  CG1 VAL F 153      -1.017  91.890  33.654  0.00  0.00           C 0
+ATOM    996   NZ LYS F 156      -2.712  91.694  29.981  0.78  8.75           N 0
+ATOM    972  CG2 VAL F 153       0.677  93.343  34.701  0.00  0.00           C 0
+ATOM    489    C TRP F  90       1.916  98.060  29.683  0.00  0.00           C 0
+ATOM    479    O ARG F  89       0.835 101.432  27.714  0.00  0.00           O 0
+ATOM    471    O ASP F  88      -2.036  98.890  26.706  0.00  0.00           O 0
+ATOM    487    N TRP F  90       0.291  99.849  29.221  0.00  0.00           N 0
+ATOM    501    N THR F  91       3.108  97.640  29.288  0.00  0.00           N 0
+ATOM    507  CG2 THR F  91       4.576  96.246  27.144  0.00  0.00           C 0
+ATOM    529  OE1 GLN F  94       4.767  99.726  28.147  0.56  2.14           O 0
+ATOM    502   CA THR F  91       3.548  96.258  29.496  0.00  0.00           C 0
+ATOM    508    N GLU F  92       3.934  94.758  31.382  0.75  2.19           N 0
+ATOM    512   CB GLU F  92       4.607  92.897  32.841  0.00  0.00           C 0
+TER
+END

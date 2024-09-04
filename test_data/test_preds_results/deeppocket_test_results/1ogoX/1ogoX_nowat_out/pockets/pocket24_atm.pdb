@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : 0.0500
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9533
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5973
+HEADER 5  - Mean B-factor of pocket residues  : 0.2616
+HEADER 6  - Hydrophobicity Score              : 9.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.5428
+HEADER 10 - Pocket volume (convex hull)       : 3.5466
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM    854  OD2 ASP X 111      48.561  32.032  -3.715  0.00  0.00           O 0
+ATOM    358   CA GLY X  48      51.754  33.897  -3.083  0.00  0.00           C 0
+ATOM    359    C GLY X  48      53.065  33.230  -3.457  0.00  0.00           C 0
+ATOM    360    O GLY X  48      53.817  33.828  -4.222  0.00  0.00           O 0
+ATOM    368    N ASN X  50      53.596  30.162  -5.033  0.43  2.19           N 0
+ATOM    372   CB ASN X  50      54.106  30.047  -7.430  0.00  0.00           C 0
+ATOM    369   CA ASN X  50      53.558  29.291  -6.210  0.00  0.00           C 0
+ATOM    375  ND2 ASN X  50      52.513  28.729  -8.706  0.50  9.84           N 0
+ATOM    392  CE1 PHE X  52      49.992  27.659  -6.941  0.00  0.00           C 0
+ATOM   1112  CG1 VAL X 148      45.379  30.805  -6.505  0.00  0.00           C 0
+ATOM   1113  CG2 VAL X 148      45.375  29.733  -8.766  0.00  0.00           C 0
+ATOM    394   CZ PHE X  52      48.855  27.899  -6.204  0.00  0.00           C 0
+ATOM   1073   CB SER X 142      46.804  29.375 -12.765  0.00  0.00           C 0
+ATOM    868   CD LYS X 113      47.103  25.446  -9.565  0.00  0.00           C 0
+ATOM    870   NZ LYS X 113      48.522  25.485 -11.566  0.42  6.56           N 0
+TER
+END

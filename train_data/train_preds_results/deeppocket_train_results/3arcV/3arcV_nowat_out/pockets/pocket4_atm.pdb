@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : -0.0122
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9357
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5312
+HEADER 5  - Mean B-factor of pocket residues  : 0.5770
+HEADER 6  - Hydrophobicity Score              : 26.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 191.8020
+HEADER 10 - Pocket volume (convex hull)       : 2.0189
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM    241  NH1 ARG V  31     -21.198 -61.732 225.694  0.00  0.00           N 0
+ATOM    281   CZ TYR V  35     -26.476 -57.479 226.807  0.00  0.00           C 0
+ATOM    279  CE1 TYR V  35     -26.427 -57.853 225.474  0.00  0.00           C 0
+ATOM    832  ND2 ASN V 106     -28.331 -60.550 229.142  0.36  8.75           N 0
+ATOM    278  CD2 TYR V  35     -24.241 -56.679 226.674  0.00  0.00           C 0
+ATOM    277  CD1 TYR V  35     -25.276 -57.630 224.743  0.00  0.00           C 0
+ATOM    276   CG TYR V  35     -24.163 -57.037 225.330  0.00  0.00           C 0
+ATOM    831  OD1 ASN V 106     -27.206 -58.887 230.169  0.00  0.00           O 0
+ATOM    830   CG ASN V 106     -27.777 -59.985 230.214  0.00  0.00           C 0
+ATOM    242  NH2 ARG V  31     -20.043 -62.233 227.599  0.73  6.56           N 0
+ATOM    828    O ASN V 106     -25.434 -60.584 233.093  0.50  3.21           O 0
+ATOM    829   CB ASN V 106     -27.899 -60.761 231.515  0.00  0.00           C 0
+ATOM    250  CD2 LEU V  32     -20.808 -58.985 228.841  0.00  0.00           C 0
+ATOM    840  CD2 LEU V 107     -23.439 -57.049 230.836  0.00  0.00           C 0
+ATOM    280  CE2 TYR V  35     -25.393 -56.892 227.407  0.00  0.00           C 0
+ATOM    873  OD2 ASP V 111     -21.928 -60.353 232.797  0.00  0.00           O 0
+TER
+END

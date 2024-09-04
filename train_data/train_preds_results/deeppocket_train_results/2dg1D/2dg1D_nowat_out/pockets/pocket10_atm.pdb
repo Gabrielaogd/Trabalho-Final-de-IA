@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0089
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.6907
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3542
+HEADER 5  - Mean B-factor of pocket residues  : 0.3530
+HEADER 6  - Hydrophobicity Score              : -12.8889
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 146.4246
+HEADER 10 - Pocket volume (convex hull)       : 5.2013
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1110   CE LYS D 145     115.675 -32.954 -10.634  0.00  0.00           C 0
+ATOM   1111   NZ LYS D 145     114.967 -34.239 -10.899  0.00  0.00           N 0
+ATOM   1109   CD LYS D 145     115.064 -32.209  -9.458  0.00  0.00           C 0
+ATOM   1651    O ASP D 214     111.738 -30.778 -15.285  0.50  8.57           O 0
+ATOM   1657   CA GLY D 215     109.956 -32.892 -15.370  0.00  0.00           C 0
+ATOM   1476    O GLU D 193     109.371 -38.363 -13.717  0.47  3.21           O 0
+ATOM   1490   NZ LYS D 194     113.880 -37.937 -15.194  0.28  7.66           N 0
+ATOM   1643    O ASP D 213     114.038 -33.912 -16.348  0.45  6.43           O 0
+ATOM   1281   OH TYR D 166     110.452 -30.222  -9.210  0.77  5.36           O 0
+ATOM   1477   CB GLU D 193     110.362 -39.320 -11.247  0.00  0.00           C 0
+ATOM   1095  OD1 ASP D 143     110.430 -32.806  -8.689  0.56  3.21           O 0
+ATOM   1480  OE1 GLU D 193     111.396 -37.782  -8.991  0.75  3.21           O 0
+ATOM   1280   CZ TYR D 166     109.234 -29.920  -9.785  0.00  0.00           C 0
+ATOM   1142   OH TYR D 149     107.695 -33.561 -12.634  0.40  2.14           O 0
+ATOM   1093   CB ASP D 143     109.946 -35.016  -8.005  0.00  0.00           C 0
+TER
+END

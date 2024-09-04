@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0590
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0762
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7721
+HEADER 5  - Mean B-factor of pocket residues  : 0.1635
+HEADER 6  - Hydrophobicity Score              : 31.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 269.6543
+HEADER 10 - Pocket volume (convex hull)       : 4.0851
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM   2276   CB VAL B 296       5.131 -12.100  51.664  0.00  0.00           C 0
+ATOM   2251   CG GLU B 293       7.844  -7.271  55.148  0.00  0.00           C 0
+ATOM   2277  CG1 VAL B 296       5.935 -13.271  51.100  0.00  0.00           C 0
+ATOM   2240    O LYS B 292       6.412  -7.264  52.388  0.00  0.00           O 0
+ATOM   2278  CG2 VAL B 296       5.129 -10.948  50.672  0.00  0.00           C 0
+ATOM   2247   CA GLU B 293       5.718  -8.588  54.725  0.00  0.00           C 0
+ATOM   2249    O GLU B 293       4.943 -10.825  55.115  0.86  3.21           O 0
+ATOM   1249  CG1 VAL B 164       7.208 -11.000  58.369  0.00  0.00           C 0
+ATOM   1247    O VAL B 164       9.864  -9.269  58.268  0.19  8.57           O 0
+ATOM   2285  CG2 VAL B 297       5.984 -14.185  56.240  0.00  0.00           C 0
+ATOM   1245   CA VAL B 164       9.376 -11.181  59.635  0.00  0.00           C 0
+ATOM   2250   CB GLU B 293       6.608  -7.906  55.770  0.00  0.00           C 0
+ATOM   1250  CG2 VAL B 164       7.541 -12.868  59.986  0.00  0.00           C 0
+ATOM   1244    N VAL B 164      10.028 -11.684  60.838  0.00  0.00           N 0
+ATOM   1271  NH2 ARG B 166      14.336 -13.763  59.796  0.00  0.00           N 0
+ATOM   1236   CB TYR B 163      11.806 -13.692  62.280  0.00  0.00           C 0
+ATOM   1234    C TYR B 163      11.351 -11.608  60.972  0.00  0.00           C 0
+ATOM   1235    O TYR B 163      12.079 -11.106  60.116  0.31  4.29           O 0
+TER
+END

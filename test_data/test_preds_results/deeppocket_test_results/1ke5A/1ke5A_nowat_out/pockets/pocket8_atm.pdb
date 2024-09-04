@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0242
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8114
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3955
+HEADER 5  - Mean B-factor of pocket residues  : 0.5867
+HEADER 6  - Hydrophobicity Score              : 50.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 6.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 215.3059
+HEADER 10 - Pocket volume (convex hull)       : 7.0635
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM    549   OH TYR A  77     -16.467  47.497  55.837  0.00  0.00           O 0
+ATOM     48   CD LYS A   6     -19.850  45.075  48.596  0.00  0.00           C 0
+ATOM     50   NZ LYS A   6     -18.819  42.917  49.285  0.00  0.00           N 0
+ATOM      1    N MET A   1     -19.619  49.683  54.038  0.34  5.47           N 0
+ATOM    546  CE1 TYR A  77     -15.317  48.244  53.870  0.00  0.00           C 0
+ATOM    259   CD LYS A  34     -13.437  44.284  52.929  0.00  0.00           C 0
+ATOM    243  CD2 LEU A  32     -17.061  49.800  48.915  0.00  0.00           C 0
+ATOM      4    O MET A   1     -21.863  50.427  52.267  0.27  4.29           O 0
+ATOM     47   CG LYS A   6     -19.953  46.155  47.521  0.00  0.00           C 0
+ATOM     25    O PHE A   4     -23.037  49.727  49.049  0.29  6.43           O 0
+ATOM     49   CE LYS A   6     -18.934  43.930  48.193  0.00  0.00           C 0
+ATOM    146  CE1 TYR A  19     -14.833  44.368  48.169  0.00  0.00           C 0
+ATOM    144  CD1 TYR A  19     -15.041  45.426  47.281  0.00  0.00           C 0
+ATOM    257   CB LYS A  34     -12.646  46.302  51.645  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1299
+HEADER 1  - Drug Score                        : 0.1165
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.5195
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3885
+HEADER 5  - Mean B-factor of pocket residues  : 0.2718
+HEADER 6  - Hydrophobicity Score              : 14.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 116.3356
+HEADER 10 - Pocket volume (convex hull)       : 2.5168
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7222
+ATOM    249    O ASP A  32      -7.016  -8.996  30.204  0.36  6.43           O 0
+ATOM   2014  CD1 ILE A 256      -9.071  -6.270  31.930  0.00  0.00           C 0
+ATOM    266   CB ASP A  34      -8.728 -11.918  33.886  0.00  0.00           C 0
+ATOM   1969  CD2 LEU A 251      -5.465  -5.685  34.538  0.00  0.00           C 0
+ATOM    291   CB THR A  37      -9.828 -10.059  37.574  0.00  0.00           C 0
+ATOM    265    O ASP A  34     -11.337 -10.690  34.250  0.29  1.07           O 0
+ATOM    293  CG2 THR A  37      -9.122  -8.874  38.203  0.00  0.00           C 0
+ATOM   2012  CG1 ILE A 256      -9.460  -4.881  32.425  0.00  0.00           C 0
+ATOM   2007    N ILE A 256     -10.080  -3.327  34.878  0.76  1.09           N 0
+ATOM   2011   CB ILE A 256     -10.854  -4.822  33.070  0.00  0.00           C 0
+ATOM   1990    O ARG A 254      -6.035  -2.914  36.513  0.70  4.29           O 0
+ATOM    290    O THR A  37     -11.716  -7.674  38.195  0.52  9.64           O 0
+ATOM   1999   CA GLN A 255      -8.664  -2.129  36.433  0.00  0.00           C 0
+ATOM   2003   CG GLN A 255     -10.209  -2.638  38.447  0.00  0.00           C 0
+ATOM    294    N ALA A  38     -12.624  -8.582  36.346  0.00  0.00           N 0
+ATOM    289    C THR A  37     -11.917  -8.655  37.472  0.00  0.00           C 0
+TER
+END

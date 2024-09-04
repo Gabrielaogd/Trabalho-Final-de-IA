@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : 0.0152
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8119
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5283
+HEADER 5  - Mean B-factor of pocket residues  : 0.1187
+HEADER 6  - Hydrophobicity Score              : -0.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.8036
+HEADER 10 - Pocket volume (convex hull)       : 4.9434
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   3541   CD ARG A 670      14.465  -4.291  44.346  0.00  0.00           C 0
+ATOM   1995  OD2 ASP A 465       9.826  -7.199  39.916  0.52  7.50           O 0
+ATOM   2311  CD2 LEU A 508      12.827  -8.767  42.718  0.00  0.00           C 0
+ATOM   3544  NH1 ARG A 670      12.369  -3.755  46.152  0.00  0.00           N 0
+ATOM   3782  NE2AGLN A 700      11.025  -0.990  41.593  0.00  9.84           N 0
+ATOM   2307    O LEU A 508      11.863  -6.760  46.820  0.00  0.00           O 0
+ATOM   2320  CE1 HIS A 509      10.722 -10.802  48.775  0.00  0.00           C 0
+ATOM   2308   CB LEU A 508      12.591  -9.209  45.167  0.00  0.00           C 0
+ATOM   2310  CD1 LEU A 508      12.117 -10.998  43.538  0.00  0.00           C 0
+ATOM   2321  NE2 HIS A 509       9.741 -10.114  49.331  0.00  0.00           N 0
+ATOM   1994  OD1 ASP A 465       9.908  -9.381  40.181  0.21  7.50           O 0
+ATOM   3553  ND2 ASN A 671      14.094  -2.959  39.760  0.63  3.28           N 0
+ATOM   1991    O ASP A 465      13.831  -6.528  38.010  0.74  1.07           O 0
+ATOM   3778   CDAGLN A 700      12.261  -1.015  42.085  0.00  0.00           C 0
+ATOM   3776   CGAGLN A 700      12.391  -1.089  43.592  0.00  0.00           C 0
+TER
+END

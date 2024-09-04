@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0057
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9195
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5598
+HEADER 5  - Mean B-factor of pocket residues  : 0.3704
+HEADER 6  - Hydrophobicity Score              : 18.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.9251
+HEADER 10 - Pocket volume (convex hull)       : 1.7083
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   2014  CD1 LEU A 283      62.331  14.780  26.408  0.00  0.00           C 0
+ATOM    956    O ASN A 129      63.103  19.217  33.052  0.00  0.00           O 0
+ATOM   1993   CB ASN A 281      67.472  14.801  32.479  0.00  0.00           C 0
+ATOM    950   CD LYS A 127      61.382  19.140  29.588  0.00  0.00           C 0
+ATOM   1992    O ASN A 281      67.446  17.593  31.194  0.60  2.14           O 0
+ATOM   2000    O PHE A 282      67.805  15.393  27.220  0.67  1.07           O 0
+ATOM   2013   CG LEU A 283      63.799  14.864  25.976  0.00  0.00           C 0
+ATOM   1820   CB ALA A 257      67.416  11.884  25.276  0.00  0.00           C 0
+ATOM   1836  ND2 ASN A 259      68.980  12.559  30.462  0.64  3.28           N 0
+ATOM   2012   CB LEU A 283      64.388  16.203  26.448  0.00  0.00           C 0
+ATOM   1991    C ASN A 281      68.198  16.651  30.932  0.00  0.00           C 0
+ATOM    949   CG LYS A 127      62.591  20.044  29.571  0.00  0.00           C 0
+ATOM    947    O LYS A 127      66.282  19.611  28.648  0.00  0.00           O 0
+ATOM   1999    C PHE A 282      67.536  16.554  27.538  0.00  0.00           C 0
+TER
+END

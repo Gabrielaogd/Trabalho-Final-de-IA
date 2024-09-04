@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.1102
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9507
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6112
+HEADER 5  - Mean B-factor of pocket residues  : 0.1356
+HEADER 6  - Hydrophobicity Score              : 6.2857
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 2.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 280.0517
+HEADER 10 - Pocket volume (convex hull)       : 10.4349
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM    901   CB SER B 119     -40.444  59.246  77.052  0.00  0.00           C 0
+ATOM    765   CB SER B 101     -38.825  63.246  77.771  0.00  0.00           C 0
+ATOM    761    N SER B 101     -38.489  64.163  75.534  0.60  1.09           N 0
+ATOM    766   OG SER B 101     -39.394  64.484  78.191  0.00  0.00           O 0
+ATOM    902   OG SER B 119     -39.480  60.209  77.333  0.00  0.00           O 0
+ATOM    760  CD2 LEU B 100     -40.481  63.562  71.699  0.00  0.00           C 0
+ATOM    896   OG SER B 118     -39.004  58.282  71.341  0.64  4.29           O 0
+ATOM    903    N SER B 120     -41.549  57.282  74.613  0.62  2.19           N 0
+ATOM    907   CB SER B 120     -43.834  56.987  73.679  0.00  0.00           C 0
+ATOM    908   OG SER B 120     -44.614  57.539  74.717  0.52  5.36           O 0
+ATOM    897    N SER B 119     -39.123  58.815  75.055  0.00  0.00           N 0
+ATOM    748    O ASN B  99     -40.227  67.586  73.378  0.38  8.57           O 0
+ATOM    754   CA LEU B 100     -38.585  65.289  73.385  0.00  0.00           C 0
+ATOM    764    O SER B 101     -37.766  61.533  75.179  0.00  0.00           O 0
+ATOM    917   CB SER B 122     -41.649  57.445  68.282  0.00  0.00           C 0
+ATOM    895   CB SER B 118     -38.443  59.389  72.003  0.00  0.00           C 0
+ATOM    918   OG SER B 122     -43.008  57.076  68.390  0.58  9.64           O 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1351
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5871
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3835
+HEADER 5  - Mean B-factor of pocket residues  : 0.2051
+HEADER 6  - Hydrophobicity Score              : 6.6000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 86.4028
+HEADER 10 - Pocket volume (convex hull)       : 0.5037
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   1017   CG ARG A 209      14.557   2.526  44.912  0.00  0.00           C 0
+ATOM    883   OG SER A 191      17.637   8.251  47.992  0.73  1.07           O 0
+ATOM   1013   CA ARG A 209      16.967   1.863  44.723  0.00  0.00           C 0
+ATOM   1012    N ARG A 209      17.023   2.688  43.540  0.00  0.00           N 0
+ATOM    757  OE2 GLU A 174      14.378   5.428  49.079  0.60  1.07           O 0
+ATOM    862    O ARG A 189      17.685   7.111  42.792  0.53  4.29           O 0
+ATOM    864   CG ARG A 189      15.551   9.328  44.900  0.00  0.00           C 0
+ATOM    863   CB ARG A 189      15.052   8.743  43.581  0.00  0.00           C 0
+ATOM   1020   CZ ARG A 209      12.902   3.705  47.193  0.00  0.00           C 0
+ATOM   1021  NH1 ARG A 209      12.388   4.843  47.640  0.69  1.09           N 0
+ATOM    752    O GLU A 174      18.265   3.600  50.383  0.74  5.36           O 0
+ATOM    982   CB TRP A 206      21.020   4.180  46.586  0.00  0.00           C 0
+ATOM    882   CB SER A 191      18.951   7.879  48.312  0.00  0.00           C 0
+ATOM    878    N SER A 191      19.971   8.353  46.053  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0330
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.5274
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3790
+HEADER 5  - Mean B-factor of pocket residues  : 0.1565
+HEADER 6  - Hydrophobicity Score              : 32.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 87.9623
+HEADER 10 - Pocket volume (convex hull)       : 0.8645
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5500
+ATOM   2808  OE1 GLN A 451     -13.363 -14.171 -13.861  0.57  4.29           O 0
+ATOM   2518  NE2 HIS A 417     -11.224 -15.093  -8.668  0.00  0.00           N 0
+ATOM   2766    O ALA A 447     -10.243 -17.827 -11.342  0.00  0.00           O 0
+ATOM   2805   CB GLN A 451     -10.818 -15.302 -13.303  0.00  0.00           C 0
+ATOM   2123   CB TYR A 369     -18.394 -15.053 -10.476  0.00  0.00           C 0
+ATOM   2838   NZ LYS A 454     -17.005 -14.446 -15.356  0.69  3.28           N 0
+ATOM   2799  CE1 HIS A 450     -15.076 -19.290 -14.404  0.00  0.00           C 0
+ATOM   2094    O ILE A 366     -18.550 -18.594 -10.394  0.39  6.43           O 0
+ATOM   2797  ND1 HIS A 450     -13.923 -19.183 -13.763  0.00  0.00           N 0
+ATOM   2096  CG1 ILE A 366     -15.719 -20.046 -11.056  0.00  0.00           C 0
+ATOM   1970   CE MET A 351     -14.679 -16.183  -7.451  0.00  0.00           C 0
+ATOM   2125  CD1 TYR A 369     -16.544 -13.516  -9.700  0.00  0.00           C 0
+ATOM   2098  CD1 ILE A 366     -14.318 -19.673 -10.503  0.00  0.00           C 0
+ATOM   2124   CG TYR A 369     -17.490 -13.870 -10.679  0.00  0.00           C 0
+ATOM   2836   CD LYS A 454     -15.355 -16.283 -16.176  0.00  0.00           C 0
+ATOM   1969   SD MET A 351     -16.092 -17.013  -8.101  0.00  0.00           S 0
+TER
+END

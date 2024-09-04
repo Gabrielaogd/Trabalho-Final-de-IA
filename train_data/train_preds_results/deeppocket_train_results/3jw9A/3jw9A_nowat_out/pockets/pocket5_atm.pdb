@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0551
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7822
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4903
+HEADER 5  - Mean B-factor of pocket residues  : 0.0990
+HEADER 6  - Hydrophobicity Score              : 30.3077
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0769
+HEADER 9  - Pocket volume (Monte Carlo)       : 109.9854
+HEADER 10 - Pocket volume (convex hull)       : 1.3858
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0435
+ATOM   1822   CB CYS A 245      -5.544  16.609  -0.698  0.00  0.00           C 0
+ATOM   1824    N MET A 246      -4.320  14.922   1.678  0.00  0.00           N 0
+ATOM    625    O ALA A  84      -6.235  17.229   4.728  0.71  2.14           O 0
+ATOM    495  CG2 THR A  66      -8.471  12.516   4.447  0.00  0.00           C 0
+ATOM    525  OE2 GLU A  70     -10.112  15.511   5.591  0.63  2.14           O 0
+ATOM    464   CA GLY A  62     -12.854  14.557  -0.050  0.00  0.00           C 0
+ATOM    447    O ARG A  60      -9.352  17.737  -1.684  0.33  2.14           O 0
+ATOM    458    O LEU A  61     -12.780  17.318   0.035  0.41  2.14           O 0
+ATOM   1746  NH1 ARG A 234     -12.674  17.112   2.978  0.00  0.00           N 0
+ATOM    463    N GLY A  62     -12.417  15.428  -1.126  0.00  0.00           N 0
+ATOM   1776  CD1 LEU A 238      -7.117  19.613   2.129  0.00  0.00           C 0
+ATOM    440    O THR A  59      -9.495  14.278  -1.979  0.35  5.36           O 0
+ATOM    493   CB THR A  66      -9.197  11.382   3.782  0.00  0.00           C 0
+ATOM   1827    O MET A 246      -5.250  12.388   0.864  0.84  1.07           O 0
+ATOM    494  OG1 THR A  66      -8.288  10.683   2.922  0.63  1.07           O 0
+ATOM    467    N ASN A  63     -12.737  12.213   0.529  0.57  2.19           N 0
+ATOM    620  CD1 LEU A  83      -9.931  19.051   4.730  0.00  0.00           C 0
+TER
+END

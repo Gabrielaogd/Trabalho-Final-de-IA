@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0575
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8650
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5990
+HEADER 5  - Mean B-factor of pocket residues  : 0.1408
+HEADER 6  - Hydrophobicity Score              : 15.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 191.3855
+HEADER 10 - Pocket volume (convex hull)       : 1.5518
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   1014  NH2AARG B 126      30.472  66.045  22.746  0.50  9.84           N 0
+ATOM    958   CG ARG B 120      24.173  65.929  19.224  0.00  0.00           C 0
+ATOM    959   CD ARG B 120      24.620  66.051  17.761  0.00  0.00           C 0
+ATOM    934  OE2AGLU B 116      31.467  66.092  18.004  0.00  0.00           O 0
+ATOM    957   CB ARG B 120      24.711  64.674  19.891  0.00  0.00           C 0
+ATOM    954   CA ARG B 120      24.328  64.539  21.382  0.00  0.00           C 0
+ATOM    928   CGAGLU B 116      30.596  64.250  19.231  0.00  0.00           C 0
+ATOM    953    N ARG B 120      25.283  63.693  22.087  0.00  0.00           N 0
+ATOM    951    O ALA B 119      24.374  64.112  24.097  0.35  4.29           O 0
+ATOM    950    C ALA B 119      25.223  63.551  23.409  0.00  0.00           C 0
+ATOM    962  NH1 ARG B 120      25.755  63.830  16.440  0.61  9.84           N 0
+ATOM    952   CB ALA B 119      27.633  63.398  24.148  0.00  0.00           C 0
+ATOM    986    O LEU B 124      26.345  64.778  26.777  0.67  5.36           O 0
+ATOM    925    O GLU B 116      27.890  63.042  20.623  0.59  2.14           O 0
+TER
+END

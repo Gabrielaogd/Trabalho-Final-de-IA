@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0757
+HEADER 1  - Drug Score                        : 0.0093
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5503
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3813
+HEADER 5  - Mean B-factor of pocket residues  : 0.0426
+HEADER 6  - Hydrophobicity Score              : 73.3750
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 82.3641
+HEADER 10 - Pocket volume (convex hull)       : 0.7089
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   2750  CD2 LEU A 379    -143.685  36.293 114.576  0.00  0.00           C 0
+ATOM   2536  CD1 LEU A 350    -137.881  33.977 116.664  0.00  0.00           C 0
+ATOM   2622   CB VAL A 361    -144.261  32.760 117.865  0.00  0.00           C 0
+ATOM   2605  CD1 LEU A 358    -140.896  33.050 113.015  0.00  0.00           C 0
+ATOM   2600   CA LEU A 358    -140.821  30.875 115.026  0.00  0.00           C 0
+ATOM   2591    O ARG A 357    -141.881  30.720 117.564  0.00  0.00           O 0
+ATOM   2623  CG1 VAL A 361    -144.924  34.139 117.687  0.00  0.00           C 0
+ATOM   2624  CG2 VAL A 361    -143.495  32.720 119.208  0.00  0.00           C 0
+ATOM   2490   SD MET A 344    -141.197  40.485 115.705  0.00  0.00           S 0
+ATOM   2378   CB TYR A 328    -138.686  36.899 118.986  0.00  0.00           C 0
+ATOM   2377    O TYR A 328    -141.738  37.599 119.912  0.72  1.07           O 0
+ATOM   2376    C TYR A 328    -140.776  37.057 120.430  0.00  0.00           C 0
+ATOM   2510  CD1 LEU A 347    -138.364  36.394 113.652  0.00  0.00           C 0
+ATOM   2381  CD2 TYR A 328    -138.172  38.860 117.463  0.00  0.00           C 0
+TER
+END

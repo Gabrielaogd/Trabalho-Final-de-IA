@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0338
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0057
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6024
+HEADER 5  - Mean B-factor of pocket residues  : 0.2041
+HEADER 6  - Hydrophobicity Score              : 20.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 186.1556
+HEADER 10 - Pocket volume (convex hull)       : 2.6637
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM   2326    O THR A 290      52.221  33.229  19.961  0.83  3.21           O 0
+ATOM   2319    O VAL A 289      56.452  32.509  20.267  0.00  0.00           O 0
+ATOM   2325    C THR A 290      52.604  32.359  19.172  0.00  0.00           C 0
+ATOM   2321  CG1 VAL A 289      56.411  35.316  21.513  0.00  0.00           C 0
+ATOM    887   CG GLN A 110      50.008  39.830  19.380  0.00  0.00           C 0
+ATOM    850   OG SER A 106      49.629  35.206  20.361  0.59  2.14           O 0
+ATOM   2334   CB LYS A 291      50.789  33.466  16.582  0.00  0.00           C 0
+ATOM   2335   CG LYS A 291      49.622  34.445  16.419  0.00  0.00           C 0
+ATOM    888   CD GLN A 110      48.844  39.230  18.629  0.00  0.00           C 0
+ATOM   2336   CD LYS A 291      49.779  35.205  15.072  0.00  0.00           C 0
+ATOM    878  CD2 PHE A 109      54.754  39.093  21.071  0.00  0.00           C 0
+ATOM    915  NE2 GLN A 113      54.014  41.405  19.458  0.84  5.47           N 0
+ATOM    880  CE2 PHE A 109      55.955  39.328  20.431  0.00  0.00           C 0
+ATOM   2322  CG2 VAL A 289      54.068  34.913  22.354  0.00  0.00           C 0
+ATOM    890  NE2 GLN A 110      48.462  37.982  18.992  0.00  0.00           N 0
+TER
+END

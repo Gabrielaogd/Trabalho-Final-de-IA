@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0040
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7054
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4263
+HEADER 5  - Mean B-factor of pocket residues  : 0.1930
+HEADER 6  - Hydrophobicity Score              : 0.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 151.3044
+HEADER 10 - Pocket volume (convex hull)       : 4.5244
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1905
+ATOM   1817  NE1 TRP B 267     -21.535   1.070  69.281  0.68  5.47           N 0
+ATOM   1782    O ASN B 263     -16.442   3.396  67.371  0.32  7.50           O 0
+ATOM     59    O LYS B  40     -23.720   4.278  65.886  0.56  5.36           O 0
+ATOM   1808  NH2 ARG B 266     -22.939   4.474  68.907  0.61  1.09           N 0
+ATOM     66   CA ASN B  41     -23.026   6.862  65.216  0.00  0.00           C 0
+ATOM     72  ND2 ASN B  41     -20.452   7.644  63.608  0.00  0.00           N 0
+ATOM   1805   NE ARG B 266     -21.145   4.819  70.285  0.48  2.19           N 0
+ATOM     68    O ASN B  41     -23.192   7.563  67.500  0.00  0.00           O 0
+ATOM   2232   CG PRO B 316     -18.350   1.509  62.632  0.00  0.00           C 0
+ATOM     63   CE LYS B  40     -20.783   3.721  60.686  0.00  0.00           C 0
+ATOM     61   CG LYS B  40     -22.948   3.775  62.045  0.00  0.00           C 0
+ATOM     60   CB LYS B  40     -23.869   2.942  62.969  0.00  0.00           C 0
+ATOM   1618    O ASP B 242     -21.369  -0.246  63.117  0.72  5.36           O 0
+ATOM   2231   CB PRO B 316     -17.666   0.637  63.685  0.00  0.00           C 0
+ATOM   1815  CD1 TRP B 267     -20.345   0.457  69.582  0.00  0.00           C 0
+ATOM   1629  CD1 LEU B 243     -18.643  -2.201  66.285  0.00  0.00           C 0
+TER
+END

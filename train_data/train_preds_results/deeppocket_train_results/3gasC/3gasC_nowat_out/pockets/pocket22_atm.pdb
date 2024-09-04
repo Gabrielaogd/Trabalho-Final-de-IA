@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0766
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8563
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5112
+HEADER 5  - Mean B-factor of pocket residues  : 0.1541
+HEADER 6  - Hydrophobicity Score              : 27.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.7666
+HEADER 10 - Pocket volume (convex hull)       : 13.7097
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM    869  CG1 VAL C 112      68.314  34.705  74.837  0.00  0.00           C 0
+ATOM    813    O THR C 105      66.768  30.397  74.166  0.75  3.21           O 0
+ATOM    809   CB ALA C 104      62.301  32.505  72.797  0.00  0.00           C 0
+ATOM    868   CB VAL C 112      68.331  34.088  73.432  0.00  0.00           C 0
+ATOM   1131  OD1 ASN C 146      63.457  31.612  79.982  0.00  0.00           O 0
+ATOM    812    C THR C 105      66.237  29.478  74.796  0.00  0.00           C 0
+ATOM    821   CB LEU C 106      67.856  29.806  77.918  0.00  0.00           C 0
+ATOM    823  CD1 LEU C 106      69.558  31.642  77.850  0.00  0.00           C 0
+ATOM   1132  ND2 ASN C 146      65.432  31.363  81.041  0.67  7.66           N 0
+ATOM    807    C ALA C 104      63.107  30.191  73.282  0.00  0.00           C 0
+ATOM   1140    N GLU C 148      59.572  30.334  75.576  0.71  1.09           N 0
+ATOM   1144   CB GLU C 148      58.618  32.599  75.069  0.00  0.00           C 0
+ATOM   1148  OE2 GLU C 148      57.970  35.593  74.734  0.00  0.00           O 0
+ATOM   1326   CE LYS C 170      57.413  35.790  78.823  0.00  0.00           C 0
+ATOM   1325   CD LYS C 170      57.123  34.273  78.985  0.00  0.00           C 0
+ATOM   1136    O VAL C 147      58.652  29.881  77.566  0.70  1.07           O 0
+ATOM   1135    C VAL C 147      59.562  29.724  76.761  0.00  0.00           C 0
+ATOM    808    O ALA C 104      62.273  29.792  74.093  0.73  1.07           O 0
+ATOM   1128    O ASN C 146      63.326  28.901  78.193  0.75  1.07           O 0
+TER
+END

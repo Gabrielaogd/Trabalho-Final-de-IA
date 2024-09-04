@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0241
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9103
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5036
+HEADER 5  - Mean B-factor of pocket residues  : 0.1034
+HEADER 6  - Hydrophobicity Score              : 3.3000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 363.8857
+HEADER 10 - Pocket volume (convex hull)       : 23.9495
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4167
+ATOM   3141  CD1 LEU A 418      -5.490   7.021   7.860  0.00  0.00           C 0
+ATOM   3155   CB PRO A 420      -4.110  11.863   7.002  0.00  0.00           C 0
+ATOM   2790   CD PRO A 372      -8.036  12.964   8.242  0.00  0.00           C 0
+ATOM   3142  CD2 LEU A 418      -5.719   8.741   9.689  0.00  0.00           C 0
+ATOM   2789   CG PRO A 372      -9.140  13.231   7.288  0.00  0.00           C 0
+ATOM   3153    C PRO A 420      -2.685  12.267   4.964  0.00  0.00           C 0
+ATOM   3152   CA PRO A 420      -3.372  11.201   5.831  0.00  0.00           C 0
+ATOM   3146    O ILE A 419      -2.325   8.868   4.774  0.00  0.00           O 0
+ATOM   2945    O GLY A 393      -7.426   6.322   1.436  0.00  0.00           O 0
+ATOM   2951   OG SER A 394      -8.852   6.830   5.976  0.69  2.14           O 0
+ATOM   2931  ND2 ASN A 391     -11.352  10.890   3.375  0.04  9.84           N 0
+ATOM   2928   CB ASN A 391     -11.590   9.793   5.539  0.00  0.00           C 0
+ATOM   2136   CE LYS A 290     -10.943  15.326   3.656  0.00  0.00           C 0
+ATOM   2137   NZ LYS A 290     -10.456  15.770   2.329  0.00  0.00           N 0
+ATOM   2787    O PRO A 372      -9.786  11.264  10.806  0.00  0.00           O 0
+ATOM   2924    N ASN A 391     -12.003   8.218   7.411  0.68  1.09           N 0
+ATOM   2956   CB LYS A 395      -3.105   5.151   2.952  0.00  0.00           C 0
+ATOM   2958   CD LYS A 395      -1.795   4.882   0.886  0.00  0.00           C 0
+ATOM   2952    N LYS A 395      -5.220   5.278   4.157  0.54  1.09           N 0
+ATOM   2947   CA SER A 394      -7.571   5.833   4.145  0.00  0.00           C 0
+ATOM   2935    O HIS A 392     -11.088   7.792   2.107  0.00  0.00           O 0
+TER
+END

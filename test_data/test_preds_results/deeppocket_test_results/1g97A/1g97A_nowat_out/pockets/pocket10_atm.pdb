@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0052
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1649
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7376
+HEADER 5  - Mean B-factor of pocket residues  : 0.4369
+HEADER 6  - Hydrophobicity Score              : -9.8571
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 295.4849
+HEADER 10 - Pocket volume (convex hull)       : 6.4923
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM    492    N GLU A  68       8.823  15.670 -11.384  0.00  0.00           N 0
+ATOM    350    O THR A  48       9.056  16.445 -14.219  0.52  1.07           O 0
+ATOM    497   CG GLU A  68       5.936  15.320 -12.277  0.00  0.00           C 0
+ATOM    486   CA THR A  67      10.155  17.489 -10.497  0.00  0.00           C 0
+ATOM    339   CA LYS A  47       6.319  19.384 -17.183  0.00  0.00           C 0
+ATOM    347    N THR A  48       8.250  18.510 -16.006  0.00  0.00           N 0
+ATOM    332    O GLU A  46       4.589  21.435 -16.452  0.60  6.43           O 0
+ATOM    500  OE2 GLU A  68       4.620  16.059 -14.119  0.57  7.50           O 0
+ATOM    479    O GLN A  66      10.651  20.195 -10.174  0.00  0.00           O 0
+ATOM    487    C THR A  67       9.407  16.175 -10.303  0.00  0.00           C 0
+ATOM    485    N THR A  67      10.317  18.183  -9.226  0.00  0.00           N 0
+ATOM    475    O GLY A  65       8.697  20.496  -5.964  0.00  0.00           O 0
+ATOM    352  OG1 THR A  48      10.362  20.386 -15.435  0.83  5.36           O 0
+ATOM    351   CB THR A  48      10.400  19.062 -14.895  0.00  0.00           C 0
+ATOM    488    O THR A  67       9.323  15.654  -9.188  0.00  0.00           O 0
+ATOM    474    C GLY A  65       9.357  19.458  -5.875  0.00  0.00           C 0
+ATOM    473   CA GLY A  65       9.039  18.442  -4.789  0.00  0.00           C 0
+TER
+END

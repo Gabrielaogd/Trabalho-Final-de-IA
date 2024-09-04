@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.1385
+HEADER 1  - Drug Score                        : 0.0078
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9867
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7045
+HEADER 5  - Mean B-factor of pocket residues  : 0.2206
+HEADER 6  - Hydrophobicity Score              : 20.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 310.9437
+HEADER 10 - Pocket volume (convex hull)       : 10.4612
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM   1972  CD2 LEU A 252       7.407 -20.537  38.018  0.00  0.00           C 0
+ATOM   1943   CA VAL A 249       2.221 -18.817  40.795  0.00  0.00           C 0
+ATOM   1947  CG1 VAL A 249       1.423 -20.917  41.982  0.00  0.00           C 0
+ATOM   1948  CG2 VAL A 249       2.737 -19.235  43.231  0.00  0.00           C 0
+ATOM   1945    O VAL A 249       1.708 -20.184  38.901  0.00  0.00           O 0
+ATOM   2022  OE1 GLU A 257      -2.188 -25.596  34.645  0.61  1.07           O 0
+ATOM   2021   CD GLU A 257      -1.832 -26.369  33.721  0.00  0.00           C 0
+ATOM   2020   CG GLU A 257      -0.354 -26.526  33.411  0.00  0.00           C 0
+ATOM   1983  NH2 ARG A 253      -1.927 -27.247  39.993  0.00  0.00           N 0
+ATOM   1974   CA ARG A 253       1.725 -22.752  36.212  0.00  0.00           C 0
+ATOM   2011   CB ASN A 256       4.740 -25.282  34.075  0.00  0.00           C 0
+ATOM   2014  ND2 ASN A 256       6.330 -23.964  35.324  0.00  0.00           N 0
+ATOM   1982  NH1 ARG A 253      -0.399 -25.612  40.545  0.00  0.00           N 0
+ATOM   1978   CG ARG A 253      -0.212 -24.077  37.271  0.00  0.00           C 0
+ATOM   1980   NE ARG A 253      -1.791 -25.329  38.720  0.53  2.19           N 0
+ATOM   1976    O ARG A 253       1.320 -23.946  34.176  0.00  0.00           O 0
+ATOM   1977   CB ARG A 253       0.582 -22.788  37.226  0.00  0.00           C 0
+ATOM   1970   CG LEU A 252       6.488 -20.764  36.823  0.00  0.00           C 0
+ATOM   1969   CB LEU A 252       5.202 -19.950  36.999  0.00  0.00           C 0
+ATOM   1981   CZ ARG A 253      -1.367 -26.064  39.748  0.00  0.00           C 0
+ATOM   1973    N ARG A 253       2.442 -21.497  36.330  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0424
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7807
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5718
+HEADER 5  - Mean B-factor of pocket residues  : 0.3067
+HEADER 6  - Hydrophobicity Score              : -6.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 214.3123
+HEADER 10 - Pocket volume (convex hull)       : 4.2896
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM    192    N GLN A  26      10.915  31.473  -0.730  0.00  0.00           N 0
+ATOM   2008  NE2 GLN A 266       6.874  25.330  -2.662  0.00  0.00           N 0
+ATOM    191   CB ALA A  25      11.845  30.926  -3.588  0.00  0.00           C 0
+ATOM   2007  OE1 GLN A 266       7.121  26.042  -0.544  0.62  4.29           O 0
+ATOM    173   NZ LYS A  22      10.433  23.868  -4.791  0.00  0.00           N 0
+ATOM    163  OD1 ASN A  21      14.935  27.856  -5.920  0.68  3.21           O 0
+ATOM    170   CG LYS A  22      12.898  24.959  -3.221  0.00  0.00           C 0
+ATOM    169   CB LYS A  22      12.962  25.790  -1.930  0.00  0.00           C 0
+ATOM    172   CE LYS A  22      10.697  23.697  -3.338  0.00  0.00           C 0
+ATOM    168    O LYS A  22      12.478  28.756  -0.700  0.50  3.21           O 0
+ATOM    166   CA LYS A  22      13.550  27.188  -2.145  0.00  0.00           C 0
+ATOM    193   CA GLN A  26       9.987  31.530   0.306  0.00  0.00           C 0
+ATOM    196   CB GLN A  26      10.061  30.347   1.261  0.00  0.00           C 0
+ATOM    197   CG GLN A  26       8.970  30.332   2.291  0.00  0.00           C 0
+TER
+END

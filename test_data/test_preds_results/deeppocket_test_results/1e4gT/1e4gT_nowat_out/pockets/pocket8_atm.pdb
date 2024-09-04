@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0245
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0226
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6735
+HEADER 5  - Mean B-factor of pocket residues  : 0.2901
+HEADER 6  - Hydrophobicity Score              : -3.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 300.0544
+HEADER 10 - Pocket volume (convex hull)       : 11.3907
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1586   CG ASP T 205      54.069   8.720  49.638  0.00  0.00           C 0
+ATOM   1588  OD2 ASP T 205      53.977   7.486  49.440  0.76  4.29           O 0
+ATOM   1745   CA GLY T 226      49.849   7.701  46.453  0.00  0.00           C 0
+ATOM   1587  OD1 ASP T 205      55.069   9.401  49.314  0.48  8.57           O 0
+ATOM   1555  CG2 THR T 201      52.588  13.675  47.445  0.00  0.00           C 0
+ATOM   1585   CB ASP T 205      52.913   9.418  50.300  0.00  0.00           C 0
+ATOM   1738    C ASN T 225      51.171   5.828  47.251  0.00  0.00           C 0
+ATOM   1744    N GLY T 226      50.469   6.927  47.518  0.00  0.00           N 0
+ATOM   1022  CE2 PHE T 133      44.217   7.746  41.828  0.00  0.00           C 0
+ATOM   1521  OE1 GLU T 196      44.058  12.318  43.905  0.00  0.00           O 0
+ATOM   1747    O GLY T 226      47.921   7.990  45.088  0.64  6.43           O 0
+ATOM   1020  CD2 PHE T 133      45.285   6.929  41.431  0.00  0.00           C 0
+ATOM   1739    O ASN T 225      51.289   5.368  46.121  0.58  9.64           O 0
+ATOM   1552    O THR T 201      51.304  11.938  50.000  0.00  0.00           O 0
+ATOM   1576   CB LYS T 204      48.028  10.301  48.795  0.00  0.00           C 0
+ATOM   1578   CD LYS T 204      46.765  11.504  47.048  0.00  0.00           C 0
+ATOM   1579   CE LYS T 204      46.133  12.819  46.622  0.00  0.00           C 0
+ATOM   1580   NZ LYS T 204      47.082  13.977  46.676  0.33  3.28           N 0
+TER
+END

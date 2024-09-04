@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0637
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7791
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5078
+HEADER 5  - Mean B-factor of pocket residues  : 0.8875
+HEADER 6  - Hydrophobicity Score              : -20.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 165.1731
+HEADER 10 - Pocket volume (convex hull)       : 0.4271
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM    691  OE1 GLU K  77     -19.819 -40.401 -20.816  0.00  0.00           O 0
+ATOM    700   CD LYS K  78     -19.851 -39.646 -14.259  0.00  0.00           C 0
+ATOM    690   CD GLU K  77     -18.585 -40.154 -20.839  0.00  0.00           C 0
+ATOM    692  OE2 GLU K  77     -18.100 -39.139 -21.391  0.70  6.43           O 0
+ATOM    701   CE LYS K  78     -21.195 -38.986 -13.993  0.00  0.00           C 0
+ATOM    699   CG LYS K  78     -19.973 -41.058 -14.783  0.00  0.00           C 0
+ATOM    689   CG GLU K  77     -17.632 -41.129 -20.160  0.00  0.00           C 0
+ATOM    735   NZ LYS K  81     -15.509 -36.426 -18.734  0.00  0.00           N 0
+ATOM    734   CE LYS K  81     -14.851 -37.748 -18.728  0.00  0.00           C 0
+ATOM    694    N LYS K  78     -17.887 -42.543 -16.561  0.00  0.00           N 0
+ATOM    695   CA LYS K  78     -17.554 -41.937 -15.271  0.00  0.00           C 0
+ATOM    733   CD LYS K  81     -14.548 -38.130 -17.299  0.00  0.00           C 0
+ATOM    674   OG SER K  75     -21.210 -42.863 -16.873  0.59  2.14           O 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1242
+HEADER 1  - Drug Score                        : 0.2242
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.7672
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4432
+HEADER 5  - Mean B-factor of pocket residues  : 0.1960
+HEADER 6  - Hydrophobicity Score              : 44.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 191.7614
+HEADER 10 - Pocket volume (convex hull)       : 5.2993
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   3152  ND1 HIS A1253       3.895   0.983  17.014  0.00  0.00           N 0
+ATOM   3257  CE2 TRP A1266       1.910   1.224   9.622  0.00  0.00           C 0
+ATOM   3259  CZ2 TRP A1266       1.295   2.477   9.669  0.00  0.00           C 0
+ATOM   3261  CH2 TRP A1266       2.090   3.567   9.926  0.00  0.00           C 0
+ATOM   3154  CE1 HIS A1253       2.842   0.199  17.185  0.00  0.00           C 0
+ATOM   3255  CD2 TRP A1266       3.293   1.057   9.825  0.00  0.00           C 0
+ATOM   3260  CZ3 TRP A1266       3.478   3.435  10.128  0.00  0.00           C 0
+ATOM   3273   OH TYR A1267       7.530   4.917  13.567  0.68  4.29           O 0
+ATOM   3138    O PHE A1252       6.834   4.318  16.373  0.26  4.29           O 0
+ATOM   3258  CE3 TRP A1266       4.083   2.185  10.081  0.00  0.00           C 0
+ATOM   3272   CZ TYR A1267       7.794   4.349  12.346  0.00  0.00           C 0
+ATOM   3254  CD1 TRP A1266       2.389  -0.951   9.462  0.00  0.00           C 0
+ATOM   2775  OE2 GLU A1203       4.381  -1.844  14.798  0.00  0.00           O 0
+ATOM   3253   CG TRP A1266       3.573  -0.344   9.702  0.00  0.00           C 0
+ATOM   3256  NE1 TRP A1266       1.375  -0.017   9.394  0.31  9.84           N 0
+ATOM   3239   OG SER A1264       7.448  -1.468  12.027  0.00  0.00           O 0
+ATOM   2772   CG GLU A1203       6.468  -1.587  15.894  0.00  0.00           C 0
+ATOM   3271  CE2 TYR A1267       8.754   3.352  12.197  0.00  0.00           C 0
+ATOM   3228  CG2 VAL A1262       9.590   1.174  16.035  0.00  0.00           C 0
+ATOM   3238   CB SER A1264       8.649  -0.836  12.434  0.00  0.00           C 0
+TER
+END

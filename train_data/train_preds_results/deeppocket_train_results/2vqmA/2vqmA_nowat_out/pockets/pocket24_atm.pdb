@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.1019
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9485
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4605
+HEADER 5  - Mean B-factor of pocket residues  : 0.8273
+HEADER 6  - Hydrophobicity Score              : 31.2000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 160.2329
+HEADER 10 - Pocket volume (convex hull)       : 3.1203
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM    613  CD1 LEU A  94       6.940  14.675  16.631  0.00  0.00           C 0
+ATOM    607    N LEU A  94       4.739  17.525  14.147  0.00  0.00           N 0
+ATOM    611   CB LEU A  94       5.110  16.377  16.309  0.00  0.00           C 0
+ATOM    586    C GLN A  87      12.943  18.330  16.200  0.00  0.00           C 0
+ATOM    564  CD2 LEU A  84      10.280  12.667  12.978  0.00  0.00           C 0
+ATOM    591  OE1 GLN A  87      11.961  15.558  12.009  0.37  6.43           O 0
+ATOM    560    O LEU A  84      12.684  14.687  16.710  0.68  4.29           O 0
+ATOM    608   CA LEU A  94       4.932  16.223  14.794  0.00  0.00           C 0
+ATOM    588   CB GLN A  87      13.149  17.111  14.015  0.00  0.00           C 0
+ATOM    606   CB LYS A  93       5.651  19.881  12.001  0.00  0.00           C 0
+ATOM    605    O LYS A  93       5.109  16.755  12.058  0.00  0.00           O 0
+ATOM    604    C LYS A  93       4.784  17.669  12.820  0.00  0.00           C 0
+ATOM    561   CB LEU A  84      10.992  12.315  15.380  0.00  0.00           C 0
+ATOM    632   OG SER A  97       7.081  14.675  10.655  0.10  4.29           O 0
+TER
+END

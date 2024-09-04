@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0529
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6979
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4614
+HEADER 5  - Mean B-factor of pocket residues  : 0.2351
+HEADER 6  - Hydrophobicity Score              : 4.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 215.9026
+HEADER 10 - Pocket volume (convex hull)       : 6.1832
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   1805  NH2 ARG A 234      25.626  70.554  24.392  0.00  0.00           N 0
+ATOM   1804  NH1 ARG A 234      27.177  71.983  25.318  0.00  0.00           N 0
+ATOM   1725  CD2 LEU A 223      24.455  67.149  30.056  0.00  0.00           C 0
+ATOM   1754  NE2 GLN A 227      28.725  67.664  31.782  0.00  0.00           N 0
+ATOM   1749    O GLN A 227      24.983  72.016  29.765  0.67  1.07           O 0
+ATOM   2375   CG ASP A 330      21.207  66.105  23.134  0.00  0.00           C 0
+ATOM   2377  OD2 ASP A 330      22.269  65.646  22.655  0.32  4.29           O 0
+ATOM   1709  OE1 GLU A 221      22.393  65.543  27.287  0.59  2.14           O 0
+ATOM   2390   CB GLU A 332      22.207  70.361  22.884  0.00  0.00           C 0
+ATOM   2386    N GLU A 332      20.430  69.851  24.479  0.80  1.09           N 0
+ATOM   1777   CB ALA A 231      23.079  71.967  26.676  0.00  0.00           C 0
+ATOM   1724  CD1 LEU A 223      22.167  68.196  29.877  0.00  0.00           C 0
+ATOM   1750   CB GLN A 227      26.528  70.220  31.875  0.00  0.00           C 0
+ATOM   1751   CG GLN A 227      27.868  69.819  32.424  0.00  0.00           C 0
+ATOM   1772   CB ALA A 230      27.503  74.411  28.699  0.00  0.00           C 0
+ATOM   1747   CA GLN A 227      26.327  71.722  31.729  0.00  0.00           C 0
+TER
+END

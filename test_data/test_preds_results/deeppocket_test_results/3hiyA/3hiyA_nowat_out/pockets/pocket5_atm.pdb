@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1056
+HEADER 1  - Drug Score                        : 0.0110
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.7873
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4283
+HEADER 5  - Mean B-factor of pocket residues  : 0.2479
+HEADER 6  - Hydrophobicity Score              : 39.1818
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4545
+HEADER 9  - Pocket volume (Monte Carlo)       : 168.7852
+HEADER 10 - Pocket volume (convex hull)       : 8.4683
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.6538
+ATOM    976    N ILE A 133      69.926  23.183  -5.532  0.00  0.00           N 0
+ATOM    966    O VAL A 131      69.263  25.740  -1.608  0.81  3.21           O 0
+ATOM    981  CG1 ILE A 133      71.734  24.713  -7.453  0.00  0.00           C 0
+ATOM    972    C SER A 132      68.822  23.603  -4.947  0.00  0.00           C 0
+ATOM    856    O PRO A 116      72.685  23.349  -2.632  0.59  1.07           O 0
+ATOM    968  CG1 VAL A 131      67.210  27.876  -3.878  0.00  0.00           C 0
+ATOM    873  CG2 VAL A 118      72.431  29.334  -1.399  0.00  0.00           C 0
+ATOM    717  CD2 PHE A  96      69.815  31.672  -3.792  0.00  0.00           C 0
+ATOM    715   CG PHE A  96      70.259  31.774  -5.107  0.00  0.00           C 0
+ATOM    505  CD2 LEU A  70      69.328  28.545  -8.042  0.00  0.00           C 0
+ATOM    983  CD1 ILE A 133      73.066  25.114  -8.060  0.00  0.00           C 0
+ATOM    659    O ASN A  89      76.525  26.401  -7.315  0.35  1.07           O 0
+ATOM    806  CE1 TYR A 110      76.569  26.911  -1.460  0.00  0.00           C 0
+ATOM    714   CB PHE A  96      71.723  31.789  -5.413  0.00  0.00           C 0
+ATOM    857   CB PRO A 116      75.589  22.877  -3.012  0.00  0.00           C 0
+ATOM    692    N THR A  94      76.706  30.600  -4.711  0.47  2.19           N 0
+ATOM    683    C ARG A  92      75.173  29.883  -7.545  0.00  0.00           C 0
+ATOM    684    O ARG A  92      74.469  30.867  -7.410  0.64  1.07           O 0
+TER
+END

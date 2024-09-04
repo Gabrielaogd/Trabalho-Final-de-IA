@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0523
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7870
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4948
+HEADER 5  - Mean B-factor of pocket residues  : 0.1452
+HEADER 6  - Hydrophobicity Score              : 8.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 109.6640
+HEADER 10 - Pocket volume (convex hull)       : 0.5178
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   1627   CB ALA A 270      15.572  -8.102  -4.161  0.00  0.00           C 0
+ATOM    100   CB PRO A  62      13.832  -7.099  -7.503  0.00  0.00           C 0
+ATOM   1642  OE1 GLU A 273      14.204 -11.848  -4.733  0.68  4.29           O 0
+ATOM    132  CD2 LEU A  66       8.239  -7.934  -3.030  0.00  0.00           C 0
+ATOM     99    O PRO A  62      11.284  -5.337  -6.486  0.60  1.07           O 0
+ATOM   1623    N ALA A 270      15.737  -9.169  -1.986  0.00  0.00           N 0
+ATOM    108   OG SER A  63      14.275  -4.896  -2.760  0.60  1.07           O 0
+ATOM     98    C PRO A  62      12.514  -5.244  -6.469  0.00  0.00           C 0
+ATOM   1622  CG2 THR A 269      13.668 -11.665  -0.112  0.00  0.00           C 0
+ATOM   1620   CB THR A 269      14.013 -10.281   0.418  0.00  0.00           C 0
+ATOM    103    N SER A  63      13.183  -4.745  -5.435  0.00  0.00           N 0
+ATOM   1718   CG GLN A 284      10.834  -5.218  -0.196  0.00  0.00           C 0
+ATOM    104   CA SER A  63      12.451  -4.272  -4.253  0.00  0.00           C 0
+TER
+END

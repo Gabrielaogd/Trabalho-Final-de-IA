@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.1101
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.8040
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5417
+HEADER 5  - Mean B-factor of pocket residues  : 0.8156
+HEADER 6  - Hydrophobicity Score              : 31.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 215.0483
+HEADER 10 - Pocket volume (convex hull)       : 10.0101
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2400
+ATOM    565  OE1 GLU A  88      40.630  21.818  12.752  0.64  5.36           O 0
+ATOM     14   OG SER A   2      46.756  18.127   9.300  0.36  7.50           O 0
+ATOM     43  OE2 GLU A   6      45.135  18.771  16.026  0.00  0.00           O 0
+ATOM    524   OH TYR A  67      39.421  18.955  13.359  0.00  0.00           O 0
+ATOM    566  OE2 GLU A  88      40.853  21.983  10.571  0.00  0.00           O 0
+ATOM     12    O SER A   2      47.723  21.021  12.651  0.58  1.07           O 0
+ATOM     33  CG1 VAL A   5      43.823  23.734  12.951  0.00  0.00           C 0
+ATOM      9    N SER A   2      47.832  20.822   9.178  0.23  1.09           N 0
+ATOM     10   CA SER A   2      47.459  20.158  10.432  0.00  0.00           C 0
+ATOM     32   CB VAL A   5      45.129  23.792  12.193  0.00  0.00           C 0
+ATOM     13   CB SER A   2      47.609  18.640  10.308  0.00  0.00           C 0
+ATOM      5   CB MET A   1      46.878  23.421   7.067  0.00  0.00           C 0
+ATOM      1    N MET A   1      48.691  21.761   6.702  0.00  0.00           N 0
+ATOM     34  CG2 VAL A   5      44.963  24.534  10.869  0.00  0.00           C 0
+ATOM      4    O MET A   1      47.388  22.888   9.948  0.00  0.00           O 0
+ATOM    765  CG1 VAL A 114      41.860  25.548   6.374  0.00  0.00           C 0
+ATOM      3    C MET A   1      47.746  22.144   9.034  0.00  0.00           C 0
+TER
+END

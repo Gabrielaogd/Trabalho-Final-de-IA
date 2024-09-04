@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0104
+HEADER 1  - Drug Score                        : 0.0042
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0009
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5816
+HEADER 5  - Mean B-factor of pocket residues  : 0.6579
+HEADER 6  - Hydrophobicity Score              : 0.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 253.2097
+HEADER 10 - Pocket volume (convex hull)       : 5.8170
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   1749   CE LYS A1118      -4.232  58.551  39.302  0.00  0.00           C 0
+ATOM   1400  CE1 PHE A1076      -6.716  56.009  37.623  0.00  0.00           C 0
+ATOM   1713   CA ARG A1115      -6.011  53.857  43.025  0.00  0.00           C 0
+ATOM   1750   NZ LYS A1118      -5.064  59.798  39.315  0.81  9.84           N 0
+ATOM   1402   CZ PHE A1076      -5.659  55.350  38.230  0.00  0.00           C 0
+ATOM   1758  OE1 GLU A1119      -2.345  58.174  45.832  0.32  8.57           O 0
+ATOM   1748   CD LYS A1118      -2.872  58.738  39.962  0.00  0.00           C 0
+ATOM   1717   CG ARG A1115      -6.884  55.238  44.999  0.00  0.00           C 0
+ATOM   1716   CB ARG A1115      -7.105  54.040  44.094  0.00  0.00           C 0
+ATOM   1746   CB LYS A1118      -2.443  56.346  40.844  0.00  0.00           C 0
+ATOM   1715    O ARG A1115      -3.755  54.317  43.704  0.56  1.07           O 0
+ATOM   1680    O GLU A1111      -9.287  52.350  41.981  0.74  4.29           O 0
+ATOM   1684  OE1 GLU A1111     -11.486  53.927  38.954  0.77  8.57           O 0
+ATOM   1718   CD ARG A1115      -7.870  55.279  46.186  0.00  0.00           C 0
+ATOM   1712    N ARG A1115      -6.381  52.844  42.044  0.00  0.00           N 0
+TER
+END

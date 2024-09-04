@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1110
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0293
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6086
+HEADER 5  - Mean B-factor of pocket residues  : 0.1674
+HEADER 6  - Hydrophobicity Score              : 24.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 192.3300
+HEADER 10 - Pocket volume (convex hull)       : 1.5342
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM    143    O TYR B  21      46.049  24.878  18.089  0.56  5.36           O 0
+ATOM    399   CE LYS B  51      47.787  26.244  13.134  0.00  0.00           C 0
+ATOM    153   CA ASP B  22      44.146  26.836  18.711  0.00  0.00           C 0
+ATOM    400   NZ LYS B  51      47.710  27.681  12.650  0.00  0.00           N 0
+ATOM    152    N ASP B  22      44.038  25.787  17.717  0.30  3.28           N 0
+ATOM    142    C TYR B  21      44.998  24.892  17.507  0.00  0.00           C 0
+ATOM    160    N GLY B  23      45.870  26.911  20.446  0.35  8.75           N 0
+ATOM    144   CB TYR B  21      45.440  24.341  15.141  0.00  0.00           C 0
+ATOM    167    O TRP B  24      50.143  24.851  19.589  0.25  4.29           O 0
+ATOM    330    N PHE B  43      54.172  26.790  17.003  0.00  0.00           N 0
+ATOM    334   CB PHE B  43      52.824  26.045  15.132  0.00  0.00           C 0
+ATOM    333    O PHE B  43      53.748  29.086  15.513  0.59  9.64           O 0
+ATOM    337  CD2 PHE B  43      51.679  24.358  16.627  0.00  0.00           C 0
+ATOM    329  NE2 GLN B  42      52.715  28.467  21.115  0.62  7.66           N 0
+TER
+END

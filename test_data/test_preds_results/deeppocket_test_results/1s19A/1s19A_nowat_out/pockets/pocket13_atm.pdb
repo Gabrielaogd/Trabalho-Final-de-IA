@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0518
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9516
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5583
+HEADER 5  - Mean B-factor of pocket residues  : 0.7845
+HEADER 6  - Hydrophobicity Score              : -6.2500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 145.2827
+HEADER 10 - Pocket volume (convex hull)       : 2.4233
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2727
+ATOM   1626    O SER A 376      32.014  21.994  55.715  0.77  1.07           O 0
+ATOM   1629    N HIS A 377      33.170  23.686  56.652  0.00  0.00           N 0
+ATOM   1569  NH1 ARG A 368      30.496  21.775  61.475  0.55  4.37           N 0
+ATOM   1625    C SER A 376      33.064  22.620  55.866  0.00  0.00           C 0
+ATOM     16   NE ARG A 121      36.115  16.086  60.452  0.00  0.00           N 0
+ATOM   1627   CB SER A 376      35.409  21.817  56.164  0.00  0.00           C 0
+ATOM     15   CD ARG A 121      36.418  16.631  61.771  0.00  0.00           C 0
+ATOM     18  NH1 ARG A 121      38.135  16.710  59.539  0.69  6.56           N 0
+ATOM   1633   CB HIS A 377      32.502  24.854  58.698  0.00  0.00           C 0
+ATOM   1570  NH2 ARG A 368      31.778  21.582  63.368  0.00  0.00           N 0
+ATOM   1568   CZ ARG A 368      30.950  21.040  62.483  0.00  0.00           C 0
+ATOM   1561   CA ARG A 368      31.785  17.727  58.706  0.00  0.00           C 0
+ATOM   1564   CB ARG A 368      31.286  17.936  60.138  0.00  0.00           C 0
+ATOM     14   CG ARG A 121      35.214  16.619  62.698  0.00  0.00           C 0
+ATOM   1563    O ARG A 368      33.879  16.592  58.982  0.73  4.29           O 0
+ATOM     17   CZ ARG A 121      36.946  16.136  59.415  0.00  0.00           C 0
+TER
+END

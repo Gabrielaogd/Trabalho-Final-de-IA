@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0846
+HEADER 1  - Drug Score                        : 0.0269
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 4.0840
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5227
+HEADER 5  - Mean B-factor of pocket residues  : 0.0936
+HEADER 6  - Hydrophobicity Score              : 17.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.9515
+HEADER 10 - Pocket volume (convex hull)       : 13.5627
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.7143
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   3725   CB GLU A 475      45.864  69.601  -1.198  0.00  0.00           C 0
+ATOM   3729  OE2 GLU A 475      43.717  69.955  -3.418  0.61  3.21           O 0
+ATOM   3549   CD LYS A 452      43.224  73.644  -2.113  0.00  0.00           C 0
+ATOM   3551   NZ LYS A 452      43.519  74.254  -4.383  0.39  7.66           N 0
+ATOM   3424  OD1 ASP A 436      46.088  69.236  -6.900  0.00  0.00           O 0
+ATOM   3422   CB ASP A 436      46.559  67.115  -5.736  0.00  0.00           C 0
+ATOM   3723    C GLU A 475      47.994  68.908  -0.168  0.00  0.00           C 0
+ATOM   3724    O GLU A 475      48.790  69.889  -0.129  0.52  1.07           O 0
+ATOM   3573  CZ3 TRP A 454      51.786  73.472  -1.704  0.00  0.00           C 0
+ATOM   3571  CE3 TRP A 454      50.971  74.368  -0.977  0.00  0.00           C 0
+ATOM   3731   CA GLN A 476      49.736  67.366  -0.959  0.00  0.00           C 0
+ATOM   3673   SD MET A 467      47.642  77.247  -2.886  0.00  0.00           S 0
+ATOM   3547   CB LYS A 452      44.076  74.890   0.051  0.00  0.00           C 0
+ATOM   3721    N GLU A 475      46.252  70.006   1.209  0.48  3.28           N 0
+ATOM   3555    O GLN A 453      48.257  74.470   2.856  0.52  3.21           O 0
+ATOM   3565   CB TRP A 454      49.499  77.000   0.469  0.00  0.00           C 0
+ATOM   3423   CG ASP A 436      46.533  68.033  -6.911  0.00  0.00           C 0
+ATOM   3739    N LEU A 477      50.294  65.954  -2.922  0.00  0.00           N 0
+ATOM   3743   CB LEU A 477      50.591  65.020  -5.199  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.0691
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7126
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6149
+HEADER 5  - Mean B-factor of pocket residues  : 0.4571
+HEADER 6  - Hydrophobicity Score              : -21.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 84.7373
+HEADER 10 - Pocket volume (convex hull)       : 0.4053
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM    970  OE1 GLU A 123      15.201   4.402  10.162  0.00  0.00           O 0
+ATOM    992  ND2 ASN A 126      13.682   0.808   4.586  0.00  0.00           N 0
+ATOM    971  OE2 GLU A 123      13.348   4.313   8.904  0.00  0.00           O 0
+ATOM    969   CD GLU A 123      14.510   4.770   9.192  0.00  0.00           C 0
+ATOM    961   CE LYS A 122      17.938  -1.117   5.407  0.00  0.00           C 0
+ATOM    963    N GLU A 123      16.939   4.438   5.331  0.00  0.00           N 0
+ATOM    960   CD LYS A 122      19.081  -0.101   5.407  0.00  0.00           C 0
+ATOM    956    C LYS A 122      17.016   3.547   4.383  0.00  0.00           C 0
+ATOM    958   CB LYS A 122      19.088   2.336   4.864  0.00  0.00           C 0
+ATOM    932    O SER A 119      19.645   4.759   7.340  0.69  6.43           O 0
+ATOM    967   CB GLU A 123      16.010   5.517   7.193  0.00  0.00           C 0
+ATOM    964   CA GLU A 123      15.654   4.757   5.921  0.00  0.00           C 0
+ATOM    957    O LYS A 122      16.078   2.919   3.894  0.00  0.00           O 0
+TER
+END

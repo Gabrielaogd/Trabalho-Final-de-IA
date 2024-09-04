@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0196
+HEADER 1  - Drug Score                        : 0.0249
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0120
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6665
+HEADER 5  - Mean B-factor of pocket residues  : 0.4936
+HEADER 6  - Hydrophobicity Score              : 48.7143
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.7121
+HEADER 10 - Pocket volume (convex hull)       : 7.5730
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.8571
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.9333
+ATOM   1445   CB THR A1081       4.710  55.822  25.338  0.00  0.00           C 0
+ATOM   1448    N ILE A1082       6.426  53.630  24.426  0.78  1.09           N 0
+ATOM   1442   CA THR A1081       4.201  54.601  24.616  0.00  0.00           C 0
+ATOM   1131  CD1 ILE A1023       4.586  53.597  20.080  0.00  0.00           C 0
+ATOM   1432    O TYR A1080       1.692  55.092  23.469  0.00  0.00           O 0
+ATOM   1447  CG2 THR A1081       3.604  56.846  25.499  0.00  0.00           C 0
+ATOM   1090    O ALA A1018      11.801  52.208  18.234  0.63  5.36           O 0
+ATOM   1452   CB ILE A1082       8.696  52.792  23.809  0.00  0.00           C 0
+ATOM   1091   CB ALA A1018      11.960  50.606  21.030  0.00  0.00           C 0
+ATOM   1454  CG2 ILE A1082       9.529  54.014  24.289  0.00  0.00           C 0
+ATOM   1110   CA LYS A1021       9.259  52.950  16.194  0.00  0.00           C 0
+ATOM   1113   CB LYS A1021       9.242  54.193  15.279  0.00  0.00           C 0
+ATOM   1114   CG LYS A1021      10.466  55.113  15.545  0.00  0.00           C 0
+ATOM   1112    O LYS A1021       6.852  52.864  16.000  0.14  8.57           O 0
+ATOM   1111    C LYS A1021       7.879  52.304  16.386  0.00  0.00           C 0
+ATOM   1121    O CYS A1022       7.355  50.729  19.668  0.79  2.14           O 0
+TER
+END

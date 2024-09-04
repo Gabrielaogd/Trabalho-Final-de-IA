@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0703
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8165
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7056
+HEADER 5  - Mean B-factor of pocket residues  : 0.2365
+HEADER 6  - Hydrophobicity Score              : 14.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 225.8744
+HEADER 10 - Pocket volume (convex hull)       : 8.8079
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   2217   CA HIS X1291     -31.294 -35.467  -8.555  0.00  0.00           C 0
+ATOM   2248   CB GLU X1294     -34.751 -34.095 -11.005  0.00  0.00           C 0
+ATOM   2249   CG GLU X1294     -35.706 -35.292 -10.956  0.00  0.00           C 0
+ATOM   2222  ND1 HIS X1291     -31.955 -33.015  -6.462  0.26  6.56           N 0
+ATOM   2211   CB LYS X1290     -32.471 -39.821  -9.205  0.00  0.00           C 0
+ATOM   2213   CD LYS X1290     -33.405 -42.082  -8.687  0.00  0.00           C 0
+ATOM   2184    O TYR X1287     -30.339 -38.541  -6.339  0.72  4.29           O 0
+ATOM   2187  CD1 TYR X1287     -31.988 -42.218  -3.185  0.00  0.00           C 0
+ATOM   2185   CB TYR X1287     -30.199 -40.430  -3.572  0.00  0.00           C 0
+ATOM    976    O PHE X1128     -31.502 -38.687  -1.035  0.40  5.36           O 0
+ATOM   1021  OE2 GLU X1133     -33.170 -35.342  -1.185  0.52  6.43           O 0
+ATOM   1020  OE1 GLU X1133     -35.325 -35.732  -0.772  0.70  9.64           O 0
+ATOM   2182   CA TYR X1287     -30.066 -40.578  -5.087  0.00  0.00           C 0
+ATOM   2210    O LYS X1290     -32.483 -36.921 -10.653  0.71  2.14           O 0
+ATOM   2216    N HIS X1291     -31.203 -36.917  -8.766  0.82  1.09           N 0
+ATOM   2220   CB HIS X1291     -30.625 -35.035  -7.222  0.00  0.00           C 0
+ATOM    977   CB PHE X1128     -29.439 -37.025  -2.624  0.00  0.00           C 0
+ATOM   2209    C LYS X1290     -31.767 -37.512  -9.824  0.00  0.00           C 0
+ATOM    979  CD1 PHE X1128     -29.870 -34.724  -3.566  0.00  0.00           C 0
+TER
+END

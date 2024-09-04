@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0304
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.2464
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6016
+HEADER 5  - Mean B-factor of pocket residues  : 0.1812
+HEADER 6  - Hydrophobicity Score              : 19.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.6034
+HEADER 10 - Pocket volume (convex hull)       : 2.9789
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM   1280  CE2 TYR A 165     -10.367   1.382  15.803  0.00  0.00           C 0
+ATOM   1196   NZ LYS A 155      -6.456   0.636  14.406  0.12  7.66           N 0
+ATOM    400   CG GLU A  55     -10.569  -6.086  12.058  0.00  0.00           C 0
+ATOM    403  OE2 GLU A  55      -8.820  -4.931  11.028  0.41  5.36           O 0
+ATOM    431   CB GLU A  58     -15.457  -5.534  16.873  0.00  0.00           C 0
+ATOM    398    O GLU A  55     -14.414  -3.771  13.308  0.59  3.21           O 0
+ATOM    434  OE1 GLU A  58     -13.396  -7.227  17.706  0.36  7.50           O 0
+ATOM    440   CB MET A  59     -14.901  -0.697  14.635  0.00  0.00           C 0
+ATOM   1282   OH TYR A 165     -10.591   1.091  13.467  0.27  4.29           O 0
+ATOM    399   CB GLU A  55     -11.833  -5.235  11.843  0.00  0.00           C 0
+ATOM    436    N MET A  59     -16.022  -2.674  15.541  0.76  2.19           N 0
+ATOM    370  CD1 ILE A  51     -11.772  -2.124   9.318  0.00  0.00           C 0
+ATOM    463   CD ARG A  62     -15.001  -2.011  19.959  0.00  0.00           C 0
+ATOM    464   NE ARG A  62     -14.056  -1.082  20.511  0.69  5.47           N 0
+ATOM    442   SD MET A  59     -14.134   1.369  16.406  0.00  0.00           S 0
+ATOM    437   CA MET A  59     -15.903  -1.224  15.646  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0248
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.8053
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5180
+HEADER 5  - Mean B-factor of pocket residues  : 0.5605
+HEADER 6  - Hydrophobicity Score              : -20.8571
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.6895
+HEADER 10 - Pocket volume (convex hull)       : 12.7292
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.1724
+ATOM   1442  OE1 GLU E 199     -18.312 -13.403  63.519  0.42  5.36           O 0
+ATOM   1438    O GLU E 199     -21.868 -10.957  62.805  0.38  5.36           O 0
+ATOM   1460   CE LYS E 201     -24.762 -15.094  60.867  0.00  0.00           C 0
+ATOM   2709  NH1AARG E 352     -18.631 -16.272  64.524  0.73  5.47           N 0
+ATOM    790   CB GLU E 119     -19.571 -22.279  59.804  0.00  0.00           C 0
+ATOM   2703   CDAARG E 352     -19.655 -18.917  64.382  0.00  0.00           C 0
+ATOM    794  OE2 GLU E 119     -21.149 -23.916  62.446  0.00  0.00           O 0
+ATOM    792   CD GLU E 119     -20.097 -23.657  61.826  0.00  0.00           C 0
+ATOM    791   CG GLU E 119     -20.154 -23.572  60.322  0.00  0.00           C 0
+ATOM    789    O GLU E 119     -20.913 -20.147  57.482  0.56  5.36           O 0
+ATOM   1431    O THR E 198     -20.677 -12.669  59.499  0.31  1.07           O 0
+ATOM   2707   CZAARG E 352     -18.293 -17.046  63.498  0.00  0.00           C 0
+ATOM    796   CA ASP E 120     -18.897 -18.378  58.132  0.00  0.00           C 0
+ATOM    822   OG SER E 123     -22.503 -17.014  56.871  0.39  1.07           O 0
+ATOM   2705   NEAARG E 352     -18.761 -18.291  63.405  0.77  2.19           N 0
+ATOM    788    C GLU E 119     -19.871 -20.597  57.995  0.00  0.00           C 0
+ATOM    795    N ASP E 120     -18.811 -19.836  58.274  0.00  0.00           N 0
+ATOM    799   CB ASP E 120     -17.752 -17.641  58.845  0.00  0.00           C 0
+ATOM   2711  NH2AARG E 352     -17.486 -16.569  62.560  0.80  1.09           N 0
+ATOM   1461   NZ LYS E 201     -25.095 -15.896  59.650  0.00  0.00           N 0
+ATOM    821   CB SER E 123     -23.900 -17.291  56.958  0.00  0.00           C 0
+TER
+END

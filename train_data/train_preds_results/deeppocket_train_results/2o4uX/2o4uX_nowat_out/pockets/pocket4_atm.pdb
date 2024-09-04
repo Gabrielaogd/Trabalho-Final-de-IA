@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : -0.0009
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1000
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7357
+HEADER 5  - Mean B-factor of pocket residues  : 0.2998
+HEADER 6  - Hydrophobicity Score              : 8.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 368.0666
+HEADER 10 - Pocket volume (convex hull)       : 16.9492
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1500
+ATOM    808   CA GLU X1108     -12.819 -20.651 -10.140  0.00  0.00           C 0
+ATOM    812   CG GLU X1108     -11.016 -21.363 -11.781  0.00  0.00           C 0
+ATOM    810    O GLU X1108     -14.201 -21.158 -12.076  0.60  2.14           O 0
+ATOM    837  CG2 THR X1111     -16.094 -16.664 -12.716  0.00  0.00           C 0
+ATOM    845  OE1 GLU X1112     -14.702 -20.634 -17.587  0.00  0.00           O 0
+ATOM    646   CE MET X1084     -11.939 -22.693 -15.165  0.00  0.00           C 0
+ATOM    835   CB THR X1111     -16.097 -17.799 -11.690  0.00  0.00           C 0
+ATOM    836  OG1 THR X1111     -16.188 -17.246 -10.378  0.69  5.36           O 0
+ATOM    779   CB ALA X1104      -8.514 -19.930  -4.736  0.00  0.00           C 0
+ATOM    778    O ALA X1104     -10.868 -20.885  -6.861  0.67  3.21           O 0
+ATOM    806  NH2 ARG X1107     -10.478 -16.615  -4.839  0.00  0.00           N 0
+ATOM    814  OE1 GLU X1108      -8.715 -21.426 -11.088  0.52  6.43           O 0
+ATOM    838    N GLU X1112     -16.636 -20.232 -13.647  0.00  0.00           N 0
+ATOM    807    N GLU X1108     -13.157 -20.588  -8.717  0.63  1.09           N 0
+ATOM    803   NE ARG X1107     -12.761 -16.748  -4.965  0.00  0.00           N 0
+ATOM    799    O ARG X1107     -15.170 -19.648  -9.045  0.00  0.00           O 0
+ATOM    798    C ARG X1107     -14.314 -20.094  -8.287  0.00  0.00           C 0
+ATOM    811   CB GLU X1108     -11.375 -21.123 -10.323  0.00  0.00           C 0
+ATOM    800   CB ARG X1107     -13.906 -18.893  -6.150  0.00  0.00           C 0
+ATOM    842   CB GLU X1112     -15.563 -21.816 -15.191  0.00  0.00           C 0
+TER
+END

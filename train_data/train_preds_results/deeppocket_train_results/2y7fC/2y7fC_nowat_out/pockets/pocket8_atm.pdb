@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1843
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8626
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4740
+HEADER 5  - Mean B-factor of pocket residues  : 0.2514
+HEADER 6  - Hydrophobicity Score              : -3.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.2175
+HEADER 10 - Pocket volume (convex hull)       : 3.3092
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2308
+ATOM    130    N ARG C  17       0.361 -40.987  63.033  0.62  4.37           N 0
+ATOM    425    O GLY C  54      -5.572 -36.538  63.896  0.00  0.00           O 0
+ATOM    124   CA THR C  16      -1.152 -41.126  61.167  0.00  0.00           C 0
+ATOM    127   CB THR C  16      -1.923 -42.429  61.502  0.00  0.00           C 0
+ATOM    423   CA GLY C  54      -4.476 -36.328  65.999  0.00  0.00           C 0
+ATOM    417    O ASP C  53      -4.996 -38.067  68.079  0.00  0.00           O 0
+ATOM    129  CG2 THR C  16      -3.338 -42.463  60.919  0.00  0.00           C 0
+ATOM    134   CB ARG C  17       1.336 -40.574  65.241  0.00  0.00           C 0
+ATOM    395  NH1 ARG C  50      -3.638 -36.610  61.757  0.48  5.47           N 0
+ATOM    200  CD1 ILE C  25      -1.118 -35.437  64.040  0.00  0.00           C 0
+ATOM    135   CG ARG C  17       1.559 -39.085  65.371  0.00  0.00           C 0
+ATOM    409    O ASP C  52      -2.785 -34.823  69.994  0.00  0.00           O 0
+ATOM    139  NH1 ARG C  17       2.798 -37.095  68.111  0.46  7.66           N 0
+ATOM    198  CG1 ILE C  25      -0.006 -35.102  65.004  0.00  0.00           C 0
+ATOM    199  CG2 ILE C  25      -1.430 -33.601  66.580  0.00  0.00           C 0
+ATOM    422    N GLY C  54      -4.692 -35.948  67.384  0.00  0.00           N 0
+ATOM    416    C ASP C  53      -4.931 -36.860  68.323  0.00  0.00           C 0
+TER
+END

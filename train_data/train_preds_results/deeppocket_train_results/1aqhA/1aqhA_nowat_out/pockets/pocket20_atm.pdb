@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0716
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8960
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6388
+HEADER 5  - Mean B-factor of pocket residues  : 0.1626
+HEADER 6  - Hydrophobicity Score              : 40.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 197.8010
+HEADER 10 - Pocket volume (convex hull)       : 1.9759
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   3432  CD1 TRP A 362      -0.841  -6.836  10.466  0.00  0.00           C 0
+ATOM   3724   CB GLN A 393       5.089 -11.525  12.572  0.00  0.00           C 0
+ATOM   3413    O TRP A 361       3.077  -5.684   7.290  0.45  7.50           O 0
+ATOM   3430   CB TRP A 362       1.298  -5.363  10.424  0.00  0.00           C 0
+ATOM   3720    N GLN A 393       3.886  -9.929  13.983  0.53  3.28           N 0
+ATOM   3706    O THR A 391      -0.471  -9.870  14.918  0.00  0.00           O 0
+ATOM   3713   CA VAL A 392       2.068  -8.801  15.085  0.00  0.00           C 0
+ATOM   3400   CA ASN A 360       7.072  -7.145   8.534  0.00  0.00           C 0
+ATOM   3401    C ASN A 360       6.082  -5.995   8.734  0.00  0.00           C 0
+ATOM   3405  OD1 ASN A 360       7.249 -10.123   8.900  0.52  5.36           O 0
+ATOM   3402    O ASN A 360       5.615  -5.771   9.855  0.57  3.21           O 0
+ATOM   3403   CB ASN A 360       7.228  -7.927   9.853  0.00  0.00           C 0
+ATOM   3723    O GLN A 393       6.348  -8.736  13.251  0.75  1.07           O 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0548
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8916
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5657
+HEADER 5  - Mean B-factor of pocket residues  : 0.6871
+HEADER 6  - Hydrophobicity Score              : -2.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 199.7895
+HEADER 10 - Pocket volume (convex hull)       : 3.4029
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   1587    O ASP E 203      30.401  30.618  31.139  0.00  0.00           O 0
+ATOM   1625  CD1 ILE E 207      34.780  27.838  29.898  0.00  0.00           C 0
+ATOM   1623  CG1 ILE E 207      35.138  28.742  28.767  0.00  0.00           C 0
+ATOM   1616  OE1 GLU E 206      35.684  35.292  30.128  0.00  0.00           O 0
+ATOM   1615   CD GLU E 206      34.961  35.823  29.248  0.00  0.00           C 0
+ATOM   1617  OE2 GLU E 206      34.312  36.884  29.439  0.00  0.00           O 0
+ATOM   1609    N GLU E 206      33.157  32.852  26.796  0.56  1.09           N 0
+ATOM   1600    N LYS E 205      30.543  31.872  27.111  0.56  2.19           N 0
+ATOM   1604   CB LYS E 205      30.313  34.036  25.997  0.00  0.00           C 0
+ATOM   1585   CA ASP E 203      28.223  31.583  31.103  0.00  0.00           C 0
+ATOM   1583    O GLY E 202      26.692  33.214  29.497  0.00  0.00           O 0
+ATOM   1586    C ASP E 203      29.398  30.868  30.474  0.00  0.00           C 0
+ATOM   1613   CB GLU E 206      35.189  33.668  27.907  0.00  0.00           C 0
+TER
+END

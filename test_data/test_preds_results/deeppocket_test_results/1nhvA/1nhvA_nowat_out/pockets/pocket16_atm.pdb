@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0883
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9463
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7179
+HEADER 5  - Mean B-factor of pocket residues  : 0.6209
+HEADER 6  - Hydrophobicity Score              : 7.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.4415
+HEADER 10 - Pocket volume (convex hull)       : 3.8187
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   3580  NH2 ARG A 465       0.476  59.338  60.785  0.00  0.00           N 0
+ATOM   3578   CZ ARG A 465       0.929  59.124  62.018  0.00  0.00           C 0
+ATOM   4184    O SER A 543      -0.079  63.663  64.092  0.56  6.43           O 0
+ATOM   4182   CA SER A 543      -0.076  61.894  65.722  0.00  0.00           C 0
+ATOM   4185   CB SER A 543      -1.378  62.280  66.435  0.00  0.00           C 0
+ATOM   4181    N SER A 543       0.881  61.353  66.681  0.00  0.00           N 0
+ATOM   3576   CD ARG A 465       0.936  57.738  64.070  0.00  0.00           C 0
+ATOM   3577   NE ARG A 465       0.500  58.072  62.713  0.00  0.00           N 0
+ATOM   3566   CG GLU A 464       0.958  54.274  68.210  0.00  0.00           C 0
+ATOM   4180   CB ALA A 542       2.281  58.777  68.019  0.00  0.00           C 0
+ATOM   3567   CD GLU A 464       0.836  55.119  69.477  0.00  0.00           C 0
+ATOM   4159    O ILE A 539       1.107  60.073  70.296  0.59  1.07           O 0
+ATOM   3568  OE1 GLU A 464       1.664  56.042  69.656  0.00  0.00           O 0
+ATOM   3569  OE2 GLU A 464      -0.088  54.865  70.284  0.00  0.00           O 0
+ATOM   4153   CB PRO A 538      -2.590  57.146  72.466  0.00  0.00           C 0
+ATOM   4156    N ILE A 539       0.585  57.720  71.999  0.00  0.00           N 0
+TER
+END

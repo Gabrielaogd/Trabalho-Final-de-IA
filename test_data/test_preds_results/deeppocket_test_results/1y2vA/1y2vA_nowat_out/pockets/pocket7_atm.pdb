@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1934
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0454
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6398
+HEADER 5  - Mean B-factor of pocket residues  : 0.6183
+HEADER 6  - Hydrophobicity Score              : 11.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 366.3536
+HEADER 10 - Pocket volume (convex hull)       : 23.5376
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM    572    O TYR A  74      50.303  45.956  39.604  0.00  0.00           O 0
+ATOM     19   OH TYR A   3      46.658  45.885  37.367  0.77  7.50           O 0
+ATOM   1057    N GLY A 133      52.517  47.237  33.370  0.81  1.09           N 0
+ATOM   1060    O GLY A 133      50.348  45.630  33.171  0.74  3.21           O 0
+ATOM     17  CE2 TYR A   3      47.401  44.746  35.386  0.00  0.00           C 0
+ATOM   1065   CB ASP A 134      47.106  46.472  30.885  0.00  0.00           C 0
+ATOM      1    N THR A   2      41.499  45.531  32.642  0.00  0.00           N 0
+ATOM   1068  OD2 ASP A 134      46.158  47.588  28.954  0.32  9.64           O 0
+ATOM      4    O THR A   2      44.056  44.922  31.193  0.56  2.14           O 0
+ATOM   1059    C GLY A 133      50.401  46.529  32.334  0.00  0.00           C 0
+ATOM   1058   CA GLY A 133      51.490  47.578  32.400  0.00  0.00           C 0
+ATOM    379    N SER A  48      42.727  43.295  38.597  0.63  6.56           N 0
+ATOM    578  CE2 TYR A  74      44.389  48.084  39.911  0.00  0.00           C 0
+ATOM    376   CA GLY A  47      41.139  43.170  36.788  0.00  0.00           C 0
+ATOM    580   OH TYR A  74      42.377  48.239  41.231  0.00  0.00           O 0
+ATOM     16  CE1 TYR A   3      45.299  44.179  36.419  0.00  0.00           C 0
+ATOM     18   CZ TYR A   3      46.456  44.943  36.385  0.00  0.00           C 0
+TER
+END

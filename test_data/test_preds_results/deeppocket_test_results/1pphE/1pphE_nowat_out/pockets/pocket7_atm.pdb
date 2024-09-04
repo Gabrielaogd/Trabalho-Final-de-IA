@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1151
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9505
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6034
+HEADER 5  - Mean B-factor of pocket residues  : 0.3242
+HEADER 6  - Hydrophobicity Score              : 13.5556
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 281.1912
+HEADER 10 - Pocket volume (convex hull)       : 15.1603
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    816   CB ALA E 129       7.914  23.808  19.172  0.00  0.00           C 0
+ATOM    813   CA ALA E 129       8.513  24.710  20.206  0.00  0.00           C 0
+ATOM   1333   OG SER E 202       9.408  25.387  12.877  0.00  0.00           O 0
+ATOM    837  OG1 THR E 134       5.383  26.601  17.419  0.64  5.36           O 0
+ATOM    838  CG2 THR E 134       5.795  25.084  15.593  0.00  0.00           C 0
+ATOM    800    N SER E 127      15.709  24.192  20.607  0.00  0.00           N 0
+ATOM    793    N THR E 125      16.971  22.592  18.727  0.00  0.00           N 0
+ATOM    805   OG SER E 127      14.385  26.599  20.308  0.22  8.57           O 0
+ATOM    798  OG1 THR E 125      17.972  24.904  17.971  0.00  0.00           O 0
+ATOM   1362  OE1 GLN E 210      11.292  22.335  18.320  0.60  6.43           O 0
+ATOM    809    O CYS E 128      10.699  25.687  21.495  0.53  6.43           O 0
+ATOM   1326   CB CYS E 201       7.437  21.920  14.649  0.00  0.00           C 0
+ATOM   1331    O SER E 202      12.356  23.577  11.274  0.54  3.21           O 0
+ATOM   1346   NZ LYS E 204      16.218  23.594  12.941  0.00  0.00           N 0
+ATOM   1332   CB SER E 202      10.193  25.210  11.697  0.00  0.00           C 0
+ATOM   1343   CG LYS E 204      14.213  22.059  14.446  0.00  0.00           C 0
+ATOM   1345   CE LYS E 204      16.564  22.759  14.069  0.00  0.00           C 0
+ATOM    803    O SER E 127      13.204  23.494  20.402  0.60  1.07           O 0
+ATOM   1325    O CYS E 201      10.113  22.264  13.375  0.00  0.00           O 0
+TER
+END

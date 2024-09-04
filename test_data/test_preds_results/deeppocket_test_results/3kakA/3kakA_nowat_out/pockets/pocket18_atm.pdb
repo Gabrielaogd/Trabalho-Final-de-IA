@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0411
+HEADER 1  - Drug Score                        : 0.0366
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9433
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7410
+HEADER 5  - Mean B-factor of pocket residues  : 0.0954
+HEADER 6  - Hydrophobicity Score              : 69.2000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.1167
+HEADER 10 - Pocket volume (convex hull)       : 9.5741
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.5000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM    231   CG LEU A  52      28.657  -5.767  57.390  0.00  0.00           C 0
+ATOM    233  CD2 LEU A  52      28.269  -5.672  58.904  0.00  0.00           C 0
+ATOM    197  CG1 VAL A  48      32.403  -7.732  55.713  0.00  0.00           C 0
+ATOM    232  CD1 LEU A  52      29.946  -5.018  57.166  0.00  0.00           C 0
+ATOM    223   CB THR A  51      26.743 -10.352  55.632  0.00  0.00           C 0
+ATOM    195    O VAL A  48      29.271  -8.023  54.483  0.00  0.00           O 0
+ATOM    198  CG2 VAL A  48      33.412  -9.950  55.434  0.00  0.00           C 0
+ATOM    193   CA VAL A  48      31.266  -9.322  54.169  0.00  0.00           C 0
+ATOM    187    O LEU A  47      29.362 -10.890  52.933  0.44  2.14           O 0
+ATOM    224  OG1 THR A  51      27.247 -11.480  54.847  0.60  8.57           O 0
+ATOM    165  CD1 TYR A  44      36.823 -13.782  54.100  0.00  0.00           C 0
+ATOM    190  CD1 LEU A  47      32.287 -15.151  50.385  0.00  0.00           C 0
+ATOM    167  CE1 TYR A  44      36.623 -13.856  55.407  0.00  0.00           C 0
+ATOM    188   CB LEU A  47      31.551 -12.896  51.346  0.00  0.00           C 0
+ATOM    192    N VAL A  48      31.520 -10.206  53.034  0.00  0.00           N 0
+ATOM    162    O TYR A  44      34.445 -11.031  52.402  0.44  1.07           O 0
+ATOM    169   CZ TYR A  44      36.587 -12.707  56.143  0.00  0.00           C 0
+ATOM    170   OH TYR A  44      36.345 -12.846  57.475  0.79  6.43           O 0
+ATOM    186    C LEU A  47      30.521 -10.855  52.444  0.00  0.00           C 0
+TER
+END

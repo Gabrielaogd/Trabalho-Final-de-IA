@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0004
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8680
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5605
+HEADER 5  - Mean B-factor of pocket residues  : 0.1943
+HEADER 6  - Hydrophobicity Score              : -8.2000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 2.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.2645
+HEADER 10 - Pocket volume (convex hull)       : 6.4201
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1341   OG SER A 177      12.998  24.616  35.925  0.00  0.00           O 0
+ATOM   1303   CB SER A 172      14.102  28.039  41.569  0.00  0.00           C 0
+ATOM   1320  OE1 GLU A 175       7.329  23.518  40.739  0.00  0.00           O 0
+ATOM   1299    N SER A 172      14.262  25.612  41.612  0.39  2.19           N 0
+ATOM   1302    O SER A 172      12.200  27.583  43.740  0.54  9.64           O 0
+ATOM   1308    O GLY A 173      10.681  23.871  46.343  0.46  8.57           O 0
+ATOM   1307    C GLY A 173      11.618  24.060  45.557  0.00  0.00           C 0
+ATOM   1306   CA GLY A 173      12.266  25.421  45.461  0.00  0.00           C 0
+ATOM   1317   CB GLU A 175      10.025  22.107  40.581  0.00  0.00           C 0
+ATOM   1305    N GLY A 173      13.120  25.667  44.323  0.00  0.00           N 0
+ATOM   1301    C SER A 172      13.081  26.741  43.530  0.00  0.00           C 0
+ATOM   1340   CB SER A 177      12.204  23.617  35.311  0.00  0.00           C 0
+ATOM   1321  OE2 GLU A 175       7.223  22.616  38.740  0.00  0.00           O 0
+ATOM   1309    N GLY A 174      12.098  23.084  44.800  0.00  0.00           N 0
+ATOM   1319   CD GLU A 175       7.653  22.645  39.913  0.00  0.00           C 0
+ATOM   1316    O GLU A 175      13.071  22.039  40.244  0.00  0.00           O 0
+TER
+END

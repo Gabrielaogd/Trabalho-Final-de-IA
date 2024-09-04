@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0781
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9055
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6622
+HEADER 5  - Mean B-factor of pocket residues  : 0.2733
+HEADER 6  - Hydrophobicity Score              : 0.1667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 316.0465
+HEADER 10 - Pocket volume (convex hull)       : 24.2455
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM    228   CB SER A  89      26.933  56.378 -17.764  0.00  0.00           C 0
+ATOM   1180  OG1 THR A 212      27.656  56.947 -21.073  0.62  7.50           O 0
+ATOM    225   CA SER A  89      25.649  56.666 -16.974  0.00  0.00           C 0
+ATOM    254  OD2 ASP A  92      24.319  60.522 -15.869  0.00  0.00           O 0
+ATOM    227    O SER A  89      23.814  56.614 -18.507  0.00  0.00           O 0
+ATOM    251   CB ASP A  92      22.561  59.708 -17.344  0.00  0.00           C 0
+ATOM    286   CE LYS A  96      20.897  63.696 -21.635  0.00  0.00           C 0
+ATOM    287   NZ LYS A  96      21.970  64.295 -22.486  0.00  0.00           N 0
+ATOM    252   CG ASP A  92      23.126  60.182 -16.003  0.00  0.00           C 0
+ATOM    253  OD1 ASP A  92      22.384  60.250 -14.990  0.00  0.00           O 0
+ATOM    262  CD1 ILE A  93      22.846  58.020 -22.482  0.00  0.00           C 0
+ATOM    285   CD LYS A  96      20.248  62.451 -22.260  0.00  0.00           C 0
+ATOM    250    O ASP A  92      19.751  59.687 -19.027  0.00  0.00           O 0
+ATOM    274    O ASN A  95      15.220  61.365 -19.449  0.48  4.29           O 0
+ATOM    284   CG LYS A  96      18.865  62.260 -21.673  0.00  0.00           C 0
+ATOM    275   CB ASN A  95      16.687  60.162 -17.025  0.00  0.00           C 0
+ATOM    273    C ASN A  95      16.031  60.441 -19.445  0.00  0.00           C 0
+ATOM    248   CA ASP A  92      21.183  59.090 -17.218  0.00  0.00           C 0
+TER
+END

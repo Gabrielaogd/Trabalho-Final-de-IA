@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0333
+HEADER 1  - Drug Score                        : 0.0137
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.6999
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5402
+HEADER 5  - Mean B-factor of pocket residues  : 0.1040
+HEADER 6  - Hydrophobicity Score              : 43.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 232.0897
+HEADER 10 - Pocket volume (convex hull)       : 7.5439
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5417
+ATOM   2122   CG GLU A 275      44.917  37.545   0.026  0.00  0.00           C 0
+ATOM   2125  OE2 GLU A 275      46.495  38.355   1.599  0.00  0.00           O 0
+ATOM   1968  CG2 VAL A 255      45.488  38.538  -4.182  0.00  0.00           C 0
+ATOM   2107  OE1 GLN A 273      42.689  44.480  -0.888  0.00  0.00           O 0
+ATOM   2237  CG1 VAL A 291      41.770  41.265   3.360  0.00  0.00           C 0
+ATOM   1953    C PHE A 254      42.403  38.061  -7.063  0.00  0.00           C 0
+ATOM   1949   CB SER A 253      40.182  42.540  -5.881  0.00  0.00           C 0
+ATOM   1954    O PHE A 254      42.764  38.382  -8.198  0.00  0.00           O 0
+ATOM   2104   CB GLN A 273      40.473  42.403  -0.889  0.00  0.00           C 0
+ATOM   2103    O GLN A 273      39.472  39.758   0.093  0.00  0.00           O 0
+ATOM   1947    C SER A 253      39.679  40.084  -6.016  0.00  0.00           C 0
+ATOM   1948    O SER A 253      39.368  39.624  -4.913  0.00  0.00           O 0
+ATOM   1963   CA VAL A 255      44.692  37.604  -6.394  0.00  0.00           C 0
+ATOM   1962    N VAL A 255      43.259  37.689  -6.114  0.76  1.09           N 0
+ATOM   2109    N ILE A 274      39.795  39.227  -2.069  0.00  0.00           N 0
+ATOM   2111    C ILE A 274      41.325  37.317  -2.281  0.00  0.00           C 0
+ATOM   2117    N GLU A 275      42.168  36.886  -1.350  0.00  0.00           N 0
+ATOM   2112    O ILE A 274      41.615  37.354  -3.480  0.80  1.07           O 0
+TER
+END

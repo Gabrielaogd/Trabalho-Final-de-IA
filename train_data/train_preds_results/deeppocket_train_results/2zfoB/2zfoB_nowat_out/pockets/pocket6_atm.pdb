@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0351
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8851
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4500
+HEADER 5  - Mean B-factor of pocket residues  : 0.2056
+HEADER 6  - Hydrophobicity Score              : 27.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 181.2263
+HEADER 10 - Pocket volume (convex hull)       : 2.9332
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM    203  ND2 ASN B  23       2.044  14.346  24.579  0.00  0.00           N 0
+ATOM    149    O GLU B  16       8.268  13.526  27.374  0.52  6.43           O 0
+ATOM    173   CA GLY B  19       6.021  17.005  26.962  0.00  0.00           C 0
+ATOM    200   CB ASN B  23       1.844  14.912  26.927  0.00  0.00           C 0
+ATOM    228   CB LEU B  26      -0.124  12.036  30.829  0.00  0.00           C 0
+ATOM    927  OG1 THR B 118       5.825   9.470  32.313  0.68  6.43           O 0
+ATOM    928  CG2 THR B 118       6.584   9.970  30.069  0.00  0.00           C 0
+ATOM    232    N LEU B  27       1.620  13.375  33.024  0.00  0.00           N 0
+ATOM    201   CG ASN B  23       1.357  14.164  25.697  0.00  0.00           C 0
+ATOM    158    O ALA B  17       6.040  13.817  30.314  0.30  4.29           O 0
+ATOM    230  CD1 LEU B  26      -0.645  11.255  28.532  0.00  0.00           C 0
+ATOM    202  OD1 ASN B  23       0.373  13.425  25.757  0.72  3.21           O 0
+ATOM    199    O ASN B  23       1.654  14.802  30.100  0.54  1.07           O 0
+TER
+END

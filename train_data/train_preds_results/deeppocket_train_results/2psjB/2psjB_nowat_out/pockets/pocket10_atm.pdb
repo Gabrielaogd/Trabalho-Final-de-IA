@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0487
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9459
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5320
+HEADER 5  - Mean B-factor of pocket residues  : 0.2521
+HEADER 6  - Hydrophobicity Score              : 40.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 293.1649
+HEADER 10 - Pocket volume (convex hull)       : 11.7467
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   2229  OE2 GLU B 277       6.450 -21.631  -3.149  0.00  0.00           O 0
+ATOM   2396  CD1 TYR B 298       9.756 -27.360  -5.155  0.00  0.00           C 0
+ATOM   2246  CG1 VAL B 279       6.193 -26.510  -3.987  0.00  0.00           C 0
+ATOM   2398  CE1 TYR B 298       9.226 -27.160  -6.411  0.00  0.00           C 0
+ATOM   2393    O TYR B 298      11.731 -26.694  -1.052  0.00  0.00           O 0
+ATOM   2228  OE1 GLU B 277       6.890 -21.534  -1.007  0.00  0.00           O 0
+ATOM   2425    N PHE B 302      12.654 -24.069   0.209  0.00  0.00           N 0
+ATOM   2422    O SER B 301      13.726 -22.101   0.009  0.62  2.14           O 0
+ATOM   2426   CA PHE B 302      11.738 -23.612   1.251  0.00  0.00           C 0
+ATOM   2421    C SER B 301      13.587 -23.277  -0.315  0.00  0.00           C 0
+ATOM   2429   CB PHE B 302      10.711 -24.705   1.551  0.00  0.00           C 0
+ATOM   2423   CB SER B 301      13.917 -23.788  -2.744  0.00  0.00           C 0
+ATOM   2458   CD ARG B 305      10.035 -18.295   0.877  0.00  0.00           C 0
+ATOM   2424   OG SER B 301      14.852 -24.243  -3.718  0.68  8.57           O 0
+ATOM   2459   NE ARG B 305       9.055 -19.381   0.988  0.00  0.00           N 0
+ATOM   2456   CB ARG B 305      12.394 -19.218   1.187  0.00  0.00           C 0
+ATOM   2041  CD1 LEU B 253       6.395 -26.111  -0.195  0.00  0.00           C 0
+ATOM   2227   CD GLU B 277       6.147 -21.836  -1.965  0.00  0.00           C 0
+TER
+END

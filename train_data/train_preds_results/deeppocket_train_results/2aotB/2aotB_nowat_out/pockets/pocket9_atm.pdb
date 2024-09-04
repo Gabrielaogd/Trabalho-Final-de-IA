@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0709
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0659
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6561
+HEADER 5  - Mean B-factor of pocket residues  : 0.0624
+HEADER 6  - Hydrophobicity Score              : 38.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.2646
+HEADER 10 - Pocket volume (convex hull)       : 8.9143
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM    727  CD1 ILE B  95      41.217 -20.162  11.601  0.00  0.00           C 0
+ATOM    875   CB TRP B 115      40.809 -15.931  10.500  0.00  0.00           C 0
+ATOM    874    O TRP B 115      38.384 -15.549  12.338  0.00  0.00           O 0
+ATOM    726  CG2 ILE B  95      43.840 -18.491  11.776  0.00  0.00           C 0
+ATOM    901   CD LYS B 117      39.666 -22.641  15.610  0.00  0.00           C 0
+ATOM    899   CB LYS B 117      38.457 -21.030  14.083  0.00  0.00           C 0
+ATOM    762   NZ LYS B  99      44.447 -14.789  14.363  0.00  0.00           N 0
+ATOM    729   CA ALA B  96      48.187 -19.720  11.781  0.00  0.00           C 0
+ATOM    732   CB ALA B  96      48.796 -20.765  12.715  0.00  0.00           C 0
+ATOM    760   CD LYS B  99      46.187 -15.162  12.647  0.00  0.00           C 0
+ATOM    701   CB ALA B  92      43.932 -23.861  14.995  0.00  0.00           C 0
+ATOM    700    O ALA B  92      45.794 -22.447  12.684  0.73  3.21           O 0
+ATOM    698   CA ALA B  92      43.821 -23.547  13.491  0.00  0.00           C 0
+ATOM    728    N ALA B  96      46.891 -20.190  11.298  0.72  1.09           N 0
+TER
+END

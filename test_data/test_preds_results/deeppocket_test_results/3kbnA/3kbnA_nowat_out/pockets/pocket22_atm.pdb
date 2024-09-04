@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0835
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9147
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6387
+HEADER 5  - Mean B-factor of pocket residues  : 0.2102
+HEADER 6  - Hydrophobicity Score              : -3.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 181.5633
+HEADER 10 - Pocket volume (convex hull)       : 2.0501
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM    543  NH1 ARG A  68     -24.527 -34.593 -45.264  0.00  0.00           N 0
+ATOM   1006   CA LEU A 125     -26.195 -29.092 -42.079  0.00  0.00           C 0
+ATOM   1011  CD1 LEU A 125     -24.481 -31.290 -40.767  0.00  0.00           C 0
+ATOM   1009   CB LEU A 125     -24.878 -29.646 -42.622  0.00  0.00           C 0
+ATOM    544  NH2 ARG A  68     -24.115 -32.419 -45.737  0.57  1.09           N 0
+ATOM   1005    N LEU A 125     -27.013 -28.617 -43.201  0.00  0.00           N 0
+ATOM   1032  OE1 GLU A 128     -29.882 -32.803 -39.762  0.00  0.00           O 0
+ATOM   1033  OE2 GLU A 128     -27.856 -33.146 -38.992  0.67  8.57           O 0
+ATOM    973    O ARG A 121     -26.216 -29.330 -46.484  0.50  2.14           O 0
+ATOM    975   CG ARG A 121     -25.315 -31.550 -48.988  0.00  0.00           C 0
+ATOM   1004  OD2 ASP A 124     -30.666 -29.551 -46.985  0.77  8.57           O 0
+ATOM    977   NE ARG A 121     -25.288 -33.912 -49.699  0.70  7.66           N 0
+ATOM   1000    O ASP A 124     -28.809 -28.402 -41.850  0.48  2.14           O 0
+ATOM   1001   CB ASP A 124     -29.552 -29.000 -44.998  0.00  0.00           C 0
+ATOM    999    C ASP A 124     -28.291 -28.300 -42.974  0.00  0.00           C 0
+TER
+END

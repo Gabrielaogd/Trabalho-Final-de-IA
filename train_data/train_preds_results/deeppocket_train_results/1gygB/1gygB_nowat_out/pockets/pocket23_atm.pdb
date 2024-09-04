@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0127
+HEADER 1  - Drug Score                        : 0.0040
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8999
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4829
+HEADER 5  - Mean B-factor of pocket residues  : 0.2788
+HEADER 6  - Hydrophobicity Score              : 30.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.2184
+HEADER 10 - Pocket volume (convex hull)       : 7.1018
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM    503    O LEU B  64     -18.606  90.689  -9.788  0.00  0.00           O 0
+ATOM    529   CB ASP B  67     -15.358  89.305  -6.879  0.00  0.00           C 0
+ATOM    507  CD2 LEU B  64     -17.965  89.795 -11.745  0.00  0.00           C 0
+ATOM    532  OD2 ASP B  67     -13.022  89.611  -7.153  0.42  9.64           O 0
+ATOM    523    O GLN B  66     -17.733  87.803  -8.932  0.68  1.07           O 0
+ATOM    512   CB TYR B  65     -19.017  91.558 -11.936  0.00  0.00           C 0
+ATOM    511    O TYR B  65     -18.817  91.348  -8.927  0.00  0.00           O 0
+ATOM    506  CD1 LEU B  64     -17.653  91.628 -13.417  0.00  0.00           C 0
+ATOM    515  CD2 TYR B  65     -17.236  90.126 -12.989  0.00  0.00           C 0
+ATOM   1147  CG1 VAL B 140     -11.501  86.279 -10.342  0.00  0.00           C 0
+ATOM   1146   CB VAL B 140     -10.517  87.395 -10.041  0.00  0.00           C 0
+ATOM   1190    O GLY B 147     -16.112  84.039  -9.862  0.77  3.21           O 0
+ATOM   1160   CB ALA B 142     -14.648  85.689 -13.773  0.00  0.00           C 0
+ATOM    517  CE2 TYR B  65     -16.802  89.012 -13.684  0.00  0.00           C 0
+ATOM   1145    O VAL B 140      -9.622  87.935 -12.987  0.00  0.00           O 0
+TER
+END

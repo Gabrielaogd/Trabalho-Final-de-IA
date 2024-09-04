@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    43:
+HEADER 0  - Pocket Score                      : -0.1036
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.2614
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7052
+HEADER 5  - Mean B-factor of pocket residues  : 0.1785
+HEADER 6  - Hydrophobicity Score              : 30.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 373.5457
+HEADER 10 - Pocket volume (convex hull)       : 8.3263
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM      1    N ALA B   2     -32.617   4.615  -1.620  0.27  4.37           N 0
+ATOM   2131  CD1 LEU B 266     -31.583   7.947  -0.216  0.00  0.00           C 0
+ATOM     21  ND2 ASN B   4     -37.910   4.517  -1.218  0.72  8.75           N 0
+ATOM   2102  OE1 GLU B 263     -31.508   3.069   1.920  0.00  0.00           O 0
+ATOM     31  CE2 TYR B   5     -35.706   9.013  -1.429  0.00  0.00           C 0
+ATOM     33   OH TYR B   5     -37.451  10.074  -0.185  0.48  9.64           O 0
+ATOM   2139   CD LYS B 267     -33.270   6.821   8.289  0.00  0.00           C 0
+ATOM   2141   NZ LYS B 267     -35.477   6.400   9.343  0.00  0.00           N 0
+ATOM   2098    O GLU B 263     -29.570   6.441   4.389  0.53  3.21           O 0
+ATOM   2137   CB LYS B 267     -31.085   7.332   7.189  0.00  0.00           C 0
+ATOM   2133    N LYS B 267     -31.055   8.805   5.228  0.00  0.00           N 0
+ATOM   2129   CB LEU B 266     -31.369   8.917   2.090  0.00  0.00           C 0
+ATOM   2134   CA LYS B 267     -31.665   8.588   6.533  0.00  0.00           C 0
+ATOM   2128    O LEU B 266     -32.383  10.554   4.753  0.55  2.14           O 0
+ATOM   2136    O LYS B 267     -32.359  10.231   8.141  0.61  1.07           O 0
+ATOM   2158    O LEU B 270     -36.131  12.432   6.691  0.00  0.00           O 0
+ATOM   2127    C LEU B 266     -31.479   9.781   4.435  0.00  0.00           C 0
+ATOM   2159   CB LEU B 270     -35.068  12.483   4.165  0.00  0.00           C 0
+TER
+END

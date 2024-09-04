@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0735
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0846
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6031
+HEADER 5  - Mean B-factor of pocket residues  : 0.3353
+HEADER 6  - Hydrophobicity Score              : -7.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 252.8156
+HEADER 10 - Pocket volume (convex hull)       : 4.3244
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM    722   CG GLU A  97      31.728   0.663  -9.904  0.00  0.00           C 0
+ATOM    261  NH2 ARG A  34      29.488   3.145 -13.614  0.00  0.00           N 0
+ATOM    257   CD ARG A  34      28.097   5.098 -12.138  0.00  0.00           C 0
+ATOM   2418    O PRO A 325      34.196   4.583  -6.447  0.67  9.64           O 0
+ATOM    271   CA LYS A  36      28.493   7.278  -5.621  0.00  0.00           C 0
+ATOM    276   CD LYS A  36      28.888   9.273  -8.093  0.00  0.00           C 0
+ATOM    273    O LYS A  36      30.059   7.318  -3.800  0.20  5.36           O 0
+ATOM   2413  CG2 ILE A 324      34.078   6.425  -3.226  0.00  0.00           C 0
+ATOM   2420   CG PRO A 325      30.838   4.012  -5.893  0.00  0.00           C 0
+ATOM    724  OE1 GLU A  97      33.944   0.619 -10.730  0.00  0.00           O 0
+ATOM    723   CD GLU A  97      32.747   0.404 -10.989  0.00  0.00           C 0
+ATOM   2417    C PRO A 325      33.833   3.421  -6.622  0.00  0.00           C 0
+ATOM    721   CB GLU A  97      30.312   0.530 -10.407  0.00  0.00           C 0
+ATOM    265    O ASN A  35      28.548   5.255  -7.534  0.50  2.14           O 0
+ATOM    278   NZ LYS A  36      29.663   9.869 -10.387  0.00  0.00           N 0
+ATOM   2419   CB PRO A 325      31.425   2.697  -6.293  0.00  0.00           C 0
+TER
+END

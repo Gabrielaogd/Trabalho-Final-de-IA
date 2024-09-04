@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : -0.1040
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8912
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4949
+HEADER 5  - Mean B-factor of pocket residues  : 0.3585
+HEADER 6  - Hydrophobicity Score              : -4.7778
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 303.0675
+HEADER 10 - Pocket volume (convex hull)       : 10.4484
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3478
+ATOM   5679  OD1 ASP B 759      99.429   3.387  16.175  0.54  8.57           O 0
+ATOM   5680  OD2 ASP B 759      98.915   5.119  17.421  0.73  1.07           O 0
+ATOM   3419  OE1 GLN B 446     102.537   8.642  16.464  0.00  0.00           O 0
+ATOM   3379  CE2 PHE B 442      98.477   9.054  17.106  0.00  0.00           C 0
+ATOM   3508   CB LEU B 458      95.550   7.125  17.094  0.00  0.00           C 0
+ATOM   3507    O LEU B 458      95.601   4.117  17.535  0.62  5.36           O 0
+ATOM   3387   CD ARG B 443     102.864  11.725  11.142  0.00  0.00           C 0
+ATOM   3353   CB PRO B 439      95.440  10.848  11.113  0.00  0.00           C 0
+ATOM   3385   CB ARG B 443     101.308  12.242  13.026  0.00  0.00           C 0
+ATOM   3352    O PRO B 439      97.870  12.566  12.566  0.74  5.36           O 0
+ATOM   3511  CD2 LEU B 458      94.557   7.822  14.908  0.00  0.00           C 0
+ATOM   3377  CD2 PHE B 442      97.981  10.055  16.274  0.00  0.00           C 0
+ATOM   3000   CD PRO B 397      95.715   4.160  10.658  0.00  0.00           C 0
+ATOM   2953   CG ARG B 391     100.853   0.619  12.793  0.00  0.00           C 0
+ATOM   2958  NH2 ARG B 391      98.930   0.051  15.475  0.76  2.19           N 0
+ATOM   2922    O ASP B 387      97.840  -1.522  12.324  0.00  0.00           O 0
+ATOM   2999   CG PRO B 397      94.547   4.088  11.610  0.00  0.00           C 0
+ATOM   2998   CB PRO B 397      94.105   2.652  11.469  0.00  0.00           C 0
+ATOM   2924   CG ASP B 387      94.260  -0.083  14.383  0.00  0.00           C 0
+ATOM   2925  OD1 ASP B 387      94.154   0.636  15.405  0.69  1.07           O 0
+TER
+END

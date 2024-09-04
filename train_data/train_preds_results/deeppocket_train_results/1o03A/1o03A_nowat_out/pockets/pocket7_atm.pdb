@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0035
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6320
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4804
+HEADER 5  - Mean B-factor of pocket residues  : 0.1788
+HEADER 6  - Hydrophobicity Score              : 23.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 63.2004
+HEADER 10 - Pocket volume (convex hull)       : 0.2424
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.9375
+ATOM   1141   CB PRO A 138      19.310  24.093  16.038  0.00  0.00           C 0
+ATOM   1185   OGASER A 144      16.691  21.694  21.009  0.68  3.21           O 0
+ATOM   1140    O PRO A 138      20.458  23.539  18.938  0.55  7.50           O 0
+ATOM   1164  CG2 VAL A 141      19.155  25.466  21.280  0.00  0.00           C 0
+ATOM    960   CA ALA A 115      15.648  23.687  15.004  0.00  0.00           C 0
+ATOM    963   CB ALA A 115      14.523  23.002  15.771  0.00  0.00           C 0
+ATOM   1227   CB ILE A 150      15.965  28.339  18.767  0.00  0.00           C 0
+ATOM   1228  CG1 ILE A 150      16.669  28.416  17.411  0.00  0.00           C 0
+ATOM   1230  CD1 ILE A 150      18.153  28.111  17.479  0.00  0.00           C 0
+ATOM   1187    N LYS A 145      12.980  23.920  20.953  0.60  2.19           N 0
+ATOM   1177   CAASER A 144      15.101  23.272  21.949  0.00  0.00           C 0
+ATOM   1192   CG LYS A 145      11.792  25.498  18.723  0.00  0.00           C 0
+ATOM   1183   CBASER A 144      15.315  22.014  21.105  0.00  0.00           C 0
+TER
+END

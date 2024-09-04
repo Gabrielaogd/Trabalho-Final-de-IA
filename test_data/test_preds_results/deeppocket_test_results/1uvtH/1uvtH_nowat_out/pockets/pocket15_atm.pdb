@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0912
+HEADER 1  - Drug Score                        : 0.0064
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1441
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6015
+HEADER 5  - Mean B-factor of pocket residues  : 0.0539
+HEADER 6  - Hydrophobicity Score              : 56.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 173.6115
+HEADER 10 - Pocket volume (convex hull)       : 1.3611
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.8500
+ATOM    782  CD1 LEU H  99      50.795  63.793  45.844  0.00  0.00           C 0
+ATOM   1732   CB TRP H 215      48.496  61.160  45.107  0.00  0.00           C 0
+ATOM   1366  CD1 ILE H 174      47.886  59.475  52.565  0.00  0.00           C 0
+ATOM   1733   CG TRP H 215      47.412  61.677  46.011  0.00  0.00           C 0
+ATOM    781   CG LEU H  99      50.968  64.720  47.022  0.00  0.00           C 0
+ATOM    769   CA ASN H  98      48.598  65.133  51.470  0.00  0.00           C 0
+ATOM    770    C ASN H  98      48.572  65.549  49.995  0.00  0.00           C 0
+ATOM   1365  CG2 ILE H 174      46.370  61.963  51.915  0.00  0.00           C 0
+ATOM    771    O ASN H  98      47.633  65.206  49.274  0.00  0.00           O 0
+ATOM    762    O GLU H  97A     50.200  63.800  53.245  0.56  8.57           O 0
+ATOM    367   OH TYR H  60A     55.502  61.769  49.064  0.39  8.57           O 0
+ATOM   1735  CD2 TRP H 215      46.588  60.902  46.889  0.00  0.00           C 0
+ATOM   1738  CE3 TRP H 215      46.506  59.535  47.190  0.00  0.00           C 0
+ATOM    739    O TRP H  96      54.475  65.721  50.514  0.51  4.29           O 0
+ATOM    776    N LEU H  99      49.624  66.235  49.545  0.58  1.09           N 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0919
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8077
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5653
+HEADER 5  - Mean B-factor of pocket residues  : 0.4394
+HEADER 6  - Hydrophobicity Score              : 17.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.3472
+HEADER 10 - Pocket volume (convex hull)       : 8.6153
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3500
+ATOM   1922   CG GLU A 262       9.226  15.115   2.601  0.00  0.00           C 0
+ATOM   1953   CD GLU A 266       3.662  14.355  -0.927  0.00  0.00           C 0
+ATOM   1920    O GLU A 262       7.536  12.356   0.991  0.53  1.07           O 0
+ATOM   1952   CG GLU A 266       3.297  13.489   0.278  0.00  0.00           C 0
+ATOM   1955  OE2 GLU A 266       3.367  15.571  -0.902  0.36  5.36           O 0
+ATOM   1954  OE1 GLU A 266       4.245  13.826  -1.904  0.00  0.00           O 0
+ATOM   1191   NE ARG A 170       4.828  15.904  -3.642  0.66  2.19           N 0
+ATOM   1925  OE2 GLU A 262       8.716  14.079   4.701  0.00  0.00           O 0
+ATOM   1944    C ALA A 265       5.414   9.988   2.927  0.00  0.00           C 0
+ATOM   1945    O ALA A 265       4.618   9.945   3.878  0.00  0.00           O 0
+ATOM   1948   CA GLU A 266       3.913  11.345   1.566  0.00  0.00           C 0
+ATOM   1921   CB GLU A 262      10.058  14.393   1.561  0.00  0.00           C 0
+ATOM   1902  CG2 ILE A 259      12.689  16.060  -3.861  0.00  0.00           C 0
+ATOM   1897   CA ILE A 259      13.458  15.073  -1.646  0.00  0.00           C 0
+ATOM   1899    O ILE A 259      11.514  13.725  -1.971  0.41  1.07           O 0
+ATOM   1901  CG1 ILE A 259      14.125  17.413  -2.333  0.00  0.00           C 0
+ATOM   1190   CD ARG A 170       6.029  15.787  -4.468  0.00  0.00           C 0
+ATOM   1926    N ALA A 263       8.984  12.365  -0.731  0.00  0.00           N 0
+ATOM   1919    C GLU A 262       8.684  12.515   0.558  0.00  0.00           C 0
+TER
+END

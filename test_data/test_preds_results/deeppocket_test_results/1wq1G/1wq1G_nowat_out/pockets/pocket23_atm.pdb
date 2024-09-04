@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0332
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9079
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5654
+HEADER 5  - Mean B-factor of pocket residues  : 0.3789
+HEADER 6  - Hydrophobicity Score              : 24.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 271.4292
+HEADER 10 - Pocket volume (convex hull)       : 3.4442
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2174
+ATOM   2206   CB ALA G 996     -36.362  -7.291  37.450  0.00  0.00           C 0
+ATOM   2172    O SER G 992     -38.480  -7.677  35.002  0.00  0.00           O 0
+ATOM   2176   CA ARG G 993     -36.764  -9.072  33.284  0.00  0.00           C 0
+ATOM   2171    C SER G 992     -38.963  -8.487  34.199  0.00  0.00           C 0
+ATOM   2185  NH2 ARG G 993     -34.217 -13.736  35.504  0.00  0.00           N 0
+ATOM   2184  NH1 ARG G 993     -32.905 -12.895  33.817  0.00  0.00           N 0
+ATOM   2237  OE1 GLU G1000     -31.450  -6.017  38.574  0.00  0.00           O 0
+ATOM   2238  OE2 GLU G1000     -32.328  -6.904  40.391  0.50  5.36           O 0
+ATOM   2175    N ARG G 993     -38.223  -9.167  33.326  0.00  0.00           N 0
+ATOM   2174   OG SER G 992     -40.308 -11.111  34.225  0.42  4.29           O 0
+ATOM   2182   NE ARG G 993     -35.208 -12.738  33.679  0.47  5.47           N 0
+ATOM      1    N MET G 718     -39.927 -11.297  40.271  0.00  0.00           N 0
+ATOM     54   OH TYR G 723     -39.378  -8.246  39.707  0.67  5.36           O 0
+ATOM   2183   CZ ARG G 993     -34.110 -13.140  34.321  0.00  0.00           C 0
+ATOM   2173   CB SER G 992     -40.874  -9.972  34.851  0.00  0.00           C 0
+ATOM   2178    O ARG G 993     -35.249  -7.288  33.766  0.61  5.36           O 0
+ATOM   2180   CG ARG G 993     -34.965 -10.636  32.379  0.00  0.00           C 0
+ATOM   2211   CB ALA G 997     -33.071  -4.714  34.599  0.00  0.00           C 0
+TER
+END

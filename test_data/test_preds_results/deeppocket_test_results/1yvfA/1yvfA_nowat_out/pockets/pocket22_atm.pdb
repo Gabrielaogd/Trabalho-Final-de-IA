@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0054
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1383
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6434
+HEADER 5  - Mean B-factor of pocket residues  : 0.2331
+HEADER 6  - Hydrophobicity Score              : -1.8750
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 261.9677
+HEADER 10 - Pocket volume (convex hull)       : 5.6348
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM      1    N MET A   0     -10.740  35.381  23.310  0.27  7.66           N 0
+ATOM    459   CB GLN A  58     -14.602  40.766  25.160  0.00  0.00           C 0
+ATOM    439    O ARG A  56     -11.880  36.158  26.343  0.31  2.14           O 0
+ATOM   1808  CG2 THR A 229     -10.904  41.725  27.377  0.00  0.00           C 0
+ATOM    455    N GLN A  58     -15.194  38.406  25.141  0.53  2.19           N 0
+ATOM    458    O GLN A  58     -15.983  39.688  22.650  0.38  9.64           O 0
+ATOM   1813   CB GLU A 230      -5.178  42.950  24.465  0.00  0.00           C 0
+ATOM   1809    N GLU A 230      -6.921  43.181  26.143  0.67  1.09           N 0
+ATOM   1818    N ASN A 231      -7.940  44.589  24.113  0.61  1.09           N 0
+ATOM   1816  OE1 GLU A 230      -4.427  39.938  24.158  0.00  0.00           O 0
+ATOM   1822   CB ASN A 231      -9.917  44.851  22.684  0.00  0.00           C 0
+ATOM   1851  NH1 ARG A 234      -4.126  44.732  20.951  0.00  0.00           N 0
+ATOM     14   OG SER A   1      -7.168  37.662  25.995  0.43  4.29           O 0
+ATOM   1806   CB THR A 229      -9.796  42.477  26.679  0.00  0.00           C 0
+ATOM   1807  OG1 THR A 229     -10.325  43.645  26.038  0.00  0.00           O 0
+ATOM    462  OE1 GLN A  58     -12.852  43.188  24.973  0.00  0.00           O 0
+TER
+END

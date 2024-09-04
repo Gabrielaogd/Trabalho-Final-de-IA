@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0633
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9980
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6289
+HEADER 5  - Mean B-factor of pocket residues  : 0.2374
+HEADER 6  - Hydrophobicity Score              : 11.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 172.7186
+HEADER 10 - Pocket volume (convex hull)       : 0.3806
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   2287    O THR A 290     -42.367  14.554  -5.282  0.61  7.50           O 0
+ATOM   2307  NH1AARG A 292     -45.691   9.750  -0.627  0.00  0.00           N 0
+ATOM   2308  NH2AARG A 292     -44.503   7.850  -1.184  0.00  0.00           N 0
+ATOM   2296  CG1 VAL A 291     -40.104  12.009  -5.384  0.00  0.00           C 0
+ATOM   2292   CA VAL A 291     -40.711  13.377  -3.345  0.00  0.00           C 0
+ATOM   2295   CB VAL A 291     -39.818  12.244  -3.905  0.00  0.00           C 0
+ATOM   2306   CZAARG A 292     -44.676   8.918  -0.408  0.00  0.00           C 0
+ATOM   2002   CDAGLU A 251     -45.464  13.706  -1.649  0.00  0.00           C 0
+ATOM   2004  OE2AGLU A 251     -46.262  14.400  -2.344  0.63  7.50           O 0
+ATOM   2003  OE1AGLU A 251     -45.823  12.728  -0.941  0.69  2.14           O 0
+ATOM   2001   CG GLU A 251     -43.987  14.095  -1.609  0.00  0.00           C 0
+ATOM   2298    N ARG A 292     -40.888  12.393  -1.131  0.52  1.09           N 0
+TER
+END

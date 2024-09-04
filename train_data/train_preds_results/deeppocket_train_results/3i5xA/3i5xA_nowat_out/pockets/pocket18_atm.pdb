@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0011
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9365
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6114
+HEADER 5  - Mean B-factor of pocket residues  : 0.5952
+HEADER 6  - Hydrophobicity Score              : 7.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 228.9433
+HEADER 10 - Pocket volume (convex hull)       : 12.9516
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM   1050    O ASP A 223      78.351  31.667  -9.004  0.00  0.00           O 0
+ATOM   1081   CB ALA A 226      76.232  34.046 -11.200  0.00  0.00           C 0
+ATOM   1047    N ASP A 223      76.757  29.208  -8.992  0.00  0.00           N 0
+ATOM   1044   CB THR A 222      75.966  29.197  -5.930  0.00  0.00           C 0
+ATOM   1045  OG1 THR A 222      77.198  29.620  -5.325  0.79  2.14           O 0
+ATOM   1016   OG SER A 217      74.818  34.021  -1.102  0.00  0.00           O 0
+ATOM   1046  CG2 THR A 222      74.983  28.769  -4.853  0.00  0.00           C 0
+ATOM   1086   CB ALA A 227      79.060  34.273  -6.630  0.00  0.00           C 0
+ATOM   1082    N ALA A 227      78.290  34.848  -8.894  0.67  1.09           N 0
+ATOM   1083   CA ALA A 227      78.581  35.385  -7.568  0.00  0.00           C 0
+ATOM   1114   CD LYS A 230      74.372  38.670  -6.085  0.00  0.00           C 0
+ATOM   1080    O ALA A 226      77.320  36.738  -9.646  0.26  4.29           O 0
+ATOM   1079    C ALA A 226      77.696  35.579  -9.837  0.00  0.00           C 0
+ATOM   1014    O SER A 217      77.603  34.358  -2.274  0.49  7.50           O 0
+ATOM   1116   NZ LYS A 230      73.928  39.396  -3.691  0.84  4.37           N 0
+ATOM   1009  CG1 VAL A 216      78.080  37.875  -2.921  0.00  0.00           C 0
+ATOM   1011    N SER A 217      76.501  36.331  -0.642  0.00  0.00           N 0
+ATOM   1115   CE LYS A 230      73.327  39.141  -5.058  0.00  0.00           C 0
+ATOM    857  OE2 GLU A 197      72.838  36.977  -0.593  0.00  0.00           O 0
+TER
+END

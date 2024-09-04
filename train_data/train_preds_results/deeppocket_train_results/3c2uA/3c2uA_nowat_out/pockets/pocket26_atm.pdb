@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.0141
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0538
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6133
+HEADER 5  - Mean B-factor of pocket residues  : 0.3738
+HEADER 6  - Hydrophobicity Score              : 25.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 251.4050
+HEADER 10 - Pocket volume (convex hull)       : 4.3771
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM    207   OH TYR A  25      62.381  23.068  72.408  0.70  7.50           O 0
+ATOM    340  NE2 HIS A  41      59.667  19.614  71.343  0.00  0.00           N 0
+ATOM    182  OD1 ASP A  23      61.954  18.519  72.649  0.66  5.36           O 0
+ATOM    339  CE1 HIS A  41      58.422  19.313  71.677  0.00  0.00           C 0
+ATOM    337  ND1 HIS A  41      57.610  20.199  71.112  0.00  0.00           N 0
+ATOM    336   CG HIS A  41      58.352  21.060  70.343  0.00  0.00           C 0
+ATOM    338  CD2 HIS A  41      59.641  20.670  70.454  0.00  0.00           C 0
+ATOM    943   NZ LYS A 112      58.486  26.257  77.706  0.74  6.56           N 0
+ATOM    411  CE1 HIS A  49      53.861  20.968  72.158  0.00  0.00           C 0
+ATOM    426  CG1 VAL A  51      54.925  24.252  71.320  0.00  0.00           C 0
+ATOM    205  CE2 TYR A  25      61.154  23.978  70.551  0.00  0.00           C 0
+ATOM    933  CG2 ILE A 111      60.268  26.857  72.911  0.00  0.00           C 0
+ATOM    427  CG2 VAL A  51      56.733  25.843  70.683  0.00  0.00           C 0
+ATOM    425   CB VAL A  51      55.471  25.674  71.438  0.00  0.00           C 0
+ATOM    941   CD LYS A 112      56.834  27.901  76.624  0.00  0.00           C 0
+ATOM    940   CG LYS A 112      57.778  28.539  75.575  0.00  0.00           C 0
+TER
+END

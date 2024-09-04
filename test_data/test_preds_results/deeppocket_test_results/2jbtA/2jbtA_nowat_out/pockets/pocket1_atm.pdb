@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.1492
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.5181
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3156
+HEADER 5  - Mean B-factor of pocket residues  : 0.3278
+HEADER 6  - Hydrophobicity Score              : 45.3636
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0909
+HEADER 9  - Pocket volume (Monte Carlo)       : 136.3428
+HEADER 10 - Pocket volume (convex hull)       : 4.7352
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1500
+ATOM   1740   OG SER A 246      16.588  61.042  73.321  0.53  1.07           O 0
+ATOM   1756  CD1 PHE A 249      13.053  57.083  70.461  0.00  0.00           C 0
+ATOM   1754   CB PHE A 249      13.407  59.558  70.191  0.00  0.00           C 0
+ATOM   1751   CA PHE A 249      14.496  59.701  69.136  0.00  0.00           C 0
+ATOM   2497   OH TYR A 341      14.644  54.424  73.095  0.67  2.14           O 0
+ATOM   1723   CA GLY A 244      12.917  56.896  73.901  0.00  0.00           C 0
+ATOM    797   CG MET A 126      19.815  58.087  72.450  0.00  0.00           C 0
+ATOM   1826    O PHE A 258      17.826  54.408  70.505  0.83  3.21           O 0
+ATOM   1749    O GLY A 248      16.775  60.374  67.749  0.54  4.29           O 0
+ATOM   1761    N GLY A 250      14.078  58.693  66.985  0.76  1.09           N 0
+ATOM    790    O ALA A 125      20.664  59.899  68.894  0.00  0.00           O 0
+ATOM    798   SD MET A 126      19.505  57.085  73.894  0.00  0.00           S 0
+ATOM   1841  CD2 TYR A 259      15.270  53.099  66.775  0.00  0.00           C 0
+ATOM   1843  CE2 TYR A 259      14.831  53.969  65.782  0.00  0.00           C 0
+ATOM   1827   CB PHE A 258      19.685  54.656  68.065  0.00  0.00           C 0
+ATOM   1780  CD2 TYR A 252      20.125  58.011  64.844  0.00  0.00           C 0
+ATOM   1773    N TYR A 252      17.130  57.774  63.445  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.0337
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7927
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4198
+HEADER 5  - Mean B-factor of pocket residues  : 0.1444
+HEADER 6  - Hydrophobicity Score              : 3.8750
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 239.7955
+HEADER 10 - Pocket volume (convex hull)       : 7.8620
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0952
+ATOM    191   NEAARG A  29      17.018   7.501  25.430  0.00  0.00           N 0
+ATOM    397  CG2 THR A  55      19.055   3.581  19.499  0.00  0.00           C 0
+ATOM    275  NE2 GLN A  38      21.930   8.224  21.637  0.55  5.47           N 0
+ATOM    389  OG1 THR A  54      21.700   4.977  23.035  0.72  5.36           O 0
+ATOM   1875  NE2 GLN A 245      14.076   5.651  21.819  0.04  4.37           N 0
+ATOM    387    O THR A  54      19.792   2.136  23.550  0.59  1.07           O 0
+ATOM   1871   CB GLN A 245      14.513   4.675  24.423  0.00  0.00           C 0
+ATOM   1512  OD2 ASP A 195      13.753   0.742  21.436  0.28  9.64           O 0
+ATOM   1859   OG SER A 243      14.368   0.565  24.159  0.00  0.00           O 0
+ATOM    189   CDAARG A  29      17.798   6.490  26.131  0.00  0.00           C 0
+ATOM   1858   CB SER A 243      15.516  -0.309  23.994  0.00  0.00           C 0
+ATOM    392   CA THR A  55      19.525   1.457  20.847  0.00  0.00           C 0
+ATOM    274  OE1 GLN A  38      20.836   9.942  22.595  0.00  0.00           O 0
+ATOM    197  NH2AARG A  29      15.306   8.960  25.086  0.00  0.00           N 0
+ATOM    253  CG2AILE A  36      18.903  10.921  25.346  0.00  0.00           C 0
+ATOM    251  CG1AILE A  36      16.889  12.398  24.986  0.00  0.00           C 0
+ATOM   1874  OE1 GLN A 245      12.928   7.384  22.604  0.50  9.64           O 0
+TER
+END

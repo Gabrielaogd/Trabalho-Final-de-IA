@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : 0.0492
+HEADER 1  - Drug Score                        : 0.0293
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6536
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4859
+HEADER 5  - Mean B-factor of pocket residues  : 0.4688
+HEADER 6  - Hydrophobicity Score              : 67.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 100.2480
+HEADER 10 - Pocket volume (convex hull)       : 0.2325
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM   4343  CE2 TRP X 568      -3.003  42.312  13.277  0.00  0.00           C 0
+ATOM   4341  CD2 TRP X 568      -3.029  40.905  13.304  0.00  0.00           C 0
+ATOM   4364    O TRP X 571       3.012  40.466  16.098  0.50  6.43           O 0
+ATOM   4348    N GLY X 569      -1.616  40.039  16.959  0.59  1.09           N 0
+ATOM   4349   CA GLY X 569      -1.152  40.697  18.167  0.00  0.00           C 0
+ATOM   4342  NE1 TRP X 568      -3.710  42.752  14.365  0.00  0.00           N 0
+ATOM   4199   CE MET X 550       3.366  43.292  13.143  0.00  0.00           C 0
+ATOM   4345  CZ2 TRP X 568      -2.349  43.034  12.276  0.00  0.00           C 0
+ATOM   4347  CH2 TRP X 568      -1.715  42.322  11.288  0.00  0.00           C 0
+ATOM   4346  CZ3 TRP X 568      -1.726  40.924  11.284  0.00  0.00           C 0
+ATOM   4344  CE3 TRP X 568      -2.379  40.206  12.283  0.00  0.00           C 0
+ATOM   4372  CZ2 TRP X 571       1.248  38.615  11.637  0.00  0.00           C 0
+ATOM   4370  CE2 TRP X 571       1.518  38.044  12.882  0.00  0.00           C 0
+TER
+END

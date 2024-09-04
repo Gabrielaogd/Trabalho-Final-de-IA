@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0355
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8355
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6347
+HEADER 5  - Mean B-factor of pocket residues  : 0.3266
+HEADER 6  - Hydrophobicity Score              : 21.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 154.4384
+HEADER 10 - Pocket volume (convex hull)       : 2.0965
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   5395    C VAL B 719      86.566  10.968  30.693  0.00  0.00           C 0
+ATOM   5380    O LEU B 717      90.361  10.510  34.746  0.50  9.64           O 0
+ATOM   5387    C ASP B 718      88.180   8.608  32.512  0.00  0.00           C 0
+ATOM   5400    N PRO B 720      87.089  11.142  29.470  0.00  0.00           N 0
+ATOM   5396    O VAL B 719      86.242  11.919  31.409  0.82  6.43           O 0
+ATOM   5401   CA PRO B 720      87.310  12.480  28.914  0.00  0.00           C 0
+ATOM   5388    O ASP B 718      88.737   8.134  31.523  0.76  3.21           O 0
+ATOM   4922    O VAL B 657      91.096  10.297  28.307  0.45  3.21           O 0
+ATOM   5404   CB PRO B 720      88.348  12.221  27.834  0.00  0.00           C 0
+ATOM   4915   NE ARG B 656      95.161  13.056  30.846  0.00  0.00           N 0
+ATOM   4914   CD ARG B 656      94.997  11.848  31.655  0.00  0.00           C 0
+ATOM   4913   CG ARG B 656      94.447  10.661  30.854  0.00  0.00           C 0
+ATOM   4927   CA THR B 658      92.611  11.868  26.606  0.00  0.00           C 0
+ATOM   4917  NH1 ARG B 656      96.337  14.518  29.514  0.00  0.00           N 0
+ATOM   4930   CB THR B 658      93.950  12.475  26.159  0.00  0.00           C 0
+ATOM   4929    O THR B 658      91.034  13.452  25.776  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0495
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.6823
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4619
+HEADER 5  - Mean B-factor of pocket residues  : 0.1075
+HEADER 6  - Hydrophobicity Score              : 30.1000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 235.4801
+HEADER 10 - Pocket volume (convex hull)       : 11.2941
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1200
+ATOM   1005    O ILE A 232      19.589  15.538  15.620  0.00  0.00           O 0
+ATOM   1094   CB SER A 243      19.282  20.833   9.304  0.00  0.00           C 0
+ATOM   1077  OG1 THR A 241      20.863  19.769  15.407  0.63  6.43           O 0
+ATOM   1076   CB THR A 241      22.291  19.436  15.164  0.00  0.00           C 0
+ATOM   1090    N SER A 243      20.764  22.331  10.559  0.57  1.09           N 0
+ATOM   1011   CA GLY A 233      17.163  15.242  14.414  0.00  0.00           C 0
+ATOM   1095   OG SER A 243      18.189  21.723   9.421  0.51  6.43           O 0
+ATOM   1013    O GLY A 233      15.767  17.169  14.456  0.00  0.00           O 0
+ATOM   1081    C PHE A 242      21.986  22.479  11.000  0.00  0.00           C 0
+ATOM   1082    O PHE A 242      23.029  22.183  10.359  0.00  0.00           O 0
+ATOM   1079    N PHE A 242      22.680  22.049  13.233  0.00  0.00           N 0
+ATOM   1091   CA SER A 243      20.493  21.764   9.212  0.00  0.00           C 0
+ATOM   1026  CD2 LEU A 235      15.256  21.953  15.642  0.00  0.00           C 0
+ATOM   1118    O GLN A 247      12.664  21.219  13.466  0.50  6.43           O 0
+ATOM   1103    O ASP A 245      15.719  23.354   9.646  0.41  4.29           O 0
+ATOM   1115    N GLN A 247      13.231  23.407  11.965  0.00  0.00           N 0
+ATOM    876   CD ARG A 214      18.576  24.531  15.603  0.00  0.00           C 0
+ATOM   1114  CG2 VAL A 246      16.789  26.584  12.611  0.00  0.00           C 0
+ATOM   1109   CA VAL A 246      14.962  25.023  11.676  0.00  0.00           C 0
+ATOM    877   NE ARG A 214      18.825  23.096  15.834  0.56  2.19           N 0
+TER
+END

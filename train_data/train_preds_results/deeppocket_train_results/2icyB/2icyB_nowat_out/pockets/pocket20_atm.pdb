@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0124
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.9122
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6007
+HEADER 5  - Mean B-factor of pocket residues  : 0.4521
+HEADER 6  - Hydrophobicity Score              : 8.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 413.3929
+HEADER 10 - Pocket volume (convex hull)       : 35.1713
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.3929
+ATOM   2097   CA PRO B 276      41.222  13.710  39.288  0.00  0.00           C 0
+ATOM   2092    O VAL B 275      43.457  13.629  37.624  0.65  4.29           O 0
+ATOM   2078    O ALA B 273      45.484  17.615  36.660  0.52  8.57           O 0
+ATOM   2110  OD2 ASP B 277      44.783  12.680  42.627  0.00  0.00           O 0
+ATOM   2096    N PRO B 276      41.254  14.038  37.854  0.00  0.00           N 0
+ATOM   2101   CG PRO B 276      39.334  15.016  38.691  0.00  0.00           C 0
+ATOM   2082    C GLN B 274      42.565  16.672  35.177  0.00  0.00           C 0
+ATOM   2091    C VAL B 275      42.381  13.967  37.132  0.00  0.00           C 0
+ATOM    275   CB HIS B  43      37.191  21.889  38.133  0.00  0.00           C 0
+ATOM    278  CD2 HIS B  43      39.498  22.985  38.624  0.00  0.00           C 0
+ATOM    276   CG HIS B  43      38.156  22.845  38.783  0.00  0.00           C 0
+ATOM   2088  NE2 GLN B 274      45.792  20.651  34.453  0.48  4.37           N 0
+ATOM   2085   CG GLN B 274      43.559  20.064  33.646  0.00  0.00           C 0
+ATOM    252   CB GLU B  40      42.583  25.206  36.009  0.00  0.00           C 0
+ATOM    272   CA HIS B  43      37.548  21.622  36.672  0.00  0.00           C 0
+ATOM   2081   CA GLN B 274      43.506  17.821  34.859  0.00  0.00           C 0
+ATOM    253   CG GLU B  40      43.893  24.804  35.270  0.00  0.00           C 0
+ATOM    265    O GLN B  42      39.573  22.941  35.518  0.60  3.21           O 0
+ATOM   2083    O GLN B 274      41.373  16.876  35.293  0.74  5.36           O 0
+ATOM   2084   CB GLN B 274      42.976  18.640  33.674  0.00  0.00           C 0
+ATOM    248    N GLU B  40      43.469  26.445  38.019  0.45  4.37           N 0
+ATOM    280  NE2 HIS B  43      39.893  24.063  39.382  0.68  3.28           N 0
+ATOM    281    N ILE B  44      37.130  19.674  35.317  0.53  2.19           N 0
+ATOM    284    O ILE B  44      35.676  17.404  36.274  0.63  7.50           O 0
+TER
+END

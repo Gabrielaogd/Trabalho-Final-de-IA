@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0740
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.7278
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4013
+HEADER 5  - Mean B-factor of pocket residues  : 0.4167
+HEADER 6  - Hydrophobicity Score              : -1.0000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 248.1640
+HEADER 10 - Pocket volume (convex hull)       : 11.1600
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1600
+ATOM   1164  CG2 THR A 150      47.565  20.384 -21.542  0.00  0.00           C 0
+ATOM   1242   CA SER A 161      48.896  23.606 -28.096  0.00  0.00           C 0
+ATOM   1238    O SER A 160      47.031  21.532 -28.431  0.58  6.43           O 0
+ATOM   1244    O SER A 161      47.105  24.560 -26.789  0.00  0.00           O 0
+ATOM   1231    O VAL A 159      48.556  18.525 -28.687  0.00  0.00           O 0
+ATOM   1241    N SER A 161      48.897  22.568 -29.146  0.00  0.00           N 0
+ATOM   1163  OG1 THR A 150      49.226  18.637 -21.598  0.00  0.00           O 0
+ATOM   1223   CD ARG A 158      50.969  15.382 -30.668  0.00  0.00           C 0
+ATOM   1146  CG2 THR A 147      52.752  13.633 -24.396  0.00  0.00           C 0
+ATOM   1226  NH1 ARG A 158      53.763  15.328 -30.268  0.66  9.84           N 0
+ATOM   1145  OG1 THR A 147      50.662  14.554 -23.620  0.65  4.29           O 0
+ATOM   1224   NE ARG A 158      51.781  14.181 -30.545  0.72  2.19           N 0
+ATOM   1198   CG GLU A 155      46.143  15.424 -23.243  0.00  0.00           C 0
+ATOM   1232   CB VAL A 159      45.753  17.409 -27.817  0.00  0.00           C 0
+ATOM   1197   CB GLU A 155      46.748  14.137 -23.800  0.00  0.00           C 0
+ATOM   1130    O ASP A 145      50.860  11.562 -26.819  0.70  1.07           O 0
+ATOM   1218   CA ARG A 158      48.260  13.984 -29.815  0.00  0.00           C 0
+ATOM   1233  CG1 VAL A 159      45.061  18.755 -27.661  0.00  0.00           C 0
+ATOM   1201  OE2 GLU A 155      44.134  16.720 -23.274  0.53  3.21           O 0
+ATOM   1228    N VAL A 159      47.411  16.156 -29.199  0.43  2.19           N 0
+TER
+END

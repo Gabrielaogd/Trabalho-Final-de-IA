@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : 0.0421
+HEADER 1  - Drug Score                        : 0.3136
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9926
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5907
+HEADER 5  - Mean B-factor of pocket residues  : 0.2310
+HEADER 6  - Hydrophobicity Score              : 34.5455
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3636
+HEADER 9  - Pocket volume (Monte Carlo)       : 330.0034
+HEADER 10 - Pocket volume (convex hull)       : 25.5494
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.7333
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.8824
+ATOM   2060   CB ALA X 271      45.440   9.991  11.427  0.00  0.00           C 0
+ATOM   2045  CE2 TYR X 269      44.937  11.491  15.622  0.00  0.00           C 0
+ATOM   1769   OH TYR X 235      48.610   8.271  13.945  0.00  0.00           O 0
+ATOM   2047   OH TYR X 269      45.196  13.834  15.278  0.81  7.50           O 0
+ATOM     84   SG CYS X  14      49.265  17.490   7.087  0.00  0.00           S 0
+ATOM     96   CB TRP X  16      47.096  13.560   3.537  0.00  0.00           C 0
+ATOM     88    O THR X  15      49.260  16.152   3.396  0.72  5.36           O 0
+ATOM     50   SG CYS X   9      51.131  17.131   7.871  0.00  0.00           S 0
+ATOM     49   CB CYS X   9      52.347  17.136   6.523  0.00  0.00           C 0
+ATOM   2067   CD PRO X 272      45.339  13.470  10.990  0.00  0.00           C 0
+ATOM   1793   CG PRO X 238      48.155   9.031   8.487  0.00  0.00           C 0
+ATOM   1794   CD PRO X 238      48.019   8.121   9.668  0.00  0.00           C 0
+ATOM   2064    O PRO X 272      45.909  11.731   7.979  0.81  2.14           O 0
+ATOM   1792   CB PRO X 238      47.775   8.222   7.334  0.00  0.00           C 0
+ATOM   2066   CG PRO X 272      45.681  14.692  10.237  0.00  0.00           C 0
+ATOM    102  CE3 TRP X  16      45.676  15.886   5.406  0.00  0.00           C 0
+ATOM   2065   CB PRO X 272      45.214  14.502   8.807  0.00  0.00           C 0
+ATOM    109    O TRP X  17      46.694   9.816   1.261  0.57  8.57           O 0
+ATOM   2069   CA GLY X 273      44.378  10.869   5.828  0.00  0.00           C 0
+TER
+END

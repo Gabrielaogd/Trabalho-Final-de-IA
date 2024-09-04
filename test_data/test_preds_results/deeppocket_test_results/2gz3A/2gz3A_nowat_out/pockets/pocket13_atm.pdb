@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0384
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7624
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4965
+HEADER 5  - Mean B-factor of pocket residues  : 0.4323
+HEADER 6  - Hydrophobicity Score              : 28.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 164.2081
+HEADER 10 - Pocket volume (convex hull)       : 3.3052
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   1761  OE2 GLU A 233     -18.907   0.842   5.519  0.50  4.29           O 0
+ATOM   1760  OE1 GLU A 233     -16.742   0.651   5.883  0.00  0.00           O 0
+ATOM    834  ND1 HIS A 114     -18.874  -5.482   4.897  0.44  6.56           N 0
+ATOM    832   CB HIS A 114     -18.762  -5.459   2.369  0.00  0.00           C 0
+ATOM    838    N ALA A 115     -21.380  -3.401   2.611  0.61  3.28           N 0
+ATOM    819   CB ASN A 112     -19.152   0.574   0.311  0.00  0.00           C 0
+ATOM   1758   CG GLU A 233     -17.578   2.824   5.361  0.00  0.00           C 0
+ATOM   1748    O MET A 232     -14.383   4.665   3.809  0.47  2.14           O 0
+ATOM   1740    O ILE A 231     -17.971   3.863   1.640  0.56  4.29           O 0
+ATOM    816   CA ASN A 112     -18.839  -0.604  -0.628  0.00  0.00           C 0
+ATOM    818    O ASN A 112     -20.848  -1.548   0.295  0.00  0.00           O 0
+ATOM   1759   CD GLU A 233     -17.751   1.334   5.610  0.00  0.00           C 0
+ATOM    811    O VAL A 111     -16.274  -0.266  -1.622  0.00  0.00           O 0
+ATOM   1033  NH2 ARG A 141     -12.756   3.041   0.980  0.70  3.28           N 0
+TER
+END

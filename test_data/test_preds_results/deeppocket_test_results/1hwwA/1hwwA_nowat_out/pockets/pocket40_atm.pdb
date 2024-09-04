@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    40:
+HEADER 0  - Pocket Score                      : -0.0756
+HEADER 1  - Drug Score                        : 0.0032
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.0900
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5716
+HEADER 5  - Mean B-factor of pocket residues  : 0.4547
+HEADER 6  - Hydrophobicity Score              : 17.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 328.7922
+HEADER 10 - Pocket volume (convex hull)       : 9.8046
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4167
+ATOM   7813   NZ LYS A 996      54.695  40.269 -25.776  0.00  0.00           N 0
+ATOM   7810   CG LYS A 996      56.329  42.747 -25.583  0.00  0.00           C 0
+ATOM   7809   CB LYS A 996      57.049  43.776 -24.724  0.00  0.00           C 0
+ATOM   8058  CG1 VAL A1027      60.160  40.836 -18.592  0.00  0.00           C 0
+ATOM   8076   CB GLU A1030      52.221  44.095 -20.056  0.00  0.00           C 0
+ATOM   7695  NH1 ARG A 981      47.121  43.219 -21.797  0.88  5.47           N 0
+ATOM   8079  OE1 GLU A1030      52.158  44.411 -22.867  0.46  8.57           O 0
+ATOM   8075    O GLU A1030      51.191  41.941 -17.725  0.59  9.64           O 0
+ATOM   7826   CB ASP A 998      60.467  44.998 -19.632  0.00  0.00           C 0
+ATOM   7817    O LEU A 997      56.714  46.153 -20.019  0.38  6.43           O 0
+ATOM   7811   CD LYS A 996      54.840  42.695 -25.252  0.00  0.00           C 0
+ATOM   7812   CE LYS A 996      54.133  41.619 -26.058  0.00  0.00           C 0
+ATOM   8072    N GLU A1030      53.610  42.747 -18.553  0.00  0.00           N 0
+ATOM   8077   CG GLU A1030      53.443  44.505 -20.870  0.00  0.00           C 0
+ATOM   8084    O VAL A1031      48.028  43.750 -18.996  0.57  1.07           O 0
+ATOM      6   SG CYS A  31      45.498  39.241 -19.408  0.00  0.00           S 0
+ATOM   8063    O ALA A1028      57.129  43.494 -17.382  0.64  1.07           O 0
+ATOM   8066   CA PRO A1029      55.319  41.405 -17.458  0.00  0.00           C 0
+ATOM   8069   CB PRO A1029      54.809  40.005 -17.137  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0503
+HEADER 1  - Drug Score                        : 0.0030
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8972
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5168
+HEADER 5  - Mean B-factor of pocket residues  : 0.1963
+HEADER 6  - Hydrophobicity Score              : 21.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 250.8974
+HEADER 10 - Pocket volume (convex hull)       : 11.7812
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM    987  CD2 TRP A 127      -7.790 -49.048  81.196  0.00  0.00           C 0
+ATOM   1235  CE1 PHE A 158      -7.521 -41.491  81.277  0.00  0.00           C 0
+ATOM    988  NE1 TRP A 127      -8.032 -48.599  79.013  0.82  4.37           N 0
+ATOM    989  CE2 TRP A 127      -8.699 -49.061  80.116  0.00  0.00           C 0
+ATOM    986  CD1 TRP A 127      -6.735 -48.298  79.368  0.00  0.00           C 0
+ATOM    984   CB TRP A 127      -5.251 -48.401  81.460  0.00  0.00           C 0
+ATOM    967  OD1 ASP A 124      -1.068 -46.288  82.294  0.16  7.50           O 0
+ATOM   1267  OE1 GLN A 163      -1.229 -43.142  81.319  0.50  5.36           O 0
+ATOM    990  CE3 TRP A 127      -8.232 -49.478  82.457  0.00  0.00           C 0
+ATOM   1013   CB CYS A 130      -3.891 -45.364  78.149  0.00  0.00           C 0
+ATOM   1245  OD2 ASP A 159      -3.121 -38.860  83.580  0.19  3.21           O 0
+ATOM   1242   CB ASP A 159      -5.450 -39.156  83.968  0.00  0.00           C 0
+ATOM    985   CG TRP A 127      -6.536 -48.557  80.691  0.00  0.00           C 0
+ATOM   1014   SG CYS A 130      -5.659 -44.929  78.248  0.00  0.00           S 0
+ATOM   1237   CZ PHE A 158      -7.150 -41.438  79.932  0.00  0.00           C 0
+TER
+END

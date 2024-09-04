@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0159
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.6881
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4518
+HEADER 5  - Mean B-factor of pocket residues  : 0.3545
+HEADER 6  - Hydrophobicity Score              : -11.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 313.1201
+HEADER 10 - Pocket volume (convex hull)       : 15.3106
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    762   CZ ARG D 110      22.084 -17.464  70.627  0.00  0.00           C 0
+ATOM    743   CB ASP D 108      24.621 -11.133  71.503  0.00  0.00           C 0
+ATOM    763  NH1 ARG D 110      23.306 -17.834  70.263  0.00  0.00           N 0
+ATOM    764  NH2 ARG D 110      21.222 -17.040  69.709  0.00  0.00           N 0
+ATOM    742    O ASP D 108      24.079 -13.317  73.408  0.48  8.57           O 0
+ATOM    711    O ARG D 105      28.028 -10.801  72.218  0.36  1.07           O 0
+ATOM    698    O GLU D 103      29.818 -14.057  69.403  0.50  1.07           O 0
+ATOM    745  OD1 ASP D 108      23.174  -9.237  71.275  0.00  0.00           O 0
+ATOM    744   CG ASP D 108      24.120  -9.890  70.771  0.00  0.00           C 0
+ATOM    746  OD2 ASP D 108      24.670  -9.562  69.693  0.67  7.50           O 0
+ATOM    705   CA GLY D 104      29.489 -11.901  67.725  0.00  0.00           C 0
+ATOM    708    N ARG D 105      28.856 -10.419  69.530  0.68  1.09           N 0
+ATOM    680    O GLU D 100      28.053 -17.230  70.604  0.48  4.29           O 0
+ATOM    741    C ASP D 108      24.777 -12.342  73.708  0.00  0.00           C 0
+ATOM    685    O ALA D 101      31.080 -15.004  72.533  0.00  0.00           O 0
+ATOM    748   CA THR D 109      26.121 -13.662  75.262  0.00  0.00           C 0
+ATOM    683   CA ALA D 101      29.716 -16.957  72.824  0.00  0.00           C 0
+ATOM    747    N THR D 109      25.754 -12.402  74.612  0.00  0.00           N 0
+TER
+END

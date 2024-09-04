@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0321
+HEADER 1  - Drug Score                        : 0.0056
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8300
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5414
+HEADER 5  - Mean B-factor of pocket residues  : 0.1741
+HEADER 6  - Hydrophobicity Score              : 1.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 298.2282
+HEADER 10 - Pocket volume (convex hull)       : 21.4160
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.7500
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM   1071  CG2 ILE B 137      49.092  62.678  71.886  0.00  0.00           C 0
+ATOM   1066   CA ILE B 137      47.322  64.477  72.021  0.00  0.00           C 0
+ATOM   1070  CG1 ILE B 137      47.203  62.503  73.602  0.00  0.00           C 0
+ATOM   1094   CD ARG B 140      49.416  68.708  75.167  0.00  0.00           C 0
+ATOM   1095   NE ARG B 140      48.151  68.878  75.870  0.69  3.28           N 0
+ATOM   1064  OE2 GLU B 136      45.033  68.172  75.189  0.62  3.21           O 0
+ATOM   1103   CB GLU B 141      52.076  66.986  69.149  0.00  0.00           C 0
+ATOM   1105   CD GLU B 141      54.620  67.146  69.193  0.00  0.00           C 0
+ATOM   1104   CG GLU B 141      53.369  66.885  68.349  0.00  0.00           C 0
+ATOM   1106  OE1 GLU B 141      54.515  67.414  70.414  0.64  5.36           O 0
+ATOM   1079  ND1 HIS B 138      49.464  62.726  66.523  0.68  3.28           N 0
+ATOM   1081  CE1 HIS B 138      49.893  61.512  66.837  0.00  0.00           C 0
+ATOM   1068    O ILE B 137      49.073  65.687  70.900  0.59  4.29           O 0
+ATOM   1132   NZ LYS B 144      53.817  68.595  74.825  0.00  0.00           N 0
+ATOM   1093   CG ARG B 140      49.454  69.481  73.836  0.00  0.00           C 0
+ATOM   1099    N GLU B 141      50.367  68.453  70.184  0.00  0.00           N 0
+TER
+END

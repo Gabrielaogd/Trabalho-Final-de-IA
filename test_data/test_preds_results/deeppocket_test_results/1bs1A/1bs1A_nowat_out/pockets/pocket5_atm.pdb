@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0029
+HEADER 1  - Drug Score                        : 0.0068
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9519
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6565
+HEADER 5  - Mean B-factor of pocket residues  : 0.1216
+HEADER 6  - Hydrophobicity Score              : 35.7500
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 330.2377
+HEADER 10 - Pocket volume (convex hull)       : 18.1405
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.3333
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4737
+ATOM   1614   CB ALA A 214      21.087  17.940  17.981  0.00  0.00           C 0
+ATOM   1631   CG LYS A 217      23.463  21.458  13.976  0.00  0.00           C 0
+ATOM   1613    O ALA A 214      20.775  19.075  15.466  0.60  5.36           O 0
+ATOM   1630   CB LYS A 217      24.234  22.599  14.652  0.00  0.00           C 0
+ATOM   1632   CD LYS A 217      24.306  20.185  13.873  0.00  0.00           C 0
+ATOM   1650    O ILE A 219      22.458  28.842  14.175  0.00  0.00           O 0
+ATOM    184   CB ALA A  25      20.069  28.317  17.644  0.00  0.00           C 0
+ATOM    183    O ALA A  25      21.398  29.341  20.501  0.00  0.00           O 0
+ATOM   1667   CB LEU A 221      21.488  33.090  16.974  0.00  0.00           C 0
+ATOM    203   CB ALA A  28      23.483  26.794  21.667  0.00  0.00           C 0
+ATOM    181   CA ALA A  25      20.207  27.784  19.078  0.00  0.00           C 0
+ATOM   1626    N LYS A 217      22.229  23.679  15.565  0.55  3.28           N 0
+ATOM   1612    C ALA A 214      19.899  19.337  16.284  0.00  0.00           C 0
+ATOM   1625    O GLY A 216      21.542  25.821  15.461  0.68  1.07           O 0
+ATOM   1624    C GLY A 216      21.372  24.654  15.862  0.00  0.00           C 0
+ATOM   1627   CA LYS A 217      23.424  23.909  14.766  0.00  0.00           C 0
+ATOM   1622    N GLY A 216      19.698  22.924  16.488  0.00  0.00           N 0
+ATOM    178  OE1 GLN A  24      18.263  21.386  18.789  0.00  0.00           O 0
+ATOM   1623   CA GLY A 216      20.187  24.294  16.752  0.00  0.00           C 0
+ATOM    175   CB GLN A  24      18.146  23.902  19.964  0.00  0.00           C 0
+ATOM    174    O GLN A  24      20.074  26.248  21.331  0.53  2.14           O 0
+TER
+END

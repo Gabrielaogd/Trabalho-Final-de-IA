@@ -1,0 +1,48 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0626
+HEADER 1  - Drug Score                        : 0.0032
+HEADER 2  - Number of alpha spheres           :    36
+HEADER 3  - Mean alpha-sphere radius          : 3.9147
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4926
+HEADER 5  - Mean B-factor of pocket residues  : 0.4902
+HEADER 6  - Hydrophobicity Score              : 14.1111
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 360.8924
+HEADER 10 - Pocket volume (convex hull)       : 23.8146
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 9.8667
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.4167
+ATOM    529  OE1 GLU A  69      79.418  77.856  14.440  0.00  0.00           O 0
+ATOM    494    O SER A  65      80.675  74.806  10.619  0.57  2.14           O 0
+ATOM    520  OE1 GLU A  68      81.764  78.794   9.236  0.31  4.29           O 0
+ATOM    517   CB GLU A  68      82.288  77.718  11.725  0.00  0.00           C 0
+ATOM   2093    N TYR A 271      75.307  73.588   9.328  0.00  0.00           N 0
+ATOM   2094   CA TYR A 271      76.482  73.277   8.531  0.00  0.00           C 0
+ATOM    495   CB SER A  65      80.165  75.362   7.526  0.00  0.00           C 0
+ATOM    525    O GLU A  69      79.112  74.533  14.576  0.63  5.36           O 0
+ATOM   2091   CG PRO A 270      72.647  75.413  11.916  0.00  0.00           C 0
+ATOM   2092   CD PRO A 270      72.702  73.906  12.016  0.00  0.00           C 0
+ATOM    540    N GLN A  71      75.630  76.291  16.620  0.65  2.19           N 0
+ATOM   2089    O PRO A 270      74.341  74.755   7.658  0.65  2.14           O 0
+ATOM   2088    C PRO A 270      74.325  74.323   8.818  0.00  0.00           C 0
+ATOM    548  NE2 GLN A  71      72.303  78.795  14.058  0.70  8.75           N 0
+ATOM   2090   CB PRO A 270      73.485  75.735  10.718  0.00  0.00           C 0
+ATOM    530  OE2 GLU A  69      77.859  78.590  15.789  0.00  0.00           O 0
+ATOM   2100  CD2 TYR A 271      76.983  70.834  10.990  0.00  0.00           C 0
+ATOM   2097   CB TYR A 271      77.602  72.700   9.405  0.00  0.00           C 0
+ATOM    532   CA GLN A  70      77.582  74.942  16.944  0.00  0.00           C 0
+ATOM    543    O GLN A  71      74.096  74.314  16.954  0.59  4.29           O 0
+ATOM    535   CB GLN A  70      77.596  73.943  18.113  0.00  0.00           C 0
+ATOM   2102  CE2 TYR A 271      76.886  69.498  11.322  0.00  0.00           C 0
+ATOM    571  CE1 PHE A  74      73.289  69.410  17.660  0.00  0.00           C 0
+ATOM    573   CZ PHE A  74      73.397  68.394  16.740  0.00  0.00           C 0
+ATOM   2083   CG LEU A 269      72.713  69.693  13.118  0.00  0.00           C 0
+ATOM   2082   CB LEU A 269      73.140  70.569  11.928  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.0357
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8351
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5669
+HEADER 5  - Mean B-factor of pocket residues  : 0.1168
+HEADER 6  - Hydrophobicity Score              : 25.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 235.5793
+HEADER 10 - Pocket volume (convex hull)       : 10.5348
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3500
+ATOM   4104  CD1 LEU A 549      -1.516  61.694 -29.481  0.00  0.00           C 0
+ATOM   4105  CD2 LEU A 549      -2.798  63.090 -27.862  0.00  0.00           C 0
+ATOM   1691  CD1 LEU A 245      -5.879  65.011 -28.576  0.00  0.00           C 0
+ATOM   1689   CB LEU A 245      -8.023  63.797 -28.949  0.00  0.00           C 0
+ATOM   1690   CG LEU A 245      -6.943  64.144 -27.923  0.00  0.00           C 0
+ATOM   1635    O TYR A 239      -5.441  57.980 -28.200  0.55  2.14           O 0
+ATOM   1685    N LEU A 245      -8.789  61.623 -28.075  0.00  0.00           N 0
+ATOM   1693    N ASN A 246     -10.116  62.306 -30.584  0.89  2.19           N 0
+ATOM   1675  OD1 ASP A 243      -8.138  58.773 -32.952  0.00  0.00           O 0
+ATOM   1697   CB ASN A 246     -10.490  61.665 -32.911  0.00  0.00           C 0
+ATOM   1670   CA ASP A 243      -8.256  57.614 -30.272  0.00  0.00           C 0
+ATOM   4103   CG LEU A 549      -1.803  63.109 -29.017  0.00  0.00           C 0
+ATOM   1645   CA LYS A 240      -3.190  56.588 -29.124  0.00  0.00           C 0
+ATOM   1647    O LYS A 240      -4.729  55.303 -30.453  0.17  5.36           O 0
+ATOM   1650   CD LYS A 240      -0.781  57.855 -30.888  0.00  0.00           C 0
+ATOM   1649   CG LYS A 240      -1.186  56.403 -30.678  0.00  0.00           C 0
+ATOM   1652   NZ LYS A 240      -0.354  58.300 -33.300  0.00  0.00           N 0
+TER
+END

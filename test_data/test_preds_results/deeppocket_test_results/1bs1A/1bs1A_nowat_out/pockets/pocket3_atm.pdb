@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0868
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8775
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5954
+HEADER 5  - Mean B-factor of pocket residues  : 0.1402
+HEADER 6  - Hydrophobicity Score              : -6.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 269.6257
+HEADER 10 - Pocket volume (convex hull)       : 12.4426
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM    443    O ASN A  61      14.071  24.834  24.082  0.79  1.07           O 0
+ATOM    451    O SER A  62      13.787  24.379  27.849  0.57  3.21           O 0
+ATOM    432    O ARG A  60      12.882  21.005  25.891  0.00  0.00           O 0
+ATOM    198   NZ LYS A  27      18.928  22.785  27.674  0.00  0.00           N 0
+ATOM    200   CA ALA A  28      23.276  27.448  23.038  0.00  0.00           C 0
+ATOM    195   CG LYS A  27      19.874  26.117  26.013  0.00  0.00           C 0
+ATOM    196   CD LYS A  27      19.187  24.770  26.194  0.00  0.00           C 0
+ATOM    197   CE LYS A  27      19.686  24.057  27.459  0.00  0.00           C 0
+ATOM    193    O LYS A  27      22.129  28.392  25.378  0.00  0.00           O 0
+ATOM    199    N ALA A  28      21.840  27.638  23.246  0.00  0.00           N 0
+ATOM    203   CB ALA A  28      23.483  26.794  21.667  0.00  0.00           C 0
+ATOM    446  OD1 ASN A  61      14.226  21.421  21.463  0.00  0.00           O 0
+ATOM    441   CA ASN A  61      12.803  22.825  23.813  0.00  0.00           C 0
+ATOM    176   CG GLN A  24      17.126  22.815  20.326  0.00  0.00           C 0
+ATOM    174    O GLN A  24      20.074  26.248  21.331  0.53  2.14           O 0
+ATOM    172   CA GLN A  24      17.960  25.209  20.747  0.00  0.00           C 0
+ATOM    175   CB GLN A  24      18.146  23.902  19.964  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0810
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.2338
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5650
+HEADER 5  - Mean B-factor of pocket residues  : 0.1682
+HEADER 6  - Hydrophobicity Score              : 13.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 342.4943
+HEADER 10 - Pocket volume (convex hull)       : 19.6832
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2609
+ATOM   1945  OG1 THR A 250       4.493  13.654  16.356  0.00  0.00           O 0
+ATOM   2627   NE ARG A 331       2.555  18.229  13.814  0.00  0.00           N 0
+ATOM   2637   CD ARG A 332       6.006  16.910  16.977  0.00  0.00           C 0
+ATOM   2630  NH2 ARG A 331       2.243  17.058  11.861  0.02  3.28           N 0
+ATOM    316    N GLY A  41       4.253  11.493   8.981  0.28  2.19           N 0
+ATOM    317   CA GLY A  41       5.590  11.356   9.515  0.00  0.00           C 0
+ATOM    319    O GLY A  41       6.241  12.611   7.576  0.57  2.14           O 0
+ATOM    266   OG SER A  34       2.773  11.260  12.333  0.52  3.21           O 0
+ATOM    265   CB SER A  34       3.739  11.128  13.344  0.00  0.00           C 0
+ATOM    318    C GLY A  41       6.597  11.974   8.561  0.00  0.00           C 0
+ATOM    324   CB ALA A  42       9.442  13.602   8.755  0.00  0.00           C 0
+ATOM    248  CG1 VAL A  32       9.863   9.587  13.492  0.00  0.00           C 0
+ATOM   2638   NE ARG A 332       6.886  15.806  17.290  0.00  0.00           N 0
+ATOM   2641  NH2 ARG A 332       8.927  14.946  17.990  0.29  3.28           N 0
+ATOM   2639   CZ ARG A 332       8.182  15.970  17.575  0.00  0.00           C 0
+ATOM    247   CB VAL A  32      10.227   9.501  12.039  0.00  0.00           C 0
+ATOM    249  CG2 VAL A  32      11.755   9.437  11.885  0.00  0.00           C 0
+ATOM    320    N ALA A  42       7.867  11.768   8.834  0.62  1.09           N 0
+ATOM    246    O VAL A  32       7.608   9.510  10.818  0.00  0.00           O 0
+TER
+END

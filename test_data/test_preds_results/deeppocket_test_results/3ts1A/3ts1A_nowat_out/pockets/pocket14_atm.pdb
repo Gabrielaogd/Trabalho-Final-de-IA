@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0303
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9103
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5661
+HEADER 5  - Mean B-factor of pocket residues  : 0.2528
+HEADER 6  - Hydrophobicity Score              : -12.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 212.2146
+HEADER 10 - Pocket volume (convex hull)       : 2.9544
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1905
+ATOM    875  OD1 ASN A 116     -21.704  34.390   6.355  0.00  0.00           O 0
+ATOM    461   CG GLN A  59     -21.770  30.963   2.825  0.00  0.00           C 0
+ATOM    835  OD2 ASP A 110     -22.142  36.646   1.306  0.00  0.00           O 0
+ATOM    856   CB ALA A 113     -21.208  36.710   3.945  0.00  0.00           C 0
+ATOM    832   CB ASP A 110     -21.596  34.858  -0.158  0.00  0.00           C 0
+ATOM    459    O GLN A  59     -24.635  30.826   4.892  0.34  3.21           O 0
+ATOM    466   CA GLN A  60     -27.014  30.516   3.383  0.00  0.00           C 0
+ATOM    465    N GLN A  60     -25.736  29.838   3.206  0.00  0.00           N 0
+ATOM    462   CD GLN A  59     -21.124  31.746   1.717  0.00  0.00           C 0
+ATOM    876  ND2 ASN A 116     -22.446  32.238   6.187  0.56  2.19           N 0
+ATOM    458    C GLN A  59     -24.651  30.011   3.928  0.00  0.00           C 0
+ATOM    470   CG GLN A  60     -27.604  30.447   0.866  0.00  0.00           C 0
+ATOM    432  NH1 ARG A  56     -25.570  31.868  -4.407  0.64  3.28           N 0
+ATOM    472  OE1 GLN A  60     -29.029  30.905  -1.037  0.00  0.00           O 0
+ATOM    463  OE1 GLN A  59     -21.435  31.703   0.537  0.59  2.14           O 0
+ATOM    460   CB GLN A  59     -22.695  29.848   2.354  0.00  0.00           C 0
+ATOM    428   CG ARG A  56     -24.921  29.137  -2.551  0.00  0.00           C 0
+TER
+END

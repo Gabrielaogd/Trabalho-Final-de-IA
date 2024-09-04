@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0083
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6635
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3878
+HEADER 5  - Mean B-factor of pocket residues  : 0.1981
+HEADER 6  - Hydrophobicity Score              : 50.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 154.3068
+HEADER 10 - Pocket volume (convex hull)       : 3.4545
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM    652   SD MET A  91     -11.714 -19.483 -18.595  0.00  0.00           S 0
+ATOM    653   CE MET A  91     -12.169 -21.058 -17.851  0.00  0.00           C 0
+ATOM    678  CD2 LEU A  94      -6.800 -20.051 -19.073  0.00  0.00           C 0
+ATOM    635  CE2 TYR A  89      -8.965 -16.980 -17.333  0.00  0.00           C 0
+ATOM    919    O LYS A 126     -12.208 -23.588 -16.305  0.00  0.00           O 0
+ATOM    649    O MET A  91      -9.240 -22.081 -21.842  0.00  0.00           O 0
+ATOM    677  CD1 LEU A  94      -4.996 -21.607 -18.297  0.00  0.00           C 0
+ATOM    637   OH TYR A  89      -6.792 -16.946 -16.346  0.71  2.14           O 0
+ATOM    933   CB ASN A 128      -7.105 -21.436 -12.108  0.00  0.00           C 0
+ATOM    929    N ASN A 128      -9.387 -22.090 -12.759  0.00  0.00           N 0
+ATOM    926   CG MET A 127     -11.838 -20.078 -13.619  0.00  0.00           C 0
+ATOM    922   CA MET A 127     -11.500 -22.607 -13.833  0.00  0.00           C 0
+ATOM    958  CG1 ILE A 131      -7.756 -17.268 -12.730  0.00  0.00           C 0
+TER
+END

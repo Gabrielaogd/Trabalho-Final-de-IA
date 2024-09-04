@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0653
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9214
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5202
+HEADER 5  - Mean B-factor of pocket residues  : 0.4192
+HEADER 6  - Hydrophobicity Score              : 46.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 174.9321
+HEADER 10 - Pocket volume (convex hull)       : 1.5612
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   4238  NE1 TRP A 550       7.997  57.261  58.595  0.52  4.37           N 0
+ATOM   4218  CD1 LEU A 547       5.269  58.036  62.471  0.00  0.00           C 0
+ATOM   4241  CZ2 TRP A 550       9.062  55.963  60.469  0.00  0.00           C 0
+ATOM   4207    O ASP A 546       5.503  60.970  59.376  0.50  9.64           O 0
+ATOM   3552  CD1 ILE A 462      10.239  55.666  65.014  0.00  0.00           C 0
+ATOM   3550  CG1 ILE A 462       8.847  55.727  65.640  0.00  0.00           C 0
+ATOM   4203  CD2 LEU A 545       7.822  60.433  65.751  0.00  0.00           C 0
+ATOM   3486  CG1 ILE A 454      13.295  56.028  61.766  0.00  0.00           C 0
+ATOM   3478    O SER A 453      14.815  59.202  60.901  0.43  3.21           O 0
+ATOM   3520  OD2 ASP A 458      12.220  60.037  67.196  0.48  8.57           O 0
+ATOM   4204    N ASP A 546       4.887  62.079  62.370  0.69  3.28           N 0
+ATOM   3482   CA ILE A 454      15.201  57.230  62.869  0.00  0.00           C 0
+ATOM   3487  CG2 ILE A 454      13.941  55.464  64.224  0.00  0.00           C 0
+TER
+END

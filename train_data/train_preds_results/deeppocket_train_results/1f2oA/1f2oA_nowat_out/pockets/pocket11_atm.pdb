@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.1322
+HEADER 1  - Drug Score                        : 0.1122
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6114
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4533
+HEADER 5  - Mean B-factor of pocket residues  : 0.0129
+HEADER 6  - Hydrophobicity Score              : 53.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 61.0149
+HEADER 10 - Pocket volume (convex hull)       : 0.0594
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM    300  CG2 VAL A  41      14.228   1.478  41.573  0.00  0.00           C 0
+ATOM    289  CD2 TYR A  40      11.650   1.046  38.378  0.00  0.00           C 0
+ATOM    119  CD2 LEU A  16       9.924   4.493  41.087  0.00  0.00           C 0
+ATOM    117   CG LEU A  16      10.015   5.657  40.036  0.00  0.00           C 0
+ATOM    118  CD1 LEU A  16      11.049   6.708  40.473  0.00  0.00           C 0
+ATOM    291  CE2 TYR A  40      12.205   1.614  37.187  0.00  0.00           C 0
+ATOM    721    O SER A 102      17.497   6.155  40.594  0.77  2.14           O 0
+ATOM    720    C SER A 102      16.833   7.192  40.822  0.00  0.00           C 0
+ATOM    725   CA ALA A 103      16.317   7.512  38.459  0.00  0.00           C 0
+ATOM    724    N ALA A 103      16.213   7.898  39.870  0.00  0.00           N 0
+ATOM    748  CD2 LEU A 106      16.108   2.224  37.718  0.00  0.00           C 0
+ATOM     82   CB HIS A  12      13.539   5.484  35.754  0.00  0.00           C 0
+ATOM    722   CB SER A 102      15.294   7.182  42.757  0.00  0.00           C 0
+TER
+END

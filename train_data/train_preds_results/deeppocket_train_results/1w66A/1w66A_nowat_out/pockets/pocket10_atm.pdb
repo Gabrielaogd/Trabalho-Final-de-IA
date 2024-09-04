@@ -1,0 +1,50 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0501
+HEADER 1  - Drug Score                        : 0.0544
+HEADER 2  - Number of alpha spheres           :    39
+HEADER 3  - Mean alpha-sphere radius          : 3.9700
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5250
+HEADER 5  - Mean B-factor of pocket residues  : 0.0846
+HEADER 6  - Hydrophobicity Score              : 18.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 494.8700
+HEADER 10 - Pocket volume (convex hull)       : 66.1997
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.8000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.3846
+ATOM    787  CG1 VAL A 102      -1.848   5.236   5.382  0.00  0.00           C 0
+ATOM    822  CG2 VAL A 106       1.006   6.619   8.622  0.00  0.00           C 0
+ATOM    795  CG2 VAL A 103      -4.463   9.470   8.376  0.00  0.00           C 0
+ATOM    790   CA VAL A 103      -3.693   7.281   9.361  0.00  0.00           C 0
+ATOM    860  OE1 GLU A 110       1.395   9.588  14.903  0.00  0.00           O 0
+ATOM    988   CA ASP A 128      -0.448  17.026  14.893  0.00  0.00           C 0
+ATOM    995    N GLY A 129      -0.296  16.775  12.479  0.00  0.00           N 0
+ATOM    993  OD1 ASP A 128      -2.948  15.932  14.172  0.00  0.00           O 0
+ATOM    975   CD ARG A 126       0.540  11.121  17.635  0.00  0.00           C 0
+ATOM    794  CG1 VAL A 103      -4.613   9.127  10.846  0.00  0.00           C 0
+ATOM   1010    N SER A 131       3.865  14.107  10.945  0.56  2.19           N 0
+ATOM    997    C GLY A 129       1.392  17.081  10.683  0.00  0.00           C 0
+ATOM    996   CA GLY A 129      -0.068  17.263  11.106  0.00  0.00           C 0
+ATOM    983    O VAL A 127       2.215  16.446  14.535  0.60  3.21           O 0
+ATOM   1011   CA SER A 131       4.006  12.707  11.370  0.00  0.00           C 0
+ATOM    821  CG1 VAL A 106       1.656   8.050  10.594  0.00  0.00           C 0
+ATOM    792    O VAL A 103      -2.601   6.733  11.409  0.00  0.00           O 0
+ATOM   1014   CBASER A 131       3.729  11.688  10.275  0.00  0.00           C 0
+ATOM    998    O GLY A 129       1.699  17.317   9.509  0.00  0.00           O 0
+ATOM    789    N VAL A 103      -4.055   6.401   8.250  0.55  1.09           N 0
+ATOM   1016   OGASER A 131       4.684  11.782   9.253  0.00  0.00           O 0
+ATOM    861  OE2 GLU A 110       2.809  10.549  13.517  0.58  5.36           O 0
+ATOM    827   CB ARG A 107      -1.796   6.813  14.828  0.00  0.00           C 0
+ATOM    820   CB VAL A 106       0.746   6.946  10.084  0.00  0.00           C 0
+ATOM    973   CB ARG A 126       1.858  13.211  18.089  0.00  0.00           C 0
+ATOM    987    N ASP A 128       0.608  17.307  15.841  0.44  2.19           N 0
+ATOM    991   CB ASP A 128      -1.784  17.607  15.390  0.00  0.00           C 0
+ATOM    972    O ARG A 126       2.602  15.973  19.326  0.00  0.00           O 0
+TER
+END

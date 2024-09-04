@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0521
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6026
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5447
+HEADER 5  - Mean B-factor of pocket residues  : 0.1789
+HEADER 6  - Hydrophobicity Score              : 21.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 193.2812
+HEADER 10 - Pocket volume (convex hull)       : 7.7383
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM    685   CA THR A  96      64.734 -13.274 -14.208  0.00  0.00           C 0
+ATOM    683  CG2 THR A  95      60.871 -12.899 -17.274  0.00  0.00           C 0
+ATOM    684    N THR A  96      63.279 -13.068 -14.283  0.00  0.00           N 0
+ATOM    689  OG1 THR A  96      65.220 -10.892 -14.136  0.00  0.00           O 0
+ATOM    681   CB THR A  95      60.551 -12.508 -15.824  0.00  0.00           C 0
+ATOM    660    O ALA A  92      62.447 -10.391 -13.318  0.00  0.00           O 0
+ATOM    680    O THR A  95      62.894 -14.930 -15.489  0.64  6.43           O 0
+ATOM   3207  CH2 TRP A 425      65.229  -7.611 -13.304  0.00  0.00           C 0
+ATOM    974    O PRO A 131      61.628  -7.435 -19.210  0.00  0.00           O 0
+ATOM   3205  CZ2 TRP A 425      66.421  -7.983 -13.876  0.00  0.00           C 0
+ATOM    661   CB ALA A  92      61.487  -7.192 -13.218  0.00  0.00           C 0
+ATOM    979   CA HIS A 132      59.750  -7.401 -17.138  0.00  0.00           C 0
+ATOM    984  ND1 HIS A 132      61.214  -4.899 -16.014  0.74  1.09           N 0
+ATOM    986  CE1 HIS A 132      61.481  -3.610 -16.125  0.00  0.00           C 0
+ATOM    975   CB PRO A 131      61.293  -4.458 -20.211  0.00  0.00           C 0
+ATOM    980    C HIS A 132      59.006  -8.735 -17.047  0.00  0.00           C 0
+ATOM    981    O HIS A 132      58.932  -9.331 -15.974  0.00  0.00           O 0
+TER
+END

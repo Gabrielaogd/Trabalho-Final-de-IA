@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0395
+HEADER 1  - Drug Score                        : 0.3225
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9914
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5586
+HEADER 5  - Mean B-factor of pocket residues  : 0.3371
+HEADER 6  - Hydrophobicity Score              : 22.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 197.3706
+HEADER 10 - Pocket volume (convex hull)       : 4.8398
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.6957
+ATOM   1117  CE1 TYR D 142     -40.887  74.796  -2.166  0.00  0.00           C 0
+ATOM   1342  CD1 PHE D 170     -37.173  75.141  -6.568  0.00  0.00           C 0
+ATOM   1330  CD1 TYR D 169     -42.723  77.225  -4.768  0.00  0.00           C 0
+ATOM   1325   CA TYR D 169     -39.792  77.989  -5.910  0.00  0.00           C 0
+ATOM   1336    N PHE D 170     -39.145  77.242  -8.094  0.67  3.28           N 0
+ATOM   1354  OD2 ASP D 171     -42.724  75.591 -10.712  0.00  0.00           O 0
+ATOM   1377  ND1 HIS D 174     -44.550  74.607  -9.305  0.00  0.00           N 0
+ATOM   1340   CB PHE D 170     -37.455  75.728  -8.982  0.00  0.00           C 0
+ATOM   1379  CE1 HIS D 174     -44.853  73.345  -9.058  0.00  0.00           C 0
+ATOM   1380  NE2 HIS D 174     -45.154  73.234  -7.780  0.62  6.56           N 0
+ATOM   1112    O TYR D 142     -46.133  71.448  -1.943  0.37  6.43           O 0
+ATOM   1113   CB TYR D 142     -43.570  72.320  -0.886  0.00  0.00           C 0
+ATOM   1115  CD1 TYR D 142     -42.154  74.214  -1.876  0.00  0.00           C 0
+ATOM   1114   CG TYR D 142     -42.235  72.990  -1.196  0.00  0.00           C 0
+ATOM   1376   CG HIS D 174     -44.636  75.337  -8.144  0.00  0.00           C 0
+ATOM   1320    O PRO D 168     -38.906  76.842  -3.474  0.00  0.00           O 0
+ATOM   1378  CD2 HIS D 174     -45.030  74.469  -7.184  0.00  0.00           C 0
+ATOM   1110   CA TYR D 142     -44.796  73.225  -0.970  0.00  0.00           C 0
+TER
+END

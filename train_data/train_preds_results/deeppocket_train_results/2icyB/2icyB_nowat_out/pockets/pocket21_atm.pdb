@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0057
+HEADER 1  - Drug Score                        : 0.0140
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8867
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4978
+HEADER 5  - Mean B-factor of pocket residues  : 0.3170
+HEADER 6  - Hydrophobicity Score              : 33.3000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 330.5264
+HEADER 10 - Pocket volume (convex hull)       : 13.5766
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.6923
+ATOM   3596   CA LEU B 469      76.172 -16.009  19.833  0.00  0.00           C 0
+ATOM   3478   CD PRO B 453      78.260 -11.589  16.582  0.00  0.00           C 0
+ATOM   3597    C LEU B 469      76.387 -16.925  18.646  0.00  0.00           C 0
+ATOM   3602  CD2 LEU B 469      76.053 -13.131  20.557  0.00  0.00           C 0
+ATOM   3516  CG2 VAL B 458      71.581 -11.750  15.558  0.00  0.00           C 0
+ATOM   3502   CB ALA B 456      75.347 -11.583  13.526  0.00  0.00           C 0
+ATOM   3477   CG PRO B 453      78.931 -12.357  15.414  0.00  0.00           C 0
+ATOM   3598    O LEU B 469      77.549 -17.061  18.225  0.82  7.50           O 0
+ATOM   3470  CG2 ILE B 452      75.203  -9.634  16.656  0.00  0.00           C 0
+ATOM   3511   CA VAL B 458      69.689 -13.011  14.361  0.00  0.00           C 0
+ATOM   3515  CG1 VAL B 458      69.534 -12.556  16.822  0.00  0.00           C 0
+ATOM   3540   CD LYS B 461      69.587 -17.211  18.800  0.00  0.00           C 0
+ATOM   3542   NZ LYS B 461      71.886 -18.036  19.082  0.00  0.00           N 0
+ATOM   3558  CD1 ILE B 463      72.099 -12.754  19.848  0.00  0.00           C 0
+ATOM   3590    O ASP B 468      73.697 -16.983  20.444  0.69  1.07           O 0
+ATOM   3506    O VAL B 457      71.116 -14.611  12.524  0.00  0.00           O 0
+ATOM   3517    N GLU B 459      67.530 -14.112  14.220  0.67  1.09           N 0
+ATOM   3520    O GLU B 459      65.765 -16.186  15.341  0.00  0.00           O 0
+ATOM   3521   CB GLU B 459      66.005 -14.902  12.583  0.00  0.00           C 0
+ATOM   3524  OE1 GLU B 459      65.571 -16.363  10.260  0.00  0.00           O 0
+TER
+END

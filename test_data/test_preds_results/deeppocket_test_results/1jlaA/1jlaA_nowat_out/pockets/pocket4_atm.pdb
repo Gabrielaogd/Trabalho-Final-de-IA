@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0677
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9099
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6875
+HEADER 5  - Mean B-factor of pocket residues  : 0.2276
+HEADER 6  - Hydrophobicity Score              : 3.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 296.6909
+HEADER 10 - Pocket volume (convex hull)       : 9.9283
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3967    N GLU A 492      22.445  14.586  -4.585  0.00  0.00           N 0
+ATOM   3959    N LEU A 491      20.482  16.378  -3.894  0.00  0.00           N 0
+ATOM   3956   CA GLY A 490      21.556  18.317  -2.896  0.00  0.00           C 0
+ATOM   3970    O GLU A 492      25.132  15.615  -4.468  0.48  4.29           O 0
+ATOM   3971   CB GLU A 492      23.824  13.627  -6.366  0.00  0.00           C 0
+ATOM   3974  OE1 GLU A 492      23.554  13.582  -9.245  0.00  0.00           O 0
+ATOM   3545   CA ALA A 437      27.895  15.752  -7.576  0.00  0.00           C 0
+ATOM   3972   CG GLU A 492      22.561  13.233  -7.108  0.00  0.00           C 0
+ATOM   3963   CB LEU A 491      19.077  14.764  -5.129  0.00  0.00           C 0
+ATOM   4266  OE2 GLU A 529      18.318  12.259  -7.880  0.00  0.00           O 0
+ATOM   3734  NH1 ARG A 461      27.098  21.370  -7.169  0.00  0.00           N 0
+ATOM   3553   CB GLU A 438      28.732  19.177  -4.343  0.00  0.00           C 0
+ATOM   3557  OE2 GLU A 438      27.418  21.072  -2.976  0.00  4.29           O 0
+ATOM   3543    O GLY A 436      27.698  17.295  -9.889  0.35  2.14           O 0
+ATOM   3735  NH2 ARG A 461      28.234  19.898  -8.515  0.41  1.09           N 0
+ATOM   3955    N GLY A 490      22.727  18.655  -2.099  0.20  3.28           N 0
+ATOM   3973   CD GLU A 492      22.844  12.830  -8.537  0.00  0.00           C 0
+ATOM   3975  OE2 GLU A 492      22.354  11.757  -8.949  0.00  0.00           O 0
+ATOM   3549    N GLU A 438      28.592  17.337  -5.916  0.58  1.09           N 0
+TER
+END

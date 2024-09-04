@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1524
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7130
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6127
+HEADER 5  - Mean B-factor of pocket residues  : 0.0722
+HEADER 6  - Hydrophobicity Score              : 31.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 105.6860
+HEADER 10 - Pocket volume (convex hull)       : 0.3567
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1500
+ATOM    865   OG SER A 117      22.862  40.965  13.789  0.00  0.00           O 0
+ATOM    867   CA THR A 118      20.177  37.179  11.895  0.00  0.00           C 0
+ATOM    879  CG2 THR A 119      17.838  40.281   8.560  0.00  0.00           C 0
+ATOM    805   CB LEU A 110      25.167  40.849  10.917  0.00  0.00           C 0
+ATOM    873    N THR A 119      18.490  37.832  10.326  0.00  0.00           N 0
+ATOM    866    N THR A 118      20.586  37.878  13.126  0.71  3.28           N 0
+ATOM    877   CB THR A 119      17.109  39.803   9.799  0.00  0.00           C 0
+ATOM    794    O ALA A 108      20.817  36.775   8.637  0.00  0.00           O 0
+ATOM    795   CB ALA A 108      20.906  38.657   6.412  0.00  0.00           C 0
+ATOM    801    N LEU A 110      24.821  38.430  10.423  0.72  1.09           N 0
+ATOM    864   CB SER A 117      22.103  40.227  14.666  0.00  0.00           C 0
+ATOM    869    O THR A 118      17.947  37.652  12.576  0.69  4.29           O 0
+ATOM    868    C THR A 118      18.742  37.575  11.622  0.00  0.00           C 0
+ATOM    863    O SER A 117      22.641  37.502  12.625  0.00  0.00           O 0
+ATOM    862    C SER A 117      21.849  38.031  13.419  0.00  0.00           C 0
+TER
+END

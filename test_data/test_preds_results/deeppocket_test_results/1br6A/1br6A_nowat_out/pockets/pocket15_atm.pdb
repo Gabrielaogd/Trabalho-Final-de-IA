@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0772
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9195
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5800
+HEADER 5  - Mean B-factor of pocket residues  : 0.2707
+HEADER 6  - Hydrophobicity Score              : -1.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 250.5594
+HEADER 10 - Pocket volume (convex hull)       : 8.8367
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   1702   CD ARG A 213      -6.055  13.316   0.297  0.00  0.00           C 0
+ATOM   1700   CB ARG A 213      -6.246  11.126   1.645  0.00  0.00           C 0
+ATOM   1826  CG2 ILE A 230      -9.175   8.701  -2.343  0.00  0.00           C 0
+ATOM   1677   OG SER A 210      -6.106   6.165  -1.181  0.00  0.00           O 0
+ATOM   1816    O PRO A 229     -10.089  12.876  -5.277  0.00  0.00           O 0
+ATOM   1811   CB SER A 228     -10.344  17.188  -3.960  0.00  0.00           C 0
+ATOM   1812   OG SER A 228      -9.916  17.152  -5.318  0.00  0.00           O 0
+ATOM   1703   NE ARG A 213      -7.243  14.027   0.789  0.63  2.19           N 0
+ATOM   1701   CG ARG A 213      -5.380  12.313   1.280  0.00  0.00           C 0
+ATOM   1810    O SER A 228     -11.984  14.855  -2.859  0.61  3.21           O 0
+ATOM   1825  CG1 ILE A 230      -9.737  10.853  -1.329  0.00  0.00           C 0
+ATOM   1821   CA ILE A 230     -10.104  10.620  -3.789  0.00  0.00           C 0
+ATOM   1828    N GLN A 231      -8.948   9.314  -5.470  0.00  0.00           N 0
+ATOM   1673   CA SER A 210      -5.526   6.538   1.143  0.00  0.00           C 0
+ATOM   1667    O ASN A 209      -2.848   6.633   1.827  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0413
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8386
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5546
+HEADER 5  - Mean B-factor of pocket residues  : 0.5899
+HEADER 6  - Hydrophobicity Score              : -32.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 216.3565
+HEADER 10 - Pocket volume (convex hull)       : 1.9839
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM    642   CB GLU A  87      83.803  23.856  -9.041  0.00  0.00           C 0
+ATOM    621  NH1 ARG A  84      89.474  21.765 -12.275  0.00  0.00           N 0
+ATOM    643   CG GLU A  87      84.748  24.787  -8.233  0.00  0.00           C 0
+ATOM    608   CG GLU A  83      86.715  18.726 -10.424  0.00  0.00           C 0
+ATOM    609   CD GLU A  83      88.154  18.596  -9.867  0.00  0.00           C 0
+ATOM    610  OE1 GLU A  83      89.119  18.999 -10.569  0.69  5.36           O 0
+ATOM    611  OE2 GLU A  83      88.325  18.086  -8.729  0.76  7.50           O 0
+ATOM    645  OE1 GLU A  87      84.172  24.004  -6.002  0.00  0.00           O 0
+ATOM    618   CD ARG A  84      87.017  20.805 -13.373  0.00  0.00           C 0
+ATOM    606    O GLU A  83      83.563  20.542  -9.899  0.62  3.21           O 0
+ATOM    607   CB GLU A  83      85.663  17.954  -9.593  0.00  0.00           C 0
+ATOM    634   CB ASP A  86      80.842  19.717  -7.995  0.00  0.00           C 0
+ATOM    604   CA GLU A  83      84.180  18.218  -9.942  0.00  0.00           C 0
+TER
+END

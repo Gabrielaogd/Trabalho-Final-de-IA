@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0214
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0898
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6444
+HEADER 5  - Mean B-factor of pocket residues  : 0.4122
+HEADER 6  - Hydrophobicity Score              : 25.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.6733
+HEADER 10 - Pocket volume (convex hull)       : 1.8538
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM    260  CE1 PHE T  37      30.128  29.671  45.903  0.00  0.00           C 0
+ATOM    255    O PHE T  37      27.572  28.762  42.998  0.36  5.36           O 0
+ATOM    264   CA SER T  38      26.119  26.482  43.607  0.00  0.00           C 0
+ATOM   2822  OE2 GLU T 374      29.465  30.924  48.647  0.00  0.00           O 0
+ATOM    258  CD1 PHE T  37      29.852  28.665  44.969  0.00  0.00           C 0
+ATOM    269    N SER T  39      24.707  24.921  44.769  0.00  0.00           N 0
+ATOM   2874   CZ PHE T 381      28.925  24.073  46.440  0.00  0.00           C 0
+ATOM   2873  CE2 PHE T 381      29.219  23.870  47.795  0.00  0.00           C 0
+ATOM    273   CB SER T  39      24.598  23.399  46.658  0.00  0.00           C 0
+ATOM   2828  CG1 VAL T 375      31.320  26.607  47.297  0.00  0.00           C 0
+ATOM   2849  OD1 ASP T 378      29.678  23.925  51.560  0.00  0.00           O 0
+ATOM   2818   CB GLU T 374      32.052  30.280  50.754  0.00  0.00           C 0
+ATOM   2816    C GLU T 374      33.330  28.135  50.590  0.00  0.00           C 0
+ATOM   2817    O GLU T 374      33.268  27.274  51.467  0.00  0.00           O 0
+TER
+END

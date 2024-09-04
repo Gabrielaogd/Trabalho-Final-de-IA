@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0224
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0083
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5845
+HEADER 5  - Mean B-factor of pocket residues  : 0.2404
+HEADER 6  - Hydrophobicity Score              : 24.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 208.8502
+HEADER 10 - Pocket volume (convex hull)       : 6.9219
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4737
+ATOM   1358  ND1 HIS A 175     -41.026-121.225 -36.858  0.55  1.09           N 0
+ATOM   2813    O PRO A 363     -42.706-126.052 -42.499  0.28  5.36           O 0
+ATOM   2806   CB MET A 362     -44.518-122.625 -41.125  0.00  0.00           C 0
+ATOM   2808   SD MET A 362     -42.746-120.611 -40.736  0.00  0.00           S 0
+ATOM   2822   CG MET A 364     -42.215-128.957 -39.574  0.00  0.00           C 0
+ATOM   2805    O MET A 362     -45.828-125.507 -40.867  0.44  4.29           O 0
+ATOM   2518  CE2 TYR A 323     -44.863-124.821 -35.259  0.00  0.00           C 0
+ATOM   2492   CB ASN A 320     -44.917-128.625 -35.844  0.00  0.00           C 0
+ATOM   2495  ND2 ASN A 320     -43.649-128.262 -33.820  0.52  5.47           N 0
+ATOM   2824   CE MET A 364     -40.265-130.229 -38.059  0.00  0.00           C 0
+ATOM   2823   SD MET A 364     -42.052-130.145 -38.217  0.00  0.00           S 0
+ATOM   2520   OH TYR A 323     -43.426-123.890 -33.595  0.40  5.36           O 0
+ATOM   1361  NE2 HIS A 175     -40.037-120.744 -35.020  0.00  0.00           N 0
+ATOM   1359  CD2 HIS A 175     -41.362-120.945 -34.719  0.00  0.00           C 0
+ATOM   1360  CE1 HIS A 175     -39.860-120.919 -36.317  0.00  0.00           C 0
+ATOM   1356   CB HIS A 175     -43.434-121.525 -36.171  0.00  0.00           C 0
+ATOM   1357   CG HIS A 175     -41.994-121.248 -35.878  0.00  0.00           C 0
+TER
+END

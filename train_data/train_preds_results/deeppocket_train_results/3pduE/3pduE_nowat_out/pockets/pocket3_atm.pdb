@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0043
+HEADER 1  - Drug Score                        : 0.0227
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.9376
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5134
+HEADER 5  - Mean B-factor of pocket residues  : 0.1256
+HEADER 6  - Hydrophobicity Score              : 63.2222
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 186.3233
+HEADER 10 - Pocket volume (convex hull)       : 3.1315
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 22.0000
+HEADER 13 - Number of apolar alpha sphere     :    23
+HEADER 14 - Proportion of apolar alpha sphere : 0.8519
+ATOM   1227  CG2 VAL E 173     -45.535  13.772 -77.184  0.00  0.00           C 0
+ATOM   1813   CG GLN E 253     -41.761  11.252 -84.439  0.00  0.00           C 0
+ATOM   1772  CD2 LEU E 247     -46.877  16.901 -81.072  0.00  0.00           C 0
+ATOM   1802  CD1 LEU E 251     -42.466  17.782 -82.854  0.00  0.00           C 0
+ATOM   1830  CD1 LEU E 255     -46.424  10.630 -84.397  0.00  0.00           C 0
+ATOM   1831  CD2 LEU E 255     -44.642   9.051 -83.627  0.00  0.00           C 0
+ATOM   1249   SD MET E 176     -47.852   9.438 -81.113  0.00  0.00           S 0
+ATOM   1250   CE MET E 176     -46.624   9.192 -79.841  0.00  0.00           C 0
+ATOM   1748   CB ALA E 244     -50.453  12.396 -81.905  0.00  0.00           C 0
+ATOM   1221    N VAL E 173     -48.574  13.778 -76.780  0.00  0.00           N 0
+ATOM   1770   CG LEU E 247     -46.504  17.224 -82.512  0.00  0.00           C 0
+ATOM   1215    C LEU E 172     -49.775  13.667 -77.339  0.00  0.00           C 0
+ATOM   1774   CA GLY E 248     -45.189  14.195 -86.017  0.00  0.00           C 0
+ATOM   1812   CB GLN E 253     -41.529  12.476 -85.318  0.00  0.00           C 0
+ATOM   1773    N GLY E 248     -46.292  14.992 -85.496  0.00  0.00           N 0
+ATOM   1747    O ALA E 244     -48.483  13.639 -84.246  0.69  1.07           O 0
+ATOM   1222   CA VAL E 173     -47.698  12.607 -76.628  0.00  0.00           C 0
+ATOM   1216    O LEU E 172     -50.188  12.613 -77.818  0.00  0.00           O 0
+TER
+END

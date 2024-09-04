@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1827
+HEADER 1  - Drug Score                        : 0.0099
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 4.0847
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5602
+HEADER 5  - Mean B-factor of pocket residues  : 0.1435
+HEADER 6  - Hydrophobicity Score              : 7.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 367.9991
+HEADER 10 - Pocket volume (convex hull)       : 25.4493
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 14.3750
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.5161
+ATOM    215   CB GLU B  29      19.700  84.436  91.948  0.00  0.00           C 0
+ATOM   1429   CB LYS B 190      25.783  80.114  91.366  0.00  0.00           C 0
+ATOM   1432   CE LYS B 190      27.932  82.156  90.706  0.00  0.00           C 0
+ATOM    211    N GLU B  29      21.116  85.194  93.792  0.00  0.00           N 0
+ATOM   1425    N LYS B 190      23.419  79.481  91.625  0.63  4.37           N 0
+ATOM   1414  OG1 THR B 188      24.499  79.559  95.353  0.53  2.14           O 0
+ATOM   1431   CD LYS B 190      28.218  80.755  91.214  0.00  0.00           C 0
+ATOM   1433   NZ LYS B 190      29.003  83.112  91.117  0.00  0.00           N 0
+ATOM   1413   CB THR B 188      23.497  80.545  95.620  0.00  0.00           C 0
+ATOM    207   CA ALA B  28      22.738  86.251  95.242  0.00  0.00           C 0
+ATOM    210   CB ALA B  28      23.616  85.205  95.901  0.00  0.00           C 0
+ATOM   1421   CG LYS B 189      20.029  79.529  89.782  0.00  0.00           C 0
+ATOM   1457  CD1 LEU B 193      22.606  77.813  86.964  0.00  0.00           C 0
+ATOM   1423   CE LYS B 189      18.823  79.511  87.605  0.00  0.00           C 0
+ATOM   1422   CD LYS B 189      18.925  80.195  88.972  0.00  0.00           C 0
+ATOM   1415  CG2 THR B 188      23.800  81.236  96.944  0.00  0.00           C 0
+ATOM    219  OE2 GLU B  29      20.011  86.437  89.038  0.64  4.29           O 0
+ATOM    216   CG GLU B  29      19.396  85.736  91.220  0.00  0.00           C 0
+ATOM    200    O LYS B  27      21.774  88.677  94.417  0.34  3.21           O 0
+ATOM    218  OE1 GLU B  29      18.857  84.578  89.222  0.59  4.29           O 0
+ATOM   1420   CB LYS B 189      20.307  80.188  91.130  0.00  0.00           C 0
+ATOM    214    O GLU B  29      20.802  82.544  94.208  0.00  0.00           O 0
+ATOM    217   CD GLU B  29      19.424  85.570  89.719  0.00  0.00           C 0
+TER
+END

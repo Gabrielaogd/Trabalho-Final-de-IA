@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.1793
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7596
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5577
+HEADER 5  - Mean B-factor of pocket residues  : 0.7936
+HEADER 6  - Hydrophobicity Score              : 15.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.0676
+HEADER 10 - Pocket volume (convex hull)       : 4.3543
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   3501    O ARG A 441      48.877   7.025  51.395  0.47  4.29           O 0
+ATOM   3509    N SER A 442      50.776   8.197  51.759  0.60  1.09           N 0
+ATOM   3503   CG ARG A 441      48.982   5.680  54.519  0.00  0.00           C 0
+ATOM   3500    C ARG A 441      50.024   7.097  51.850  0.00  0.00           C 0
+ATOM   3502   CB ARG A 441      50.422   5.993  54.073  0.00  0.00           C 0
+ATOM   3504   CD ARG A 441      48.818   5.476  56.038  0.00  0.00           C 0
+ATOM   3507  NH1 ARG A 441      51.324   4.335  56.949  0.84  4.37           N 0
+ATOM   3490  OD2 ASP A 439      54.400   5.920  56.919  0.63  8.57           O 0
+ATOM     53  OE1 GLU A  11      51.739  12.187  54.639  0.58  6.43           O 0
+ATOM   3486    O ASP A 439      55.669   6.842  52.981  0.00  0.00           O 0
+ATOM     41    O ILE A  10      55.158   9.701  51.467  0.55  1.07           O 0
+ATOM     36  CG2 ILE A   9      56.705   9.777  56.081  0.00  0.00           C 0
+ATOM   3514   OG SER A 442      52.618  10.205  51.244  0.00  0.00           O 0
+ATOM   3489  OD1 ASP A 439      53.651   5.178  55.059  0.71  1.07           O 0
+ATOM   3510   CA SER A 442      50.299   9.421  51.117  0.00  0.00           C 0
+TER
+END

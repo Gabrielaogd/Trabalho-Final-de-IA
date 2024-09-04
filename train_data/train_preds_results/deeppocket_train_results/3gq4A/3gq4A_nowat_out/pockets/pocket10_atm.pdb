@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0240
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8979
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6892
+HEADER 5  - Mean B-factor of pocket residues  : 0.3191
+HEADER 6  - Hydrophobicity Score              : -18.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.4005
+HEADER 10 - Pocket volume (convex hull)       : 4.4168
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    299   CD ARG A  35      -6.918  67.033  16.161  0.00  0.00           C 0
+ATOM    296    O ARG A  35      -4.543  68.277  12.106  0.00  0.00           O 0
+ATOM    327   CD ARG A  38      -5.000  71.739  14.485  0.00  0.00           C 0
+ATOM    328   NE ARG A  38      -5.007  72.079  15.904  0.31  3.28           N 0
+ATOM    330  NH1 ARG A  38      -6.702  70.606  16.458  0.00  0.00           N 0
+ATOM    301   CZ ARG A  35      -7.008  65.845  18.321  0.00  0.00           C 0
+ATOM    331  NH2 ARG A  38      -5.721  71.924  18.079  0.00  0.00           N 0
+ATOM    302  NH1 ARG A  35      -5.808  65.299  18.096  0.56  9.84           N 0
+ATOM    329   CZ ARG A  38      -5.809  71.533  16.811  0.00  0.00           C 0
+ATOM    267    OAASN A  32      -9.257  69.012  17.527  0.54  1.07           O 0
+ATOM    269   CBAASN A  32     -10.024  71.108  19.737  0.00  0.00           C 0
+ATOM    303  NH2 ARG A  35      -7.658  65.568  19.444  0.52  7.66           N 0
+ATOM    271   CGAASN A  32      -9.318  72.306  20.370  0.00  0.00           C 0
+ATOM    275  ND2AASN A  32      -9.433  72.428  21.690  0.00  0.00           N 0
+ATOM    297   CB ARG A  35      -6.380  66.314  13.771  0.00  0.00           C 0
+ATOM    300   NE ARG A  35      -7.556  66.662  17.426  0.00  0.00           N 0
+TER
+END

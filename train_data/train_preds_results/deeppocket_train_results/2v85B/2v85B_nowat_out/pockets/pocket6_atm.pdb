@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0630
+HEADER 1  - Drug Score                        : 0.0039
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0168
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6312
+HEADER 5  - Mean B-factor of pocket residues  : 0.5808
+HEADER 6  - Hydrophobicity Score              : 3.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 276.6473
+HEADER 10 - Pocket volume (convex hull)       : 8.6609
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7059
+ATOM    592   CG GLU B 480      -6.340   2.661   5.871  0.00  0.00           C 0
+ATOM    116   CD PRO B 421      -5.658   7.815   6.755  0.00  0.00           C 0
+ATOM    115   CG PRO B 421      -4.153   7.831   6.798  0.00  0.00           C 0
+ATOM    591   CB GLU B 480      -7.587   2.787   5.002  0.00  0.00           C 0
+ATOM    593   CD GLU B 480      -6.297   3.726   6.966  0.00  0.00           C 0
+ATOM    108   CB CYS B 420      -8.859   8.141   6.538  0.00  0.00           C 0
+ATOM    122  OG1 THR B 422      -7.642  10.404   2.395  0.00  0.00           O 0
+ATOM    109   SG CYS B 420      -9.412   9.317   5.304  0.00  0.00           S 0
+ATOM    583   CB ASN B 479     -10.355   3.510   0.594  0.00  0.00           C 0
+ATOM    587    N GLU B 480      -8.943   2.087   3.112  0.00  0.00           N 0
+ATOM    588   CA GLU B 480      -7.694   1.824   3.808  0.00  0.00           C 0
+ATOM    582    O ASN B 479      -8.288   1.192   1.169  0.66  5.36           O 0
+ATOM    595  OE2 GLU B 480      -5.204   3.986   7.517  0.62  3.21           O 0
+ATOM    581    C ASN B 479      -9.130   1.756   1.842  0.00  0.00           C 0
+ATOM    410    O CYS B 458     -12.176   9.371   1.399  0.24  5.36           O 0
+ATOM    585  OD1 ASN B 479     -11.796   5.088  -0.464  0.00  0.00           O 0
+ATOM    428  OD2 ASP B 460     -11.827   9.615  -3.052  0.50  6.43           O 0
+ATOM    420   CE MET B 459     -12.149   6.650   3.793  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.1306
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.0698
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5513
+HEADER 5  - Mean B-factor of pocket residues  : 0.1791
+HEADER 6  - Hydrophobicity Score              : 11.7778
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 346.9801
+HEADER 10 - Pocket volume (convex hull)       : 15.1224
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2917
+ATOM    501   CB ARG B  63      41.509  59.501  32.196  0.00  0.00           C 0
+ATOM    443   CB PHE B  54      40.953  55.387  30.630  0.00  0.00           C 0
+ATOM    442    O PHE B  54      42.224  53.625  32.647  0.51  9.64           O 0
+ATOM    799  OD2 ASP B  96      35.904  58.270  36.895  0.00  0.00           O 0
+ATOM    809  CE2 TYR B  97      38.968  63.342  34.345  0.00  0.00           C 0
+ATOM    502   CG ARG B  63      40.408  60.547  32.299  0.00  0.00           C 0
+ATOM    516  OE2 GLU B  64      42.889  61.055  35.519  0.77  4.29           O 0
+ATOM    792    N ASP B  96      34.371  60.065  34.073  0.46  2.19           N 0
+ATOM    779    O GLN B  94      34.870  56.301  31.240  0.69  8.57           O 0
+ATOM    421    O GLY B  51      38.687  51.256  29.753  0.66  3.21           O 0
+ATOM    419   CA GLY B  51      36.866  52.494  28.820  0.00  0.00           C 0
+ATOM    783  OE1 GLN B  94      33.586  51.716  29.670  0.72  5.36           O 0
+ATOM    451   CA LYS B  55      41.315  50.992  32.389  0.00  0.00           C 0
+ATOM    441    C PHE B  54      41.882  53.236  31.543  0.00  0.00           C 0
+ATOM    450    N LYS B  55      41.470  51.991  31.313  0.73  1.09           N 0
+ATOM    807  CD2 TYR B  97      37.635  63.580  34.752  0.00  0.00           C 0
+ATOM    786   CA VAL B  95      34.312  58.983  31.882  0.00  0.00           C 0
+ATOM    503   CD ARG B  63      39.534  60.518  31.083  0.00  0.00           C 0
+ATOM    446  CD2 PHE B  54      39.760  57.121  29.233  0.00  0.00           C 0
+TER
+END

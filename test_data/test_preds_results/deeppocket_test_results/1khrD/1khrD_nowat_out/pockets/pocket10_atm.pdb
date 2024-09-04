@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0119
+HEADER 1  - Drug Score                        : 0.0032
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0925
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6781
+HEADER 5  - Mean B-factor of pocket residues  : 0.2980
+HEADER 6  - Hydrophobicity Score              : 46.4000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 271.9203
+HEADER 10 - Pocket volume (convex hull)       : 6.4874
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7647
+ATOM    783  CZ3 TRP D  98     -34.236   3.308 -35.507  0.00  0.00           C 0
+ATOM    763   CB ASN D  96     -38.107   2.957 -41.780  0.00  0.00           C 0
+ATOM    778  CD2 TRP D  98     -33.967   4.669 -37.473  0.00  0.00           C 0
+ATOM    781  CE3 TRP D  98     -33.725   3.468 -36.798  0.00  0.00           C 0
+ATOM    780  CE2 TRP D  98     -34.720   5.675 -36.825  0.00  0.00           C 0
+ATOM    784  CH2 TRP D  98     -34.979   4.326 -34.890  0.00  0.00           C 0
+ATOM    782  CZ2 TRP D  98     -35.233   5.514 -35.530  0.00  0.00           C 0
+ATOM    779  NE1 TRP D  98     -34.813   6.736 -37.687  0.57  7.66           N 0
+ATOM    762    O ASN D  96     -37.217   5.554 -41.926  0.00  0.00           O 0
+ATOM    748   CB PHE D  94     -34.080  -0.092 -38.238  0.00  0.00           C 0
+ATOM    766  ND2 ASN D  96     -38.423   0.569 -41.740  0.00  0.00           N 0
+ATOM    758    O GLY D  95     -35.341   2.629 -41.190  0.71  1.07           O 0
+ATOM    749   CG PHE D  94     -33.640  -0.829 -36.997  0.00  0.00           C 0
+ATOM    751  CD2 PHE D  94     -34.182  -2.078 -36.676  0.00  0.00           C 0
+ATOM    709   OH TYR D  89     -33.399   0.037 -32.436  0.80  5.36           O 0
+ATOM    747    O PHE D  94     -35.459  -0.284 -40.858  0.60  6.43           O 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0305
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8947
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4467
+HEADER 5  - Mean B-factor of pocket residues  : 0.5219
+HEADER 6  - Hydrophobicity Score              : -12.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 140.8471
+HEADER 10 - Pocket volume (convex hull)       : 1.4404
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    393   CD LYS B  50       1.979  13.666  38.095  0.00  0.00           C 0
+ATOM    386  OE2 GLU B  49       7.088  13.401  40.792  0.55  6.43           O 0
+ATOM    402  OD1 ASP B  51       5.135  17.739  36.000  0.54  5.36           O 0
+ATOM    394   CE LYS B  50       1.066  14.744  38.637  0.00  0.00           C 0
+ATOM    155   CG LYS B  21       3.579  20.954  40.616  0.00  0.00           C 0
+ATOM    140    O GLY B  19       7.801  18.362  42.826  0.58  3.21           O 0
+ATOM    157   CE LYS B  21       6.043  21.006  39.771  0.00  0.00           C 0
+ATOM    399    O ASP B  51       6.532  15.752  35.984  0.45  1.07           O 0
+ATOM    437   CB MET B  55      10.168  17.391  37.610  0.00  0.00           C 0
+ATOM    438   CG MET B  55      10.416  16.403  38.748  0.00  0.00           C 0
+ATOM    439   SD MET B  55       9.806  14.803  38.201  0.00  0.00           S 0
+ATOM    148  OE1 GLU B  20       4.660  16.145  44.959  0.00  0.00           O 0
+ATOM    142   CA GLU B  20       5.839  19.134  44.513  0.00  0.00           C 0
+ATOM    150    N LYS B  21       4.326  20.689  43.504  0.00  0.00           N 0
+TER
+END

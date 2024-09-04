@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0038
+HEADER 1  - Drug Score                        : 0.0245
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.7267
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4126
+HEADER 5  - Mean B-factor of pocket residues  : 0.2008
+HEADER 6  - Hydrophobicity Score              : -12.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 250.6864
+HEADER 10 - Pocket volume (convex hull)       : 13.4448
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.5806
+ATOM    545   CD LYS A  85      26.160  21.601  54.202  0.00  0.00           C 0
+ATOM   3235  CD2 LEU A 454      23.791  18.490  55.627  0.00  0.00           C 0
+ATOM    544   CG LYS A  85      26.084  21.175  52.718  0.00  0.00           C 0
+ATOM   2837  OE2 GLU A 400      26.194  15.554  56.626  0.72  3.21           O 0
+ATOM    546   CE LYS A  85      27.599  21.828  54.555  0.00  0.00           C 0
+ATOM    547   NZ LYS A  85      27.701  22.218  56.021  0.56  2.19           N 0
+ATOM   2833   CB GLU A 400      27.442  16.427  58.901  0.00  0.00           C 0
+ATOM    542    O LYS A  85      25.853  18.864  50.149  0.50  1.07           O 0
+ATOM   2832    O GLU A 400      26.075  19.177  59.815  0.54  3.21           O 0
+ATOM    574   CB HIS A  89      28.541  16.543  49.817  0.00  0.00           C 0
+ATOM    996   CB PRO A 149      30.234  15.528  54.184  0.00  0.00           C 0
+ATOM    998   CD PRO A 149      32.138  15.932  55.580  0.00  0.00           C 0
+ATOM    993   CA PRO A 149      30.010  14.766  55.506  0.00  0.00           C 0
+ATOM    992    N PRO A 149      31.128  15.166  56.337  0.00  0.00           N 0
+ATOM   2862  ND2 ASN A 403      30.814  19.666  59.852  0.48  6.56           N 0
+ATOM    997   CG PRO A 149      31.677  15.785  54.148  0.00  0.00           C 0
+ATOM   2859   CB ASN A 403      29.114  21.368  59.777  0.00  0.00           C 0
+ATOM    549   CA GLU A  86      24.022  16.971  50.980  0.00  0.00           C 0
+ATOM   1005   CD PRO A 150      27.702  13.396  54.565  0.00  0.00           C 0
+ATOM    576  ND1 HIS A  89      30.819  15.578  50.390  0.45  5.47           N 0
+TER
+END

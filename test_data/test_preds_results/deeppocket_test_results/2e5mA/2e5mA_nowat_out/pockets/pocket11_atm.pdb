@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0494
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9034
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6335
+HEADER 5  - Mean B-factor of pocket residues  : 0.1959
+HEADER 6  - Hydrophobicity Score              : 26.4286
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 335.9774
+HEADER 10 - Pocket volume (convex hull)       : 11.4573
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   1263   CA PRO A 162     -30.401   3.173  -2.270  0.00  0.00           C 0
+ATOM   1484   CA GLY A 188     -28.967  -1.528  -0.213  0.00  0.00           C 0
+ATOM   1276  CD2 PHE A 163     -34.253   0.281  -1.132  0.00  0.00           C 0
+ATOM   1269    N PHE A 163     -31.340   0.959  -2.490  0.00  0.00           N 0
+ATOM   1266   CB PRO A 162     -31.412   4.296  -2.512  0.00  0.00           C 0
+ATOM   1248  OE1 GLU A 160     -25.747   4.356   2.636  0.00  0.00           O 0
+ATOM   1262    N PRO A 162     -29.125   3.789  -2.632  0.00  0.00           N 0
+ATOM   1253    O TYR A 161     -27.939   1.946  -2.095  0.54  2.14           O 0
+ATOM   1268   CD PRO A 162     -29.325   5.161  -3.128  0.00  0.00           C 0
+ATOM   1247   CD GLU A 160     -24.914   5.254   2.421  0.00  0.00           C 0
+ATOM   1246   CG GLU A 160     -24.271   5.324   1.050  0.00  0.00           C 0
+ATOM   1251   CA TYR A 161     -26.692   3.841  -2.917  0.00  0.00           C 0
+ATOM   1252    C TYR A 161     -27.973   3.111  -2.510  0.00  0.00           C 0
+ATOM   1487    N ILE A 189     -26.752  -0.966  -1.043  0.00  0.00           N 0
+ATOM   1485    C GLY A 188     -27.504  -1.876  -0.448  0.00  0.00           C 0
+ATOM   1495    N GLY A 190     -23.445  -0.576  -0.041  0.62  2.19           N 0
+ATOM   1244    O GLU A 160     -24.670   5.568  -2.214  0.00  0.00           O 0
+ATOM   1489    C ILE A 189     -24.431  -0.171  -0.835  0.00  0.00           C 0
+ATOM   1490    O ILE A 189     -24.610   1.006  -1.160  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0114
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8918
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5749
+HEADER 5  - Mean B-factor of pocket residues  : 0.1185
+HEADER 6  - Hydrophobicity Score              : 39.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 150.9113
+HEADER 10 - Pocket volume (convex hull)       : 1.1459
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM    641   CB PHE B  77      37.224  40.066 101.179  0.00  0.00           C 0
+ATOM    604   CA ARG B  74      39.104  36.566  98.194  0.00  0.00           C 0
+ATOM    608   CG ARG B  74      37.910  34.749  96.838  0.00  0.00           C 0
+ATOM    644  CD2 PHE B  77      35.324  41.483 100.290  0.00  0.00           C 0
+ATOM    726  OE1 GLU B  86      33.427  41.214  96.432  0.65  5.36           O 0
+ATOM    642   CG PHE B  77      36.681  41.156 100.260  0.00  0.00           C 0
+ATOM    601    O ALA B  73      39.284  39.295  98.559  0.00  0.00           O 0
+ATOM    602   CB ALA B  73      38.586  40.150  95.493  0.00  0.00           C 0
+ATOM    600    C ALA B  73      39.492  38.842  97.432  0.00  0.00           C 0
+ATOM    578  CG2 ILE B  70      36.653  35.745  93.013  0.00  0.00           C 0
+ATOM    603    N ARG B  74      39.425  37.540  97.152  0.00  0.00           N 0
+ATOM    575    O ILE B  70      39.175  36.715  94.444  0.00  0.00           O 0
+ATOM    727  OE2 GLU B  86      34.115  41.032  94.372  0.55  7.50           O 0
+TER
+END

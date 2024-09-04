@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.1372
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7626
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4907
+HEADER 5  - Mean B-factor of pocket residues  : 0.0192
+HEADER 6  - Hydrophobicity Score              : 40.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 169.3491
+HEADER 10 - Pocket volume (convex hull)       : 1.9795
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM    297  CG2 ILE A  38      -5.344 -13.671 -20.907  0.00  0.00           C 0
+ATOM     69   NZ LYS A   9      -3.144 -16.853 -14.185  0.50  7.66           N 0
+ATOM    298  CD1 ILE A  38      -4.802 -16.618 -20.536  0.00  0.00           C 0
+ATOM    296  CG1 ILE A  38      -3.706 -15.569 -20.555  0.00  0.00           C 0
+ATOM   2311  CZ3 TRP A 306      -7.113 -21.357 -14.913  0.00  0.00           C 0
+ATOM   2312  CH2 TRP A 306      -5.817 -20.866 -15.200  0.00  0.00           C 0
+ATOM   2121   CD ARG A 282      -7.252 -19.940 -18.615  0.00  0.00           C 0
+ATOM     38   CA ALA A   6     -10.271 -17.677 -13.112  0.00  0.00           C 0
+ATOM     67   CD LYS A   9      -4.891 -18.110 -12.992  0.00  0.00           C 0
+ATOM   2122   NE ARG A 282      -5.790 -20.056 -18.599  0.77  1.09           N 0
+ATOM   2120   CG ARG A 282      -7.706 -18.741 -19.433  0.00  0.00           C 0
+ATOM     41   CB ALA A   6     -10.540 -16.215 -13.435  0.00  0.00           C 0
+ATOM   2119   CB ARG A 282      -9.231 -18.584 -19.489  0.00  0.00           C 0
+ATOM     37    N ALA A   6     -11.126 -18.548 -13.907  0.61  2.19           N 0
+TER
+END

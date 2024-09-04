@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0319
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9866
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6512
+HEADER 5  - Mean B-factor of pocket residues  : 0.3790
+HEADER 6  - Hydrophobicity Score              : 21.2222
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 341.9649
+HEADER 10 - Pocket volume (convex hull)       : 19.7043
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM    834  OE2AGLU A 155      -8.983  -8.073  36.717  0.00  0.00           O 0
+ATOM    845   CDAPRO A 156      -8.732  -9.840  33.067  0.00  0.00           C 0
+ATOM    843   CGAPRO A 156      -9.379 -10.884  32.207  0.00  0.00           C 0
+ATOM    832  OE1AGLU A 155      -9.799  -6.875  35.071  0.12  4.29           O 0
+ATOM    841   CBAPRO A 156      -9.541 -10.255  30.868  0.00  0.00           C 0
+ATOM    872  OG1ATHR A 159     -14.971  -6.649  29.279  0.00  0.00           O 0
+ATOM    947  CD1 PHE A 169     -14.271 -13.774  29.082  0.00  0.00           C 0
+ATOM    941    N PHE A 169     -14.587 -15.614  31.852  0.00  0.00           N 0
+ATOM    929    O VAL A 167     -16.946 -13.160  31.238  0.71  5.36           O 0
+ATOM    945   CB PHE A 169     -12.733 -15.389  30.233  0.00  0.00           C 0
+ATOM    856    O TYR A 158     -12.831  -9.438  28.302  0.57  4.29           O 0
+ATOM    874  CG2ATHR A 159     -17.244  -7.445  29.077  0.00  0.00           C 0
+ATOM    838    O PRO A 156      -9.324  -7.184  30.434  0.23  4.29           O 0
+ATOM    868   CAATHR A 159     -15.376  -8.398  27.623  0.00  0.00           C 0
+ATOM    779  CG1 ILE A 150      -8.680 -14.386  33.535  0.00  0.00           C 0
+ATOM    781  CD1 ILE A 150      -9.997 -14.974  33.038  0.00  0.00           C 0
+ATOM    939  OD1 ASP A 168     -14.878 -16.207  34.927  0.00  0.00           O 0
+ATOM    934   CA ASP A 168     -16.686 -15.304  33.026  0.00  0.00           C 0
+ATOM    750  ND2 ASN A 146     -11.671 -11.965  28.165  0.30  1.09           N 0
+TER
+END

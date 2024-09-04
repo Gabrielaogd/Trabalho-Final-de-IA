@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.1300
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1851
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6523
+HEADER 5  - Mean B-factor of pocket residues  : 0.1351
+HEADER 6  - Hydrophobicity Score              : 5.1667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 252.4786
+HEADER 10 - Pocket volume (convex hull)       : 6.1561
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   1205    O SER A 140      31.820  30.150  24.088  0.66  5.36           O 0
+ATOM    700   CG PRO A  78      24.796  31.273  22.915  0.00  0.00           C 0
+ATOM    717   OH TYR A  80      31.170  34.178  21.895  0.62  3.21           O 0
+ATOM    714  CE1 TYR A  80      29.010  34.226  20.884  0.00  0.00           C 0
+ATOM   1215  OD2 ASP A 141      28.831  27.419  26.899  0.77  7.50           O 0
+ATOM   1212   CB ASP A 141      31.008  28.500  26.844  0.00  0.00           C 0
+ATOM    118  CZ3 TRP A   8      24.166  27.309  28.458  0.00  0.00           C 0
+ATOM    119  CH2 TRP A   8      24.938  26.763  27.418  0.00  0.00           C 0
+ATOM    115  CE2 TRP A   8      23.571  27.870  25.832  0.00  0.00           C 0
+ATOM    116  CE3 TRP A   8      23.093  28.123  28.198  0.00  0.00           C 0
+ATOM    113  CD2 TRP A   8      22.768  28.411  26.856  0.00  0.00           C 0
+ATOM    117  CZ2 TRP A   8      24.663  27.030  26.103  0.00  0.00           C 0
+ATOM   1664   NZ LYS A 192      29.779  36.966  22.958  0.00  0.00           N 0
+ATOM    698    O PRO A  78      25.313  33.960  21.050  0.22  7.50           O 0
+ATOM    701   CD PRO A  78      25.827  30.593  22.038  0.00  0.00           C 0
+ATOM   1207   OG SER A 140      29.482  28.674  22.355  0.53  3.21           O 0
+TER
+END

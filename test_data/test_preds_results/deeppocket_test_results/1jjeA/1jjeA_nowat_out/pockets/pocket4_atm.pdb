@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0153
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9982
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6854
+HEADER 5  - Mean B-factor of pocket residues  : 0.1724
+HEADER 6  - Hydrophobicity Score              : 9.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 256.8927
+HEADER 10 - Pocket volume (convex hull)       : 4.6402
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM    889  CG2 THR A 115      49.835  33.481  11.642  0.00  0.00           C 0
+ATOM    724    O ILE A  94      45.030  32.142  14.333  0.00  0.00           O 0
+ATOM    691   CA ASN A  90      47.267  28.834  12.501  0.00  0.00           C 0
+ATOM    697  ND2 ASN A  90      48.780  30.905  13.800  0.00  0.00           N 0
+ATOM    693    O ASN A  90      46.133  28.433  10.400  0.52  4.29           O 0
+ATOM    716   CA SER A  93      42.882  30.650  10.348  0.00  0.00           C 0
+ATOM    734   CG PRO A  95      43.020  36.174  13.988  0.00  0.00           C 0
+ATOM    733   CB PRO A  95      44.407  36.228  14.498  0.00  0.00           C 0
+ATOM    896  OD1 ASN A 116      48.050  39.884  13.275  0.00  0.00           O 0
+ATOM    754   OH TYR A  97      44.813  40.181  16.017  0.00  0.00           O 0
+ATOM    897  ND2 ASN A 116      48.029  37.697  13.743  0.00  0.00           N 0
+ATOM    888  OG1 THR A 115      48.670  35.020  13.027  0.79  4.29           O 0
+ATOM    717    C SER A  93      42.501  31.401  11.611  0.00  0.00           C 0
+ATOM    718    O SER A  93      41.813  32.424  11.534  0.00  0.00           O 0
+ATOM    730   CA PRO A  95      44.957  34.802  14.442  0.00  0.00           C 0
+ATOM    729    N PRO A  95      43.764  33.969  14.253  0.00  0.00           N 0
+ATOM    723    C ILE A  94      43.914  32.657  14.208  0.00  0.00           C 0
+TER
+END

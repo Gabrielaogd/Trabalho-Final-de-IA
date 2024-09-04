@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.0824
+HEADER 1  - Drug Score                        : 0.0046
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7489
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5127
+HEADER 5  - Mean B-factor of pocket residues  : 0.4463
+HEADER 6  - Hydrophobicity Score              : -1.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 227.2190
+HEADER 10 - Pocket volume (convex hull)       : 7.8114
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM   2819   CG PRO A 368       3.585  -6.744   7.456  0.00  0.00           C 0
+ATOM   2805   CG PRO A 366       1.852  -3.420   1.888  0.00  0.00           C 0
+ATOM   2814    N PRO A 368       3.032  -4.471   7.334  0.00  0.00           N 0
+ATOM   2803    O PRO A 366       4.641  -3.483   3.659  0.52  1.07           O 0
+ATOM   3077   CB ALA A 418       5.682  -9.077  10.078  0.00  0.00           C 0
+ATOM   2882  NE1 TRP A 391       5.045  -9.872   5.534  0.00  0.00           N 0
+ATOM   3110  OG1 THR A 422       5.206 -14.109   9.152  0.00  0.00           O 0
+ATOM   2896  NE2 GLN A 392       2.359 -12.435   4.868  0.00  0.00           N 0
+ATOM   2895  OE1 GLN A 392       2.916 -10.876   3.334  0.00  0.00           O 0
+ATOM   2885  CZ2 TRP A 391       5.813 -12.227   5.945  0.00  0.00           C 0
+ATOM   2815   CA PRO A 368       1.862  -5.162   7.897  0.00  0.00           C 0
+ATOM   2818   CB PRO A 368       2.450  -6.490   8.408  0.00  0.00           C 0
+ATOM   2872   CB SER A 390       1.768  -8.586   1.141  0.00  0.00           C 0
+ATOM   2880  CD1 TRP A 391       5.358  -8.905   4.613  0.00  0.00           C 0
+ATOM   2863    O ASP A 389       0.712  -5.487   0.236  0.00  0.00           O 0
+ATOM   2869   CA SER A 390       2.642  -7.468   0.580  0.00  0.00           C 0
+TER
+END

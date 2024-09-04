@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0723
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1209
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5706
+HEADER 5  - Mean B-factor of pocket residues  : 0.2177
+HEADER 6  - Hydrophobicity Score              : 9.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.0390
+HEADER 10 - Pocket volume (convex hull)       : 4.2242
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   2991    O ALA B 380      87.229 -21.361  16.521  0.46  2.14           O 0
+ATOM   2750  OD1 ASP B 348      88.817 -15.794  17.166  0.21  9.64           O 0
+ATOM   3021  CG2 VAL B 385      87.394 -19.165  11.705  0.00  0.00           C 0
+ATOM   2989   CA ALA B 380      85.881 -20.447  14.735  0.00  0.00           C 0
+ATOM   2759   NE ARG B 349      89.213 -21.815  18.717  0.00  0.00           N 0
+ATOM   2758   CD ARG B 349      89.170 -20.645  19.578  0.00  0.00           C 0
+ATOM   3003   CA GLY B 383      90.268 -23.332  14.649  0.00  0.00           C 0
+ATOM   3063  CE1 HIS B 390      90.988 -14.899  14.748  0.00  0.00           C 0
+ATOM   3004    C GLY B 383      90.561 -23.438  13.165  0.00  0.00           C 0
+ATOM   3018    O VAL B 385      91.289 -19.449   9.676  0.00  0.00           O 0
+ATOM   3005    O GLY B 383      91.727 -23.567  12.757  0.46  9.64           O 0
+ATOM   3060   CG HIS B 390      91.365 -14.980  12.576  0.00  0.00           C 0
+ATOM   3061  ND1 HIS B 390      90.437 -15.182  13.579  0.68  3.28           N 0
+ATOM   3064  NE2 HIS B 390      92.232 -14.504  14.538  0.00  0.00           N 0
+ATOM   3015    N VAL B 385      89.230 -21.152  10.660  0.00  0.00           N 0
+ATOM   3019   CB VAL B 385      88.547 -18.754  10.806  0.00  0.00           C 0
+TER
+END

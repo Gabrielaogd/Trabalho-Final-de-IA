@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0924
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7944
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5329
+HEADER 5  - Mean B-factor of pocket residues  : 0.2847
+HEADER 6  - Hydrophobicity Score              : 16.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 344.0596
+HEADER 10 - Pocket volume (convex hull)       : 24.6210
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5217
+ATOM     35  NH2 ARG A   6      10.245  44.502  20.445  0.00  0.00           N 0
+ATOM   1580  CD2 LEU A 199       9.851  48.367  19.117  0.00  0.00           C 0
+ATOM   1539   CG LYS A 194      17.023  44.221  17.289  0.00  0.00           C 0
+ATOM   1538   CB LYS A 194      16.224  44.857  16.173  0.00  0.00           C 0
+ATOM   1579  CD1 LEU A 199       9.547  46.856  17.184  0.00  0.00           C 0
+ATOM   1537    O LYS A 194      14.468  45.975  14.470  0.46  2.14           O 0
+ATOM   1541   CE LYS A 194      19.178  45.364  16.650  0.00  0.00           C 0
+ATOM   1542   NZ LYS A 194      19.274  46.198  17.890  0.00  0.00           N 0
+ATOM     32   NE ARG A   6       8.683  43.806  18.906  0.45  1.09           N 0
+ATOM   1546    O PRO A 195      10.948  45.826  14.805  0.56  1.07           O 0
+ATOM   1549   CD PRO A 195      12.754  42.747  14.207  0.00  0.00           C 0
+ATOM   1503  CD2 LEU A 190      10.572  40.414  17.315  0.00  0.00           C 0
+ATOM   1500   CB LEU A 190      12.570  39.202  18.133  0.00  0.00           C 0
+ATOM   1499    O LEU A 190      15.087  41.006  17.034  0.63  6.43           O 0
+ATOM   1535   CA LYS A 194      15.154  43.945  15.559  0.00  0.00           C 0
+ATOM   1551   CA GLN A 196      11.223  48.412  13.832  0.00  0.00           C 0
+ATOM   1536    C LYS A 194      14.250  44.767  14.626  0.00  0.00           C 0
+ATOM   1554   CB GLN A 196      11.941  49.656  13.300  0.00  0.00           C 0
+ATOM   1555   CG GLN A 196      11.590  50.929  14.078  0.00  0.00           C 0
+ATOM   1558  NE2 GLN A 196      12.845  53.000  14.101  0.00  0.00           N 0
+TER
+END

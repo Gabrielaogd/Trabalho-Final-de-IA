@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.0290
+HEADER 1  - Drug Score                        : 0.0043
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8381
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4854
+HEADER 5  - Mean B-factor of pocket residues  : 0.0642
+HEADER 6  - Hydrophobicity Score              : 45.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 214.2069
+HEADER 10 - Pocket volume (convex hull)       : 6.5690
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7647
+ATOM    199   CE LYS B  30      26.285  71.198  57.111  0.00  0.00           C 0
+ATOM    200   NZ LYS B  30      26.562  69.990  57.943  0.70  8.75           N 0
+ATOM    399  CD1 ILE B  55      27.320  75.724  58.110  0.00  0.00           C 0
+ATOM    198   CD LYS B  30      25.370  72.136  57.882  0.00  0.00           C 0
+ATOM    514  CG1 VAL B  69      32.040  72.200  53.626  0.00  0.00           C 0
+ATOM   1376    O CYS B 175      32.160  69.165  56.162  0.60  6.43           O 0
+ATOM    598  CE1 TYR B  78      35.174  73.860  56.376  0.00  0.00           C 0
+ATOM    513   CB VAL B  69      33.318  73.001  53.340  0.00  0.00           C 0
+ATOM    503  CG2 THR B  67      33.088  78.276  55.382  0.00  0.00           C 0
+ATOM    397  CG1 ILE B  55      28.284  76.751  57.599  0.00  0.00           C 0
+ATOM    382   CB ALA B  53      28.007  71.874  53.557  0.00  0.00           C 0
+ATOM    381    O ALA B  53      29.275  74.455  52.174  0.00  0.00           O 0
+ATOM    380    C ALA B  53      28.128  74.074  52.411  0.00  0.00           C 0
+ATOM    500    O THR B  67      29.885  77.975  53.764  0.00  0.00           O 0
+ATOM    509    N VAL B  69      32.203  74.659  51.836  0.00  0.00           N 0
+TER
+END

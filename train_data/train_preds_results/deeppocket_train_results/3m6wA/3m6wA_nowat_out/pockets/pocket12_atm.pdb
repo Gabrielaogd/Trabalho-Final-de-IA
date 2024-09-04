@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0481
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9277
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6629
+HEADER 5  - Mean B-factor of pocket residues  : 0.0793
+HEADER 6  - Hydrophobicity Score              : -16.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 270.9765
+HEADER 10 - Pocket volume (convex hull)       : 6.0959
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM    300  OG1 THR A  38     -25.861 -28.752  19.695  0.44  5.36           O 0
+ATOM    505  OE1 GLU A  62     -23.684 -25.549  24.775  0.61  4.29           O 0
+ATOM    506  OE2 GLU A  62     -24.200 -24.387  22.987  0.59  3.21           O 0
+ATOM    976  NH1AARG A 122     -26.706 -23.354  24.925  0.00  0.00           N 0
+ATOM    504   CD GLU A  62     -23.473 -25.217  23.585  0.00  0.00           C 0
+ATOM    301  CG2 THR A  38     -24.089 -29.658  21.051  0.00  0.00           C 0
+ATOM    968   CGAARG A 122     -27.870 -23.430  21.575  0.00  0.00           C 0
+ATOM    974   CZAARG A 122     -27.953 -22.913  24.893  0.00  0.00           C 0
+ATOM    965    O ARG A 122     -31.748 -25.407  20.475  0.00  0.00           O 0
+ATOM    966   CBAARG A 122     -29.264 -23.466  20.947  0.00  0.00           C 0
+ATOM    962   CAAARG A 122     -29.490 -24.699  20.066  0.00  0.00           C 0
+ATOM    959    O ALA A 121     -29.127 -26.826  18.462  0.00  0.00           O 0
+ATOM    800    O PRO A  99     -32.753 -22.169  21.822  0.33  1.07           O 0
+ATOM    972   NEAARG A 122     -28.443 -22.390  23.774  0.00  0.00           N 0
+ATOM    978  NH2AARG A 122     -28.708 -22.997  25.980  0.00  0.00           N 0
+ATOM    795  OD1 ASP A  98     -31.522 -21.565  26.257  0.50  2.14           O 0
+ATOM    811   CE LYS A 100     -34.997 -22.640  25.912  0.00  0.00           C 0
+ATOM    810   CD LYS A 100     -35.114 -23.006  24.439  0.00  0.00           C 0
+TER
+END

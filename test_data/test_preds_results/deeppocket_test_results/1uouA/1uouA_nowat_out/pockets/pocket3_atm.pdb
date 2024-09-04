@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1763
+HEADER 1  - Drug Score                        : 0.0270
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5820
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3479
+HEADER 5  - Mean B-factor of pocket residues  : 0.3530
+HEADER 6  - Hydrophobicity Score              : 93.1000
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 5.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 123.9463
+HEADER 10 - Pocket volume (convex hull)       : 4.6343
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM    432   CG LEU A  91       0.950   4.861  43.017  0.00  0.00           C 0
+ATOM    434  CD2 LEU A  91       0.984   3.352  42.937  0.00  0.00           C 0
+ATOM    168  CG2 ILE A  54       2.929   4.234  46.857  0.00  0.00           C 0
+ATOM    192  CD2 PHE A  57      -2.174   0.868  47.349  0.00  0.00           C 0
+ATOM    169  CD1 ILE A  54       1.701   6.694  47.743  0.00  0.00           C 0
+ATOM    330  CD1 ILE A  78      -4.367   5.850  45.209  0.00  0.00           C 0
+ATOM    132  CD1 LEU A  49      -1.733   7.098  49.571  0.00  0.00           C 0
+ATOM    372   CE MET A  83      -0.274   8.334  45.500  0.00  0.00           C 0
+ATOM   1208  CD2 LEU A 198      -2.432   0.316  41.868  0.00  0.00           C 0
+ATOM    433  CD1 LEU A  91      -0.164   5.404  42.107  0.00  0.00           C 0
+ATOM   1319  CD2 LEU A 213      -3.895   5.144  40.887  0.00  0.00           C 0
+ATOM    301   CE MET A  74      -4.662   4.020  50.107  0.00  0.00           C 0
+ATOM    163   CA ILE A  54       2.399   3.795  49.294  0.00  0.00           C 0
+ATOM    189   CB PHE A  57      -1.245   0.844  49.676  0.00  0.00           C 0
+ATOM    194  CE2 PHE A  57      -3.240   0.669  46.433  0.00  0.00           C 0
+ATOM    309  CD2 LEU A  75      -6.576   2.180  42.198  0.00  0.00           C 0
+TER
+END

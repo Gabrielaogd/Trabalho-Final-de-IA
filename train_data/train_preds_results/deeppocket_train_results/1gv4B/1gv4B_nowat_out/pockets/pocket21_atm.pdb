@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.1739
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9056
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5641
+HEADER 5  - Mean B-factor of pocket residues  : 0.2064
+HEADER 6  - Hydrophobicity Score              : 10.6667
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 312.9484
+HEADER 10 - Pocket volume (convex hull)       : 13.8639
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3478
+ATOM   1829  NH1 ARG B 357      49.789  99.378  50.627  0.00  0.00           N 0
+ATOM   1828   CZ ARG B 357      48.661  99.626  51.306  0.00  0.00           C 0
+ATOM   1790   CB GLU B 353      44.934  96.155  50.471  0.00  0.00           C 0
+ATOM   1830  NH2 ARG B 357      48.631  99.469  52.622  0.72  7.66           N 0
+ATOM   1765  NE1 TRP B 350      49.803  92.930  46.889  0.36  2.19           N 0
+ATOM   1763  CD1 TRP B 350      49.091  92.163  47.781  0.00  0.00           C 0
+ATOM   1760    O TRP B 350      45.107  93.946  47.444  0.00  0.00           O 0
+ATOM   1795    N LYS B 354      44.556  96.802  47.382  0.00  0.00           N 0
+ATOM   1826   CD ARG B 357      47.461 100.280  49.254  0.00  0.00           C 0
+ATOM   1766  CE2 TRP B 350      49.050  93.110  45.759  0.00  0.00           C 0
+ATOM   1799   CB LYS B 354      45.284  96.455  45.026  0.00  0.00           C 0
+ATOM   1791   CG GLU B 353      44.571  95.589  51.829  0.00  0.00           C 0
+ATOM   1758   CA TRP B 350      45.719  91.865  48.608  0.00  0.00           C 0
+ATOM   1755  OD1 ASN B 349      44.307  91.417  53.327  0.42  9.64           O 0
+ATOM   1801   CD LYS B 354      47.325  97.601  44.041  0.00  0.00           C 0
+ATOM   1768  CZ2 TRP B 350      49.347  93.800  44.591  0.00  0.00           C 0
+ATOM   1796   CA LYS B 354      44.970  97.480  46.157  0.00  0.00           C 0
+ATOM   1761   CB TRP B 350      46.788  91.021  47.907  0.00  0.00           C 0
+ATOM   1757    N TRP B 350      44.775  90.990  49.295  0.39  1.09           N 0
+ATOM   1726    O TYR B 346      45.610  88.009  49.568  0.00  0.00           O 0
+TER
+END

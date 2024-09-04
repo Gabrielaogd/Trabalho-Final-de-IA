@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0063
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9861
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6271
+HEADER 5  - Mean B-factor of pocket residues  : 0.2174
+HEADER 6  - Hydrophobicity Score              : 14.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 153.2086
+HEADER 10 - Pocket volume (convex hull)       : 1.7036
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM    510  CE2 TYR A  63      40.133  22.960  84.580  0.00  0.00           C 0
+ATOM    906    O ASP A 117      37.102  25.173  81.933  0.74  1.07           O 0
+ATOM    512   OH TYR A  63      38.426  21.972  83.228  0.72  2.14           O 0
+ATOM    976   NZ LYS A 124      35.059  28.567  87.566  0.00  0.00           N 0
+ATOM    909  OD1 ASP A 117      33.014  23.029  82.459  0.59  1.07           O 0
+ATOM    908   CG ASP A 117      33.934  22.193  82.543  0.00  0.00           C 0
+ATOM    907   CB ASP A 117      35.272  22.541  81.941  0.00  0.00           C 0
+ATOM    948   CB PHE A 121      39.760  26.528  83.557  0.00  0.00           C 0
+ATOM    950  CD1 PHE A 121      41.075  26.232  85.700  0.00  0.00           C 0
+ATOM    944    N PHE A 121      37.832  27.830  82.792  0.00  0.00           N 0
+ATOM    945   CA PHE A 121      39.036  27.880  83.596  0.00  0.00           C 0
+ATOM    937   CB ARG A 120      34.740  27.796  82.566  0.00  0.00           C 0
+ATOM    940   NE ARG A 120      32.078  26.268  83.050  0.57  2.19           N 0
+ATOM    939   CD ARG A 120      32.436  27.605  83.503  0.00  0.00           C 0
+TER
+END

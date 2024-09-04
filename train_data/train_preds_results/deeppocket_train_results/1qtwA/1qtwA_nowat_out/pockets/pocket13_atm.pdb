@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0175
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9190
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5563
+HEADER 5  - Mean B-factor of pocket residues  : 0.1178
+HEADER 6  - Hydrophobicity Score              : 31.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 247.2562
+HEADER 10 - Pocket volume (convex hull)       : 4.8840
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   3827  OD1 ASP A 250      78.891   7.853   4.488  0.05  9.64           O 0
+ATOM   3807    O GLN A 249      82.109   4.688   7.907  0.00  0.00           O 0
+ATOM   3822   CA ASP A 250      79.647   5.880   7.352  0.00  0.00           C 0
+ATOM   3825   CB ASP A 250      78.874   6.075   6.051  0.00  0.00           C 0
+ATOM   3747    O TRP A 246      79.248   2.843   4.674  0.66  1.07           O 0
+ATOM   3750  CD1 TRP A 246      80.692   3.646   0.751  0.00  0.00           C 0
+ATOM   3808   CB GLN A 249      82.404   1.992   6.859  0.00  0.00           C 0
+ATOM   4378  CG2 VAL A 284      83.267   0.548   1.903  0.00  0.00           C 0
+ATOM   4375    O VAL A 284      86.011   2.493   2.099  0.81  4.29           O 0
+ATOM   3812  NE2 GLN A 249      84.324   0.719   5.407  0.51  4.37           N 0
+ATOM   4393  OXT ALA A 285      83.955   3.594   0.240  0.00  0.00           O 0
+ATOM   4391    O ALA A 285      85.157   5.294  -0.387  0.00  0.00           O 0
+ATOM   3752  NE1 TRP A 246      80.469   4.992   0.610  0.41  6.56           N 0
+ATOM   4366   CB ALA A 283      88.498   0.898   5.074  0.00  0.00           C 0
+TER
+END

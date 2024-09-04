@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0025
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0677
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5663
+HEADER 5  - Mean B-factor of pocket residues  : 0.3284
+HEADER 6  - Hydrophobicity Score              : 13.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 291.9776
+HEADER 10 - Pocket volume (convex hull)       : 4.5098
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM    886  OE1 GLU A 238      15.622  14.584  75.143  0.48  4.29           O 0
+ATOM    866  NE2 GLN A 235      18.319  19.665  72.834  0.57  2.19           N 0
+ATOM    485  NH1 ARG A 187      14.406  18.853  71.618  0.39  6.56           N 0
+ATOM    832  NH1 ARG A 231      17.988  22.160  75.044  0.00  0.00           N 0
+ATOM    863   CG GLN A 235      18.463  17.279  73.045  0.00  0.00           C 0
+ATOM    856  CG1 VAL A 234      18.663  14.757  77.817  0.00  0.00           C 0
+ATOM    828   CG ARG A 231      20.580  20.656  75.788  0.00  0.00           C 0
+ATOM    826    O ARG A 231      21.250  17.398  75.040  0.00  0.00           O 0
+ATOM   2042  CD2 LEU A 386      18.107  16.021  81.755  0.00  0.00           C 0
+ATOM    855   CB VAL A 234      20.125  15.043  77.581  0.00  0.00           C 0
+ATOM    827   CB ARG A 231      21.898  20.352  76.520  0.00  0.00           C 0
+ATOM   2060    O GLN A 389      22.580  18.568  82.574  0.00  0.00           O 0
+ATOM    857  CG2 VAL A 234      20.928  15.060  78.952  0.00  0.00           C 0
+ATOM    824   CA ARG A 231      22.253  18.866  76.684  0.00  0.00           C 0
+TER
+END

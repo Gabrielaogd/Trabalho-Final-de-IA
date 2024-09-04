@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.0337
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.6470
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4466
+HEADER 5  - Mean B-factor of pocket residues  : 0.3194
+HEADER 6  - Hydrophobicity Score              : 21.2222
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 111.4846
+HEADER 10 - Pocket volume (convex hull)       : 2.2490
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1364
+ATOM   2079  OD1 ASN B 762      15.826  59.096  27.314  0.51  1.07           O 0
+ATOM   2055   CB PRO B 759      22.280  59.102  27.090  0.00  0.00           C 0
+ATOM   2064   CD PRO B 760      20.576  62.301  27.926  0.00  0.00           C 0
+ATOM   2061    O PRO B 760      18.536  60.159  29.382  0.00  0.00           O 0
+ATOM   2296   CA THR B 790      22.321  63.955  24.553  0.00  0.00           C 0
+ATOM   1860    O LEU B 735      22.950  57.732  23.620  0.56  3.21           O 0
+ATOM   1856  NE2 GLN B 734      18.015  61.324  21.816  0.47  9.84           N 0
+ATOM   2302    N ILE B 791      23.949  62.688  23.281  0.00  0.00           N 0
+ATOM   2300  OG1 THR B 790      19.949  64.388  24.292  0.59  3.21           O 0
+ATOM   1853   CG GLN B 734      19.613  59.982  20.599  0.00  0.00           C 0
+ATOM   1871  CG2 THR B 736      19.321  56.004  22.706  0.00  0.00           C 0
+ATOM   2098  CG2 ILE B 765      18.931  55.839  27.236  0.00  0.00           C 0
+ATOM   2080  ND2 ASN B 762      15.241  60.340  25.540  0.85  6.56           N 0
+ATOM   2078   CG ASN B 762      15.436  60.162  26.840  0.00  0.00           C 0
+ATOM   2301  CG2 THR B 790      21.183  63.856  22.293  0.00  0.00           C 0
+ATOM   1852   CB GLN B 734      20.974  60.443  20.287  0.00  0.00           C 0
+TER
+END

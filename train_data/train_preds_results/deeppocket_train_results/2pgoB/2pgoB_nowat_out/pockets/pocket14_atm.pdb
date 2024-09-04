@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0163
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6687
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4319
+HEADER 5  - Mean B-factor of pocket residues  : 0.2731
+HEADER 6  - Hydrophobicity Score              : 2.8889
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 179.8728
+HEADER 10 - Pocket volume (convex hull)       : 5.4937
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM   2973   NEAARG B 379      59.510  -3.804  47.153  0.73  2.19           N 0
+ATOM   4128    O GLY B 523      54.700  -2.603  42.986  0.50  6.43           O 0
+ATOM   2977  NH1AARG B 379      59.522  -6.083  47.323  0.00  0.00           N 0
+ATOM   2909   CB ASP B 371      55.971  -4.959  48.279  0.00  0.00           C 0
+ATOM   4144  CD1 ILE B 525      58.163   0.699  43.251  0.00  0.00           C 0
+ATOM   2971   CDAARG B 379      59.871  -2.421  47.555  0.00  0.00           C 0
+ATOM   2906   CA ASP B 371      56.281  -3.697  49.079  0.00  0.00           C 0
+ATOM   2913    N GLY B 372      54.128  -2.824  48.400  0.63  1.09           N 0
+ATOM   3006  OE1 GLU B 383      60.978  -4.724  42.936  0.47  6.43           O 0
+ATOM   4149   CB ALA B 526      59.432  -5.580  39.103  0.00  0.00           C 0
+ATOM   4135  OD1 ASP B 524      55.036  -5.418  38.840  0.00  0.00           O 0
+ATOM   2916    O GLY B 372      54.205   0.024  48.113  0.61  8.57           O 0
+ATOM   2936   CB ALA B 375      56.809   2.905  46.442  0.00  0.00           C 0
+ATOM   4141   CB ILE B 525      58.233  -0.716  41.149  0.00  0.00           C 0
+ATOM   4145    N ALA B 526      58.425  -3.345  39.322  0.63  1.09           N 0
+ATOM   4137    N ILE B 525      56.190  -2.010  40.486  0.00  0.00           N 0
+TER
+END

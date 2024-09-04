@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0782
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0121
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6290
+HEADER 5  - Mean B-factor of pocket residues  : 0.3344
+HEADER 6  - Hydrophobicity Score              : 11.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 220.6572
+HEADER 10 - Pocket volume (convex hull)       : 5.4768
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   2242    O PHE B 284      58.404  57.790  52.500  0.57  5.36           O 0
+ATOM   2257   CA PRO B 286      56.849  54.875  49.338  0.00  0.00           C 0
+ATOM   2260   CB PRO B 286      57.794  54.368  48.231  0.00  0.00           C 0
+ATOM   2262   CD PRO B 286      59.091  54.530  50.236  0.00  0.00           C 0
+ATOM   2256    N PRO B 286      57.681  54.846  50.547  0.00  0.00           N 0
+ATOM   2301  OE2 GLU B 291      57.981  65.035  50.315  0.00  0.00           O 0
+ATOM   2281    O SER B 289      55.002  58.815  50.927  0.60  4.29           O 0
+ATOM   2235    N GLY B 283      58.708  62.430  53.907  0.58  3.28           N 0
+ATOM   2289   CG GLN B 290      54.962  57.718  47.365  0.00  0.00           C 0
+ATOM   2291  OE1 GLN B 290      55.989  57.588  45.218  0.54  9.64           O 0
+ATOM   2293    N GLU B 291      54.692  62.173  47.723  0.71  4.37           N 0
+ATOM   2288   CB GLN B 290      54.348  59.088  47.169  0.00  0.00           C 0
+ATOM   2298   CG GLU B 291      56.170  64.272  48.986  0.00  0.00           C 0
+ATOM   2221    O LEU B 281      54.212  64.351  53.531  0.56  4.29           O 0
+ATOM   2227   CA GLN B 282      56.972  64.123  54.054  0.00  0.00           C 0
+ATOM   2285   CA GLN B 290      54.263  59.913  48.453  0.00  0.00           C 0
+TER
+END

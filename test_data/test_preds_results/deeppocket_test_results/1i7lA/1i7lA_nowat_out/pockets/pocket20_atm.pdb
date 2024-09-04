@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.1602
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.1503
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5119
+HEADER 5  - Mean B-factor of pocket residues  : 0.2880
+HEADER 6  - Hydrophobicity Score              : 61.5714
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 272.5262
+HEADER 10 - Pocket volume (convex hull)       : 6.6841
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5238
+ATOM   1082  CD2 LEU A 247      36.159  51.567  23.853  0.00  0.00           C 0
+ATOM   1005  CE2 PHE A 237      38.249  47.232  26.198  0.00  0.00           C 0
+ATOM   1092   CA GLU A 249      35.336  46.914  19.590  0.00  0.00           C 0
+ATOM   1100    N GLN A 250      36.563  48.322  18.083  0.62  2.19           N 0
+ATOM    981  CG1 VAL A 234      41.117  52.100  24.009  0.00  0.00           C 0
+ATOM   1003  CD2 PHE A 237      38.286  48.614  26.454  0.00  0.00           C 0
+ATOM   1103    O GLN A 250      39.038  48.920  17.272  0.46  5.36           O 0
+ATOM    982  CG2 VAL A 234      39.459  53.110  22.520  0.00  0.00           C 0
+ATOM    951  CE1 PHE A 230      36.553  52.987  20.360  0.00  0.00           C 0
+ATOM   1095   CB GLU A 249      35.795  45.462  19.380  0.00  0.00           C 0
+ATOM   1006   CZ PHE A 237      37.156  46.476  26.608  0.00  0.00           C 0
+ATOM   1098  OE1 GLU A 249      34.572  43.049  20.601  0.56  6.43           O 0
+ATOM   1078    O LEU A 247      33.519  47.654  23.416  0.63  6.43           O 0
+ATOM   1086    O ILE A 248      34.404  49.017  20.847  0.83  1.07           O 0
+TER
+END

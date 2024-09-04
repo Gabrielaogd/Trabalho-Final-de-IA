@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0458
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7517
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3795
+HEADER 5  - Mean B-factor of pocket residues  : 0.2501
+HEADER 6  - Hydrophobicity Score              : 53.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 187.9937
+HEADER 10 - Pocket volume (convex hull)       : 3.6515
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   2255    O ILE C 294      44.081  34.551  35.963  0.69  5.36           O 0
+ATOM   1086  CG1 VAL C 147      48.722  39.630  36.084  0.00  0.00           C 0
+ATOM   1087  CG2 VAL C 147      49.236  37.273  36.719  0.00  0.00           C 0
+ATOM   2270  CE3 TRP C 295      46.927  36.695  32.495  0.00  0.00           C 0
+ATOM   1085   CB VAL C 147      48.879  38.664  37.249  0.00  0.00           C 0
+ATOM    757  NH2 ARG C 107      41.904  38.068  37.352  0.00  0.00           N 0
+ATOM   2263    O TRP C 295      42.674  34.636  32.286  0.48  7.50           O 0
+ATOM   2257  CG1 ILE C 294      46.097  34.680  38.273  0.00  0.00           C 0
+ATOM   1006   CB VAL C 136      45.167  39.620  39.919  0.00  0.00           C 0
+ATOM   2272  CZ3 TRP C 295      47.735  37.813  32.671  0.00  0.00           C 0
+ATOM   1008  CG2 VAL C 136      44.498  40.766  39.177  0.00  0.00           C 0
+ATOM   1405   CD ARG C 189      46.068  42.470  33.430  0.00  0.00           C 0
+ATOM   1406   NE ARG C 189      45.287  43.552  34.025  0.71  8.75           N 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0310
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1136
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5121
+HEADER 5  - Mean B-factor of pocket residues  : 0.6889
+HEADER 6  - Hydrophobicity Score              : -3.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 279.9069
+HEADER 10 - Pocket volume (convex hull)       : 9.2382
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM      6   CG GLN Q   1      -0.061  23.051  61.756  0.00  0.00           C 0
+ATOM   1484    O ALA Q 189       3.572  20.646  59.453  0.31  9.64           O 0
+ATOM      2   CA GLN Q   1       2.192  24.310  61.379  0.00  0.00           C 0
+ATOM   1498   CB LYS Q 191       5.594  21.768  64.533  0.00  0.00           C 0
+ATOM    181    O LYS Q  23       6.257  17.729  64.418  0.38  3.21           O 0
+ATOM   1494    N LYS Q 191       6.398  21.714  62.173  0.56  2.19           N 0
+ATOM    197   CG PRO Q  25       1.920  14.337  63.313  0.00  0.00           C 0
+ATOM    196   CB PRO Q  25       1.347  14.830  64.646  0.00  0.00           C 0
+ATOM      9  NE2 GLN Q   1       0.064  23.027  64.206  0.24  6.56           N 0
+ATOM    182   CB LYS Q  23       7.377  18.919  66.854  0.00  0.00           C 0
+ATOM   1499   CG LYS Q 191       5.330  22.743  65.727  0.00  0.00           C 0
+ATOM    198   CD PRO Q  25       3.391  14.786  63.424  0.00  0.00           C 0
+ATOM    192    N PRO Q  25       3.665  14.741  64.882  0.00  0.00           N 0
+ATOM    193   CA PRO Q  25       2.442  14.449  65.638  0.00  0.00           C 0
+ATOM    190    O ALA Q  24       4.969  14.927  66.741  0.45  5.36           O 0
+TER
+END

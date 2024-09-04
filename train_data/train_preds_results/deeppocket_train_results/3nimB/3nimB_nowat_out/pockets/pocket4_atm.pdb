@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : -0.0618
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1185
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5917
+HEADER 5  - Mean B-factor of pocket residues  : 0.4672
+HEADER 6  - Hydrophobicity Score              : -25.8000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.6709
+HEADER 10 - Pocket volume (convex hull)       : 0.9493
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM    331   CB LYS B 155     -28.470  -3.560 -19.034  0.00  0.00           C 0
+ATOM    342  OD1 ASP B 156     -30.536  -0.259 -22.292  0.39  5.36           O 0
+ATOM    330    O LYS B 155     -28.382  -4.330 -22.077  0.50  4.29           O 0
+ATOM    589  CE1 HIS B 188     -34.293  -0.202 -22.620  0.00  0.00           C 0
+ATOM    585   CB HIS B 188     -32.797   1.565 -19.823  0.00  0.00           C 0
+ATOM    319  ND2 ASN B 153     -29.399   0.452 -17.881  0.00  0.00           N 0
+ATOM    627  OE1 GLU B 193     -30.858   0.430 -14.972  0.65  2.14           O 0
+ATOM    628  OE2 GLU B 193     -31.517  -1.579 -14.375  0.00  0.00           O 0
+ATOM    333   CD LYS B 155     -29.308  -3.898 -16.689  0.00  0.00           C 0
+ATOM    586   CG HIS B 188     -33.698   0.819 -20.759  0.00  0.00           C 0
+ATOM    588  CD2 HIS B 188     -34.983   0.413 -20.629  0.00  0.00           C 0
+ATOM    590  NE2 HIS B 188     -35.328  -0.219 -21.800  0.63  3.28           N 0
+ATOM    587  ND1 HIS B 188     -33.294   0.415 -22.016  0.00  0.00           N 0
+TER
+END

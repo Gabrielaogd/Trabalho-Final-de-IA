@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0370
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1819
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6167
+HEADER 5  - Mean B-factor of pocket residues  : 0.3314
+HEADER 6  - Hydrophobicity Score              : 15.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 243.5989
+HEADER 10 - Pocket volume (convex hull)       : 3.7512
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   1000   CD LYS C 132      59.928 -21.550  68.557  0.00  0.00           C 0
+ATOM    970    O ARG C 129      58.067 -21.971  72.056  0.41  7.50           O 0
+ATOM   1002   NZ LYS C 132      59.079 -23.870  68.240  0.60  7.66           N 0
+ATOM    967    N ARG C 129      59.438 -21.960  74.459  0.55  2.19           N 0
+ATOM   1509  OE1 GLN C 196      67.226 -21.366  68.062  0.47  8.57           O 0
+ATOM   1001   CE LYS C 132      59.658 -22.667  67.570  0.00  0.00           C 0
+ATOM   1510  NE2 GLN C 196      67.997 -22.642  69.742  0.79  6.56           N 0
+ATOM    953    O LYS C 127      61.914 -22.480  75.549  0.35  7.50           O 0
+ATOM    971   CB ARG C 129      60.384 -20.147  73.123  0.00  0.00           C 0
+ATOM    999   CG LYS C 132      60.831 -20.481  68.014  0.00  0.00           C 0
+ATOM   1519  CE1 TYR C 197      65.444 -19.240  71.160  0.00  0.00           C 0
+ATOM    973   CD ARG C 129      61.080 -18.548  71.296  0.00  0.00           C 0
+ATOM   1522   OH TYR C 197      64.726 -19.862  73.356  0.78  3.21           O 0
+ATOM   1491  CD2 LEU C 193      67.914 -22.040  73.531  0.00  0.00           C 0
+TER
+END

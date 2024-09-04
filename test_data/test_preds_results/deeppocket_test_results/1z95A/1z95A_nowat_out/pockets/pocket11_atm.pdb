@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0111
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8948
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5792
+HEADER 5  - Mean B-factor of pocket residues  : 0.5322
+HEADER 6  - Hydrophobicity Score              : 18.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 280.4001
+HEADER 10 - Pocket volume (convex hull)       : 11.2799
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.7727
+ATOM   1252  CE1 PHE A 826      24.234  10.362  36.763  0.00  0.00           C 0
+ATOM   1239   CB LYS A 825      21.654   5.169  36.598  0.00  0.00           C 0
+ATOM   1253  CE2 PHE A 826      26.450   9.690  36.084  0.00  0.00           C 0
+ATOM   1254   CZ PHE A 826      25.602  10.275  37.023  0.00  0.00           C 0
+ATOM   1251  CD2 PHE A 826      25.925   9.195  34.887  0.00  0.00           C 0
+ATOM   1225  ND2 ASN A 823      28.387   6.738  36.012  0.61  6.56           N 0
+ATOM   1222   CB ASN A 823      27.340   5.843  34.023  0.00  0.00           C 0
+ATOM   1244    N PHE A 826      22.571   6.928  34.089  0.00  0.00           N 0
+ATOM   1241   CD LYS A 825      21.510   4.058  38.873  0.00  0.00           C 0
+ATOM   1240   CG LYS A 825      21.433   3.874  37.369  0.00  0.00           C 0
+ATOM   1212    O LYS A 822      28.586   2.255  34.732  0.00  0.00           O 0
+ATOM   1242   CE LYS A 825      21.234   2.739  39.585  0.00  0.00           C 0
+ATOM   1250  CD1 PHE A 826      23.721   9.864  35.563  0.00  0.00           C 0
+ATOM   1249   CG PHE A 826      24.558   9.278  34.615  0.00  0.00           C 0
+ATOM   1219   CA ASN A 823      26.962   4.368  33.872  0.00  0.00           C 0
+ATOM   1235    N LYS A 825      22.533   4.137  34.550  0.00  0.00           N 0
+ATOM   1226    N GLN A 824      24.936   3.132  33.398  0.50  3.28           N 0
+ATOM   1230   CB GLN A 824      23.254   1.394  33.038  0.00  0.00           C 0
+ATOM   1204    O LEU A 821      27.387   0.466  32.475  0.81  4.29           O 0
+TER
+END

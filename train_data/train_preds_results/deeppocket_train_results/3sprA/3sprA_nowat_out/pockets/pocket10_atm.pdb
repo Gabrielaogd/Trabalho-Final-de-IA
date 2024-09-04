@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0218
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9614
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5490
+HEADER 5  - Mean B-factor of pocket residues  : 0.0609
+HEADER 6  - Hydrophobicity Score              : 16.4000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 221.4785
+HEADER 10 - Pocket volume (convex hull)       : 3.6178
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4211
+ATOM   1078   NZ LYS A 124      33.211 -24.243 -11.753  0.42  8.75           N 0
+ATOM    905  OD1AASP A 104      37.457 -24.223  -8.975  0.57  4.29           O 0
+ATOM    907  OD2AASP A 104      39.038 -22.741  -9.201  0.54  7.50           O 0
+ATOM   1114   OH TYR A 128      34.584 -19.437 -13.999  0.75  9.64           O 0
+ATOM    876    N GLY A 101      35.802 -17.529  -7.082  0.00  0.00           N 0
+ATOM    870    C LEU A 100      34.953 -18.427  -7.543  0.00  0.00           C 0
+ATOM    877   CA GLY A 101      37.051 -17.888  -6.495  0.00  0.00           C 0
+ATOM    903   CGAASP A 104      37.946 -23.094  -8.756  0.00  0.00           C 0
+ATOM    901   CBAASP A 104      37.182 -22.119  -7.899  0.00  0.00           C 0
+ATOM    871    O LEU A 100      35.085 -19.609  -7.428  0.60  1.07           O 0
+ATOM    872   CB LEU A 100      33.867 -17.367  -9.539  0.00  0.00           C 0
+ATOM   1077   CE LYS A 124      32.444 -23.068 -11.772  0.00  0.00           C 0
+ATOM    875  CD2 LEU A 100      31.789 -18.500 -10.228  0.00  0.00           C 0
+TER
+END

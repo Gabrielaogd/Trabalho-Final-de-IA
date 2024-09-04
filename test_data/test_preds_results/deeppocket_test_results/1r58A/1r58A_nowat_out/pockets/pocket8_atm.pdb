@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0117
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8607
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4725
+HEADER 5  - Mean B-factor of pocket residues  : 0.2830
+HEADER 6  - Hydrophobicity Score              : 38.1250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.2838
+HEADER 10 - Pocket volume (convex hull)       : 7.6714
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   2292  CD2 LEU A 403      15.456  48.863   6.603  0.00  0.00           C 0
+ATOM   2323  ND2 ASN A 407      16.320  45.868   3.666  0.65  5.47           N 0
+ATOM   2192    N VAL A 392      10.244  49.101   5.172  0.53  1.09           N 0
+ATOM   2188  ND1 HIS A 391      11.427  48.866   1.813  0.00  0.00           N 0
+ATOM   2322  OD1 ASN A 407      16.255  43.802   4.526  0.57  1.07           O 0
+ATOM   2181    O GLY A 390       9.449  46.077   6.328  0.67  1.07           O 0
+ATOM   2291  CD1 LEU A 403      16.734  46.845   7.403  0.00  0.00           C 0
+ATOM   2180    C GLY A 390       8.749  45.601   5.435  0.00  0.00           C 0
+ATOM   2182    N HIS A 391       8.732  46.079   4.194  0.00  0.00           N 0
+ATOM   2143   NZ LYS A 385      14.597  41.280   4.953  0.26  7.66           N 0
+ATOM   2174    O VAL A 389       9.444  42.697   7.128  0.52  4.29           O 0
+ATOM   2179   CA GLY A 390       7.851  44.415   5.715  0.00  0.00           C 0
+ATOM   2183   CA HIS A 391       9.551  47.222   3.808  0.00  0.00           C 0
+ATOM   2186   CB HIS A 391       9.325  47.568   2.334  0.00  0.00           C 0
+ATOM   2141   CD LYS A 385      14.765  42.286   7.251  0.00  0.00           C 0
+ATOM   2590  CG2 ILE A 440      14.057  46.354   9.941  0.00  0.00           C 0
+ATOM   2176  CG1 VAL A 389      10.842  43.213   9.565  0.00  0.00           C 0
+ATOM   2321   CG ASN A 407      16.694  44.599   3.701  0.00  0.00           C 0
+TER
+END

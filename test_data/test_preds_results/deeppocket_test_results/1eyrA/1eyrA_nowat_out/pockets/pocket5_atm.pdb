@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0821
+HEADER 1  - Drug Score                        : 0.0944
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8206
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4856
+HEADER 5  - Mean B-factor of pocket residues  : 0.3392
+HEADER 6  - Hydrophobicity Score              : 37.0909
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2727
+HEADER 9  - Pocket volume (Monte Carlo)       : 141.3717
+HEADER 10 - Pocket volume (convex hull)       : 4.7622
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM    207    O ILE A  29      25.358  -2.788  66.885  0.00  0.00           O 0
+ATOM    245  CD2 HIS A  34      23.378  -0.492  66.211  0.00  0.00           C 0
+ATOM    247  NE2 HIS A  34      24.598   0.106  65.991  0.62  5.47           N 0
+ATOM    225  CD2 LEU A  31      21.391  -3.693  63.047  0.00  0.00           C 0
+ATOM    773   CB PRO A 108      20.207  -0.063  62.810  0.00  0.00           C 0
+ATOM   1631   CB ALA A 219      23.124   0.000  58.206  0.00  0.00           C 0
+ATOM   1663  CD1 LEU A 223      25.553   3.653  62.881  0.00  0.00           C 0
+ATOM   1629    C ALA A 219      25.166   1.439  57.983  0.00  0.00           C 0
+ATOM   1632    N GLU A 220      26.199   0.607  58.056  0.00  0.00           N 0
+ATOM   1637   CG GLU A 220      28.212  -1.047  59.951  0.00  0.00           C 0
+ATOM   1633   CA GLU A 220      27.442   1.037  58.690  0.00  0.00           C 0
+ATOM   1607  CD1 LEU A 216      23.615  -5.132  60.096  0.00  0.00           C 0
+ATOM    783  CD2 LEU A 109      21.788   4.009  60.499  0.00  0.00           C 0
+ATOM    774   CG PRO A 108      19.971  -0.408  61.355  0.00  0.00           C 0
+ATOM    185    C LYS A  25      26.978  -4.802  64.221  0.00  0.00           C 0
+ATOM    192    N ASN A  27      28.950  -1.203  63.893  0.50  1.09           N 0
+ATOM   1604    O LEU A 216      25.762  -2.287  57.633  0.00  0.00           O 0
+ATOM   1630    O ALA A 219      25.197   2.569  58.461  0.00  0.00           O 0
+ATOM    186    O LYS A  25      27.211  -5.266  63.107  0.29  4.29           O 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.1416
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.2341
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5985
+HEADER 5  - Mean B-factor of pocket residues  : 0.0862
+HEADER 6  - Hydrophobicity Score              : 31.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 350.3949
+HEADER 10 - Pocket volume (convex hull)       : 6.7722
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 9.8182
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6111
+ATOM   1060  CD2 LEU B 145      39.120  69.721  72.725  0.00  0.00           C 0
+ATOM   2321  CG1 ILE B 308      40.884  66.004  77.139  0.00  0.00           C 0
+ATOM   2306    O GLU B 306      45.221  65.567  75.425  0.50  3.21           O 0
+ATOM   2315    O GLY B 307      44.694  68.128  78.666  0.00  0.00           O 0
+ATOM   1059  CD1 LEU B 145      38.961  67.391  73.794  0.00  0.00           C 0
+ATOM   1233   OH TYR B 169      41.814  66.811  70.519  0.70  4.29           O 0
+ATOM   1043   CB ALA B 143      37.250  68.661  77.396  0.00  0.00           C 0
+ATOM   1042    O ALA B 143      36.881  71.274  76.117  0.00  0.00           O 0
+ATOM   2324    N ALA B 309      41.873  68.349  80.870  0.70  4.37           N 0
+ATOM   2328   CB ALA B 309      41.673  70.285  82.424  0.00  0.00           C 0
+ATOM   2350   CB ALA B 312      36.419  68.650  81.137  0.00  0.00           C 0
+ATOM   1040   CA ALA B 143      36.027  69.598  77.609  0.00  0.00           C 0
+ATOM   1033    O GLN B 142      33.823  70.599  78.820  0.00  0.00           O 0
+ATOM   2317   CA ILE B 308      42.330  66.863  79.015  0.00  0.00           C 0
+ATOM   2322  CG2 ILE B 308      39.774  66.617  79.398  0.00  0.00           C 0
+ATOM   2346    N ALA B 312      36.920  68.874  83.521  0.90  1.09           N 0
+ATOM   2341   CB GLU B 311      37.687  71.118  85.726  0.00  0.00           C 0
+TER
+END

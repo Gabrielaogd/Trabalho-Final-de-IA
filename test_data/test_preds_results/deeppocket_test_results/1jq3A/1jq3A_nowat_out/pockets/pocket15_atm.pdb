@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0195
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0305
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6727
+HEADER 5  - Mean B-factor of pocket residues  : 0.3487
+HEADER 6  - Hydrophobicity Score              : 44.4000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.1287
+HEADER 10 - Pocket volume (convex hull)       : 4.1775
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   1687   CB ILE A 212      40.762  37.263   5.509  0.00  0.00           C 0
+ATOM   1655    O PHE A 209      41.110  35.975   9.192  0.42  5.36           O 0
+ATOM   1689  CG2 ILE A 212      41.221  35.847   5.166  0.00  0.00           C 0
+ATOM   2366  OE2 GLU A 292      44.943  39.941   4.232  0.00  0.00           O 0
+ATOM   1688  CG1 ILE A 212      41.448  38.321   4.647  0.00  0.00           C 0
+ATOM   1648    O PRO A 208      41.264  40.380   8.865  0.61  1.07           O 0
+ATOM   2329  CD2 PHE A 288      44.843  43.001   8.607  0.00  0.00           C 0
+ATOM   2331  CE2 PHE A 288      43.795  42.905   9.519  0.00  0.00           C 0
+ATOM   1659  CD2 PHE A 209      43.175  38.417  12.296  0.00  0.00           C 0
+ATOM   1690  CD1 ILE A 212      41.241  39.744   5.169  0.00  0.00           C 0
+ATOM   1661  CE2 PHE A 209      44.284  37.954  13.012  0.00  0.00           C 0
+ATOM   2328  CD1 PHE A 288      45.654  44.954   9.735  0.00  0.00           C 0
+ATOM   2327   CG PHE A 288      45.784  44.024   8.706  0.00  0.00           C 0
+ATOM   2332   CZ PHE A 288      43.673  43.838  10.546  0.00  0.00           C 0
+ATOM   2330  CE1 PHE A 288      44.607  44.868  10.653  0.00  0.00           C 0
+ATOM   1653   CA PHE A 209      40.746  38.071  10.288  0.00  0.00           C 0
+TER
+END

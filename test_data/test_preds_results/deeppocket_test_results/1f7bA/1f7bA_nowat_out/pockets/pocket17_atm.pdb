@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0423
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1556
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6720
+HEADER 5  - Mean B-factor of pocket residues  : 0.2411
+HEADER 6  - Hydrophobicity Score              : -15.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 304.9983
+HEADER 10 - Pocket volume (convex hull)       : 5.0294
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1610    O ASP A 202      13.110  25.325   9.860  0.68  3.21           O 0
+ATOM     42   CD LYS A   5      16.971  25.812   8.322  0.00  0.00           C 0
+ATOM     40   CB LYS A   5      14.823  26.168   6.972  0.00  0.00           C 0
+ATOM     43   CE LYS A   5      17.620  27.041   7.729  0.00  0.00           C 0
+ATOM   1613  OD1 ASP A 202      17.231  23.778  11.772  0.52  7.50           O 0
+ATOM   1785   NZALYS A 224      14.645  27.523  14.842  0.00  0.00           N 0
+ATOM   1608   CA ASP A 202      14.169  24.070  11.616  0.00  0.00           C 0
+ATOM   1783   CEALYS A 224      13.629  28.573  14.587  0.00  0.00           C 0
+ATOM     39    O LYS A   5      12.054  26.530   5.096  0.52  2.14           O 0
+ATOM     46   CA GLY A   6      10.511  26.973   7.307  0.00  0.00           C 0
+ATOM     27  OD2 ASP A   3      15.642  28.585   3.514  0.36  5.36           O 0
+ATOM     38    C LYS A   5      12.436  26.076   6.166  0.00  0.00           C 0
+ATOM    321  OD1 ASP A  40       9.644  30.199   3.591  0.40  9.64           O 0
+ATOM     45    N GLY A   6      11.733  26.191   7.286  0.00  0.00           N 0
+ATOM    322  OD2 ASP A  40       8.877  29.071   5.332  0.69  2.14           O 0
+ATOM   1747  CE2 PHE A 220      10.749  28.357  11.661  0.00  0.00           C 0
+TER
+END

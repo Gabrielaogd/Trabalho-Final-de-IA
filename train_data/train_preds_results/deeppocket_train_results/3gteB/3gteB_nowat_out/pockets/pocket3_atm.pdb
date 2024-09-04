@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1646
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.4756
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3970
+HEADER 5  - Mean B-factor of pocket residues  : 0.1297
+HEADER 6  - Hydrophobicity Score              : 37.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 77.5284
+HEADER 10 - Pocket volume (convex hull)       : 0.4276
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM    516   SG CYS B  68     -30.861  -1.994  39.578  0.00  0.00           S 0
+ATOM    371   SG CYS B  49     -33.091  -4.147  41.827  0.00  0.00           S 0
+ATOM    555   CG LEU B  73     -36.906  -1.306  41.116  0.00  0.00           C 0
+ATOM    540   CB HIS B  71     -35.226  -1.780  35.645  0.00  0.00           C 0
+ATOM    536    N HIS B  71     -32.874  -1.137  36.007  0.84  1.09           N 0
+ATOM    370   CB CYS B  49     -31.465  -4.933  42.134  0.00  0.00           C 0
+ATOM    415   CB ALA B  54     -28.643  -5.139  38.565  0.00  0.00           C 0
+ATOM    389    N ARG B  52     -33.977  -7.987  39.510  0.00  0.00           N 0
+ATOM    550    N LEU B  73     -35.162   1.130  39.916  0.00  0.00           N 0
+ATOM    542  ND1 HIS B  71     -34.075  -4.013  35.375  0.00  0.00           N 0
+ATOM    385  ND1 HIS B  51     -36.127  -5.465  37.509  0.60  2.19           N 0
+ATOM    528   CB TYR B  70     -30.670  -3.141  36.055  0.00  0.00           C 0
+ATOM    530  CD1 TYR B  70     -30.709  -5.545  35.249  0.00  0.00           C 0
+TER
+END

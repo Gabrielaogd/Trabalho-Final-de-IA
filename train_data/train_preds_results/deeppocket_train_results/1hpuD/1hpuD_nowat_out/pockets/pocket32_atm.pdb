@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.1416
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8646
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5517
+HEADER 5  - Mean B-factor of pocket residues  : 0.3023
+HEADER 6  - Hydrophobicity Score              : -3.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.1933
+HEADER 10 - Pocket volume (convex hull)       : 9.1287
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3913
+ATOM   3454   OG SER D 467     -23.959  20.275  47.442  0.61  6.43           O 0
+ATOM   3566    N GLY D 482     -19.714  17.752  48.755  0.34  5.47           N 0
+ATOM   4060   CG GLU D 546     -21.471  22.813  42.916  0.00  0.00           C 0
+ATOM   3453   CB SER D 467     -24.042  21.389  46.562  0.00  0.00           C 0
+ATOM   3435   CA ASN D 465     -17.738  23.859  48.440  0.00  0.00           C 0
+ATOM   3434    N ASN D 465     -17.580  25.164  47.806  0.16  6.56           N 0
+ATOM   3440  OD1 ASN D 465     -15.209  23.086  47.627  0.00  0.00           O 0
+ATOM   3567   CA GLY D 482     -20.417  16.542  48.349  0.00  0.00           C 0
+ATOM   2858   CZ ARG D 387     -18.494  26.698  42.631  0.00  0.00           C 0
+ATOM   2860  NH2 ARG D 387     -19.759  26.383  42.351  0.50  2.19           N 0
+ATOM   3437    O ASN D 465     -19.292  22.750  49.919  0.00  0.00           O 0
+ATOM   3444    C VAL D 466     -22.418  23.958  48.001  0.00  0.00           C 0
+ATOM   3558   CA LYS D 481     -17.813  18.999  49.630  0.00  0.00           C 0
+ATOM   2859  NH1 ARG D 387     -17.492  26.017  42.072  0.17  6.56           N 0
+ATOM   4063  OE2 GLU D 546     -20.153  22.422  40.973  0.65  7.50           O 0
+ATOM   3436    C ASN D 465     -19.115  23.645  49.073  0.00  0.00           C 0
+ATOM   3442    N VAL D 466     -20.082  24.447  48.643  0.00  0.00           N 0
+ATOM   3445    O VAL D 466     -22.298  24.440  46.876  0.56  2.14           O 0
+ATOM   3557    N LYS D 481     -18.760  19.885  50.317  0.00  0.00           N 0
+TER
+END

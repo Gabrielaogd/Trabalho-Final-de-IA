@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0906
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0666
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6038
+HEADER 5  - Mean B-factor of pocket residues  : 0.2642
+HEADER 6  - Hydrophobicity Score              : 27.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 214.0760
+HEADER 10 - Pocket volume (convex hull)       : 5.0589
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4348
+ATOM    647  OG1 THR A  84       3.682 -24.936  82.514  0.82  3.21           O 0
+ATOM    483  CG1 ILE A  62       1.441 -21.853  83.155  0.00  0.00           C 0
+ATOM    485  CD1 ILE A  62       0.646 -23.133  83.282  0.00  0.00           C 0
+ATOM    318  OE1 GLN A  41       6.839 -21.109  87.931  0.55  4.29           O 0
+ATOM    493  CD2 LEU A  63       1.002 -19.652  87.150  0.00  0.00           C 0
+ATOM    303  CG2 THR A  39       7.687 -23.542  84.471  0.00  0.00           C 0
+ATOM     82   CB THR A  10       7.587 -26.723  86.929  0.00  0.00           C 0
+ATOM     84  CG2 THR A  10       6.961 -27.236  85.628  0.00  0.00           C 0
+ATOM    619    O GLY A  80       1.125 -26.267  83.433  0.00  0.00           O 0
+ATOM    618    C GLY A  80       0.603 -26.727  84.453  0.00  0.00           C 0
+ATOM    620    N VAL A  81       1.039 -27.827  85.058  0.42  1.09           N 0
+ATOM    626  CG2 VAL A  81       3.109 -29.098  86.830  0.00  0.00           C 0
+ATOM    617   CA GLY A  80      -0.593 -26.036  85.086  0.00  0.00           C 0
+ATOM    621   CA VAL A  81       2.184 -28.584  84.560  0.00  0.00           C 0
+ATOM    491   CG LEU A  63       2.340 -19.038  86.776  0.00  0.00           C 0
+ATOM    492  CD1 LEU A  63       3.257 -18.927  87.989  0.00  0.00           C 0
+ATOM    478    N ILE A  62       3.385 -19.825  82.048  0.58  2.19           N 0
+ATOM    471   CA ASP A  61       5.617 -18.879  82.128  0.00  0.00           C 0
+ATOM    476  OD1 ASP A  61       4.910 -17.751  84.548  0.00  0.00           O 0
+TER
+END

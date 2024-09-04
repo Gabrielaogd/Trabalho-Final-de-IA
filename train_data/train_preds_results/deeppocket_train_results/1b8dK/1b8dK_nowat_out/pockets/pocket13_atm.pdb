@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0453
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 4.1118
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5664
+HEADER 5  - Mean B-factor of pocket residues  : 0.1454
+HEADER 6  - Hydrophobicity Score              : 19.2222
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 270.4869
+HEADER 10 - Pocket volume (convex hull)       : 9.1730
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.4194
+ATOM   1435    O SER K 154       4.196 -38.115   0.516  0.45  4.29           O 0
+ATOM    950  CG2 THR K 102       5.649 -32.147  -2.607  0.00  0.00           C 0
+ATOM   1436   CB SER K 154       7.337 -38.970   1.319  0.00  0.00           C 0
+ATOM   1434    C SER K 154       5.105 -38.865   0.172  0.00  0.00           C 0
+ATOM   1441   CA ALA K 155       4.647 -38.505  -2.193  0.00  0.00           C 0
+ATOM   1404    O GLU K 151       7.994 -40.663  -2.152  0.66  1.07           O 0
+ATOM   1440    N ALA K 155       5.371 -39.132  -1.101  0.80  2.19           N 0
+ATOM   1408  OE1 GLU K 151      11.483 -38.606  -2.426  0.74  5.36           O 0
+ATOM   1444   CB ALA K 155       5.172 -39.009  -3.546  0.00  0.00           C 0
+ATOM    916  CD2 LEU K  97       9.031 -39.689  -5.445  0.00  0.00           C 0
+ATOM    937    O GLY K 100      12.378 -32.530  -4.400  0.61  8.57           O 0
+ATOM    940   CA GLY K 101       9.804 -31.714  -5.053  0.00  0.00           C 0
+ATOM    904    O SER K  96       9.436 -35.113  -7.351  0.68  1.07           O 0
+ATOM    942    O GLY K 101       8.051 -32.631  -6.392  0.00  0.00           O 0
+ATOM   1468   CB TYR K 158       2.734 -35.275  -0.295  0.00  0.00           C 0
+ATOM   1470  CD1 TYR K 158       3.113 -32.861   0.318  0.00  0.00           C 0
+ATOM    939    N GLY K 101      10.587 -32.707  -5.762  0.74  1.09           N 0
+ATOM    936    C GLY K 100      11.823 -33.017  -5.391  0.00  0.00           C 0
+ATOM    905   CB SER K  96       6.222 -35.136  -7.379  0.00  0.00           C 0
+ATOM    903    C SER K  96       8.571 -35.739  -7.944  0.00  0.00           C 0
+ATOM    941    C GLY K 101       8.348 -31.911  -5.434  0.00  0.00           C 0
+TER
+END

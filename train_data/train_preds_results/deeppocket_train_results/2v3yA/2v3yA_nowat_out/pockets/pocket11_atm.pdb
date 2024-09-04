@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.1519
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7842
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5215
+HEADER 5  - Mean B-factor of pocket residues  : 0.2566
+HEADER 6  - Hydrophobicity Score              : 31.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 216.4971
+HEADER 10 - Pocket volume (convex hull)       : 3.5198
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM   2917   CB MET A 349      53.215  41.227  53.805  0.00  0.00           C 0
+ATOM   2874   CDAARG A 345      48.525  39.329  49.299  0.00  0.00           C 0
+ATOM   2872   CGAARG A 345      49.880  38.662  49.501  0.00  0.00           C 0
+ATOM   2870   CBAARG A 345      49.943  37.895  50.810  0.00  0.00           C 0
+ATOM   2637  CG2 THR A 314      55.007  41.724  42.594  0.00  0.00           C 0
+ATOM   2924    O HIS A 350      55.695  43.346  48.736  0.75  4.29           O 0
+ATOM   2882  NH2AARG A 345      47.492  41.393  46.436  0.00  0.00           N 0
+ATOM   2864  NE2 HIS A 344      52.361  37.921  46.637  0.82  6.56           N 0
+ATOM   2911  CE2 PHE A 348      57.115  40.334  46.992  0.00  0.00           C 0
+ATOM   2909  CD2 PHE A 348      56.664  39.292  47.803  0.00  0.00           C 0
+ATOM   2905    O PHE A 348      54.111  39.404  50.327  0.74  2.14           O 0
+ATOM   2914   CA MET A 349      53.709  41.299  52.355  0.00  0.00           C 0
+ATOM   2915    C MET A 349      53.930  42.748  51.952  0.00  0.00           C 0
+ATOM   2916    O MET A 349      53.060  43.608  52.205  0.48  9.64           O 0
+ATOM   2876   NEAARG A 345      48.499  40.158  48.093  0.69  5.47           N 0
+TER
+END

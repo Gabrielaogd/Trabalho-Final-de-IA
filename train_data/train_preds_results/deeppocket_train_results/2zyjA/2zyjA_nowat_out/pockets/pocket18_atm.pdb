@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0152
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1487
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6871
+HEADER 5  - Mean B-factor of pocket residues  : 0.1630
+HEADER 6  - Hydrophobicity Score              : 40.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.9743
+HEADER 10 - Pocket volume (convex hull)       : 5.3104
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM    536  CD1 TYR A  70     -27.970   5.761  34.118  0.00  0.00           C 0
+ATOM    523    C GLN A  69     -29.812  10.418  33.709  0.00  0.00           C 0
+ATOM    530    N TYR A  70     -29.544   9.360  34.485  0.60  1.09           N 0
+ATOM    516    O LEU A  68     -27.049  12.489  32.805  0.00  0.00           O 0
+ATOM    514   CA LEU A  68     -28.149  14.166  31.482  0.00  0.00           C 0
+ATOM    511    O ALA A  67     -29.856  13.233  29.468  0.40  4.29           O 0
+ATOM    520  CD2 LEU A  68     -26.398  15.777  29.613  0.00  0.00           C 0
+ATOM   2114    N LEU A 273     -31.234  12.791  26.213  0.00  0.00           N 0
+ATOM   2103   CB PRO A 271     -28.889   8.794  24.662  0.00  0.00           C 0
+ATOM   2118   CB LEU A 273     -29.725  14.395  25.129  0.00  0.00           C 0
+ATOM   2106    N MET A 272     -31.195   9.971  26.927  0.67  1.09           N 0
+ATOM   2100   CA PRO A 271     -29.904   8.350  25.714  0.00  0.00           C 0
+ATOM   2091  NE2 HIS A 269     -30.634   6.990  30.345  0.68  5.47           N 0
+ATOM    538  CE1 TYR A  70     -26.693   5.184  34.027  0.00  0.00           C 0
+ATOM   2090  CE1 HIS A 269     -30.259   6.167  31.299  0.00  0.00           C 0
+ATOM    524    O GLN A  69     -30.454  10.345  32.644  0.60  1.07           O 0
+TER
+END

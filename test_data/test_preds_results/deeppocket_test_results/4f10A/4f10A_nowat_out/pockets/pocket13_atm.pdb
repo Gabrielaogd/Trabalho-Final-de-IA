@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0383
+HEADER 1  - Drug Score                        : 0.0158
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9899
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6416
+HEADER 5  - Mean B-factor of pocket residues  : 0.1808
+HEADER 6  - Hydrophobicity Score              : 1.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 248.1280
+HEADER 10 - Pocket volume (convex hull)       : 5.7459
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7647
+ATOM   1311   CG LYS A 169      -3.682 -41.323  55.056  0.00  0.00           C 0
+ATOM   1304  CG1 VAL A 168      -5.849 -37.049  57.746  0.00  0.00           C 0
+ATOM   1606    O SER A 207      -1.587 -36.748  60.955  0.00  0.00           O 0
+ATOM   1607   CB SER A 207      -2.643 -35.312  58.610  0.00  0.00           C 0
+ATOM   1342   CG ASN A 172       0.188 -35.784  55.451  0.00  0.00           C 0
+ATOM   1343  OD1 ASN A 172       1.083 -36.332  54.832  0.00  0.00           O 0
+ATOM   1344  ND2 ASN A 172       0.397 -35.167  56.592  0.56  1.09           N 0
+ATOM   1341   CB ASN A 172      -1.228 -35.772  54.923  0.00  0.00           C 0
+ATOM   1307   CA LYS A 169      -4.025 -39.011  54.065  0.00  0.00           C 0
+ATOM   1309    O LYS A 169      -2.680 -37.789  52.521  0.61  1.07           O 0
+ATOM   1350   CG ARG A 173      -0.606 -38.104  50.335  0.00  0.00           C 0
+ATOM   1351   CD ARG A 173      -0.033 -39.304  49.619  0.00  0.00           C 0
+ATOM   1310   CB LYS A 169      -3.939 -40.509  53.814  0.00  0.00           C 0
+ATOM   1312   CD LYS A 169      -3.436 -42.779  54.715  0.00  0.00           C 0
+TER
+END

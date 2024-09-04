@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1728
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8216
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6379
+HEADER 5  - Mean B-factor of pocket residues  : 0.1844
+HEADER 6  - Hydrophobicity Score              : -1.1667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 279.3471
+HEADER 10 - Pocket volume (convex hull)       : 15.9127
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4545
+ATOM    946   NZ LYS K 132     130.293 -40.595  53.281  0.00  0.00           N 0
+ATOM   3672   CD ARG K 501     128.536 -35.890  52.194  0.00  0.00           C 0
+ATOM    910  CG1 VAL K 128     128.728 -38.493  49.544  0.00  0.00           C 0
+ATOM   3704  NE2 GLN K 505     124.738 -37.563  50.484  0.00  0.00           N 0
+ATOM   3675  NH1 ARG K 501     126.382 -35.180  53.893  0.68  7.66           N 0
+ATOM   3673   NE ARG K 501     128.653 -35.261  53.511  0.88  1.09           N 0
+ATOM   3007   CG GLU K 409     132.739 -34.937  56.549  0.00  0.00           C 0
+ATOM   3003   CA GLU K 409     135.216 -34.350  56.514  0.00  0.00           C 0
+ATOM    944   CD LYS K 132     132.406 -40.159  51.973  0.00  0.00           C 0
+ATOM    943   CG LYS K 132     133.187 -39.057  51.270  0.00  0.00           C 0
+ATOM   3674   CZ ARG K 501     127.623 -34.937  54.288  0.00  0.00           C 0
+ATOM   3010  OE2 GLU K 409     130.417 -34.415  56.510  0.00  0.00           O 0
+ATOM   3676  NH2 ARG K 501     127.831 -34.359  55.464  0.14  9.84           N 0
+ATOM    945   CE LYS K 132     131.128 -39.581  52.583  0.00  0.00           C 0
+ATOM   3009  OE1 GLU K 409     131.333 -35.114  54.634  0.84  1.07           O 0
+ATOM   3006   CB GLU K 409     133.864 -34.252  55.803  0.00  0.00           C 0
+ATOM   3005    O GLU K 409     136.385 -34.463  54.431  0.58  4.29           O 0
+ATOM    942   CB LYS K 132     134.477 -39.539  50.618  0.00  0.00           C 0
+ATOM    939   CA LYS K 132     135.214 -38.417  49.881  0.00  0.00           C 0
+ATOM    964   CB SER K 135     137.797 -35.498  51.153  0.00  0.00           C 0
+ATOM    941    O LYS K 132     137.595 -38.512  50.147  0.00  0.00           O 0
+ATOM   3008   CD GLU K 409     131.402 -34.809  55.846  0.00  0.00           C 0
+TER
+END

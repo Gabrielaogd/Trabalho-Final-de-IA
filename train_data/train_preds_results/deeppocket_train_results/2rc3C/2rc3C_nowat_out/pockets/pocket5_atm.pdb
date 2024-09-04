@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0116
+HEADER 1  - Drug Score                        : 0.0140
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8309
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5066
+HEADER 5  - Mean B-factor of pocket residues  : 0.1228
+HEADER 6  - Hydrophobicity Score              : 76.3333
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 175.3175
+HEADER 10 - Pocket volume (convex hull)       : 1.8266
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.9375
+ATOM    734   CG MET C 115      49.130  46.600  37.758  0.00  0.00           C 0
+ATOM    763  OG1 THR C 119      46.716  50.249  41.957  0.76  4.29           O 0
+ATOM    733   CB MET C 115      48.734  46.506  39.215  0.00  0.00           C 0
+ATOM    756  CG2 ILE C 118      50.544  52.313  40.236  0.00  0.00           C 0
+ATOM    735   SD MET C 115      47.795  46.342  36.589  0.00  0.00           S 0
+ATOM    730   CA MET C 115      49.819  47.123  40.083  0.00  0.00           C 0
+ATOM    928  CD1 ILE C 140      48.808  54.097  37.515  0.00  0.00           C 0
+ATOM    955  CG2 VAL C 144      47.371  51.370  33.059  0.00  0.00           C 0
+ATOM    732    O MET C 115      48.860  48.453  41.843  0.66  1.07           O 0
+ATOM    757  CD1 ILE C 118      52.706  50.427  38.898  0.00  0.00           C 0
+ATOM    926  CG1 ILE C 140      49.597  53.288  36.519  0.00  0.00           C 0
+ATOM    945   CB LEU C 143      51.223  48.134  34.822  0.00  0.00           C 0
+ATOM    924    O ILE C 140      50.713  51.628  33.908  0.00  0.00           O 0
+TER
+END

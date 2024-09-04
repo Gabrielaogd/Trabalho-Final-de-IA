@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0067
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0132
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6426
+HEADER 5  - Mean B-factor of pocket residues  : 0.2356
+HEADER 6  - Hydrophobicity Score              : -6.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 254.4633
+HEADER 10 - Pocket volume (convex hull)       : 8.7377
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM    736  CE1 HIS A 268      -6.983  36.485  22.571  0.00  0.00           C 0
+ATOM    569   CB LYS A 250     -10.499  31.628  19.229  0.00  0.00           C 0
+ATOM    619  OE1AGLU A 254      -9.798  34.145  25.398  0.00  0.00           O 0
+ATOM    571   CD LYS A 250     -11.089  33.362  17.548  0.00  0.00           C 0
+ATOM    737  NE2 HIS A 268      -6.944  37.136  21.422  0.77  5.47           N 0
+ATOM    613   CGAGLU A 254      -7.856  33.348  24.276  0.00  0.00           C 0
+ATOM    568    O LYS A 250      -8.796  30.502  21.828  0.00  0.00           O 0
+ATOM    578   CB ARG A 251     -12.550  28.826  22.986  0.00  0.00           C 0
+ATOM    580   CD ARG A 251     -14.799  29.036  24.129  0.00  0.00           C 0
+ATOM    579   CG ARG A 251     -13.236  28.860  24.305  0.00  0.00           C 0
+ATOM    427   CE MET A 231      -6.743  33.028  20.535  0.00  0.00           C 0
+ATOM    425   CG MET A 231      -7.083  34.065  18.024  0.00  0.00           C 0
+ATOM    616   CDAGLU A 254      -8.600  34.373  25.128  0.00  0.00           C 0
+ATOM    575   CA ARG A 251     -11.122  29.360  22.906  0.00  0.00           C 0
+ATOM    583  NH1 ARG A 251     -16.538  30.170  22.141  0.60  7.66           N 0
+ATOM    574    N ARG A 251     -10.823  29.591  21.499  0.00  0.00           N 0
+ATOM    541    O ASP A 247     -13.369  29.384  19.835  0.62  1.07           O 0
+ATOM    542   CBAASP A 247     -15.926  30.381  18.011  0.00  0.00           C 0
+ATOM    538   CAAASP A 247     -14.434  30.030  17.766  0.00  0.00           C 0
+ATOM    567    C LYS A 250      -9.698  30.168  21.076  0.00  0.00           C 0
+TER
+END

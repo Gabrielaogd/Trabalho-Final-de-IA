@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0401
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6814
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4495
+HEADER 5  - Mean B-factor of pocket residues  : 0.6294
+HEADER 6  - Hydrophobicity Score              : 18.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 142.3845
+HEADER 10 - Pocket volume (convex hull)       : 1.0302
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM    509   CA ASP A  66      63.080  58.800  -3.633  0.00  0.00           C 0
+ATOM    512   CB ASP A  66      62.722  57.980  -4.896  0.00  0.00           C 0
+ATOM    511    O ASP A  66      63.670  60.638  -5.066  0.61  4.29           O 0
+ATOM    384  NE2 GLN A  49      70.169  58.845  -3.454  0.71  7.66           N 0
+ATOM    380   CB GLN A  49      69.300  61.210  -1.636  0.00  0.00           C 0
+ATOM    429   CD ARG A  55      66.907  57.154   0.186  0.00  0.00           C 0
+ATOM    432  NH1 ARG A  55      69.385  56.577  -1.069  0.66  5.47           N 0
+ATOM    504    O VAL A  65      63.666  57.833  -1.055  0.74  4.29           O 0
+ATOM    519    O SER A  67      65.119  62.709  -2.511  0.85  1.07           O 0
+ATOM    385    N ALA A  50      66.947  61.687   0.239  0.00  0.00           N 0
+ATOM    381   CG GLN A  49      69.959  61.209  -3.013  0.00  0.00           C 0
+ATOM    529  CD1 ILE A  68      67.529  63.366  -5.405  0.00  0.00           C 0
+ATOM    510    C ASP A  66      63.207  60.289  -3.978  0.00  0.00           C 0
+TER
+END

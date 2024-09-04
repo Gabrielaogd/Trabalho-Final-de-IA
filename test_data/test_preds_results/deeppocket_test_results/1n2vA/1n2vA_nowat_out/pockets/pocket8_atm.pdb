@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0793
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7013
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4004
+HEADER 5  - Mean B-factor of pocket residues  : 0.4827
+HEADER 6  - Hydrophobicity Score              : 35.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.5556
+HEADER 10 - Pocket volume (convex hull)       : 4.4164
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM    473  ND1 HIS A  73       4.131  20.191  16.016  0.53  2.19           N 0
+ATOM    497   CB LEU A  76      -0.519  21.712  20.221  0.00  0.00           C 0
+ATOM    468   CA HIS A  73       2.738  18.715  18.506  0.00  0.00           C 0
+ATOM    499  CD1 LEU A  76       1.362  23.344  20.180  0.00  0.00           C 0
+ATOM    897  CD1 LEU A 128       0.123  24.753  16.527  0.00  0.00           C 0
+ATOM    470    O HIS A  73       0.363  18.537  18.769  0.64  1.07           O 0
+ATOM    511  NH2 ARG A  77      -1.508  21.770  12.237  0.00  0.00           N 0
+ATOM    898  CD2 LEU A 128      -2.019  23.586  16.048  0.00  0.00           C 0
+ATOM    286  CG2 THR A  47       5.025  17.121  13.106  0.00  0.00           C 0
+ATOM    291   CB ALA A  48       0.511  15.911  13.220  0.00  0.00           C 0
+ATOM    475  CE1 HIS A  73       5.277  20.662  15.558  0.00  0.00           C 0
+ATOM    889  CE1 HIS A 127       3.225  24.369  16.911  0.00  0.00           C 0
+ATOM    505   CB ARG A  77      -2.503  19.001  16.519  0.00  0.00           C 0
+ATOM    471   CB HIS A  73       3.234  18.141  17.182  0.00  0.00           C 0
+ATOM    890  NE2 HIS A 127       3.176  24.528  15.601  0.00  0.00           N 0
+ATOM    508   NE ARG A  77      -2.586  20.449  13.780  0.00  0.00           N 0
+TER
+END

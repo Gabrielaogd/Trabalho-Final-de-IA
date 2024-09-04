@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0034
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8139
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5672
+HEADER 5  - Mean B-factor of pocket residues  : 0.2515
+HEADER 6  - Hydrophobicity Score              : 5.2857
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 160.3938
+HEADER 10 - Pocket volume (convex hull)       : 1.2475
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    338  NH1 ARG B  41     106.828  33.137  40.828  0.59  5.47           N 0
+ATOM   2103    O THR B 264     106.627  32.143  46.205  0.46  4.29           O 0
+ATOM   2127   CG ASP B 267     113.114  34.783  44.896  0.00  0.00           C 0
+ATOM   2129  OD2 ASP B 267     112.757  35.883  45.355  0.00  0.00           O 0
+ATOM   2128  OD1 ASP B 267     113.232  34.644  43.652  0.00  0.00           O 0
+ATOM   2122    N ASP B 267     112.270  31.797  44.650  0.61  2.19           N 0
+ATOM   2126   CB ASP B 267     113.405  33.642  45.842  0.00  0.00           C 0
+ATOM   1434  NH1 ARG B 176     107.144  33.663  48.582  0.79  8.75           N 0
+ATOM   1435  NH2 ARG B 176     107.154  34.600  50.691  0.33  9.84           N 0
+ATOM   2138  OE2 GLU B 268     111.803  32.848  50.352  0.55  7.50           O 0
+ATOM   2137  OE1 GLU B 268     111.268  31.710  48.546  0.00  0.00           O 0
+ATOM   2117    N ALA B 266     109.833  30.433  44.406  0.00  0.00           N 0
+ATOM   2089    O TRP B 263     106.861  31.068  42.750  0.00  0.00           O 0
+ATOM   2121   CB ALA B 266     110.550  30.906  42.106  0.00  0.00           C 0
+TER
+END

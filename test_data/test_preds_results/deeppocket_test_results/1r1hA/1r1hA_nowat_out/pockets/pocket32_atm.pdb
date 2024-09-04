@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0330
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0828
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6069
+HEADER 5  - Mean B-factor of pocket residues  : 0.5743
+HEADER 6  - Hydrophobicity Score              : 3.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 278.0987
+HEADER 10 - Pocket volume (convex hull)       : 5.3736
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   4906   CA LYS A 666      45.144  68.839  31.897  0.00  0.00           C 0
+ATOM   4871    O GLN A 662      44.660  65.010  32.136  0.00  0.00           O 0
+ATOM   4905    N LYS A 666      44.629  67.881  32.873  0.00  0.00           N 0
+ATOM   4909   CB LYS A 666      45.264  68.180  30.521  0.00  0.00           C 0
+ATOM   4883  OD1 ASN A 663      44.156  63.585  27.982  0.62  7.50           O 0
+ATOM   4912   CE LYS A 666      46.292  66.970  27.967  0.00  0.00           C 0
+ATOM   4872   CB GLN A 662      45.616  61.875  31.813  0.00  0.00           C 0
+ATOM   4913   NZ LYS A 666      46.926  66.642  26.655  0.68  6.56           N 0
+ATOM   4901   CB ILE A 665      44.437  66.249  35.483  0.00  0.00           C 0
+ATOM   5038   CE LYS A 682      48.290  61.638  36.882  0.00  0.00           C 0
+ATOM   4869   CA GLN A 662      44.604  62.677  32.623  0.00  0.00           C 0
+ATOM   4876  NE2 GLN A 662      48.620  60.315  32.091  0.00  0.00           N 0
+ATOM   5039   NZ LYS A 682      48.695  61.025  35.574  0.67  3.28           N 0
+ATOM   4903  CG2 ILE A 665      45.521  67.048  36.196  0.00  0.00           C 0
+ATOM   4875  OE1 GLN A 662      47.048  59.359  30.790  0.75  8.57           O 0
+ATOM   4874   CD GLN A 662      47.358  60.076  31.745  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.1238
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9482
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5398
+HEADER 5  - Mean B-factor of pocket residues  : 0.2433
+HEADER 6  - Hydrophobicity Score              : 16.8000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 6.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 138.2348
+HEADER 10 - Pocket volume (convex hull)       : 0.7876
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM    600   CZ ARG A  77     -22.423 -12.199 -32.242  0.00  0.00           C 0
+ATOM   1674   OH TYR A 206     -19.509  -6.679 -27.331  0.00  0.00           O 0
+ATOM    602  NH2 ARG A  77     -21.954 -13.208 -31.521  0.00  0.00           N 0
+ATOM    601  NH1 ARG A  77     -21.598 -11.494 -33.007  0.00  0.00           N 0
+ATOM    574  OE1 GLU A  74     -21.286  -8.119 -32.866  0.63  5.36           O 0
+ATOM    570    O GLU A  74     -24.044  -6.965 -29.826  0.41  1.07           O 0
+ATOM    603    N TRP A  78     -24.931  -9.143 -28.005  0.00  0.00           N 0
+ATOM    596   CB ARG A  77     -25.212  -9.890 -30.831  0.00  0.00           C 0
+ATOM    607   CB TRP A  78     -23.390  -8.005 -26.471  0.00  0.00           C 0
+ATOM    604   CA TRP A  78     -24.289  -9.232 -26.700  0.00  0.00           C 0
+ATOM    642   CG GLU A  81     -24.452 -14.165 -27.538  0.00  0.00           C 0
+ATOM    641   CB GLU A  81     -24.187 -13.732 -26.100  0.00  0.00           C 0
+ATOM    609  CD1 TRP A  78     -21.656  -8.721 -24.723  0.00  0.00           C 0
+TER
+END

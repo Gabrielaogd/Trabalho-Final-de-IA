@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.1865
+HEADER 1  - Drug Score                        : 0.0032
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.7874
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5843
+HEADER 5  - Mean B-factor of pocket residues  : 0.4215
+HEADER 6  - Hydrophobicity Score              : -20.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 260.5841
+HEADER 10 - Pocket volume (convex hull)       : 8.8246
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4583
+ATOM   2506  OE1 GLU A 319       7.216  17.856  -2.024  0.00  0.00           O 0
+ATOM   2129  NE2 GLN A 273       5.386  22.494  -2.123  0.00  0.00           N 0
+ATOM   2128  OE1 GLN A 273       4.604  23.507  -0.274  0.00  0.00           O 0
+ATOM   2507  OE2 GLU A 319       8.200  17.161  -0.187  0.00  0.00           O 0
+ATOM   2505   CD GLU A 319       8.229  17.474  -1.397  0.00  0.00           C 0
+ATOM   2478   CD GLU A 316       9.861  24.436   1.560  0.00  0.00           C 0
+ATOM   2127   CD GLN A 273       5.445  23.421  -1.170  0.00  0.00           C 0
+ATOM   2476   CB GLU A 316      11.281  22.341   1.402  0.00  0.00           C 0
+ATOM   2477   CG GLU A 316      10.671  23.511   0.660  0.00  0.00           C 0
+ATOM   2472    N GLU A 316      12.186  20.069   1.359  0.00  0.00           N 0
+ATOM   2468   CG GLN A 315      10.935  17.000   2.467  0.00  0.00           C 0
+ATOM   2467   CB GLN A 315      12.261  17.579   2.942  0.00  0.00           C 0
+ATOM   2126   CG GLN A 273       6.614  24.383  -1.241  0.00  0.00           C 0
+ATOM   2473   CA GLU A 316      11.527  21.089   0.545  0.00  0.00           C 0
+ATOM   2503   CB GLU A 319       9.833  18.600  -2.998  0.00  0.00           C 0
+ATOM   2475    O GLU A 316      11.792  21.347  -1.840  0.00  0.00           O 0
+ATOM   2480  OE2 GLU A 316       8.862  25.004   1.074  0.54  4.29           O 0
+ATOM   2479  OE1 GLU A 316      10.224  24.610   2.745  0.00  0.00           O 0
+TER
+END

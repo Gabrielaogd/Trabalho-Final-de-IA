@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0025
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8909
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6463
+HEADER 5  - Mean B-factor of pocket residues  : 0.6797
+HEADER 6  - Hydrophobicity Score              : -7.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.1742
+HEADER 10 - Pocket volume (convex hull)       : 4.5498
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   1261  NE2 GLN A 482     -68.178 -54.802 124.309  0.52  9.84           N 0
+ATOM   1260  OE1 GLN A 482     -66.731 -53.519 125.486  0.71  7.50           O 0
+ATOM   1259   CD GLN A 482     -67.861 -54.018 125.344  0.00  0.00           C 0
+ATOM    843    O ASP A 430     -61.713 -58.475 125.222  0.45  6.43           O 0
+ATOM    851    O MET A 431     -63.365 -55.860 122.649  0.29  1.07           O 0
+ATOM    861   CG ARG A 432     -63.300 -59.275 121.882  0.00  0.00           C 0
+ATOM    849   CA MET A 431     -61.627 -55.855 124.288  0.00  0.00           C 0
+ATOM   1280  NH2 ARG A 485     -64.936 -54.081 123.122  0.59  2.19           N 0
+ATOM   1304   CE LYS A 488     -61.520 -52.404 128.691  0.00  0.00           C 0
+ATOM    853   CG MET A 431     -61.010 -53.608 125.427  0.00  0.00           C 0
+ATOM    842    C ASP A 430     -60.615 -57.948 125.062  0.00  0.00           C 0
+ATOM    844   CB ASP A 430     -58.873 -58.428 126.802  0.00  0.00           C 0
+ATOM    848    N MET A 431     -60.476 -56.697 124.622  0.00  0.00           N 0
+ATOM    862   CD ARG A 432     -64.448 -60.244 121.611  0.00  0.00           C 0
+TER
+END

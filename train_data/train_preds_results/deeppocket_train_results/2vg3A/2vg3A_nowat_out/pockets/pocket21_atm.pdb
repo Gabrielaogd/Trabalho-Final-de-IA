@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0272
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8928
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6284
+HEADER 5  - Mean B-factor of pocket residues  : 0.2982
+HEADER 6  - Hydrophobicity Score              : -4.7143
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.5262
+HEADER 10 - Pocket volume (convex hull)       : 1.9714
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1135   CD ARG A 156       0.460  27.854 449.946  0.00  0.00           C 0
+ATOM   1369    O ASN A 184      -1.644  28.786 453.076  0.59  6.43           O 0
+ATOM   1138  NH1 ARG A 156       0.125  29.186 447.390  0.00  0.00           N 0
+ATOM   1354    O LYS A 182      -2.871  26.008 449.904  0.00  0.00           O 0
+ATOM   1136   NE ARG A 156       1.029  29.142 449.548  0.54  1.09           N 0
+ATOM   1375   CA ASP A 185      -1.571  30.934 454.749  0.00  0.00           C 0
+ATOM   1402  OG1 THR A 188       2.853  31.297 450.871  0.57  7.50           O 0
+ATOM   1137   CZ ARG A 156       0.855  29.740 448.366  0.00  0.00           C 0
+ATOM   1378   CB ASP A 185      -2.919  31.577 454.378  0.00  0.00           C 0
+ATOM   1377    O ASP A 185      -0.738  33.062 455.490  0.54  5.36           O 0
+ATOM   1139  NH2 ARG A 156       1.444  30.909 448.146  0.77  6.56           N 0
+ATOM    773  NE1 TRP A 114       3.612  35.926 449.240  0.00  0.00           N 0
+ATOM    776  CZ2 TRP A 114       3.218  33.977 447.692  0.00  0.00           C 0
+ATOM    760   CB LYS A 113       3.738  37.331 453.493  0.00  0.00           C 0
+ATOM    763   CE LYS A 113       1.221  36.578 455.313  0.00  0.00           C 0
+ATOM    759    O LYS A 113       4.652  34.472 452.939  0.53  1.07           O 0
+TER
+END

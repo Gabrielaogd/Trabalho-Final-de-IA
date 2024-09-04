@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.1234
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9836
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4838
+HEADER 5  - Mean B-factor of pocket residues  : 0.3547
+HEADER 6  - Hydrophobicity Score              : 62.2000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 159.3086
+HEADER 10 - Pocket volume (convex hull)       : 2.2248
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM     21   CD LYS A   2       1.520   0.681  10.735  0.00  0.00           C 0
+ATOM   3341  CD2 LEU A 442       0.584  -1.129   3.206  0.00  0.00           C 0
+ATOM   3340  CD1 LEU A 442       1.074   1.325   3.504  0.00  0.00           C 0
+ATOM     23   NZ LYS A   2       3.256  -1.100  11.030  0.00  0.00           N 0
+ATOM    156  CD1 ILE A  21      -0.605   2.847   6.457  0.00  0.00           C 0
+ATOM    154  CG1 ILE A  21      -1.868   2.028   6.430  0.00  0.00           C 0
+ATOM   3339   CG LEU A 442       1.425   0.052   2.731  0.00  0.00           C 0
+ATOM   3326   CB LEU A 440       5.338   1.289   3.814  0.00  0.00           C 0
+ATOM   3325    O LEU A 440       5.345  -1.520   3.107  0.00  0.00           O 0
+ATOM   3329  CD2 LEU A 440       6.754   2.113   5.723  0.00  0.00           C 0
+ATOM   3328  CD1 LEU A 440       4.535   3.194   5.229  0.00  0.00           C 0
+ATOM    528   CB ALA A  70       4.021   3.904   9.099  0.00  0.00           C 0
+TER
+END

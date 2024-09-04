@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0640
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6825
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5430
+HEADER 5  - Mean B-factor of pocket residues  : 0.0779
+HEADER 6  - Hydrophobicity Score              : 9.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.3851
+HEADER 10 - Pocket volume (convex hull)       : 4.9446
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM   3358  CG2 ILE A 407      23.540  77.214  88.581  0.00  0.00           C 0
+ATOM   3273   CB PRO A 396      25.675  77.340  82.544  0.00  0.00           C 0
+ATOM   3348    O THR A 406      21.696  80.872  87.310  0.49  5.36           O 0
+ATOM   3342   CB PRO A 405      26.459  78.147  86.501  0.00  0.00           C 0
+ATOM   3279    O GLN A 397      26.086  80.901  84.053  0.00  0.00           O 0
+ATOM   3350  OG1 THR A 406      23.267  82.520  85.274  0.44  5.36           O 0
+ATOM   2801  CE1 TYR A 342      25.520  73.483  83.730  0.00  0.00           C 0
+ATOM   2804   OH TYR A 342      24.523  74.324  81.790  0.59  3.21           O 0
+ATOM   2792  NE2 GLN A 341      21.701  71.750  84.131  0.62  4.37           N 0
+ATOM   3276    N GLN A 397      25.279  80.289  81.456  0.65  3.28           N 0
+ATOM   3345    N THR A 406      24.957  81.009  86.807  0.63  1.09           N 0
+ATOM   2759  OG1 THR A 338      23.683  74.050  89.607  0.00  0.00           O 0
+ATOM   2760  CG2 THR A 338      25.802  73.800  88.423  0.00  0.00           C 0
+ATOM   2790   CD GLN A 341      21.989  71.012  85.178  0.00  0.00           C 0
+ATOM   2791  OE1 GLN A 341      21.281  70.989  86.189  0.53  6.43           O 0
+TER
+END

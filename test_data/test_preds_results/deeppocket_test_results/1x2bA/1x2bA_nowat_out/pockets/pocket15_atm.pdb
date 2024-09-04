@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0142
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1976
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6266
+HEADER 5  - Mean B-factor of pocket residues  : 0.1628
+HEADER 6  - Hydrophobicity Score              : 49.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 287.1809
+HEADER 10 - Pocket volume (convex hull)       : 3.4548
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM   2186  OE1 GLN A 274      10.760   1.650   7.873  0.00  0.00           O 0
+ATOM   2205   CB TRP A 277      15.943   1.259   9.690  0.00  0.00           C 0
+ATOM   2122  NH1 ARG A 266      15.509   9.377   8.974  0.00  0.00           N 0
+ATOM   2206   CG TRP A 277      15.473   1.339  11.123  0.00  0.00           C 0
+ATOM   2176   CB VAL A 273      16.034   5.318   5.421  0.00  0.00           C 0
+ATOM   2179    N GLN A 274      14.377   2.582   5.289  0.51  2.19           N 0
+ATOM   2174    C VAL A 273      15.669   2.885   5.373  0.00  0.00           C 0
+ATOM   2208  CD2 TRP A 277      16.108   2.042  12.197  0.00  0.00           C 0
+ATOM   2210  CE2 TRP A 277      15.313   1.849  13.354  0.00  0.00           C 0
+ATOM   2207  CD1 TRP A 277      14.353   0.763  11.656  0.00  0.00           C 0
+ATOM   2209  NE1 TRP A 277      14.250   1.065  12.995  0.64  2.19           N 0
+ATOM   2180   CA GLN A 274      13.788   1.473   6.031  0.00  0.00           C 0
+ATOM   2213  CZ3 TRP A 277      17.605   3.370  13.532  0.00  0.00           C 0
+ATOM   2319  CD1 ILE A 290      18.815   6.393   9.792  0.00  0.00           C 0
+ATOM   2211  CE3 TRP A 277      17.273   2.818  12.297  0.00  0.00           C 0
+ATOM   2123  NH2 ARG A 266      17.183  10.639   9.958  0.00  0.00           N 0
+ATOM   2175    O VAL A 273      16.449   2.292   6.103  0.00  0.00           O 0
+ATOM   2177  CG1 VAL A 273      17.268   5.426   6.301  0.00  0.00           C 0
+TER
+END

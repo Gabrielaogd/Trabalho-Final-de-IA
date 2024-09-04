@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0044
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8290
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4762
+HEADER 5  - Mean B-factor of pocket residues  : 0.1946
+HEADER 6  - Hydrophobicity Score              : -26.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 151.3998
+HEADER 10 - Pocket volume (convex hull)       : 1.6611
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1031   CB ASN B 144     105.742  18.476  31.077  0.00  0.00           C 0
+ATOM   1000   CG ARG B 140     101.553  21.432  28.890  0.00  0.00           C 0
+ATOM    998    O ARG B 140     102.560  18.403  30.270  0.59  3.21           O 0
+ATOM   1013  ND2 ASN B 141     101.393  21.029  33.811  0.59  8.75           N 0
+ATOM   1001   CD ARG B 140     101.352  22.938  29.031  0.00  0.00           C 0
+ATOM   1032   CG ASN B 144     107.015  19.177  31.507  0.00  0.00           C 0
+ATOM   1033  OD1 ASN B 144     107.196  19.501  32.683  0.59  7.50           O 0
+ATOM   1244   OG SER B 173     105.250  17.049  26.689  0.62  1.07           O 0
+ATOM   1239    N SER B 173     106.729  19.105  25.388  0.00  0.00           N 0
+ATOM   1235   CB ASP B 172     106.992  22.364  25.419  0.00  0.00           C 0
+ATOM   1034  ND2 ASN B 144     107.912  19.403  30.555  0.14  7.66           N 0
+ATOM   1237  OD1 ASP B 172     106.587  24.651  25.910  0.42  8.57           O 0
+ATOM   1231    N ASP B 172     105.166  21.131  24.330  0.41  1.09           N 0
+TER
+END

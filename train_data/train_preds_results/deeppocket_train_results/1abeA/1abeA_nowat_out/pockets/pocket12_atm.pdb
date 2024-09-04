@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0417
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1380
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5173
+HEADER 5  - Mean B-factor of pocket residues  : 0.0960
+HEADER 6  - Hydrophobicity Score              : 43.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 265.0220
+HEADER 10 - Pocket volume (convex hull)       : 9.3191
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   1443   CB VAL A 191      -4.045  78.508  60.116  0.00  0.00           C 0
+ATOM   1440   CA VAL A 191      -3.047  79.133  59.096  0.00  0.00           C 0
+ATOM   1444  CG1 VAL A 191      -5.043  77.567  59.485  0.00  0.00           C 0
+ATOM   1442    O VAL A 191      -2.847  81.302  59.929  0.45  7.50           O 0
+ATOM   1434    O LEU A 190      -1.655  79.542  56.784  0.59  8.57           O 0
+ATOM   1658  OE1 GLN A 219      -6.874  76.705  56.130  0.35  7.50           O 0
+ATOM   1469   CB PRO A 194      -3.640  84.634  55.998  0.00  0.00           C 0
+ATOM   1466   CA PRO A 194      -2.575  83.959  55.134  0.00  0.00           C 0
+ATOM   1458    O HIS A 193      -0.274  82.343  54.651  0.56  3.21           O 0
+ATOM   1674   CZ PHE A 221      -2.448  79.068  50.674  0.00  0.00           C 0
+ATOM   1654    O GLN A 219      -7.012  77.215  51.826  0.44  7.50           O 0
+ATOM   1672  CE1 PHE A 221      -3.213  78.012  51.172  0.00  0.00           C 0
+ATOM   1655   CB GLN A 219      -5.731  75.678  53.811  0.00  0.00           C 0
+ATOM   1468    O PRO A 194      -2.758  84.993  52.955  0.00  0.00           O 0
+ATOM   1484    O VAL A 196      -0.934  82.278  50.425  0.54  3.21           O 0
+TER
+END

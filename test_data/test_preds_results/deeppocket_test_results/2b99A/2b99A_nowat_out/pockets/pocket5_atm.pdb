@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0270
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0406
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6559
+HEADER 5  - Mean B-factor of pocket residues  : 0.4188
+HEADER 6  - Hydrophobicity Score              : 12.1667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 177.6179
+HEADER 10 - Pocket volume (convex hull)       : 2.5746
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM    851   CA TRP A 113     -15.065  -6.124 -29.625  0.00  0.00           C 0
+ATOM    848  OD1 ASP A 112     -13.970  -9.863 -30.450  0.50  6.43           O 0
+ATOM    856  CD1 TRP A 113     -15.711  -4.255 -32.371  0.00  0.00           C 0
+ATOM    883   CD LYS A 116     -10.501  -8.953 -30.390  0.00  0.00           C 0
+ATOM    881   CB LYS A 116     -10.176  -6.584 -29.543  0.00  0.00           C 0
+ATOM    853    O TRP A 113     -13.415  -4.469 -29.030  0.00  0.00           O 0
+ATOM    921  OE2 GLU A 120      -7.985  -0.953 -33.172  0.00  0.00           O 0
+ATOM    858  NE1 TRP A 113     -15.570  -2.938 -32.743  0.66  5.47           N 0
+ATOM    879    C LYS A 116      -9.576  -4.265 -28.755  0.00  0.00           C 0
+ATOM    880    O LYS A 116      -8.442  -3.809 -28.943  0.83  1.07           O 0
+ATOM    141  CG2 ILE A  20      -6.303  -5.496 -31.499  0.00  0.00           C 0
+ATOM    886    N ARG A 117     -10.675  -3.528 -28.869  0.63  1.09           N 0
+ATOM    892   CD ARG A 117     -11.248  -0.067 -31.170  0.00  0.00           C 0
+ATOM    890   CB ARG A 117     -12.030  -1.579 -29.418  0.00  0.00           C 0
+ATOM    887   CA ARG A 117     -10.612  -2.121 -29.244  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0634
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.5880
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5124
+HEADER 5  - Mean B-factor of pocket residues  : 0.0033
+HEADER 6  - Hydrophobicity Score              : 11.1111
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 157.4819
+HEADER 10 - Pocket volume (convex hull)       : 4.9763
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM   2309   CB PRO A 293      -0.190  10.333 -23.747  0.00  0.00           C 0
+ATOM   2310   CG PRO A 293       0.291   8.984 -23.917  0.00  0.00           C 0
+ATOM   2338  OE1 GLN A 296       2.415  14.452 -24.931  0.00  0.00           O 0
+ATOM   2291    O THR A 291       3.689   8.788 -21.045  0.67  7.50           O 0
+ATOM   2306   CA PRO A 293       0.195  10.789 -22.333  0.00  0.00           C 0
+ATOM   2006  CD1 ILE A 254      -1.701   5.406 -25.063  0.00  0.00           C 0
+ATOM   2038  OE2 GLU A 258       2.188   7.843 -30.064  0.70  5.36           O 0
+ATOM   2247    O ASN A 285       1.266   3.732 -25.172  0.84  4.29           O 0
+ATOM   2012   CG ARG A 255      -0.902   6.409 -30.084  0.00  0.00           C 0
+ATOM   2004  CG1 ILE A 254      -2.643   6.233 -25.938  0.00  0.00           C 0
+ATOM   1819  CG1 VAL A 230       1.974   3.556 -28.400  0.00  0.00           C 0
+ATOM   2035   CG GLU A 258       2.384  10.195 -30.251  0.00  0.00           C 0
+ATOM   2002    O ILE A 254      -1.890   9.905 -27.100  0.68  1.07           O 0
+ATOM   2029   CB ALA A 257      -0.144  12.742 -26.676  0.00  0.00           C 0
+ATOM   2028    O ALA A 257       1.411  14.406 -28.731  0.43  1.07           O 0
+ATOM   2027    C ALA A 257       0.620  13.497 -28.914  0.00  0.00           C 0
+TER
+END

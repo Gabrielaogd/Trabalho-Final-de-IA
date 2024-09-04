@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0997
+HEADER 1  - Drug Score                        : 0.0201
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7575
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4509
+HEADER 5  - Mean B-factor of pocket residues  : 0.1874
+HEADER 6  - Hydrophobicity Score              : 35.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.6421
+HEADER 10 - Pocket volume (convex hull)       : 9.7426
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM   1142   CE LYS C 146     205.849  34.624 -71.014  0.00  0.00           C 0
+ATOM   1101  CD2 LEU C 142     205.553  31.205 -66.977  0.00  0.00           C 0
+ATOM    344  CG2 VAL C  55     201.337  35.955 -70.718  0.00  0.00           C 0
+ATOM    378  OD1AASN C  58     199.363  30.086 -67.935  0.00  0.00           O 0
+ATOM    343  CG1 VAL C  55     201.113  35.877 -68.218  0.00  0.00           C 0
+ATOM    388  CG2 VAL C  59     199.572  33.324 -64.732  0.00  0.00           C 0
+ATOM   1073   CG LEU C 139     202.273  29.542 -62.465  0.00  0.00           C 0
+ATOM   1099   CG LEU C 142     206.124  32.595 -66.709  0.00  0.00           C 0
+ATOM   1140   CG LYS C 146     205.269  36.363 -69.306  0.00  0.00           C 0
+ATOM   1107  OG1 THR C 143     202.254  35.396 -64.133  0.89  2.14           O 0
+ATOM    374   CBAASN C  58     197.546  31.340 -68.819  0.00  0.00           C 0
+ATOM    376   CGAASN C  58     198.300  30.070 -68.551  0.00  0.00           C 0
+ATOM    337  ND2 ASN C  54     197.631  32.799 -73.839  0.21  8.75           N 0
+ATOM    339   CA VAL C  55     199.156  35.262 -69.677  0.00  0.00           C 0
+ATOM    333    O ASN C  54     196.883  33.971 -70.546  0.00  0.00           O 0
+ATOM   1071    O LEU C 139     204.062  33.497 -62.776  0.74  1.07           O 0
+TER
+END

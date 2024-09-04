@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0098
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7218
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4383
+HEADER 5  - Mean B-factor of pocket residues  : 0.4791
+HEADER 6  - Hydrophobicity Score              : 10.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 101.2210
+HEADER 10 - Pocket volume (convex hull)       : 0.5880
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM    172  CG2 ILE B  22       8.455  29.558 124.356  0.00  0.00           C 0
+ATOM    456   CA GLY B  58       8.428  26.836 126.641  0.00  0.00           C 0
+ATOM    169    O ILE B  22       7.656  31.618 126.710  0.00  0.00           O 0
+ATOM    452    O SER B  57       6.414  25.954 128.274  0.00  0.00           O 0
+ATOM    157   CE LYS B  20       1.746  29.130 124.211  0.00  0.00           C 0
+ATOM    162    O VAL B  21       4.645  33.080 124.921  0.55  3.21           O 0
+ATOM    158   NZ LYS B  20       1.060  30.002 125.203  0.44  8.75           N 0
+ATOM    167   CA ILE B  22       6.961  31.609 124.417  0.00  0.00           C 0
+ATOM    171  CG1 ILE B  22       6.986  30.104 122.392  0.00  0.00           C 0
+ATOM    443    O GLU B  56       4.033  24.285 125.236  0.70  5.36           O 0
+ATOM    451    C SER B  57       6.740  25.236 127.320  0.00  0.00           C 0
+ATOM    436    O PRO B  55       6.164  24.995 122.379  0.64  4.29           O 0
+ATOM    455    N GLY B  58       7.700  25.575 126.468  0.00  0.00           N 0
+TER
+END

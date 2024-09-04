@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0142
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0261
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5739
+HEADER 5  - Mean B-factor of pocket residues  : 0.1055
+HEADER 6  - Hydrophobicity Score              : 19.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 260.4929
+HEADER 10 - Pocket volume (convex hull)       : 6.3425
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   1403  CD1 ILE A 175      29.854  19.303  10.770  0.00  0.00           C 0
+ATOM   1383    O ALA A 173      25.963  25.285  10.784  0.50  3.21           O 0
+ATOM   1206  OG1 THR A 151      29.276  27.961  11.253  0.00  0.00           O 0
+ATOM   1205   CB THR A 151      28.585  27.717  10.023  0.00  0.00           C 0
+ATOM   1224  OE2 GLU A 153      27.827  22.915   6.486  0.55  8.57           O 0
+ATOM   1401  CG1 ILE A 175      28.562  19.531  11.524  0.00  0.00           C 0
+ATOM   1396    N ILE A 175      27.168  21.490  13.382  0.58  2.19           N 0
+ATOM   1400   CB ILE A 175      28.857  19.711  12.991  0.00  0.00           C 0
+ATOM   1382    C ALA A 173      25.139  24.329  10.575  0.00  0.00           C 0
+ATOM   1384   CB ALA A 173      24.990  23.237   8.307  0.00  0.00           C 0
+ATOM   1386   CA ARG A 174      25.661  23.223  12.664  0.00  0.00           C 0
+ATOM   1390   CG ARG A 174      25.756  23.826  15.059  0.00  0.00           C 0
+ATOM   1183    O HIS A 149      26.361  27.398  14.740  0.22  5.36           O 0
+ATOM   1399    O ILE A 175      28.398  20.946  15.799  0.41  6.43           O 0
+ATOM   1392   NE ARG A 174      25.956  24.284  17.373  0.00  0.00           N 0
+TER
+END

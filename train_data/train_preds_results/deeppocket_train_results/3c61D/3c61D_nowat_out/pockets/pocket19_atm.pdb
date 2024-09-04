@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0813
+HEADER 1  - Drug Score                        : 0.2763
+HEADER 2  - Number of alpha spheres           :    33
+HEADER 3  - Mean alpha-sphere radius          : 3.8290
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4928
+HEADER 5  - Mean B-factor of pocket residues  : 0.4789
+HEADER 6  - Hydrophobicity Score              : 33.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 6.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 265.9979
+HEADER 10 - Pocket volume (convex hull)       : 17.8111
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 15.2941
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.5152
+ATOM   2405    O LYS D 308     -34.030  98.387 -12.442  0.51  6.43           O 0
+ATOM   2418    N ARG D 310     -33.097  95.957 -14.337  0.62  4.37           N 0
+ATOM   2423   CG ARG D 310     -32.226  98.442 -15.742  0.00  0.00           C 0
+ATOM   2062  CD1 LEU D 263     -31.578  98.119  -9.286  0.00  0.00           C 0
+ATOM   2425   NE ARG D 310     -30.888 100.506 -15.414  0.50  4.37           N 0
+ATOM   2424   CD ARG D 310     -30.945  99.200 -16.096  0.00  0.00           C 0
+ATOM   2063  CD2 LEU D 263     -29.670  96.351  -9.378  0.00  0.00           C 0
+ATOM   2427  NH1 ARG D 310     -28.610 100.894 -15.826  0.00  0.00           N 0
+ATOM   2061   CG LEU D 263     -31.203  96.631  -9.207  0.00  0.00           C 0
+ATOM   2314   CB LYS D 297     -25.158 103.875  -8.570  0.00  0.00           C 0
+ATOM   2315   CG LYS D 297     -24.400 102.604  -8.872  0.00  0.00           C 0
+ATOM   2316   CD LYS D 297     -25.153 101.384  -8.480  0.00  0.00           C 0
+ATOM   2332  CE2 TYR D 299     -28.947 103.124  -8.434  0.00  0.00           C 0
+ATOM   2426   CZ ARG D 310     -29.792 101.270 -15.307  0.00  0.00           C 0
+ATOM   2428  NH2 ARG D 310     -29.876 102.430 -14.664  0.26  6.56           N 0
+ATOM   2318   NZ LYS D 297     -24.189 100.118 -10.464  0.00  0.00           N 0
+ATOM   2334   OH TYR D 299     -30.286 103.081 -10.432  0.00  0.00           O 0
+ATOM   2030   CZ PHE D 259     -27.662  99.188  -7.656  0.00  0.00           C 0
+ATOM   2029  CE2 PHE D 259     -27.117  97.938  -7.777  0.00  0.00           C 0
+ATOM   2313    O LYS D 297     -26.046 106.449  -9.571  0.00  0.00           O 0
+ATOM   2311   CA LYS D 297     -24.284 105.114  -8.736  0.00  0.00           C 0
+TER
+END

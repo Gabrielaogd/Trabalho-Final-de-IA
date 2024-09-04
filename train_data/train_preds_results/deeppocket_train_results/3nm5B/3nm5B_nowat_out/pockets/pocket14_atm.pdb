@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0460
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9688
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6560
+HEADER 5  - Mean B-factor of pocket residues  : 0.4348
+HEADER 6  - Hydrophobicity Score              : 12.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 220.5804
+HEADER 10 - Pocket volume (convex hull)       : 2.3624
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM   1196   CD GLU B 158      13.822  14.383  40.103  0.00  0.00           C 0
+ATOM   1195   CG GLU B 158      14.818  14.920  41.119  0.00  0.00           C 0
+ATOM   1198  OE2 GLU B 158      14.214  13.528  39.281  0.00  0.00           O 0
+ATOM   1208  NH1 ARG B 159      18.714  20.677  37.749  0.00  0.00           N 0
+ATOM   1233   CG PHE B 162      21.204  18.381  39.735  0.00  0.00           C 0
+ATOM   1234  CD1 PHE B 162      21.920  17.645  38.802  0.00  0.00           C 0
+ATOM   1232   CB PHE B 162      20.408  17.689  40.808  0.00  0.00           C 0
+ATOM   1180   OG SER B 156      12.876  18.822  43.145  0.55  5.36           O 0
+ATOM   1199    N ARG B 159      15.717  18.136  42.947  0.67  1.09           N 0
+ATOM   1197  OE1 GLU B 158      12.649  14.816  40.126  0.00  0.00           O 0
+ATOM   1203   CB ARG B 159      15.939  20.496  42.229  0.00  0.00           C 0
+ATOM   1193    O GLU B 158      17.295  16.550  42.809  0.58  2.14           O 0
+ATOM   1205   CD ARG B 159      17.286  21.077  40.151  0.00  0.00           C 0
+ATOM   1200   CA ARG B 159      16.660  19.180  42.559  0.00  0.00           C 0
+TER
+END

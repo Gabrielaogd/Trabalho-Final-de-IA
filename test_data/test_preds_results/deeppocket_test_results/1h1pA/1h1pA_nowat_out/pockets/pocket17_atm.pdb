@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0905
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.1271
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5246
+HEADER 5  - Mean B-factor of pocket residues  : 0.1022
+HEADER 6  - Hydrophobicity Score              : 48.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 285.0139
+HEADER 10 - Pocket volume (convex hull)       : 8.9521
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM    442   CD LYS A  56      42.904  60.792  10.445  0.00  0.00           C 0
+ATOM    526  CD2 LEU A  66      39.637  57.565  12.012  0.00  0.00           C 0
+ATOM    549  CG2 VAL A  69      36.752  60.016  10.580  0.00  0.00           C 0
+ATOM    443   CE LYS A  56      43.501  60.627   8.998  0.00  0.00           C 0
+ATOM    529    C LEU A  67      37.894  54.817   7.221  0.00  0.00           C 0
+ATOM    535    N ASP A  68      37.054  55.530   7.927  0.00  0.00           N 0
+ATOM    522    O LEU A  66      40.786  54.013   9.291  0.57  7.50           O 0
+ATOM    530    O LEU A  67      38.126  55.081   6.044  0.54  7.50           O 0
+ATOM    441   CG LYS A  56      43.380  59.475  11.118  0.00  0.00           C 0
+ATOM    524   CG LEU A  66      38.954  56.257  11.656  0.00  0.00           C 0
+ATOM    444   NZ LYS A  56      43.283  61.915   8.366  0.00  0.00           N 0
+ATOM    412  CG2 ILE A  52      39.507  61.482  12.892  0.00  0.00           C 0
+ATOM    547   CB VAL A  69      35.699  60.768   9.754  0.00  0.00           C 0
+ATOM    536   CA ASP A  68      36.395  56.694   7.391  0.00  0.00           C 0
+ATOM    541  OD1 ASP A  68      35.590  58.434   5.455  0.00  0.00           O 0
+ATOM    543    N VAL A  69      35.457  58.759   8.190  0.00  0.00           N 0
+ATOM    546    O VAL A  69      34.049  60.944   7.288  0.00  0.00           O 0
+TER
+END

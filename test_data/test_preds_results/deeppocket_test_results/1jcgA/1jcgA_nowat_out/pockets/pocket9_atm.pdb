@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0488
+HEADER 1  - Drug Score                        : 0.0142
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7943
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4844
+HEADER 5  - Mean B-factor of pocket residues  : 0.1882
+HEADER 6  - Hydrophobicity Score              : 18.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 251.8622
+HEADER 10 - Pocket volume (convex hull)       : 12.7415
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM   1955    N ARG A 262      15.718  17.151 109.990  0.00  0.00           N 0
+ATOM   1959   CB ARG A 262      14.783  17.224 107.735  0.00  0.00           C 0
+ATOM   2260  CG2 THR A 301      19.803  20.795 108.753  0.00  0.00           C 0
+ATOM   1929    O VAL A 258      17.387  14.940 108.965  0.00  0.00           O 0
+ATOM   1931  CG1 VAL A 258      19.393  14.758 106.586  0.00  0.00           C 0
+ATOM   1958    O ARG A 262      13.022  19.112 110.028  0.56  1.07           O 0
+ATOM   1960   CG ARG A 262      14.152  18.043 106.615  0.00  0.00           C 0
+ATOM   1986  CD1 LEU A 265      16.743  21.874 110.717  0.00  0.00           C 0
+ATOM   1956   CA ARG A 262      14.868  17.923 109.097  0.00  0.00           C 0
+ATOM   2248    O GLU A 300      19.177  20.650 104.355  0.50  8.57           O 0
+ATOM   2255   CA THR A 301      19.986  22.088 106.576  0.00  0.00           C 0
+ATOM   2257    O THR A 301      19.328  24.267 105.863  0.41  5.36           O 0
+ATOM   1984   CB LEU A 265      14.352  22.183 111.337  0.00  0.00           C 0
+ATOM   1992   CB GLU A 266       9.688  20.595 109.522  0.00  0.00           C 0
+ATOM   1988    N GLU A 266      11.371  21.517 111.002  0.78  2.19           N 0
+ATOM   1989   CA GLU A 266      10.091  21.782 110.379  0.00  0.00           C 0
+ATOM   2249   CB GLU A 300      20.981  18.055 104.733  0.00  0.00           C 0
+ATOM   2253  OE2 GLU A 300      19.651  16.380 102.760  0.42  5.36           O 0
+ATOM   1961   CD ARG A 262      12.688  17.674 106.402  0.00  0.00           C 0
+TER
+END

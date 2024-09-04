@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0137
+HEADER 1  - Drug Score                        : 0.0090
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0354
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6441
+HEADER 5  - Mean B-factor of pocket residues  : 0.4002
+HEADER 6  - Hydrophobicity Score              : 30.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 331.2578
+HEADER 10 - Pocket volume (convex hull)       : 11.0948
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.3333
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM   2897  CG1 VAL A 384      34.954  22.490  31.991  0.00  0.00           C 0
+ATOM   2888    O THR A 383      35.941  25.829  28.516  0.83  2.14           O 0
+ATOM   2893   CA VAL A 384      34.618  24.614  30.657  0.00  0.00           C 0
+ATOM   2898  CG2 VAL A 384      36.648  24.329  32.127  0.00  0.00           C 0
+ATOM   2883  CG2 ILE A 382      39.604  25.756  29.162  0.00  0.00           C 0
+ATOM   2906  ND2 ASN A 385      32.017  23.675  26.332  0.65  2.19           N 0
+ATOM   2768  CE2 TYR A 365      35.749  24.575  25.143  0.00  0.00           C 0
+ATOM   2899    N ASN A 385      32.570  23.755  29.669  0.00  0.00           N 0
+ATOM   2907    N TYR A 386      31.674  21.190  29.561  0.66  2.19           N 0
+ATOM   2766  CD2 TYR A 365      36.901  25.339  25.327  0.00  0.00           C 0
+ATOM   2911   CB TYR A 386      31.918  19.114  28.310  0.00  0.00           C 0
+ATOM   2912   CG TYR A 386      31.542  17.664  28.107  0.00  0.00           C 0
+ATOM   2905  OD1 ASN A 385      30.218  22.373  26.692  0.38  2.14           O 0
+ATOM   2913  CD1 TYR A 386      30.204  17.269  28.062  0.00  0.00           C 0
+ATOM   2910    O TYR A 386      33.237  19.334  31.103  0.48  9.64           O 0
+ATOM   2663   NZ LYS A 350      31.331  21.477  21.690  0.00  0.00           N 0
+ATOM   2914  CD2 TYR A 386      32.525  16.690  27.926  0.00  0.00           C 0
+ATOM   2954   CD LYS A 391      26.568  21.751  25.356  0.00  0.00           C 0
+ATOM   2770   OH TYR A 365      33.933  23.874  23.767  0.00  0.00           O 0
+TER
+END

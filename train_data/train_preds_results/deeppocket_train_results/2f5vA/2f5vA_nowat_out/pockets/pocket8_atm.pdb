@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0186
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8867
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5456
+HEADER 5  - Mean B-factor of pocket residues  : 0.2713
+HEADER 6  - Hydrophobicity Score              : 10.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 242.3020
+HEADER 10 - Pocket volume (convex hull)       : 7.3383
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3182
+ATOM   2150   CG ASP A 314      -7.155  28.662  50.140  0.00  0.00           C 0
+ATOM   4502  CE1 PHE A 613      -4.347  32.846  46.780  0.00  0.00           C 0
+ATOM   2149   CB ASP A 314      -6.668  28.859  48.722  0.00  0.00           C 0
+ATOM   2151  OD1 ASP A 314      -8.383  28.752  50.399  0.00  0.00           O 0
+ATOM   4500  CD1 PHE A 613      -3.672  32.141  47.779  0.00  0.00           C 0
+ATOM   1990  OE2 GLU A 294     -10.112  36.652  45.329  0.21  7.50           O 0
+ATOM   1988   CD GLU A 294     -10.716  35.546  45.363  0.00  0.00           C 0
+ATOM   1989  OE1 GLU A 294     -11.324  35.107  46.376  0.00  0.00           O 0
+ATOM   4239  ND2 ASN A 577      -9.353  31.337  43.894  0.58  1.09           N 0
+ATOM   1994    O ILE A 295     -12.303  30.806  43.389  0.30  1.07           O 0
+ATOM   2139   NZ LYS A 312     -13.906  29.804  47.951  0.48  8.75           N 0
+ATOM   4236   CB ASN A 577      -7.166  32.235  43.515  0.00  0.00           C 0
+ATOM   2146   CA ASP A 314      -7.742  28.639  47.668  0.00  0.00           C 0
+ATOM   2143    O ALA A 313     -10.105  27.764  46.571  0.70  1.07           O 0
+ATOM   2148    O ASP A 314      -7.310  30.126  45.852  0.58  4.29           O 0
+ATOM   4227   CB LYS A 576      -6.941  36.710  43.461  0.00  0.00           C 0
+TER
+END

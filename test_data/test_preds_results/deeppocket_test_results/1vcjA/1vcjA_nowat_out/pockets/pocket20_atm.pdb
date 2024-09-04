@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0030
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0860
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5087
+HEADER 5  - Mean B-factor of pocket residues  : 0.4415
+HEADER 6  - Hydrophobicity Score              : 15.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 284.8642
+HEADER 10 - Pocket volume (convex hull)       : 5.6236
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1000
+ATOM   1995    O SER A 332      20.559 -34.656  63.605  0.15  4.29           O 0
+ATOM   2062  OD2 ASP A 342      18.090 -28.568  68.694  0.00  0.00           O 0
+ATOM   2060   CG ASP A 342      17.834 -27.995  67.608  0.00  0.00           C 0
+ATOM   2061  OD1 ASP A 342      16.824 -28.273  66.920  0.61  8.57           O 0
+ATOM   1997   OG SER A 332      22.819 -34.099  65.785  0.64  6.43           O 0
+ATOM   2055    N ASP A 342      18.444 -27.271  64.702  0.49  1.09           N 0
+ATOM   2003  CG1 ILE A 333      21.496 -30.678  61.942  0.00  0.00           C 0
+ATOM   2080  NE1 TRP A 344      22.537 -27.780  66.729  0.00  0.00           N 0
+ATOM   1970   CG PRO A 328      24.298 -30.396  65.040  0.00  0.00           C 0
+ATOM   1969   CB PRO A 328      24.403 -30.978  66.434  0.00  0.00           C 0
+ATOM   2052   CA GLY A 341      18.057 -28.019  62.420  0.00  0.00           C 0
+ATOM   1999   CA ILE A 333      20.500 -32.919  61.498  0.00  0.00           C 0
+ATOM   2006    N ALA A 334      18.405 -33.935  60.915  0.66  3.28           N 0
+ATOM   2004  CG2 ILE A 333      19.671 -30.899  60.202  0.00  0.00           C 0
+ATOM   2010   CB ALA A 334      16.388 -35.280  61.022  0.00  0.00           C 0
+ATOM   2009    O ALA A 334      16.999 -32.671  58.964  0.61  3.21           O 0
+ATOM   2051    N GLY A 341      17.794 -27.320  61.180  0.50  2.19           N 0
+ATOM   2041   CB SER A 339      16.662 -29.710  57.551  0.00  0.00           C 0
+TER
+END

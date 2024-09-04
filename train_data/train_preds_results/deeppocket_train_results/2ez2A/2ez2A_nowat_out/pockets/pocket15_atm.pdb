@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0269
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6125
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3688
+HEADER 5  - Mean B-factor of pocket residues  : 0.5451
+HEADER 6  - Hydrophobicity Score              : 22.2222
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 143.2633
+HEADER 10 - Pocket volume (convex hull)       : 6.1616
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   3046  OD1 ASN A 390      46.668  81.843   9.295  0.56  2.14           O 0
+ATOM   1088  CG1 VAL A 136      47.257  83.470   2.391  0.00  0.00           C 0
+ATOM   3054  CG2 VAL A 391      49.455  83.784   8.897  0.00  0.00           C 0
+ATOM   1089  CG2 VAL A 136      48.139  81.145   2.799  0.00  0.00           C 0
+ATOM   1084   CA VAL A 136      45.662  81.492   2.443  0.00  0.00           C 0
+ATOM   1081    O ALA A 135      44.492  79.347   3.796  0.65  5.36           O 0
+ATOM   3047  ND2 ASN A 390      45.193  80.166   9.031  0.82  6.56           N 0
+ATOM   1016  NH2 ARG A 127      42.978  86.338   6.509  0.41  6.56           N 0
+ATOM   3039  ND2 ASN A 389      47.178  87.591  10.355  0.71  5.47           N 0
+ATOM   3094  NE2 HIS A 396      43.461  87.235   9.797  0.00  0.00           N 0
+ATOM   1055  OE1 GLU A 131      42.748  82.679   7.680  0.59  2.14           O 0
+ATOM   1090    N PHE A 137      43.783  83.054   2.586  0.73  3.28           N 0
+ATOM   3037   CG ASN A 389      47.058  86.644  11.282  0.00  0.00           C 0
+ATOM   1093    O PHE A 137      44.125  85.928   2.408  0.46  7.50           O 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : 0.1585
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7182
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6042
+HEADER 5  - Mean B-factor of pocket residues  : 0.4566
+HEADER 6  - Hydrophobicity Score              : 7.4000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 182.1910
+HEADER 10 - Pocket volume (convex hull)       : 1.5947
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   3356   NZ LYS A 422      -8.522 -25.880  15.408  0.00  0.00           N 0
+ATOM   3310    O LYS A 417      -1.616 -27.085  13.918  0.00  0.00           O 0
+ATOM   3354   CD LYS A 422      -7.893 -23.496  15.123  0.00  0.00           C 0
+ATOM   3355   CE LYS A 422      -8.017 -24.653  16.093  0.00  0.00           C 0
+ATOM   3318    C GLY A 418      -2.049 -24.770  16.370  0.00  0.00           C 0
+ATOM   3319    O GLY A 418      -2.722 -23.737  16.330  0.64  4.29           O 0
+ATOM   3299    O ARG A 416      -1.346 -28.741  17.037  0.65  4.29           O 0
+ATOM   3327  CD2 LEU A 419      -6.100 -26.799  18.965  0.00  0.00           C 0
+ATOM   3321   CA LEU A 419      -3.488 -25.715  18.083  0.00  0.00           C 0
+ATOM   3324   CB LEU A 419      -3.595 -27.004  18.908  0.00  0.00           C 0
+ATOM   3325   CG LEU A 419      -4.876 -27.255  19.717  0.00  0.00           C 0
+ATOM   3305  NH1 ARG A 416      -2.871 -30.447  21.537  0.00  0.00           N 0
+ATOM   3320    N LEU A 419      -2.329 -25.771  17.198  0.00  0.00           N 0
+TER
+END

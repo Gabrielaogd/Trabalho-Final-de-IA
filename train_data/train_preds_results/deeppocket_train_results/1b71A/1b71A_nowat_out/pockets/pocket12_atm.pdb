@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0661
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9244
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5763
+HEADER 5  - Mean B-factor of pocket residues  : 0.2888
+HEADER 6  - Hydrophobicity Score              : 17.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 260.3738
+HEADER 10 - Pocket volume (convex hull)       : 6.9497
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM    588  CG2 VAL A  72      -1.542  37.108   1.527  0.00  0.00           C 0
+ATOM    570   CG GLU A  70      -3.933  35.832  -3.247  0.00  0.00           C 0
+ATOM     92   NZ LYS A  11      -9.314  36.694   0.524  0.58  9.84           N 0
+ATOM    572  OE1 GLU A  70      -4.084  37.986  -4.234  0.00  0.00           O 0
+ATOM    568    O GLU A  70      -6.085  34.004  -0.837  0.63  1.07           O 0
+ATOM    569   CB GLU A  70      -5.267  35.198  -3.605  0.00  0.00           C 0
+ATOM    582    N VAL A  72      -2.362  34.391   1.658  0.00  0.00           N 0
+ATOM     89   CG LYS A  11      -9.278  33.760   1.929  0.00  0.00           C 0
+ATOM     88   CB LYS A  11      -8.864  32.990   3.173  0.00  0.00           C 0
+ATOM    575   CA ILE A  71      -3.906  33.174   0.235  0.00  0.00           C 0
+ATOM    578   CB ILE A  71      -4.107  31.796   0.888  0.00  0.00           C 0
+ATOM    122  OG1 THR A  15      -4.780  30.346   4.212  0.60  6.43           O 0
+ATOM     99  OD1 ASN A  12      -8.168  32.337   7.973  0.48  8.57           O 0
+ATOM    585    O VAL A  72      -1.720  33.671   4.116  0.40  8.57           O 0
+ATOM     90   CD LYS A  11     -10.002  35.053   2.265  0.00  0.00           C 0
+ATOM    586   CB VAL A  72      -0.802  36.198   2.492  0.00  0.00           C 0
+TER
+END

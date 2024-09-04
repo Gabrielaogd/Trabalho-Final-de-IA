@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0162
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8511
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4915
+HEADER 5  - Mean B-factor of pocket residues  : 0.4833
+HEADER 6  - Hydrophobicity Score              : 18.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 220.2182
+HEADER 10 - Pocket volume (convex hull)       : 10.9114
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   2758  CD2 LEU A 344       1.980   3.699  24.124  0.00  0.00           C 0
+ATOM    521   NZ LYS A  71      -0.835   0.689  30.741  0.60  5.47           N 0
+ATOM   2641  OD2 ASP A 330       5.506   0.033  27.875  0.00  0.00           O 0
+ATOM    520   CE LYS A  71       0.138   1.796  30.878  0.00  0.00           C 0
+ATOM   2640  OD1 ASP A 330       4.655   0.849  29.744  0.71  3.21           O 0
+ATOM   2757  CD1 LEU A 344       3.044   5.047  25.965  0.00  0.00           C 0
+ATOM   2755   CB LEU A 344       0.639   5.339  25.447  0.00  0.00           C 0
+ATOM   2794  OE1 GLU A 348      -3.032   1.351  28.196  0.00  0.00           O 0
+ATOM    484  CD2 LEU A  67      -0.977   5.399  29.467  0.00  0.00           C 0
+ATOM   2754    O LEU A 344      -2.542   4.732  25.362  0.00  0.00           O 0
+ATOM   2785  OE1 GLU A 347      -0.540   1.743  21.711  0.00  0.00           O 0
+ATOM   2782   CB GLU A 347      -3.076   2.690  22.439  0.00  0.00           C 0
+ATOM   2781    O GLU A 347      -5.886   1.818  23.780  0.00  0.00           O 0
+ATOM   2780    C GLU A 347      -5.126   2.769  23.846  0.00  0.00           C 0
+ATOM   2639   CG ASP A 330       5.306  -0.020  29.114  0.00  0.00           C 0
+ATOM   2647   CG MET A 331       4.901   3.926  30.193  0.00  0.00           C 0
+TER
+END

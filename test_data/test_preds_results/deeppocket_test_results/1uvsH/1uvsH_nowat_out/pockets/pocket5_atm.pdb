@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1006
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9319
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4791
+HEADER 5  - Mean B-factor of pocket residues  : 0.1768
+HEADER 6  - Hydrophobicity Score              : 9.4444
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 199.5231
+HEADER 10 - Pocket volume (convex hull)       : 3.4495
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM   1698   CG LYS H 185     -31.135  77.465 168.697  0.00  0.00           C 0
+ATOM   1728  OE1 GLU H 186B    -32.165  78.464 165.012  0.84  8.57           O 0
+ATOM   1700   CE LYS H 185     -31.279  79.922 169.203  0.00  0.00           C 0
+ATOM   1677    O GLY H 184     -26.857  76.822 166.330  0.00  0.00           O 0
+ATOM   1232    C ALA H 132     -27.004  85.480 165.435  0.00  0.00           C 0
+ATOM   1234   CB ALA H 132     -26.946  85.540 167.936  0.00  0.00           C 0
+ATOM   1233    O ALA H 132     -27.720  86.426 165.111  0.37  7.50           O 0
+ATOM   1236    N GLY H 133     -26.938  84.353 164.740  0.00  0.00           N 0
+ATOM   1237   CA GLY H 133     -27.737  84.174 163.544  0.00  0.00           C 0
+ATOM   1475    O ILE H 162     -25.637  82.341 166.415  0.73  3.21           O 0
+ATOM   1701   NZ LYS H 185     -30.026  79.882 170.002  0.82  4.37           N 0
+ATOM   1470   CG PRO H 161     -26.880  78.581 163.013  0.00  0.00           C 0
+ATOM   1482   CA VAL H 163     -25.443  81.280 168.983  0.00  0.00           C 0
+ATOM   1489    N GLU H 164     -26.065  83.008 170.576  0.81  2.19           N 0
+ATOM   1469   CB PRO H 161     -26.554  79.998 162.683  0.00  0.00           C 0
+ATOM   1487  CG2 VAL H 163     -25.958  78.846 168.642  0.00  0.00           C 0
+TER
+END

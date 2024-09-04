@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0676
+HEADER 1  - Drug Score                        : 0.0033
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8983
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5203
+HEADER 5  - Mean B-factor of pocket residues  : 0.1501
+HEADER 6  - Hydrophobicity Score              : 47.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.9041
+HEADER 10 - Pocket volume (convex hull)       : 6.6585
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   1387   CA MET C 179      75.688   1.224  79.902  0.00  0.00           C 0
+ATOM   1393   CE MET C 179      75.295  -2.488  77.877  0.00  0.00           C 0
+ATOM   1386    N MET C 179      76.890   1.998  79.661  0.64  6.56           N 0
+ATOM   1390   CB MET C 179      76.042  -0.270  79.940  0.00  0.00           C 0
+ATOM   1366    O PHE C 176      78.262   3.088  74.420  0.00  0.00           O 0
+ATOM   1377    O VAL C 177      80.505   3.770  77.416  0.00  0.00           O 0
+ATOM   1367   CB PHE C 176      75.311   3.337  74.530  0.00  0.00           C 0
+ATOM   1392   SD MET C 179      73.942  -1.706  78.788  0.00  0.00           S 0
+ATOM   1217   CG GLU C 158      72.541  -2.336  75.695  0.00  0.00           C 0
+ATOM   1219  OE1 GLU C 158      73.218  -3.278  73.643  0.65  9.64           O 0
+ATOM   1370  CD2 PHE C 176      72.959   2.496  74.422  0.00  0.00           C 0
+ATOM   1255  CD2 LEU C 162      73.464   0.620  70.071  0.00  0.00           C 0
+ATOM   1363    N PHE C 176      76.363   4.037  72.452  0.00  0.00           N 0
+ATOM   1361  OE1 GLU C 175      78.225   1.649  68.661  0.76  9.64           O 0
+TER
+END

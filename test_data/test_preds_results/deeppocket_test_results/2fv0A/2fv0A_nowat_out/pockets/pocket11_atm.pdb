@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0078
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0034
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6774
+HEADER 5  - Mean B-factor of pocket residues  : 0.2295
+HEADER 6  - Hydrophobicity Score              : -17.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 376.0625
+HEADER 10 - Pocket volume (convex hull)       : 20.2746
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM   2571    O ARG A 318     -50.013-150.178 184.458  0.57  5.36           O 0
+ATOM   2585  OD1 ASP A 319     -53.060-152.775 182.296  0.72  7.50           O 0
+ATOM   2580   CA ASP A 319     -50.370-152.191 182.549  0.00  0.00           C 0
+ATOM   2582    O ASP A 319     -48.472-153.303 183.489  0.66  9.64           O 0
+ATOM     35    O GLN A   4     -56.435-146.743 190.331  0.36  3.21           O 0
+ATOM     36   CB GLN A   4     -58.192-149.439 189.269  0.00  0.00           C 0
+ATOM   2578  NH2 ARG A 318     -54.112-149.762 188.940  0.00  0.00           N 0
+ATOM     65  OD2 ASP A   8     -52.925-148.365 191.112  0.60  3.21           O 0
+ATOM     64  OD1 ASP A   8     -52.960-147.866 193.241  0.42  9.64           O 0
+ATOM   2576   CZ ARG A 318     -53.476-149.077 187.997  0.00  0.00           C 0
+ATOM   2606    O ALA A 322     -47.385-149.426 187.724  0.35  6.43           O 0
+ATOM   2575   NE ARG A 318     -53.652-149.392 186.717  0.61  6.56           N 0
+ATOM   2621   CB ARG A 324     -49.401-150.550 193.003  0.00  0.00           C 0
+ATOM   2617    N ARG A 324     -48.185-148.917 191.636  0.48  4.37           N 0
+ATOM   2577  NH1 ARG A 318     -52.662-148.083 188.335  0.45  1.09           N 0
+ATOM   2618   CA ARG A 324     -49.334-149.110 192.503  0.00  0.00           C 0
+ATOM   2622   CG ARG A 324     -50.505-150.800 194.021  0.00  0.00           C 0
+ATOM   2623   CD ARG A 324     -50.497-152.252 194.476  0.00  0.00           C 0
+TER
+END

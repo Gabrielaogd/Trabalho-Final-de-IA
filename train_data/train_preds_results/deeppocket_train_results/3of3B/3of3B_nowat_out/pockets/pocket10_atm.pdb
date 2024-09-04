@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0535
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.7908
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4952
+HEADER 5  - Mean B-factor of pocket residues  : 0.3048
+HEADER 6  - Hydrophobicity Score              : 18.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 262.9610
+HEADER 10 - Pocket volume (convex hull)       : 6.8645
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   1700   CB ASN B 236      52.252  81.476 160.939  0.00  0.00           C 0
+ATOM   1681    O THR B 234      55.148  78.945 163.136  0.36  5.36           O 0
+ATOM   1709   CG GLU B 237      54.271  79.585 156.367  0.00  0.00           C 0
+ATOM   1703  ND2 ASN B 236      53.524  82.591 162.681  0.67  7.66           N 0
+ATOM   1696    N ASN B 236      52.620  79.126 161.479  0.00  0.00           N 0
+ATOM    789  CG2 VAL B 117      53.404  74.279 155.846  0.00  0.00           C 0
+ATOM   1537  OG1 THR B 215      52.496  73.381 159.866  0.75  1.07           O 0
+ATOM   1538  CG2 THR B 215      54.820  73.042 160.451  0.00  0.00           C 0
+ATOM   1708   CB GLU B 237      53.227  78.486 156.543  0.00  0.00           C 0
+ATOM   1711  OE1 GLU B 237      55.848  77.877 155.865  0.66  4.29           O 0
+ATOM   1710   CD GLU B 237      55.525  79.074 155.704  0.00  0.00           C 0
+ATOM    774  NH2 ARG B 115      57.942  77.328 162.817  0.64  7.66           N 0
+ATOM    770   CD ARG B 115      60.025  76.099 161.315  0.00  0.00           C 0
+ATOM    768   CB ARG B 115      59.209  74.456 159.478  0.00  0.00           C 0
+ATOM   1712  OE2 GLU B 237      56.181  79.866 155.002  0.59  7.50           O 0
+ATOM    767    O ARG B 115      57.216  73.974 157.360  0.67  3.21           O 0
+ATOM    769   CG ARG B 115      59.161  74.835 160.962  0.00  0.00           C 0
+ATOM   1704    N GLU B 237      52.236  79.197 158.654  0.62  1.09           N 0
+ATOM   1686   CA PHE B 235      53.199  77.084 162.666  0.00  0.00           C 0
+ATOM   1687    C PHE B 235      52.206  77.927 161.877  0.00  0.00           C 0
+TER
+END

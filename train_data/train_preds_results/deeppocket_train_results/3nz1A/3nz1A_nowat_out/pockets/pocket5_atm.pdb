@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0607
+HEADER 1  - Drug Score                        : 0.0043
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0245
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6755
+HEADER 5  - Mean B-factor of pocket residues  : 0.1807
+HEADER 6  - Hydrophobicity Score              : 9.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 214.4029
+HEADER 10 - Pocket volume (convex hull)       : 3.6378
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.8235
+ATOM   1164   CG GLU A 141      30.544 -26.879   0.935  0.00  0.00           C 0
+ATOM   1155   NE ARG A 140      28.065 -33.209  -0.579  0.69  4.37           N 0
+ATOM   1153   CG ARG A 140      27.087 -31.013  -0.682  0.00  0.00           C 0
+ATOM   1154   CD ARG A 140      28.072 -31.965  -1.324  0.00  0.00           C 0
+ATOM   1160   CA GLU A 141      28.103 -26.896   1.678  0.00  0.00           C 0
+ATOM   1189   CB SER A 144      26.387 -29.617   4.516  0.00  0.00           C 0
+ATOM   1190   OG SER A 144      26.886 -30.485   5.510  0.00  0.00           O 0
+ATOM   1151    O ARG A 140      26.013 -28.646   1.403  0.57  1.07           O 0
+ATOM   1196   CG LEU A 145      28.413 -25.548   6.430  0.00  0.00           C 0
+ATOM   1198  CD2 LEU A 145      29.175 -25.831   7.727  0.00  0.00           C 0
+ATOM    954    O VAL A 114      33.749 -24.981   5.348  0.56  7.50           O 0
+ATOM   1197  CD1 LEU A 145      29.218 -24.503   5.755  0.00  0.00           C 0
+ATOM    967    N GLU A 116      32.279 -27.041   9.576  0.40  2.19           N 0
+ATOM    959   CA LYS A 115      33.491 -25.630   8.015  0.00  0.00           C 0
+ATOM    972   CG GLU A 116      30.164 -29.225   9.846  0.00  0.00           C 0
+ATOM   1162    O GLU A 141      26.876 -26.170   3.632  0.00  0.00           O 0
+ATOM   1163   CB GLU A 141      29.391 -26.062   1.482  0.00  0.00           C 0
+TER
+END

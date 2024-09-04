@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0115
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8856
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6325
+HEADER 5  - Mean B-factor of pocket residues  : 0.0750
+HEADER 6  - Hydrophobicity Score              : 58.2857
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 253.7783
+HEADER 10 - Pocket volume (convex hull)       : 16.2389
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7222
+ATOM    101   CZ PHE A  16      54.557  14.644  69.710  0.00  0.00           C 0
+ATOM   1574    O LEU A 205      54.554  19.103  66.444  0.58  9.64           O 0
+ATOM   1578  CD2 LEU A 205      50.909  16.875  68.329  0.00  0.00           C 0
+ATOM   1572   CA LEU A 205      53.531  18.547  68.545  0.00  0.00           C 0
+ATOM   1598   CB PRO A 208      57.544  15.393  66.946  0.00  0.00           C 0
+ATOM   1824   CB VAL A 235      49.396  12.379  70.293  0.00  0.00           C 0
+ATOM   1787    O VAL A 231      50.426  10.015  68.090  0.64  2.14           O 0
+ATOM   1823    O VAL A 235      47.636  12.417  67.847  0.48  8.57           O 0
+ATOM     99  CE1 PHE A  16      53.508  14.607  70.642  0.00  0.00           C 0
+ATOM   1794    O HIS A 232      48.274   9.686  65.456  0.43  6.43           O 0
+ATOM   1792   CA HIS A 232      50.673   9.410  65.471  0.00  0.00           C 0
+ATOM   1798  CD2 HIS A 232      50.193  10.660  62.356  0.00  0.00           C 0
+ATOM   1790  CG2 VAL A 231      54.369   9.837  67.881  0.00  0.00           C 0
+ATOM   1795   CB HIS A 232      51.156   8.966  64.074  0.00  0.00           C 0
+ATOM   1765  CE3 TRP A 228      57.489  10.406  65.827  0.00  0.00           C 0
+ATOM   1758    O TRP A 228      54.001   7.650  65.225  0.60  4.29           O 0
+ATOM   1791    N HIS A 232      51.553   8.911  66.519  0.00  0.00           N 0
+ATOM   1786    C VAL A 231      51.344   9.284  67.776  0.00  0.00           C 0
+ATOM   1767  CZ3 TRP A 228      57.907  11.593  66.430  0.00  0.00           C 0
+ATOM    100  CE2 PHE A  16      55.673  13.838  69.875  0.00  0.00           C 0
+TER
+END

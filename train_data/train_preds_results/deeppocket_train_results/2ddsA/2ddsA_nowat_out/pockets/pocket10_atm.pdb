@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0226
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0093
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5070
+HEADER 5  - Mean B-factor of pocket residues  : 0.1418
+HEADER 6  - Hydrophobicity Score              : 2.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 137.0804
+HEADER 10 - Pocket volume (convex hull)       : 1.3458
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   1424  OE1 GLU A 188      16.299  -0.405  13.039  0.00  0.00           O 0
+ATOM   1399   CG PRO A 185      19.762   1.144  13.176  0.00  0.00           C 0
+ATOM   1400   CD PRO A 185      18.827   1.816  12.184  0.00  0.00           C 0
+ATOM   1019   NZ LYS A 137      13.935   3.680  16.512  0.47  4.37           N 0
+ATOM   1425  OE2 GLU A 188      17.093  -1.434  14.801  0.52  6.43           O 0
+ATOM   1381    O ASN A 183      19.804   5.246  10.953  0.00  0.00           O 0
+ATOM   1387   CA ILE A 184      18.246   3.351   9.707  0.00  0.00           C 0
+ATOM   1377   NZ LYS A 182      13.430   8.147  11.655  0.56  6.56           N 0
+ATOM   1391  CG1 ILE A 184      15.924   3.796   8.849  0.00  0.00           C 0
+ATOM   1372    O LYS A 182      17.720   7.650  10.053  0.54  4.29           O 0
+ATOM   1017   CD LYS A 137      11.990   3.450  14.987  0.00  0.00           C 0
+ATOM   1099  CE1 HIS A 146      13.730   1.569  11.574  0.00  0.00           C 0
+ATOM   1003   OH TYR A 135      11.954   4.241  10.694  0.28  1.07           O 0
+ATOM   1374   CG LYS A 182      14.760   7.288   8.984  0.00  0.00           C 0
+TER
+END

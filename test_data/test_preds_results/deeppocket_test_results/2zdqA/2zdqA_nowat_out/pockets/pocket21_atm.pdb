@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.1076
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7151
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4956
+HEADER 5  - Mean B-factor of pocket residues  : 0.5176
+HEADER 6  - Hydrophobicity Score              : -4.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.2774
+HEADER 10 - Pocket volume (convex hull)       : 7.6220
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1663  OE2 GLU A 219      61.424  25.520   9.647  0.00  0.00           O 0
+ATOM   1661   CD GLU A 219      60.675  25.582  10.650  0.00  0.00           C 0
+ATOM   1659   CB GLU A 219      58.729  24.178  11.493  0.00  0.00           C 0
+ATOM   1646    O TYR A 218      58.220  20.748   9.968  0.45  9.64           O 0
+ATOM   1644   CA TYR A 218      57.852  21.466   7.704  0.00  0.00           C 0
+ATOM   1635    O ARG A 217      58.810  20.807   5.130  0.57  1.07           O 0
+ATOM   1798  OE2 GLU A 235      63.674  22.678   4.478  0.66  3.21           O 0
+ATOM   1773    O GLY A 232      58.909  27.234   3.517  0.46  7.50           O 0
+ATOM   1797  OE1 GLU A 235      64.333  24.075   2.917  0.00  0.00           O 0
+ATOM   1643    N TYR A 218      58.577  20.254   7.310  0.48  1.09           N 0
+ATOM   1645    C TYR A 218      57.924  21.683   9.215  0.00  0.00           C 0
+ATOM   1777    O ARG A 233      57.239  24.336   5.265  0.36  3.21           O 0
+ATOM   1634    C ARG A 217      58.996  20.025   6.067  0.00  0.00           C 0
+ATOM   1636   CB ARG A 217      61.227  18.899   5.894  0.00  0.00           C 0
+ATOM   1796   CD GLU A 235      63.628  23.116   3.306  0.00  0.00           C 0
+ATOM   1794   CB GLU A 235      61.304  22.147   2.917  0.00  0.00           C 0
+TER
+END

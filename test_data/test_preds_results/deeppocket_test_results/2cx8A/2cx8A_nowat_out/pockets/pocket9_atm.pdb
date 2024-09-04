@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0544
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8769
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5781
+HEADER 5  - Mean B-factor of pocket residues  : 0.1516
+HEADER 6  - Hydrophobicity Score              : 21.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.6708
+HEADER 10 - Pocket volume (convex hull)       : 6.0750
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2857
+ATOM    670   CG GLU A  87      18.173  15.634  15.404  0.00  0.00           C 0
+ATOM    669   CB GLU A  87      17.904  14.296  16.094  0.00  0.00           C 0
+ATOM   1584  NH2 ARG A 210      25.473  12.662  12.378  0.00  0.00           N 0
+ATOM    672  OE1 GLU A  87      20.448  15.996  16.143  0.00  0.00           O 0
+ATOM   1594   CB GLU A 212      22.096  11.846  17.441  0.00  0.00           C 0
+ATOM   1583  NH1 ARG A 210      25.256  14.624  13.552  0.52  4.37           N 0
+ATOM   1593    O GLU A 212      21.381   8.610  17.312  0.73  2.14           O 0
+ATOM   1622  CD1 LEU A 216      19.467   7.124  12.794  0.00  0.00           C 0
+ATOM    703   CB ALA A  91      15.831   8.453  15.034  0.00  0.00           C 0
+ATOM    667    C GLU A  87      16.282  12.659  17.062  0.00  0.00           C 0
+ATOM    674    N VAL A  88      16.907  12.415  18.206  0.00  0.00           N 0
+ATOM   1599    N THR A 213      23.461   9.199  16.746  0.00  0.00           N 0
+ATOM   1600   CA THR A 213      23.657   8.076  15.850  0.00  0.00           C 0
+ATOM    668    O GLU A  87      15.601  11.813  16.479  0.53  1.07           O 0
+ATOM    675   CA VAL A  88      16.835  11.113  18.847  0.00  0.00           C 0
+ATOM   1582   CZ ARG A 210      25.784  13.411  13.431  0.00  0.00           C 0
+ATOM   1592    C GLU A 212      22.333   9.372  17.410  0.00  0.00           C 0
+ATOM   1604  OG1 THR A 213      24.975   9.564  14.500  0.55  2.14           O 0
+TER
+END

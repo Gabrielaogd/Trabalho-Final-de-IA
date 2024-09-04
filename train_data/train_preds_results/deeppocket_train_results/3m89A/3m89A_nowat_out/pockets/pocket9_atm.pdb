@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1005
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8868
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5428
+HEADER 5  - Mean B-factor of pocket residues  : 0.4909
+HEADER 6  - Hydrophobicity Score              : 40.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 275.8374
+HEADER 10 - Pocket volume (convex hull)       : 13.0925
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM    357   CB SER A  47     -42.252 -19.276   8.448  0.00  0.00           C 0
+ATOM    118   CB HIS A  16     -43.489 -21.780  12.788  0.00  0.00           C 0
+ATOM    117    O HIS A  16     -43.337 -19.326  11.358  0.59  2.14           O 0
+ATOM    356    O SER A  47     -44.218 -20.536   6.171  0.36  7.50           O 0
+ATOM    120  ND1 HIS A  16     -42.953 -24.174  12.181  0.00  0.00           N 0
+ATOM    354   CA SER A  47     -42.108 -19.681   6.968  0.00  0.00           C 0
+ATOM    358   OG SER A  47     -41.067 -19.530   9.194  0.74  2.14           O 0
+ATOM     86    O HIS A  12     -39.817 -25.370  10.725  0.52  6.43           O 0
+ATOM     90  CD2 HIS A  12     -37.912 -22.219   7.410  0.00  0.00           C 0
+ATOM    345    O PHE A  46     -41.388 -19.864   4.317  0.00  0.00           O 0
+ATOM     16  CD2 LEU A   3     -36.235 -26.564   4.766  0.00  0.00           C 0
+ATOM    336    O LYS A  45     -38.141 -20.153   3.455  0.64  4.29           O 0
+ATOM     92  NE2 HIS A  12     -36.961 -21.478   6.751  0.00  0.00           N 0
+ATOM     91  CE1 HIS A  12     -35.824 -22.144   6.742  0.00  0.00           C 0
+ATOM      4    O LEU A   2     -34.812 -25.191   2.171  0.19  2.14           O 0
+ATOM      1    N LEU A   2     -36.891 -25.479   0.111  0.19  5.47           N 0
+ATOM    337   CB LYS A  45     -39.946 -20.573   0.740  0.00  0.00           C 0
+ATOM     87   CB HIS A  12     -37.845 -24.545   8.572  0.00  0.00           C 0
+ATOM     88   CG HIS A  12     -37.314 -23.372   7.804  0.00  0.00           C 0
+ATOM    333    N LYS A  45     -37.511 -20.443   0.823  0.00  0.00           N 0
+TER
+END

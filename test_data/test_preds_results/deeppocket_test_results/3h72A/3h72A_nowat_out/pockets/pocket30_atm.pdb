@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.0527
+HEADER 1  - Drug Score                        : 0.0233
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7960
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3852
+HEADER 5  - Mean B-factor of pocket residues  : 0.1400
+HEADER 6  - Hydrophobicity Score              : -10.7778
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 2.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.0294
+HEADER 10 - Pocket volume (convex hull)       : 3.8695
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM    633   CB ASP A 401     111.834  -7.551  22.758  0.00  0.00           C 0
+ATOM    424   CB ASP A 375     113.002  -4.073  27.016  0.00  0.00           C 0
+ATOM    370  CD1 LEU A 368     114.446  -1.481  24.255  0.00  0.00           C 0
+ATOM    710   OG SER A 412     110.571  -5.052  24.129  0.00  0.00           O 0
+ATOM    427  OD2 ASP A 375     114.593  -5.790  27.385  0.75  8.57           O 0
+ATOM    683    O PRO A 408     112.510  -1.267  21.699  0.79  2.14           O 0
+ATOM    684   CB PRO A 408     114.709  -1.909  19.385  0.00  0.00           C 0
+ATOM    636  OD2 ASP A 401     113.177  -8.446  20.997  0.00  0.00           O 0
+ATOM    704    O GLY A 411     108.976  -4.930  21.024  0.79  1.07           O 0
+ATOM    681   CA PRO A 408     113.243  -1.474  19.433  0.00  0.00           C 0
+ATOM    648    O PRO A 403     113.012  -8.443  15.680  0.45  9.64           O 0
+ATOM    640    O ASN A 402     110.682  -7.086  18.483  0.50  6.43           O 0
+ATOM    685   CG PRO A 408     114.958  -2.070  17.911  0.00  0.00           C 0
+ATOM    664    O ALA A 405     111.791  -3.738  15.094  0.39  2.14           O 0
+ATOM    371  CD2 LEU A 368     116.860  -1.997  24.680  0.00  0.00           C 0
+ATOM    634   CG ASP A 401     112.818  -8.561  22.184  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.2578
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.7693
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4528
+HEADER 5  - Mean B-factor of pocket residues  : 0.3319
+HEADER 6  - Hydrophobicity Score              : 18.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 242.2776
+HEADER 10 - Pocket volume (convex hull)       : 3.1763
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3182
+ATOM     94    O ILE A  12      94.085  45.638   8.035  0.00  0.00           O 0
+ATOM    105  OD1 ASN A  13      95.086  46.155   3.753  0.00  0.00           O 0
+ATOM   1352   CE LYS A 178      98.833  45.332   8.772  0.00  0.00           C 0
+ATOM     97  CG2 ILE A  12      93.511  43.840   4.919  0.00  0.00           C 0
+ATOM   1327    N ALA A 175      98.396  40.668   5.642  0.00  0.00           N 0
+ATOM   1328   CA ALA A 175      98.104  40.542   7.065  0.00  0.00           C 0
+ATOM   1320    C GLN A 174      99.342  41.502   5.217  0.00  0.00           C 0
+ATOM   1322   CB GLN A 174      98.777  42.702   3.102  0.00  0.00           C 0
+ATOM   1542   SD MET A 201     102.973  43.693   2.351  0.00  0.00           S 0
+ATOM    106  ND2 ASN A  13      96.810  47.493   3.224  0.48  8.75           N 0
+ATOM   1326  NE2 GLN A 174      99.085  44.809   0.311  0.32  4.37           N 0
+ATOM   1541   CG MET A 201     104.407  44.607   1.865  0.00  0.00           C 0
+ATOM   1577   NZ LYS A 205     104.403  45.288   7.109  0.00  0.00           N 0
+ATOM     96  CG1 ILE A  12      93.289  42.766   7.158  0.00  0.00           C 0
+ATOM    104   CG ASN A  13      95.710  47.203   3.911  0.00  0.00           C 0
+ATOM   1321    O GLN A 174      99.994  42.204   5.986  0.60  2.14           O 0
+ATOM   1576   CE LYS A 205     105.512  45.573   6.141  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    41:
+HEADER 0  - Pocket Score                      : -0.1146
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0190
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5437
+HEADER 5  - Mean B-factor of pocket residues  : 0.3996
+HEADER 6  - Hydrophobicity Score              : 45.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 247.6441
+HEADER 10 - Pocket volume (convex hull)       : 7.6220
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM    850   NZ LYS A 119       6.144  43.404  96.843  0.00  0.00           N 0
+ATOM    465   CA ALA A  67       7.185  37.065  94.425  0.00  0.00           C 0
+ATOM    468   CB ALA A  67       8.513  36.724  95.138  0.00  0.00           C 0
+ATOM    792    O LEU A 113       2.822  39.194 100.588  0.00  0.00           O 0
+ATOM    801   CB CYS A 114       1.351  38.980  97.506  0.00  0.00           C 0
+ATOM    798   CA CYS A 114       1.219  40.097  98.554  0.00  0.00           C 0
+ATOM    802   SG CYS A 114       1.668  39.553  95.852  0.00  0.00           S 0
+ATOM    464    N ALA A  67       6.140  36.067  94.731  0.63  1.09           N 0
+ATOM    400    O THR A  58       3.950  32.883  99.842  0.48  8.57           O 0
+ATOM    401   CB THR A  58       5.553  32.109 102.273  0.00  0.00           C 0
+ATOM    796  CD2 LEU A 113       2.210  35.388 103.397  0.00  0.00           C 0
+ATOM    793   CB LEU A 113       1.278  36.615 101.258  0.00  0.00           C 0
+ATOM    459    O LEU A  66       4.442  37.558  94.567  0.53  2.14           O 0
+ATOM    458    C LEU A  66       4.839  36.406  94.746  0.00  0.00           C 0
+ATOM    460   CB LEU A  66       3.073  35.448  96.275  0.00  0.00           C 0
+TER
+END

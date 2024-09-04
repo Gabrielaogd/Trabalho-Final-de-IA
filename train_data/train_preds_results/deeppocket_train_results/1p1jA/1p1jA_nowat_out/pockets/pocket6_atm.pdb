@@ -1,0 +1,50 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0199
+HEADER 1  - Drug Score                        : 0.0611
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.9705
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6546
+HEADER 5  - Mean B-factor of pocket residues  : 0.1897
+HEADER 6  - Hydrophobicity Score              : 83.2222
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 6.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 358.1730
+HEADER 10 - Pocket volume (convex hull)       : 24.9345
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 28.0000
+HEADER 13 - Number of apolar alpha sphere     :    29
+HEADER 14 - Proportion of apolar alpha sphere : 0.9667
+ATOM   3539   CZ TYR A 461     -16.192  41.922  41.014  0.00  0.00           C 0
+ATOM   3668  CE1 PHE A 477     -16.225  38.533  36.416  0.00  0.00           C 0
+ATOM    382   CZ PHE A  56     -15.298  35.647  41.488  0.00  0.00           C 0
+ATOM   3538  CE2 TYR A 461     -17.087  41.083  40.367  0.00  0.00           C 0
+ATOM   3666  CD1 PHE A 477     -16.204  39.922  36.309  0.00  0.00           C 0
+ATOM    380  CE1 PHE A  56     -16.465  36.076  40.864  0.00  0.00           C 0
+ATOM   3967  CE2 PHE A 513     -16.490  34.226  37.176  0.00  0.00           C 0
+ATOM   3536  CD2 TYR A 461     -17.591  39.973  41.030  0.00  0.00           C 0
+ATOM   3535  CD1 TYR A 461     -16.309  40.540  42.972  0.00  0.00           C 0
+ATOM   3534   CG TYR A 461     -17.219  39.687  42.345  0.00  0.00           C 0
+ATOM   3537  CE1 TYR A 461     -15.794  41.654  42.315  0.00  0.00           C 0
+ATOM    364   OH TYR A  54     -10.321  39.366  44.211  0.76  8.57           O 0
+ATOM   3540   OH TYR A 461     -15.714  43.036  40.363  0.00  0.00           O 0
+ATOM   3995  CD2 LEU A 516     -13.427  31.173  39.473  0.00  0.00           C 0
+ATOM   3722   CZ PHE A 483     -13.266  35.136  34.320  0.00  0.00           C 0
+ATOM   3965  CD2 PHE A 513     -15.539  33.358  36.637  0.00  0.00           C 0
+ATOM    362  CE2 TYR A  54     -12.587  39.008  44.852  0.00  0.00           C 0
+ATOM    363   CZ TYR A  54     -11.312  38.515  44.637  0.00  0.00           C 0
+ATOM    192  CD2 TYR A  32      -7.780  34.019  41.512  0.00  0.00           C 0
+ATOM    176  CE2 TYR A  30     -10.992  31.671  42.452  0.00  0.00           C 0
+ATOM    194  CE2 TYR A  32      -6.968  34.475  40.476  0.00  0.00           C 0
+ATOM    361  CE1 TYR A  54     -11.035  37.173  44.847  0.00  0.00           C 0
+ATOM   3720  CE1 PHE A 483     -14.389  35.959  34.286  0.00  0.00           C 0
+ATOM    174  CD2 TYR A  30     -12.129  31.898  43.227  0.00  0.00           C 0
+ATOM    189   CB TYR A  32      -8.806  34.260  43.815  0.00  0.00           C 0
+ATOM    359  CD1 TYR A  54     -12.048  36.323  45.276  0.00  0.00           C 0
+ATOM    190   CG TYR A  32      -7.921  34.753  42.694  0.00  0.00           C 0
+ATOM    191  CD1 TYR A  32      -7.225  35.954  42.809  0.00  0.00           C 0
+TER
+END

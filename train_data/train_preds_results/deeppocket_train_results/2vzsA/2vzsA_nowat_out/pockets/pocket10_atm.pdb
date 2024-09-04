@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0843
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.5560
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4646
+HEADER 5  - Mean B-factor of pocket residues  : 0.1991
+HEADER 6  - Hydrophobicity Score              : -11.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 68.4029
+HEADER 10 - Pocket volume (convex hull)       : 0.2272
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   6162   CD PRO A 847      25.925  62.274  72.422  0.00  0.00           C 0
+ATOM   3943  NH1 ARG A 556      30.371  61.101  77.112  0.56  9.84           N 0
+ATOM   6160   CB PRO A 847      25.533  59.942  72.427  0.00  0.00           C 0
+ATOM   6161   CG PRO A 847      26.229  61.022  71.633  0.00  0.00           C 0
+ATOM   6159    O PRO A 847      24.477  60.236  75.243  0.66  4.29           O 0
+ATOM   3906   CB ASP A 552      29.604  62.398  70.495  0.00  0.00           C 0
+ATOM   6155   NZ LYS A 846      28.921  64.087  74.112  0.80  2.19           N 0
+ATOM   3940   CD ARG A 556      32.097  62.873  75.737  0.00  0.00           C 0
+ATOM   3904    C ASP A 552      32.041  62.586  71.179  0.00  0.00           C 0
+ATOM   3910    N THR A 553      32.579  61.374  71.006  0.00  0.00           N 0
+ATOM   3915  OG1 THR A 553      32.765  58.682  72.257  0.62  1.07           O 0
+ATOM   4801  OD2 ASP A 661      29.064  58.283  70.483  0.00  0.00           O 0
+ATOM   6176  CD1 LEU A 849      27.632  57.176  74.337  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.1640
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8281
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5405
+HEADER 5  - Mean B-factor of pocket residues  : 0.0910
+HEADER 6  - Hydrophobicity Score              : -3.3636
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.4545
+HEADER 9  - Pocket volume (Monte Carlo)       : 283.3585
+HEADER 10 - Pocket volume (convex hull)       : 26.4370
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1561    O SER B 205     -50.145  -9.246   4.515  0.67  7.50           O 0
+ATOM    390    O ASP B  55     -54.237 -11.584   1.475  0.68  5.36           O 0
+ATOM    391   CB ASP B  55     -52.344 -13.342  -0.543  0.00  0.00           C 0
+ATOM    393  OD1 ASP B  55     -51.091 -15.182   0.317  0.00  0.00           O 0
+ATOM    361  CE1 PHE B  51     -50.549 -10.525  -1.107  0.00  0.00           C 0
+ATOM   1094  CD2 HIS B 145     -46.564 -11.589  -1.612  0.00  0.00           C 0
+ATOM   1083    O PRO B 144     -47.477  -9.147   2.307  0.52  6.43           O 0
+ATOM   1556    O ALA B 204     -52.569 -11.299   7.406  0.27  6.43           O 0
+ATOM   1564    N GLY B 206     -49.565  -9.381   6.678  0.00  0.00           N 0
+ATOM   1565   CA GLY B 206     -48.164  -9.621   6.374  0.00  0.00           C 0
+ATOM    388   CA ASP B  55     -53.554 -13.603   0.357  0.00  0.00           C 0
+ATOM    383   CB ASP B  54     -55.668 -17.571   0.032  0.00  0.00           C 0
+ATOM    381    C ASP B  54     -55.448 -15.116   0.491  0.00  0.00           C 0
+ATOM    418  NE2 GLN B  58     -55.135 -16.622   5.148  0.00  0.00           N 0
+ATOM    415   CG GLN B  58     -54.690 -14.433   6.073  0.00  0.00           C 0
+ATOM    414   CB GLN B  58     -55.111 -13.553   4.900  0.00  0.00           C 0
+ATOM   1560    C SER B 205     -50.452  -9.218   5.702  0.00  0.00           C 0
+ATOM     46   NZ LYS B  11     -53.669 -20.603   0.098  0.52  4.37           N 0
+ATOM     16  NE2 HIS B   7     -50.926 -22.570   1.879  0.52  7.66           N 0
+ATOM     14  CD2 HIS B   7     -50.252 -21.990   0.831  0.00  0.00           C 0
+TER
+END

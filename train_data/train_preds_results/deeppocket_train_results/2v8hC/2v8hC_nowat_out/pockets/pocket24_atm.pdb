@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.1050
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1043
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7971
+HEADER 5  - Mean B-factor of pocket residues  : 0.2149
+HEADER 6  - Hydrophobicity Score              : -16.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 2.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 179.0011
+HEADER 10 - Pocket volume (convex hull)       : 2.3982
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   2204    O GLY C 313      33.998  31.990  47.290  0.55  4.29           O 0
+ATOM   2203    C GLY C 313      33.144  31.569  46.523  0.00  0.00           C 0
+ATOM   2209   CB GLU C 314      33.911  34.040  44.562  0.00  0.00           C 0
+ATOM   2213  OE2 GLU C 314      36.465  34.778  43.527  0.00  0.00           O 0
+ATOM   2202   CA GLY C 313      32.776  30.095  46.510  0.00  0.00           C 0
+ATOM   1796    N GLY C 260      34.015  26.893  46.996  0.00  0.00           N 0
+ATOM   1788    O GLY C 258      35.928  30.242  49.491  0.41  9.64           O 0
+ATOM   2205    N GLU C 314      32.501  32.354  45.665  0.00  0.00           N 0
+ATOM   1797   CA GLY C 260      33.106  26.181  46.097  0.00  0.00           C 0
+ATOM   2144   CD PRO C 305      31.020  28.275  41.905  0.00  0.00           C 0
+ATOM   2143   CG PRO C 305      31.889  27.408  41.029  0.00  0.00           C 0
+ATOM   2138    N PRO C 305      31.038  29.571  41.216  0.68  1.09           N 0
+ATOM   2133   CB LYS C 304      32.137  32.677  41.016  0.00  0.00           C 0
+ATOM   2142   CB PRO C 305      32.052  28.073  39.701  0.00  0.00           C 0
+ATOM   2132    O LYS C 304      30.825  30.755  43.150  0.00  0.00           O 0
+ATOM   2131    C LYS C 304      30.863  30.721  41.909  0.00  0.00           C 0
+TER
+END

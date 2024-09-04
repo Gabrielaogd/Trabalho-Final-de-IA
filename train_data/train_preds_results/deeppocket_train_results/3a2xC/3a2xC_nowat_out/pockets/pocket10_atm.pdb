@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1739
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7502
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5887
+HEADER 5  - Mean B-factor of pocket residues  : 0.1458
+HEADER 6  - Hydrophobicity Score              : 22.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 151.0741
+HEADER 10 - Pocket volume (convex hull)       : 3.4697
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   1152   CG PRO C 144      -2.830  15.375  43.299  0.00  0.00           C 0
+ATOM   1153   CD PRO C 144      -3.979  16.375  43.008  0.00  0.00           C 0
+ATOM   1126    O TYR C 142      -3.229  20.947  41.856  0.00  0.00           O 0
+ATOM   1151   CB PRO C 144      -2.048  15.207  41.991  0.00  0.00           C 0
+ATOM    954  OE1 GLU C 119      -0.431  13.890  39.482  0.00  0.00           O 0
+ATOM    996  CG1 VAL C 125      -1.249  16.961  36.506  0.00  0.00           C 0
+ATOM    938  ND1 HIS C 117       1.413  20.446  37.255  0.00  0.00           N 0
+ATOM    936   CB HIS C 117       2.139  18.386  35.999  0.00  0.00           C 0
+ATOM    995   CB VAL C 125      -2.690  17.494  36.646  0.00  0.00           C 0
+ATOM   1138    O TYR C 143      -4.291  17.748  39.668  0.89  1.07           O 0
+ATOM   1127   CB TYR C 142      -2.769  22.462  39.475  0.00  0.00           C 0
+ATOM    997  CG2 VAL C 125      -2.792  18.965  36.212  0.00  0.00           C 0
+ATOM   1148   CA PRO C 144      -3.078  15.577  40.912  0.00  0.00           C 0
+ATOM   1147    N PRO C 144      -3.856  16.619  41.567  0.00  0.00           N 0
+ATOM   1137    C TYR C 143      -4.374  17.659  40.875  0.00  0.00           C 0
+ATOM    951   CB GLU C 119       2.130  13.695  38.011  0.00  0.00           C 0
+TER
+END

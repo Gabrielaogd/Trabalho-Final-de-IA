@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0307
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0255
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5811
+HEADER 5  - Mean B-factor of pocket residues  : 0.4194
+HEADER 6  - Hydrophobicity Score              : 8.2000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 318.8674
+HEADER 10 - Pocket volume (convex hull)       : 16.7875
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0952
+ATOM   2377  ND2 ASN B 306      61.516  46.211  47.797  0.62  5.47           N 0
+ATOM    733   NE ARG B  92      66.341  49.926  53.688  0.62  6.56           N 0
+ATOM    328  OE2 GLU B  43      62.446  50.117  53.191  0.48  8.57           O 0
+ATOM    736  NH2 ARG B  92      67.962  48.301  53.822  0.00  0.00           N 0
+ATOM    731   CG ARG B  92      65.617  51.392  51.839  0.00  0.00           C 0
+ATOM    360   CD PRO B  48      61.344  49.531  48.326  0.00  0.00           C 0
+ATOM    734   CZ ARG B  92      67.603  49.538  53.511  0.00  0.00           C 0
+ATOM    713    O GLY B  90      68.999  50.470  48.661  0.53  4.29           O 0
+ATOM    717    O TYR B  91      65.625  51.303  47.752  0.76  5.36           O 0
+ATOM    712    C GLY B  90      68.887  50.510  47.437  0.00  0.00           C 0
+ATOM    711   CA GLY B  90      69.466  49.417  46.562  0.00  0.00           C 0
+ATOM    351   CA GLY B  47      59.508  48.201  50.204  0.00  0.00           C 0
+ATOM   2376  OD1 ASN B 306      61.934  45.924  45.607  0.00  0.00           O 0
+ATOM    359   CG PRO B  48      62.126  50.767  47.982  0.00  0.00           C 0
+ATOM    683    O ARG B  87      68.452  47.844  43.537  0.68  7.50           O 0
+ATOM   2368  CG1 VAL B 305      61.634  48.702  43.171  0.00  0.00           C 0
+ATOM    678  CG1 VAL B  86      63.977  52.164  44.515  0.00  0.00           C 0
+ATOM    681   CA ARG B  87      66.263  48.459  42.765  0.00  0.00           C 0
+ATOM    684   CB ARG B  87      65.608  47.389  41.888  0.00  0.00           C 0
+TER
+END

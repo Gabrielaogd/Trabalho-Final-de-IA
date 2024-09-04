@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1327
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8874
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7219
+HEADER 5  - Mean B-factor of pocket residues  : 0.0215
+HEADER 6  - Hydrophobicity Score              : 32.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.8915
+HEADER 10 - Pocket volume (convex hull)       : 6.2639
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM    103   CB HIS A   7      60.592  -5.703  10.200  0.00  0.00           C 0
+ATOM   4002   CB GLU A 261      62.469  -5.528   5.434  0.00  0.00           C 0
+ATOM    104   CG HIS A   7      59.112  -5.476  10.426  0.00  0.00           C 0
+ATOM   4003   CG GLU A 261      62.203  -4.342   6.373  0.00  0.00           C 0
+ATOM    106  CD2 HIS A   7      58.178  -6.154  11.172  0.00  0.00           C 0
+ATOM    107  CE1 HIS A   7      57.171  -4.538  10.314  0.00  0.00           C 0
+ATOM    440  CE1 PHE A  32      54.104  -5.987   9.129  0.00  0.00           C 0
+ATOM    105  ND1 HIS A   7      58.439  -4.441   9.917  0.70  1.09           N 0
+ATOM   4006  OE2 GLU A 261      60.325  -2.854   6.122  0.73  7.50           O 0
+ATOM    442   CZ PHE A  32      54.062  -4.877   8.339  0.00  0.00           C 0
+ATOM    108  NE2 HIS A   7      56.988  -5.571  11.075  0.74  1.09           N 0
+ATOM    102    O HIS A   7      60.569  -8.484  11.034  0.44  4.29           O 0
+ATOM   3999   CA GLU A 261      63.446  -6.562   6.029  0.00  0.00           C 0
+ATOM   4001    O GLU A 261      63.078  -7.874   3.999  0.33  5.36           O 0
+ATOM   4016    O THR A 262      63.736 -10.754   5.524  0.63  5.36           O 0
+ATOM   4000    C GLU A 261      63.775  -7.625   4.983  0.00  0.00           C 0
+ATOM   4120  CZ2 TRP A 268      63.082 -10.863   9.116  0.00  0.00           C 0
+ATOM   1047  CD2 HIS A  69      57.315  -0.537   7.117  0.00  0.00           C 0
+ATOM   1049  NE2 HIS A  69      56.922  -0.164   5.838  0.73  2.19           N 0
+TER
+END

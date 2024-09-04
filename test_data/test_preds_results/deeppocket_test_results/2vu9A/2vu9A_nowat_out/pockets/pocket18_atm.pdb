@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0046
+HEADER 1  - Drug Score                        : 0.2198
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9339
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5728
+HEADER 5  - Mean B-factor of pocket residues  : 0.2968
+HEADER 6  - Hydrophobicity Score              : 43.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 266.0071
+HEADER 10 - Pocket volume (convex hull)       : 8.2443
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.7619
+ATOM   3143  CE1 PHE A1252       5.766   8.244  17.703  0.00  0.00           C 0
+ATOM   2083   CZ TYR A1117       2.031  11.159  13.082  0.00  0.00           C 0
+ATOM   3145   CZ PHE A1252       6.161   9.164  16.729  0.00  0.00           C 0
+ATOM   2081  CE1 TYR A1117       2.904  10.763  12.104  0.00  0.00           C 0
+ATOM   3343   CA ARG A1276       3.017   7.586   7.943  0.00  0.00           C 0
+ATOM   3260  CZ3 TRP A1266       3.478   3.435  10.128  0.00  0.00           C 0
+ATOM   3261  CH2 TRP A1266       2.090   3.567   9.926  0.00  0.00           C 0
+ATOM   3347   CG ARG A1276       0.643   6.651   7.886  0.00  0.00           C 0
+ATOM   2084   OH TYR A1117       0.658  10.925  12.920  0.76  4.29           O 0
+ATOM   3273   OH TYR A1267       7.530   4.917  13.567  0.68  4.29           O 0
+ATOM   3270  CE1 TYR A1267       7.090   4.805  11.254  0.00  0.00           C 0
+ATOM   2082  CE2 TYR A1117       2.495  11.806  14.201  0.00  0.00           C 0
+ATOM   3138    O PHE A1252       6.834   4.318  16.373  0.26  4.29           O 0
+ATOM   3345    O ARG A1276       4.970   6.236   8.142  0.89  1.07           O 0
+ATOM   3368    N GLY A1279       7.242   9.560  11.142  0.91  1.09           N 0
+ATOM   3339    O SER A1275       3.355  10.100   8.999  0.00  0.00           O 0
+ATOM   2079  CD1 TYR A1117       4.268  11.026  12.272  0.00  0.00           C 0
+ATOM   3369   CA GLY A1279       7.763   8.927  12.352  0.00  0.00           C 0
+TER
+END

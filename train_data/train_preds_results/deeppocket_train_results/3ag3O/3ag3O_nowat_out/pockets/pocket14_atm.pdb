@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0405
+HEADER 1  - Drug Score                        : 0.0032
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0744
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6788
+HEADER 5  - Mean B-factor of pocket residues  : 0.1050
+HEADER 6  - Hydrophobicity Score              : 51.2500
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 168.8306
+HEADER 10 - Pocket volume (convex hull)       : 0.7667
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.9412
+ATOM    186  CE1 HIS O  24     132.005 338.513 178.889  0.00  0.00           C 0
+ATOM     64   CZ PHE O   9     130.019 335.228 175.446  0.00  0.00           C 0
+ATOM     45    O LEU O   7     138.122 335.901 177.096  0.46  8.57           O 0
+ATOM    187  NE2 HIS O  24     131.193 337.774 179.651  0.51  8.75           N 0
+ATOM     52    C GLY O   8     135.945 336.428 173.878  0.00  0.00           C 0
+ATOM     51   CA GLY O   8     136.604 337.144 175.057  0.00  0.00           C 0
+ATOM     62  CE1 PHE O   9     130.512 336.587 175.439  0.00  0.00           C 0
+ATOM     60  CD1 PHE O   9     131.329 337.050 174.435  0.00  0.00           C 0
+ATOM     54    N PHE O   9     134.768 336.886 173.475  0.81  2.19           N 0
+ATOM     59   CG PHE O   9     131.749 336.195 173.427  0.00  0.00           C 0
+ATOM     63  CE2 PHE O   9     130.397 334.346 174.427  0.00  0.00           C 0
+ATOM     53    O GLY O   8     136.506 335.470 173.330  0.67  8.57           O 0
+ATOM     61  CD2 PHE O   9     131.300 334.856 173.417  0.00  0.00           C 0
+TER
+END

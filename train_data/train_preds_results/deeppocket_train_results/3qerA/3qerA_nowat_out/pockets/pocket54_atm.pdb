@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    54:
+HEADER 0  - Pocket Score                      : -0.0912
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9431
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5165
+HEADER 5  - Mean B-factor of pocket residues  : 0.2540
+HEADER 6  - Hydrophobicity Score              : -19.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 255.8725
+HEADER 10 - Pocket volume (convex hull)       : 5.7054
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM    293   CD LYS A  34     -36.809  -6.645 -24.224  0.00  0.00           C 0
+ATOM    294   CE LYS A  34     -37.885  -5.634 -24.609  0.00  0.00           C 0
+ATOM    295   NZ LYS A  34     -39.239  -6.262 -24.629  0.65  8.75           N 0
+ATOM    274  OE2 GLU A  32     -36.878  -2.814 -17.401  0.00  0.00           O 0
+ATOM    269    O GLU A  32     -34.426  -3.050 -21.887  0.68  9.64           O 0
+ATOM    527    O ALA A  63     -34.067  -8.097 -21.469  0.00  0.00           O 0
+ATOM    272   CD GLU A  32     -35.715  -2.838 -16.940  0.00  0.00           C 0
+ATOM    273  OE1 GLU A  32     -35.426  -3.398 -15.862  0.48  9.64           O 0
+ATOM    536  ND2 ASN A  64     -31.801 -10.294 -18.817  0.00  0.00           N 0
+ATOM    533   CB ASN A  64     -31.206  -8.295 -20.046  0.00  0.00           C 0
+ATOM    108  OD1 ASP A  13     -29.355  -7.823 -17.105  0.32  2.14           O 0
+ATOM    270   CB GLU A  32     -34.595  -2.534 -19.193  0.00  0.00           C 0
+ATOM    106   CB ASP A  13     -29.472  -5.527 -17.722  0.00  0.00           C 0
+ATOM    105    O ASP A  13     -30.335  -3.162 -19.083  0.66  1.07           O 0
+ATOM    271   CG GLU A  32     -34.600  -2.160 -17.716  0.00  0.00           C 0
+ATOM    292   CG LYS A  34     -35.430  -6.004 -24.124  0.00  0.00           C 0
+TER
+END

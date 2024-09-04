@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1710
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7503
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4289
+HEADER 5  - Mean B-factor of pocket residues  : 0.0717
+HEADER 6  - Hydrophobicity Score              : 33.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 189.6406
+HEADER 10 - Pocket volume (convex hull)       : 3.0192
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM   1299   CA SER B 175      33.463 -10.129   7.026  0.00  0.00           C 0
+ATOM    119  OD1 ASN B  16      30.338  -5.745   5.679  0.00  0.00           O 0
+ATOM     90  CD2 PHE B  13      27.038  -8.525   5.627  0.00  0.00           C 0
+ATOM     92  CE2 PHE B  13      26.570  -9.110   6.776  0.00  0.00           C 0
+ATOM   1310  CG2 ILE B 176      33.280  -9.004  12.189  0.00  0.00           C 0
+ATOM    981   OH TYR B 133      28.732 -12.017  10.046  0.00  0.00           O 0
+ATOM   1302   CB SER B 175      32.901 -11.510   7.314  0.00  0.00           C 0
+ATOM   1297  OE2 GLU B 174      30.753 -10.462   2.885  0.93  2.14           O 0
+ATOM   1303   OG SER B 175      32.537 -11.601   8.681  0.81  1.07           O 0
+ATOM   1304    N ILE B 176      34.082  -9.270   9.233  0.44  4.37           N 0
+ATOM   1308   CB ILE B 176      34.367  -8.198  11.504  0.00  0.00           C 0
+ATOM     88   CG PHE B  13      27.234  -9.277   4.467  0.00  0.00           C 0
+ATOM    978  CE1 TYR B 133      29.079 -13.094   7.947  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.2287
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7399
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5035
+HEADER 5  - Mean B-factor of pocket residues  : 0.5512
+HEADER 6  - Hydrophobicity Score              : 0.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 165.3047
+HEADER 10 - Pocket volume (convex hull)       : 0.9541
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    548   CA GLY B  80      17.010 -20.392  32.932  0.00  0.00           C 0
+ATOM    547    N GLY B  80      15.926 -19.568  32.427  0.59  4.37           N 0
+ATOM   1030    N ASN B 145      18.243 -21.144  25.771  0.00  0.00           N 0
+ATOM   1037  ND2 ASN B 145      17.668 -23.779  28.451  0.93  1.09           N 0
+ATOM   1028  CD1 LEU B 144      14.810 -18.855  26.136  0.00  0.00           C 0
+ATOM    554    O HIS B  81      15.202 -23.662  30.657  0.47  1.07           O 0
+ATOM    512    O GLU B  75      11.650 -21.296  30.024  0.00  0.00           O 0
+ATOM   1036  OD1 ASN B 145      19.802 -23.301  27.946  0.00  0.00           O 0
+ATOM   1022    N LEU B 144      18.961 -17.611  25.847  0.29  2.19           N 0
+ATOM   1019   CB PRO B 143      20.929 -15.534  27.925  0.00  0.00           C 0
+ATOM   1025    O LEU B 144      19.717 -19.907  24.615  0.30  6.43           O 0
+ATOM   1024    C LEU B 144      18.729 -19.983  25.344  0.00  0.00           C 0
+ATOM   1017    C PRO B 143      18.962 -16.736  26.844  0.00  0.00           C 0
+ATOM   1023   CA LEU B 144      18.020 -18.720  25.815  0.00  0.00           C 0
+ATOM   1018    O PRO B 143      18.202 -16.819  27.808  0.43  7.50           O 0
+TER
+END

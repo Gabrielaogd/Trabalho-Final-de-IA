@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.1777
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9732
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4756
+HEADER 5  - Mean B-factor of pocket residues  : 0.1809
+HEADER 6  - Hydrophobicity Score              : 27.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 227.4747
+HEADER 10 - Pocket volume (convex hull)       : 2.8645
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   2141  NH1 ARG A 327      -9.411   5.132  83.692  0.00  0.00           N 0
+ATOM   2101  CD2 LEU A 322     -14.095   6.094  79.442  0.00  0.00           C 0
+ATOM   1913  NH1 ARG A 298     -12.637  12.608  82.763  0.53  7.66           N 0
+ATOM   1914  NH2 ARG A 298     -11.412  13.255  80.931  0.00  0.00           N 0
+ATOM   1912   CZ ARG A 298     -12.583  13.091  81.532  0.00  0.00           C 0
+ATOM   1584  CG2 VAL A 257     -13.686   4.770  84.198  0.00  0.00           C 0
+ATOM   1890   CG PRO A 296     -12.341   7.196  87.354  0.00  0.00           C 0
+ATOM   1889   CB PRO A 296     -12.360   8.739  87.375  0.00  0.00           C 0
+ATOM   1911   NE ARG A 298     -13.708  13.416  80.906  0.79  5.47           N 0
+ATOM   1909   CG ARG A 298     -15.594  11.852  81.465  0.00  0.00           C 0
+ATOM   1583  CG1 VAL A 257     -15.616   6.241  83.651  0.00  0.00           C 0
+ATOM   1895    O TYR A 297     -15.417  12.048  84.745  0.75  1.07           O 0
+ATOM   1892    N TYR A 297     -15.183  10.223  86.807  0.81  1.09           N 0
+ATOM   1894    C TYR A 297     -16.348  11.255  84.875  0.00  0.00           C 0
+TER
+END

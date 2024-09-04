@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0519
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.7576
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6200
+HEADER 5  - Mean B-factor of pocket residues  : 0.0725
+HEADER 6  - Hydrophobicity Score              : 8.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 308.7966
+HEADER 10 - Pocket volume (convex hull)       : 21.5633
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM   1999   NE ARG A 267       4.738   0.324  28.511  0.41  1.09           N 0
+ATOM   2002  NH2 ARG A 267       3.858  -1.803  28.592  0.00  0.00           N 0
+ATOM   2026  OE1 GLU A 270       5.498   1.570  32.194  0.67  4.29           O 0
+ATOM   2027  OE2 GLU A 270       3.904   2.517  33.383  0.00  0.00           O 0
+ATOM   1986    O GLU A 266       2.947   5.626  29.366  0.33  2.14           O 0
+ATOM   1985    C GLU A 266       2.259   5.295  28.406  0.00  0.00           C 0
+ATOM   1993   CA ARG A 267       4.032   3.879  27.559  0.00  0.00           C 0
+ATOM   1987   CB GLU A 266      -0.187   4.753  28.654  0.00  0.00           C 0
+ATOM   1959    O ILE A 263       0.763   2.980  25.446  0.58  3.21           O 0
+ATOM   1962  CG2 ILE A 263      -3.025   0.647  25.274  0.00  0.00           C 0
+ATOM   1957   CA ILE A 263      -1.563   2.680  24.987  0.00  0.00           C 0
+ATOM   1954    C GLY A 262      -2.701   4.802  24.788  0.00  0.00           C 0
+ATOM     72  OD1 ASN A  10      -7.246   4.142  25.879  0.67  5.36           O 0
+ATOM   1956    N ILE A 263      -2.558   3.548  24.373  0.45  1.09           N 0
+ATOM   1992    N ARG A 267       2.708   4.484  27.455  0.00  0.00           N 0
+ATOM   1960   CB ILE A 263      -1.761   1.188  24.621  0.00  0.00           C 0
+ATOM   1988   CG GLU A 266      -1.607   5.287  28.901  0.00  0.00           C 0
+ATOM   1439   OH TYR A 192      -4.515   6.752  28.381  0.00  0.00           O 0
+ATOM     73  ND2 ASN A  10      -8.607   4.439  27.640  0.00  0.00           N 0
+ATOM   1996   CB ARG A 267       4.141   2.664  26.635  0.00  0.00           C 0
+TER
+END

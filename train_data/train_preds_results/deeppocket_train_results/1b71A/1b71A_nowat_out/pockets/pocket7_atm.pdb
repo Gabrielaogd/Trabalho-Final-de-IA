@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1647
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.5667
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3372
+HEADER 5  - Mean B-factor of pocket residues  : 0.0910
+HEADER 6  - Hydrophobicity Score              : 26.4444
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 166.4625
+HEADER 10 - Pocket volume (convex hull)       : 8.1985
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM    707    O ALA A  89       8.042  20.863  13.355  0.55  7.50           O 0
+ATOM    706    C ALA A  89       8.897  19.986  13.451  0.00  0.00           C 0
+ATOM    252  CE2 PHE A  30       9.205  16.755   8.845  0.00  0.00           C 0
+ATOM    708   CB ALA A  89      10.998  20.367  12.177  0.00  0.00           C 0
+ATOM    615   CG PRO A  76       7.021  24.196   7.581  0.00  0.00           C 0
+ATOM    614   CB PRO A  76       8.410  24.430   7.101  0.00  0.00           C 0
+ATOM    207   NE ARG A  26       6.405  20.107   6.719  0.38  1.09           N 0
+ATOM    625    O GLY A  78      10.976  22.967   5.867  0.82  2.14           O 0
+ATOM    253   CZ PHE A  30      10.204  17.282   8.053  0.00  0.00           C 0
+ATOM    206   CD ARG A  26       7.289  20.058   5.558  0.00  0.00           C 0
+ATOM    626    N ILE A  79      12.694  21.529   6.024  0.64  3.28           N 0
+ATOM    629    O ILE A  79      13.199  19.122   6.862  0.00  0.00           O 0
+ATOM    210  NH2 ARG A  26       4.554  20.854   7.891  0.26  5.47           N 0
+ATOM    726   CA GLY A  93       4.651  22.840  13.643  0.00  0.00           C 0
+ATOM    712    O SER A  90       5.249  19.189  14.298  0.64  1.07           O 0
+ATOM    710   CA SER A  90       7.222  18.274  13.223  0.00  0.00           C 0
+ATOM    714   OG SER A  90       7.784  16.420  11.722  0.00  0.00           O 0
+ATOM    219  CE1 TYR A  27       4.790  16.287  10.184  0.00  0.00           C 0
+TER
+END

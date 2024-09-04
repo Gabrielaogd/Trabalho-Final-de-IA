@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.0495
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9344
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6210
+HEADER 5  - Mean B-factor of pocket residues  : 0.2130
+HEADER 6  - Hydrophobicity Score              : 14.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 269.9482
+HEADER 10 - Pocket volume (convex hull)       : 7.9937
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7778
+ATOM   2920   CD ARG A 433      53.378  10.376  17.742  0.00  0.00           C 0
+ATOM   2918   CB ARG A 433      53.022  12.848  17.582  0.00  0.00           C 0
+ATOM   2953   CE LYS A 437      56.548  15.894  15.684  0.00  0.00           C 0
+ATOM   2954   NZ LYS A 437      56.649  14.937  14.504  0.58  7.66           N 0
+ATOM   2024  CD2 LEU A 319      56.378  13.576  22.662  0.00  0.00           C 0
+ATOM   2919   CG ARG A 433      52.900  11.606  18.445  0.00  0.00           C 0
+ATOM   2944    O ALA A 436      54.749  20.198  20.661  0.17  7.50           O 0
+ATOM   2945   CB ALA A 436      53.157  17.649  21.222  0.00  0.00           C 0
+ATOM   2021   CB LEU A 319      54.591  15.174  23.429  0.00  0.00           C 0
+ATOM   2950   CB LYS A 437      56.272  18.647  17.405  0.00  0.00           C 0
+ATOM   2023  CD1 LEU A 319      54.036  13.485  21.745  0.00  0.00           C 0
+ATOM   2917    O ARG A 433      53.486  16.093  17.854  0.71  2.14           O 0
+ATOM   2020    O LEU A 319      54.978  17.929  24.285  0.62  6.43           O 0
+ATOM   2006  OE1 GLU A 317      53.811   9.820  21.333  0.78  6.43           O 0
+ATOM   2921   NE ARG A 433      53.501   9.252  18.666  0.00  0.00           N 0
+ATOM   2943    C ALA A 436      54.019  19.556  19.922  0.00  0.00           C 0
+TER
+END

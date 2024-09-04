@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0396
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8084
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5482
+HEADER 5  - Mean B-factor of pocket residues  : 0.3624
+HEADER 6  - Hydrophobicity Score              : 10.2500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 323.8241
+HEADER 10 - Pocket volume (convex hull)       : 21.4988
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0952
+ATOM    646  ND1 HIS D  84      61.934  11.145 -28.285  0.00  0.00           N 0
+ATOM    631    N LYS D  83      59.851  10.637 -31.981  0.44  1.09           N 0
+ATOM    621    O SER D  81      60.693   7.505 -33.359  0.45  4.29           O 0
+ATOM    637   CD LYS D  83      58.066   8.034 -32.478  0.00  0.00           C 0
+ATOM    635   CB LYS D  83      57.478  10.243 -31.452  0.00  0.00           C 0
+ATOM    640    N HIS D  84      59.488  12.210 -29.685  0.57  1.09           N 0
+ATOM    644   CB HIS D  84      60.007  12.449 -27.299  0.00  0.00           C 0
+ATOM   1076   CB ALA D 136      66.020  10.358 -30.218  0.00  0.00           C 0
+ATOM    241  ND2 ASN D  32      63.886   4.919 -32.310  0.00  0.00           N 0
+ATOM    625   CA VAL D  82      61.801  10.025 -33.307  0.00  0.00           C 0
+ATOM    630  CG2 VAL D  82      64.287  10.417 -33.445  0.00  0.00           C 0
+ATOM    648  CE1 HIS D  84      63.223  10.947 -28.068  0.00  0.00           C 0
+ATOM   1077    N ALA D 137      66.880   9.121 -27.341  0.52  1.09           N 0
+ATOM   1081   CB ALA D 137      66.489   7.371 -25.683  0.00  0.00           C 0
+ATOM    238   CB ASN D  32      66.181   5.600 -32.630  0.00  0.00           C 0
+ATOM   1070  OD1 ASN D 135      68.710   7.023 -27.701  0.34  2.14           O 0
+ATOM   1071  ND2 ASN D 135      69.389   5.581 -29.280  0.00  0.00           N 0
+ATOM    239   CG ASN D  32      65.024   4.676 -32.945  0.00  0.00           C 0
+ATOM    240  OD1 ASN D  32      65.145   3.767 -33.764  0.77  9.64           O 0
+ATOM    237    O ASN D  32      67.581   7.851 -31.864  0.47  1.07           O 0
+TER
+END

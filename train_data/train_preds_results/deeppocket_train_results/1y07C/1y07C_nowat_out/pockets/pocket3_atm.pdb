@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2542
+HEADER 1  - Drug Score                        : 0.4397
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8597
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5848
+HEADER 5  - Mean B-factor of pocket residues  : 0.3988
+HEADER 6  - Hydrophobicity Score              : 8.6667
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 274.6935
+HEADER 10 - Pocket volume (convex hull)       : 6.6759
+HEADER 11 - Charge Score                      :     6
+HEADER 12 - Local hydrophobic density Score   : 13.5000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM    895  CD2 HIS C 122      30.661  16.694 -12.512  0.00  0.00           C 0
+ATOM    294   CA ALA C  46      24.322  14.765  -9.547  0.00  0.00           C 0
+ATOM    920  CZ2 TRP C 125      28.212  19.746  -7.999  0.00  0.00           C 0
+ATOM    306   NZ LYS C  47      23.976  21.008  -9.304  0.18  7.66           N 0
+ATOM    331  ND1 HIS C  50      28.467  15.364  -8.189  0.00  0.00           N 0
+ATOM    295    C ALA C  46      24.635  15.504  -8.212  0.00  0.00           C 0
+ATOM    296    O ALA C  46      25.739  15.353  -7.684  0.00  0.00           O 0
+ATOM    922  CH2 TRP C 125      26.938  20.149  -7.659  0.00  0.00           C 0
+ATOM    481  CD2 HIS C  70      31.039  11.632  -7.483  0.00  0.00           C 0
+ATOM    333  CE1 HIS C  50      29.263  14.827  -9.096  0.00  0.00           C 0
+ATOM    322   CD LYS C  49      26.301   9.117  -8.615  0.00  0.00           C 0
+ATOM    320   CB LYS C  49      26.733  11.065  -7.040  0.00  0.00           C 0
+ATOM    897  NE2 HIS C 122      30.372  15.515 -13.150  0.00  0.00           N 0
+ATOM    293    N ALA C  46      24.480  13.306  -9.367  0.23  5.47           N 0
+ATOM    896  CE1 HIS C 122      30.827  14.513 -12.421  0.00  0.00           C 0
+ATOM    530  CE1 HIS C  76      32.030  11.046 -11.397  0.00  0.00           C 0
+ATOM    490   CD PRO C  71      30.621   8.350  -8.861  0.00  0.00           C 0
+ATOM    489   CG PRO C  71      31.089   7.739 -10.150  0.00  0.00           C 0
+ATOM    324   NZ LYS C  49      25.681   7.158 -10.145  0.00  0.00           N 0
+TER
+END

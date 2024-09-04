@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.2619
+HEADER 1  - Drug Score                        : 0.0163
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.1590
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5653
+HEADER 5  - Mean B-factor of pocket residues  : 0.4051
+HEADER 6  - Hydrophobicity Score              : 8.5714
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 284.9186
+HEADER 10 - Pocket volume (convex hull)       : 7.3232
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3600
+ATOM    828   CG GLU A 110       0.108  49.354 -10.057  0.00  0.00           C 0
+ATOM   1461  CD2 LEU A 195      -2.242  46.981 -12.069  0.00  0.00           C 0
+ATOM    829   CD GLU A 110      -0.090  50.699  -9.428  0.00  0.00           C 0
+ATOM   1436   OG SER A 192      -5.659  48.960 -15.087  0.58  2.14           O 0
+ATOM    827   CB GLU A 110       1.391  49.228 -10.820  0.00  0.00           C 0
+ATOM    824   CA GLU A 110       1.432  47.978 -11.673  0.00  0.00           C 0
+ATOM    826    O GLU A 110       2.465  48.732 -13.676  0.65  6.43           O 0
+ATOM    831  OE2 GLU A 110      -1.163  50.915  -8.847  0.59  5.36           O 0
+ATOM   1449   CB GLU A 194      -3.153  49.368 -17.443  0.00  0.00           C 0
+ATOM   1435   CB SER A 192      -6.298  48.417 -13.946  0.00  0.00           C 0
+ATOM    874   NZ LYS A 117      -3.500  49.557  -8.072  0.59  8.75           N 0
+ATOM   1452  OE1 GLU A 194      -3.388  52.095 -17.433  0.59  6.43           O 0
+ATOM    830  OE1 GLU A 110       0.822  51.541  -9.502  0.61  6.43           O 0
+ATOM   1448    O GLU A 194      -0.997  47.425 -16.817  0.00  0.00           O 0
+ATOM    583  NE2 GLN A  78       0.376  48.363 -19.143  0.48  7.66           N 0
+ATOM   1470  CE1 TYR A 196       3.327  47.174 -16.714  0.00  0.00           C 0
+ATOM   1473   OH TYR A 196       4.514  47.930 -18.652  0.56  9.64           O 0
+ATOM   1447    C GLU A 194      -2.185  47.203 -16.675  0.00  0.00           C 0
+TER
+END

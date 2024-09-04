@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.0561
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1801
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5734
+HEADER 5  - Mean B-factor of pocket residues  : 0.3753
+HEADER 6  - Hydrophobicity Score              : 1.2727
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.9091
+HEADER 9  - Pocket volume (Monte Carlo)       : 341.3159
+HEADER 10 - Pocket volume (convex hull)       : 19.5653
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1161  OE1 GLU A 150      71.503 -10.895  17.092  0.00  0.00           O 0
+ATOM   1187  CD1 LEU A 153      73.481  -7.329  16.948  0.00  0.00           C 0
+ATOM   1154    N GLU A 150      70.553  -8.510  13.313  0.37  3.28           N 0
+ATOM   1143    O PRO A 148      70.892  -4.729  14.537  0.00  0.00           O 0
+ATOM   1133   CB ARG A 147      69.268  -0.805  16.273  0.00  0.00           C 0
+ATOM    149    O PRO A  22      69.530  -4.354  23.807  0.51  5.36           O 0
+ATOM   1134   CG ARG A 147      69.142   0.034  17.556  0.00  0.00           C 0
+ATOM   1135   CD ARG A 147      67.685   0.193  18.002  0.00  0.00           C 0
+ATOM    145  ND2 ASN A  21      73.634  -3.945  19.104  0.67  6.56           N 0
+ATOM    141    O ASN A  21      71.364  -6.578  22.342  0.42  7.50           O 0
+ATOM   1093  CG2 THR A 142      69.006  -0.139  21.848  0.00  0.00           C 0
+ATOM    154   CA SER A  23      67.207  -5.844  23.902  0.00  0.00           C 0
+ATOM   1092  OG1 THR A 142      71.036  -0.145  23.157  0.00  0.00           O 0
+ATOM    878  CD2 LEU A 116      73.125   0.523  18.435  0.00  0.00           C 0
+ATOM    159    N HIS A  24      65.518  -4.183  24.449  0.57  2.19           N 0
+ATOM    142   CB ASN A  21      73.380  -5.734  20.724  0.00  0.00           C 0
+ATOM    166  CD2 HIS A  24      64.108  -1.159  22.361  0.00  0.00           C 0
+ATOM    157   CB SER A  23      66.261  -7.045  23.739  0.00  0.00           C 0
+ATOM    176  OE1 GLU A  25      63.148  -6.448  24.323  0.77  7.50           O 0
+ATOM    168  NE2 HIS A  24      64.736   0.037  22.105  0.72  1.09           N 0
+TER
+END

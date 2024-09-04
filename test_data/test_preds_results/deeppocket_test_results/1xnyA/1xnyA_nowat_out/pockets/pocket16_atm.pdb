@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0736
+HEADER 1  - Drug Score                        : 0.0091
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.0032
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5664
+HEADER 5  - Mean B-factor of pocket residues  : 0.0551
+HEADER 6  - Hydrophobicity Score              : 30.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 193.6002
+HEADER 10 - Pocket volume (convex hull)       : 3.4587
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.5926
+ATOM   3896   CD LYS A 523      16.857 -94.794-125.966  0.00  0.00           C 0
+ATOM   3874  CD1 LEU A 520      18.218 -97.653-130.806  0.00  0.00           C 0
+ATOM   2976  OE1 GLU A 403      20.700 -93.088-131.546  0.62  4.29           O 0
+ATOM   3898   NZ LYS A 523      18.479 -96.681-126.057  0.29  9.84           N 0
+ATOM   2967    O ALA A 402      21.991-100.314-132.705  0.67  4.29           O 0
+ATOM   2944  CE1 PHE A 399      24.413 -94.614-127.304  0.00  0.00           C 0
+ATOM   3919   CA GLY A 526      19.966 -92.289-125.910  0.00  0.00           C 0
+ATOM   3918    N GLY A 526      18.791 -91.582-126.393  0.62  5.47           N 0
+ATOM   2969    N GLU A 403      22.855 -98.274-133.050  0.72  1.09           N 0
+ATOM   2968   CB ALA A 402      25.006-100.268-131.665  0.00  0.00           C 0
+ATOM   2966    C ALA A 402      22.956 -99.587-132.916  0.00  0.00           C 0
+ATOM   2939    O PHE A 399      24.904 -96.444-132.204  0.59  1.07           O 0
+ATOM   2942  CD1 PHE A 399      25.592 -94.910-128.008  0.00  0.00           C 0
+ATOM   2946   CZ PHE A 399      23.324 -94.046-127.975  0.00  0.00           C 0
+ATOM   2973   CB GLU A 403      21.846 -96.102-132.640  0.00  0.00           C 0
+ATOM   2970   CA GLU A 403      21.580 -97.575-132.954  0.00  0.00           C 0
+ATOM   2945  CE2 PHE A 399      23.421 -93.780-129.346  0.00  0.00           C 0
+ATOM   2974   CG GLU A 403      20.619 -95.203-132.672  0.00  0.00           C 0
+ATOM   2937   CA PHE A 399      26.949 -96.222-130.959  0.00  0.00           C 0
+TER
+END

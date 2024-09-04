@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.1118
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.2347
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6412
+HEADER 5  - Mean B-factor of pocket residues  : 0.5508
+HEADER 6  - Hydrophobicity Score              : 8.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.7160
+HEADER 10 - Pocket volume (convex hull)       : 2.0876
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM    871   CD LYS A 107      -5.836  40.496  28.156  0.00  0.00           C 0
+ATOM    872   CE LYS A 107      -7.037  39.587  28.604  0.00  0.00           C 0
+ATOM    844   CB ALA A 104      -1.615  38.866  24.243  0.00  0.00           C 0
+ATOM    843    O ALA A 104      -1.033  38.970  27.472  0.00  0.00           O 0
+ATOM    873   NZ LYS A 107      -8.035  39.304  27.507  0.00  0.00           N 0
+ATOM    878   CB ARG A 108      -0.773  36.792  30.598  0.00  0.00           C 0
+ATOM    906   NZ LYS A 111      -7.050  36.375  31.560  0.00  0.00           N 0
+ATOM    870   CG LYS A 107      -4.685  40.435  29.186  0.00  0.00           C 0
+ATOM    875   CA ARG A 108      -1.497  37.963  31.279  0.00  0.00           C 0
+ATOM    881   NE ARG A 108      -1.281  33.656  30.446  0.16  3.28           N 0
+ATOM    874    N ARG A 108      -1.677  39.136  30.407  0.00  0.00           N 0
+ATOM    884  NH2 ARG A 108      -2.442  31.937  29.499  0.04  7.66           N 0
+ATOM    465   OH TYR A  59       1.024  35.668  26.100  0.44  5.36           O 0
+TER
+END

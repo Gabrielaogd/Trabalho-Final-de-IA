@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.0572
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.2487
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5960
+HEADER 5  - Mean B-factor of pocket residues  : 0.7850
+HEADER 6  - Hydrophobicity Score              : -8.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 300.3773
+HEADER 10 - Pocket volume (convex hull)       : 4.1095
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   3784  CG1 ILE A 624     114.860 104.252 128.798  0.00  0.00           C 0
+ATOM   3786  CD1 ILE A 624     115.053 105.673 128.313  0.00  0.00           C 0
+ATOM   3942   CG ASN A 643     115.560 110.602 133.509  0.00  0.00           C 0
+ATOM   3944  ND2 ASN A 643     116.506 110.415 134.423  0.00  0.00           N 0
+ATOM   3943  OD1 ASN A 643     115.814 110.747 132.309  0.79  7.50           O 0
+ATOM   3928  OE2 GLU A 641     117.865 109.284 128.612  0.57  8.57           O 0
+ATOM   3941   CB ASN A 643     114.135 110.626 134.020  0.00  0.00           C 0
+ATOM   3937    N ASN A 643     112.565 110.828 132.119  0.73  4.37           N 0
+ATOM   3777  OD1 ASP A 623     111.365 103.697 129.442  0.46  8.57           O 0
+ATOM   3929    N ASN A 642     111.700 109.761 129.572  0.71  4.37           N 0
+ATOM   3925   CG GLU A 641     115.624 109.973 128.963  0.00  0.00           C 0
+ATOM   3933   CB ASN A 642     109.788 109.496 131.054  0.00  0.00           C 0
+ATOM   3936  ND2 ASN A 642     108.548 110.031 133.067  0.70  9.84           N 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0480
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7204
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3612
+HEADER 5  - Mean B-factor of pocket residues  : 0.2243
+HEADER 6  - Hydrophobicity Score              : 5.7778
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 175.5808
+HEADER 10 - Pocket volume (convex hull)       : 3.0037
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3992    N SER A 521     -51.112 -22.816 -29.735  0.00  0.00           N 0
+ATOM   3989   CA GLY A 520     -49.995 -22.736 -27.587  0.00  0.00           C 0
+ATOM   3983    O ILE A 519     -51.918 -21.757 -25.858  0.39  7.50           O 0
+ATOM   2652    O TRP A 348     -53.972 -28.630 -27.995  0.49  6.43           O 0
+ATOM   1723    O HIS A 233     -48.142 -27.142 -30.513  0.52  2.14           O 0
+ATOM   1733    O ASP A 234     -47.339 -25.315 -27.224  0.56  1.07           O 0
+ATOM   2655  CD1 TRP A 348     -49.863 -29.957 -28.371  0.00  0.00           C 0
+ATOM   2634    O LYS A 346     -54.850 -27.183 -31.977  0.76  6.43           O 0
+ATOM   3996   CB SER A 521     -52.024 -23.374 -31.960  0.00  0.00           C 0
+ATOM   3998    N ASP A 522     -53.598 -21.517 -29.824  0.64  2.19           N 0
+ATOM   4002   CB ASP A 522     -55.949 -21.414 -29.125  0.00  0.00           C 0
+ATOM   2653   CB TRP A 348     -51.727 -29.536 -30.078  0.00  0.00           C 0
+ATOM   2672    N ARG A 350     -51.152 -28.968 -24.831  0.00  0.00           N 0
+ATOM   2676   CB ARG A 350     -49.729 -27.420 -23.567  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0514
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0060
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6536
+HEADER 5  - Mean B-factor of pocket residues  : 0.6876
+HEADER 6  - Hydrophobicity Score              : 51.8000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 191.3584
+HEADER 10 - Pocket volume (convex hull)       : 3.4472
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM   1741    O CYS A 214      22.537   8.073 -13.468  0.86  4.29           O 0
+ATOM      7   SD MET A   3      19.479   4.577 -10.370  0.00  0.00           S 0
+ATOM   1744  OXT CYS A 214      22.712   7.606 -15.506  0.00  0.00           O 0
+ATOM      6   CG MET A   3      21.111   5.158  -9.847  0.00  0.00           C 0
+ATOM   1743   SG CYS A 214      19.332   7.551 -13.274  0.00  0.00           S 0
+ATOM   1742   CB CYS A 214      19.657   8.372 -14.866  0.00  0.00           C 0
+ATOM   1716    O LEU A 211      20.307   7.342 -18.276  0.58  7.50           O 0
+ATOM    289  NE2 GLN A  41      17.425   0.312 -16.801  0.00  0.00           N 0
+ATOM    286   CG GLN A  41      15.953   1.740 -15.527  0.00  0.00           C 0
+ATOM    312   SG CYS A  45      17.440   6.850 -13.503  0.00  0.00           S 0
+ATOM    287   CD GLN A  41      16.382   1.122 -16.843  0.00  0.00           C 0
+ATOM   1719  CD1 LEU A 211      15.712   4.322 -19.115  0.00  0.00           C 0
+ATOM   1717   CB LEU A 211      17.454   6.130 -19.037  0.00  0.00           C 0
+ATOM   1720  CD2 LEU A 211      16.246   5.428 -16.926  0.00  0.00           C 0
+TER
+END

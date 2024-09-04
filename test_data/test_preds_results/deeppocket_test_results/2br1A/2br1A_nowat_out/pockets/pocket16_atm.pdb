@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0390
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9087
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5983
+HEADER 5  - Mean B-factor of pocket residues  : 0.1334
+HEADER 6  - Hydrophobicity Score              : 3.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 337.8164
+HEADER 10 - Pocket volume (convex hull)       : 16.8386
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM    803   CD PRO A 103      33.147   7.627  20.741  0.00  0.00           C 0
+ATOM    760  OE1 GLU A  97      36.646   1.263  20.804  0.00  0.00           O 0
+ATOM    802   CG PRO A 103      34.129   8.732  20.524  0.00  0.00           C 0
+ATOM    783  CG2 ILE A 100      36.199   2.547  24.104  0.00  0.00           C 0
+ATOM    741  NH1AARG A  95      28.331   6.097  15.403  0.57  6.56           N 0
+ATOM    731    O ARG A  95      29.908   2.513  19.278  0.34  8.57           O 0
+ATOM    827  OD2 ASP A 106      30.926   9.452  18.357  0.24  7.50           O 0
+ATOM    797    N PRO A 103      32.875   7.741  22.189  0.00  0.00           N 0
+ATOM    788    O GLY A 101      32.184   2.659  22.294  0.67  2.14           O 0
+ATOM    757   CB GLU A  97      34.194  -0.059  21.021  0.00  0.00           C 0
+ATOM    793   CB MET A 102      30.716   5.533  21.626  0.00  0.00           C 0
+ATOM    798   CA PRO A 103      33.200   9.081  22.692  0.00  0.00           C 0
+ATOM    790   CA MET A 102      32.041   5.447  22.409  0.00  0.00           C 0
+ATOM    791    C MET A 102      32.452   6.801  23.015  0.00  0.00           C 0
+ATOM    792    O MET A 102      32.385   6.978  24.252  0.44  8.57           O 0
+TER
+END

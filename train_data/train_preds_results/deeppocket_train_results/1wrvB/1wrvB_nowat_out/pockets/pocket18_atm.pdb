@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0249
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7859
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4764
+HEADER 5  - Mean B-factor of pocket residues  : 0.2886
+HEADER 6  - Hydrophobicity Score              : -4.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 220.7231
+HEADER 10 - Pocket volume (convex hull)       : 4.7737
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM   1670    O GLU B 217      50.431  69.358  37.279  0.59  6.43           O 0
+ATOM    420  OE1 GLU B  55      47.814  63.086  35.247  0.00  0.00           O 0
+ATOM   1675  OE2 GLU B 217      47.178  69.850  33.648  0.10  9.64           O 0
+ATOM    454   CD ARG B  59      53.372  67.308  34.483  0.00  0.00           C 0
+ATOM    488  OD1 ASN B  62      50.198  64.985  28.974  0.00  0.00           O 0
+ATOM    453   CG ARG B  59      53.673  66.630  33.159  0.00  0.00           C 0
+ATOM    452   CB ARG B  59      53.554  65.113  33.264  0.00  0.00           C 0
+ATOM    449   CA ARG B  59      53.493  64.433  31.891  0.00  0.00           C 0
+ATOM   1685  CG1 ILE B 219      51.283  65.035  38.753  0.00  0.00           C 0
+ATOM    448    N ARG B  59      53.094  63.035  32.016  0.74  1.09           N 0
+ATOM    444   CG LYS B  58      49.884  61.336  30.686  0.00  0.00           C 0
+ATOM    416    O GLU B  55      52.056  62.148  34.782  0.55  1.07           O 0
+ATOM    418   CG GLU B  55      49.376  62.327  36.873  0.00  0.00           C 0
+ATOM   1687  CD1 ILE B 219      52.319  64.099  38.137  0.00  0.00           C 0
+ATOM    445   CD LYS B  58      48.488  61.103  31.255  0.00  0.00           C 0
+ATOM    446   CE LYS B  58      47.399  61.502  30.284  0.00  0.00           C 0
+TER
+END

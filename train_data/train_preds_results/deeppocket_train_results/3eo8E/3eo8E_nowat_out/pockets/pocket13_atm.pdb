@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.1863
+HEADER 1  - Drug Score                        : 0.1137
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.0859
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6349
+HEADER 5  - Mean B-factor of pocket residues  : 0.1951
+HEADER 6  - Hydrophobicity Score              : 57.8889
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 321.2452
+HEADER 10 - Pocket volume (convex hull)       : 13.8718
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 14.8750
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.6400
+ATOM    418   CB ARG E  52      35.743 142.869  -0.797  0.00  0.00           C 0
+ATOM    421   NE ARG E  52      33.276 143.039  -2.786  0.84  3.28           N 0
+ATOM    424  NH2 ARG E  52      31.821 141.766  -4.020  0.05  9.84           N 0
+ATOM    393    O VAL E  49      36.158 135.657   0.076  0.00  0.00           O 0
+ATOM    402  CG1 ILE E  50      34.133 137.822   2.576  0.00  0.00           C 0
+ATOM    451  CD2 LEU E  55      31.553 140.824   1.262  0.00  0.00           C 0
+ATOM    422   CZ ARG E  52      32.037 142.642  -3.037  0.00  0.00           C 0
+ATOM    388  CG1 VAL E  48      31.884 134.208   1.724  0.00  0.00           C 0
+ATOM   1420  CG2 THR E 180      29.488 139.658  -1.295  0.00  0.00           C 0
+ATOM    405    N LYS E  51      38.277 139.225   0.899  0.50  2.19           N 0
+ATOM    398   CA ILE E  50      36.553 137.784   1.836  0.00  0.00           C 0
+ATOM   1429   CB PHE E 182      26.832 134.734  -0.833  0.00  0.00           C 0
+ATOM   1419  OG1 THR E 180      27.810 137.894  -1.425  0.80  1.07           O 0
+ATOM   1431  CD1 PHE E 182      27.813 132.442  -0.679  0.00  0.00           C 0
+ATOM   1426   CA PHE E 182      25.868 134.624  -2.013  0.00  0.00           C 0
+ATOM   1417    O THR E 180      27.313 138.049  -4.827  0.00  0.00           O 0
+ATOM   1425    N PHE E 182      25.732 135.915  -2.668  0.00  0.00           N 0
+ATOM   1418   CB THR E 180      28.597 138.783  -2.216  0.00  0.00           C 0
+ATOM    403  CG2 ILE E  50      35.411 139.992   2.479  0.00  0.00           C 0
+ATOM   1389  CD1 LEU E 176      29.197 137.495   1.948  0.00  0.00           C 0
+TER
+END

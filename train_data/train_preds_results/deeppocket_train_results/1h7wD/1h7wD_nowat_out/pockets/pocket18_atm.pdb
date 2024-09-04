@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0089
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6758
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4240
+HEADER 5  - Mean B-factor of pocket residues  : 0.0963
+HEADER 6  - Hydrophobicity Score              : 1.2857
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 82.2646
+HEADER 10 - Pocket volume (convex hull)       : 0.5616
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   6275  OE1 GLN D 828      31.463  79.760  11.789  0.29  3.21           O 0
+ATOM   6249    O THR D 825      30.875  84.598  12.517  0.61  2.14           O 0
+ATOM    766    O SER D  99      35.166  80.897   7.682  0.59  2.14           O 0
+ATOM    767   CB SER D  99      32.168  81.789   6.659  0.00  0.00           C 0
+ATOM    768   OG SER D  99      31.314  82.914   6.782  0.69  3.21           O 0
+ATOM   6281   CB ASP D 829      34.703  81.375  13.380  0.00  0.00           C 0
+ATOM    764   CA SER D  99      33.623  82.215   6.422  0.00  0.00           C 0
+ATOM   6251  OG1 THR D 825      31.053  86.762   9.883  0.00  0.00           O 0
+ATOM    793  OG1 THR D 102      36.846  84.790   7.732  0.72  2.14           O 0
+ATOM    762   NZ LYS D  98      32.801  87.494   7.102  0.32  3.28           N 0
+ATOM    792   CB THR D 102      37.032  83.719   8.665  0.00  0.00           C 0
+ATOM    794  CG2 THR D 102      37.192  84.306  10.069  0.00  0.00           C 0
+ATOM   6254   CA VAL D 826      33.091  85.561  13.679  0.00  0.00           C 0
+TER
+END

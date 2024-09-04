@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0642
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0712
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7197
+HEADER 5  - Mean B-factor of pocket residues  : 0.1903
+HEADER 6  - Hydrophobicity Score              : -11.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 349.8655
+HEADER 10 - Pocket volume (convex hull)       : 15.8372
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM   1809   CB ASN A 399      11.272  17.949   4.910  0.00  0.00           C 0
+ATOM   2079  OD2 ASP A 431      12.482  22.111   1.637  0.00  0.00           O 0
+ATOM   1810   CG ASN A 399      12.788  17.830   5.058  0.00  0.00           C 0
+ATOM   1812  ND2 ASN A 399      13.329  16.649   4.768  0.00  0.00           N 0
+ATOM   2096  OD2 ASP A 433      14.256  25.241  -1.008  0.89  4.29           O 0
+ATOM   2085   CG LYS A 432      19.619  21.986   0.385  0.00  0.00           C 0
+ATOM   2078  OD1 ASP A 431      14.439  23.079   1.533  0.49  2.14           O 0
+ATOM   2088   NZ LYS A 432      20.372  19.976  -1.591  0.00  0.00           N 0
+ATOM   2080    N LYS A 432      17.354  22.218   2.174  0.00  0.00           N 0
+ATOM   2064    O PHE A 430      17.859  19.499   3.775  0.32  4.29           O 0
+ATOM   2086   CD LYS A 432      20.603  22.232  -0.784  0.00  0.00           C 0
+ATOM   2073   CA ASP A 431      15.507  20.908   3.133  0.00  0.00           C 0
+ATOM   2058    O SER A 429      16.143  16.010   4.637  0.00  0.00           O 0
+ATOM   2072    N ASP A 431      15.706  19.940   4.208  0.00  0.00           N 0
+ATOM   2059   CB SER A 429      18.732  15.348   3.152  0.00  0.00           C 0
+ATOM   2076   CB ASP A 431      14.074  21.453   3.261  0.00  0.00           C 0
+ATOM   2084   CB LYS A 432      19.172  23.271   0.860  0.00  0.00           C 0
+ATOM   2095  OD1 ASP A 433      15.831  26.785  -0.952  0.00  0.00           O 0
+TER
+END

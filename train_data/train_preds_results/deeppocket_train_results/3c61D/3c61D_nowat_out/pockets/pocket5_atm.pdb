@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0276
+HEADER 1  - Drug Score                        : 0.2114
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8872
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4774
+HEADER 5  - Mean B-factor of pocket residues  : 0.3516
+HEADER 6  - Hydrophobicity Score              : 6.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.0862
+HEADER 10 - Pocket volume (convex hull)       : 6.8659
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 13.7333
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM    249  CG1 VAL D  31     -28.536  93.123  24.909  0.00  0.00           C 0
+ATOM    276   CG GLU D  35     -27.022  96.146  22.747  0.00  0.00           C 0
+ATOM    690   CB ASP D  89     -34.441  98.286  23.618  0.00  0.00           C 0
+ATOM    279  OE2 GLU D  35     -26.436  95.926  25.031  0.69  5.36           O 0
+ATOM    693  OD2 ASP D  89     -33.200 100.311  23.912  0.00  0.00           O 0
+ATOM    250  CG2 VAL D  31     -30.398  91.510  25.464  0.00  0.00           C 0
+ATOM    686    N ASP D  89     -35.970  96.360  23.578  0.69  2.19           N 0
+ATOM    647   OH TYR D  83     -34.220  92.224  22.147  0.68  2.14           O 0
+ATOM    670    O GLN D  87     -36.305  94.820  26.499  0.00  0.00           O 0
+ATOM    716   CD ARG D  92     -30.310 100.105  19.998  0.00  0.00           C 0
+ATOM    270  CG2 THR D  34     -32.255  96.317  20.765  0.00  0.00           C 0
+ATOM    268   CB THR D  34     -31.589  94.939  20.545  0.00  0.00           C 0
+ATOM    247    O VAL D  31     -28.494  93.473  21.804  0.00  0.00           O 0
+ATOM    245   CA VAL D  31     -29.710  91.843  23.063  0.00  0.00           C 0
+ATOM    644  CE1 TYR D  83     -34.885  90.850  23.979  0.00  0.00           C 0
+ATOM    671   CB GLN D  87     -36.835  91.716  27.450  0.00  0.00           C 0
+ATOM    675  NE2 GLN D  87     -35.451  89.233  28.030  0.88  2.19           N 0
+TER
+END

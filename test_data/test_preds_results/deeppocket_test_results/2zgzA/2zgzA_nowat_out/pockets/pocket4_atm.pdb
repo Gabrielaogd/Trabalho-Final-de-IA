@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : -0.0079
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9380
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5916
+HEADER 5  - Mean B-factor of pocket residues  : 0.3319
+HEADER 6  - Hydrophobicity Score              : 5.1429
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 284.0648
+HEADER 10 - Pocket volume (convex hull)       : 13.0759
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM    149  OE2 GLU A  18      21.954  -0.941 -14.248  0.00  0.00           O 0
+ATOM    715    C GLY A  90      20.004  -5.992 -13.010  0.00  0.00           C 0
+ATOM    710    O SER A  89      18.074  -4.318 -10.315  0.00  0.00           O 0
+ATOM    714   CA GLY A  90      18.620  -6.012 -12.387  0.00  0.00           C 0
+ATOM    716    O GLY A  90      20.155  -6.130 -14.225  0.00  0.00           O 0
+ATOM    195    O GLN A  25      16.438   0.819  -5.988  0.00  0.00           O 0
+ATOM    190   CE LYS A  24      17.968   3.280 -11.927  0.00  0.00           C 0
+ATOM    189   CD LYS A  24      18.714   1.970 -12.157  0.00  0.00           C 0
+ATOM    191   NZ LYS A  24      16.757   3.407 -12.802  0.00  0.00           N 0
+ATOM    129  CZ2 TRP A  16      20.914  -1.444  -9.988  0.00  0.00           C 0
+ATOM    207  ND1 HIS A  26      15.995  -4.081  -5.855  0.00  0.00           N 0
+ATOM    205   CB HIS A  26      18.016  -2.585  -5.602  0.00  0.00           C 0
+ATOM    131  CH2 TRP A  16      20.291  -1.657  -8.782  0.00  0.00           C 0
+ATOM    148  OE1 GLU A  18      20.920   0.884 -14.910  0.00  0.00           O 0
+ATOM    187   CB LYS A  24      19.728   1.668  -9.830  0.00  0.00           C 0
+ATOM    192    N GLN A  25      18.557   2.450  -6.899  0.57  2.19           N 0
+TER
+END

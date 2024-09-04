@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.1196
+HEADER 1  - Drug Score                        : 0.0831
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0976
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6477
+HEADER 5  - Mean B-factor of pocket residues  : 0.1475
+HEADER 6  - Hydrophobicity Score              : 14.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.7611
+HEADER 10 - Pocket volume (convex hull)       : 3.8135
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.8824
+ATOM    740   CB PRO A 118      12.097   7.553  24.911  0.00  0.00           C 0
+ATOM    574    N ALA A  98      10.643   0.897  24.875  0.69  3.28           N 0
+ATOM    768  OE1 GLN A 121      16.495   7.349  24.912  0.78  4.29           O 0
+ATOM    578   CB ALA A  98      12.603   0.047  26.029  0.00  0.00           C 0
+ATOM    614  CZ3 TRP A 102      12.107   3.190  28.197  0.00  0.00           C 0
+ATOM    734  CG1 VAL A 117      16.363   6.366  28.412  0.00  0.00           C 0
+ATOM    615  CH2 TRP A 102      12.666   3.078  29.474  0.00  0.00           C 0
+ATOM    733   CB VAL A 117      15.030   6.024  29.051  0.00  0.00           C 0
+ATOM    735  CG2 VAL A 117      15.264   5.300  30.374  0.00  0.00           C 0
+ATOM    559    O PRO A  96       9.202   2.581  20.685  0.00  0.00           O 0
+ATOM    564   CA ARG A  97       9.072   2.097  23.463  0.00  0.00           C 0
+ATOM    568   CG ARG A  97       8.380   4.530  23.800  0.00  0.00           C 0
+ATOM    741   CG PRO A 118      11.418   6.710  25.925  0.00  0.00           C 0
+ATOM    742   CD PRO A 118      12.451   6.400  26.962  0.00  0.00           C 0
+TER
+END

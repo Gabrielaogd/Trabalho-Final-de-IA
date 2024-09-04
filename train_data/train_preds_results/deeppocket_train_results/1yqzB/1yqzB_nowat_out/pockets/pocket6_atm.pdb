@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0544
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.5261
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4178
+HEADER 5  - Mean B-factor of pocket residues  : 0.2845
+HEADER 6  - Hydrophobicity Score              : 50.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 100.5585
+HEADER 10 - Pocket volume (convex hull)       : 1.4751
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6471
+ATOM   1249  CD1 TYR B 158      19.926   6.618  33.012  0.00  0.00           C 0
+ATOM   2354  CD2 LEU B 294      14.914   6.463  31.585  0.00  0.00           C 0
+ATOM   1484  CD1 LEU B 186      18.876   2.719  30.610  0.00  0.00           C 0
+ATOM   1251  CE1 TYR B 158      18.654   6.469  33.575  0.00  0.00           C 0
+ATOM   2581    O ILE B 325      19.441   8.973  27.566  0.56  5.36           O 0
+ATOM   1248   CG TYR B 158      20.552   7.860  32.965  0.00  0.00           C 0
+ATOM   1250  CD2 TYR B 158      19.871   8.958  33.504  0.00  0.00           C 0
+ATOM   1252  CE2 TYR B 158      18.593   8.815  34.076  0.00  0.00           C 0
+ATOM   1253   CZ TYR B 158      17.993   7.563  34.107  0.00  0.00           C 0
+ATOM   2574   CB ASN B 324      17.012   4.288  27.348  0.00  0.00           C 0
+ATOM   2578    N ILE B 325      18.298   6.869  26.172  0.00  0.00           N 0
+ATOM   2576  OD1 ASN B 324      19.278   3.567  27.155  0.47  2.14           O 0
+ATOM   1467  OD1 ASN B 184      24.577   4.712  30.202  0.62  2.14           O 0
+ATOM   1247   CB TYR B 158      21.913   8.015  32.331  0.00  0.00           C 0
+TER
+END

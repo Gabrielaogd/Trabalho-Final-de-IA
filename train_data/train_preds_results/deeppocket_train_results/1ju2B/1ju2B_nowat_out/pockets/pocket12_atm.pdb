@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0476
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9743
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5763
+HEADER 5  - Mean B-factor of pocket residues  : 0.2277
+HEADER 6  - Hydrophobicity Score              : 44.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 216.4823
+HEADER 10 - Pocket volume (convex hull)       : 6.2900
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   3792   OH TYR B 492      25.708  57.397  61.465  0.00  0.00           O 0
+ATOM   3779   CG PRO B 491      28.842  53.398  62.489  0.00  0.00           C 0
+ATOM   3608   NZ LYS B 468      26.608  49.918  56.347  0.00  0.00           N 0
+ATOM   3778   CB PRO B 491      29.688  54.388  61.745  0.00  0.00           C 0
+ATOM   3587  CD1 LEU B 465      30.846  51.920  58.868  0.00  0.00           C 0
+ATOM   2825  CE2 TYR B 368      28.768  58.955  55.442  0.00  0.00           C 0
+ATOM   2805    O LEU B 366      28.168  61.258  58.962  0.53  4.29           O 0
+ATOM   2823  CD2 TYR B 368      29.686  59.268  56.440  0.00  0.00           C 0
+ATOM   2246  CD2 PHE B 294      30.419  54.832  55.235  0.00  0.00           C 0
+ATOM   2248  CE2 PHE B 294      29.541  54.445  54.221  0.00  0.00           C 0
+ATOM   2267  NE2 HIS B 296      31.240  57.047  59.729  0.87  1.09           N 0
+ATOM   3607   CE LYS B 468      27.453  50.277  55.175  0.00  0.00           C 0
+ATOM   2266  CE1 HIS B 296      30.528  58.063  60.182  0.00  0.00           C 0
+TER
+END

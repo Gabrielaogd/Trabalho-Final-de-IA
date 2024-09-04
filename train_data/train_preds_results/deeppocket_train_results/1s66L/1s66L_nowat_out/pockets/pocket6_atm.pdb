@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.1124
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9990
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5503
+HEADER 5  - Mean B-factor of pocket residues  : 0.2578
+HEADER 6  - Hydrophobicity Score              : -22.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 438.5191
+HEADER 10 - Pocket volume (convex hull)       : 36.3713
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2917
+ATOM    539   CZ ARG L  82      55.259  30.945  31.345  0.00  0.00           C 0
+ATOM    541  NH2 ARG L  82      56.421  31.589  31.358  0.00  0.00           N 0
+ATOM    540  NH1 ARG L  82      55.177  29.765  30.732  0.00  0.00           N 0
+ATOM    510  OE2 GLU L  79      52.880  35.805  26.198  0.00  0.00           O 0
+ATOM    538   NE ARG L  82      54.198  31.492  31.945  0.69  7.66           N 0
+ATOM    505    O GLU L  79      50.781  36.454  32.045  0.61  7.50           O 0
+ATOM    546   CB HIS L  83      52.756  37.270  34.817  0.00  0.00           C 0
+ATOM    542    N HIS L  83      51.749  35.028  34.910  0.00  0.00           N 0
+ATOM    507   CG GLU L  79      51.196  35.289  27.804  0.00  0.00           C 0
+ATOM    543   CA HIS L  83      52.711  35.925  35.552  0.00  0.00           C 0
+ATOM    576   CG GLU L  86      55.221  31.905  37.168  0.00  0.00           C 0
+ATOM    549  CD2 HIS L  83      54.904  38.453  35.676  0.00  0.00           C 0
+ATOM    506   CB GLU L  79      50.674  36.192  28.912  0.00  0.00           C 0
+ATOM    575   CB GLU L  86      55.647  32.943  38.201  0.00  0.00           C 0
+ATOM    503   CA GLU L  79      49.959  35.434  30.035  0.00  0.00           C 0
+ATOM    534    O ARG L  82      52.327  33.213  36.111  0.00  0.00           O 0
+ATOM    537   CD ARG L  82      52.861  30.899  32.012  0.00  0.00           C 0
+ATOM    499   CB PRO L  78      46.827  32.521  28.421  0.00  0.00           C 0
+ATOM    498    O PRO L  78      48.564  33.227  31.050  0.43  7.50           O 0
+ATOM    497    C PRO L  78      48.066  33.883  30.137  0.00  0.00           C 0
+TER
+END

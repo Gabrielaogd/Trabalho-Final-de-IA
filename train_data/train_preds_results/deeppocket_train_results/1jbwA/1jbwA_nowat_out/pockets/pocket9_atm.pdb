@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0028
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7706
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4334
+HEADER 5  - Mean B-factor of pocket residues  : 0.0994
+HEADER 6  - Hydrophobicity Score              : 33.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 140.2910
+HEADER 10 - Pocket volume (convex hull)       : 1.5818
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   1230   CB THR A 157      19.258  11.873  37.163  0.00  0.00           C 0
+ATOM   1226    N THR A 157      17.666  10.449  35.896  0.54  2.19           N 0
+ATOM   1229    O THR A 157      20.077   9.130  36.574  0.00  0.00           O 0
+ATOM    295    O GLN A  37      16.121   7.718  42.591  0.00  0.00           O 0
+ATOM    286    O GLN A  36      14.671   7.109  38.474  0.50  2.14           O 0
+ATOM    313    O GLY A  39      19.824   5.033  40.395  0.32  4.29           O 0
+ATOM    333  CE1 TYR A  41      17.110   5.224  37.362  0.00  0.00           C 0
+ATOM   1219   CA ILE A 156      15.463   9.817  35.097  0.00  0.00           C 0
+ATOM   1214    O VAL A 155      12.866  10.289  36.059  0.78  6.43           O 0
+ATOM    293   CA GLN A  37      14.278   7.954  41.094  0.00  0.00           C 0
+ATOM   1231  OG1 THR A 157      18.287  12.898  37.349  0.39  9.64           O 0
+ATOM    297   CG GLN A  37      12.734   9.909  41.347  0.00  0.00           C 0
+ATOM    296   CB GLN A  37      13.488   8.831  42.052  0.00  0.00           C 0
+TER
+END

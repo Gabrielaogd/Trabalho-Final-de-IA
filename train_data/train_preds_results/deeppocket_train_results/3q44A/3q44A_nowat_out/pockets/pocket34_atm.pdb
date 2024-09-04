@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : -0.0656
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1182
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6936
+HEADER 5  - Mean B-factor of pocket residues  : 0.4771
+HEADER 6  - Hydrophobicity Score              : 2.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 336.6608
+HEADER 10 - Pocket volume (convex hull)       : 15.8585
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM    234   CD GLU A 224      15.837  33.283  34.580  0.00  0.00           C 0
+ATOM    235  OE1 GLU A 224      15.708  32.509  35.567  0.00  0.00           O 0
+ATOM    223   CB GLN A 223      21.239  31.797  34.727  0.00  0.00           C 0
+ATOM    226  OE1 GLN A 223      22.592  33.161  37.058  0.00  0.00           O 0
+ATOM    236  OE2 GLU A 224      15.328  34.423  34.539  0.45  8.57           O 0
+ATOM    233   CG GLU A 224      16.654  32.826  33.359  0.00  0.00           C 0
+ATOM    213  NE2 HIS A 221      16.185  37.679  29.059  0.80  3.28           N 0
+ATOM    251  CD1 ILE A 226      12.637  35.986  31.903  0.00  0.00           C 0
+ATOM    212  CE1 HIS A 221      17.240  38.460  29.230  0.00  0.00           C 0
+ATOM    210  ND1 HIS A 221      18.257  37.709  29.609  0.79  8.75           N 0
+ATOM    208   CB HIS A 221      18.749  35.279  30.103  0.00  0.00           C 0
+ATOM    218   CB ASP A 222      23.631  34.150  31.366  0.00  0.00           C 0
+ATOM    214    N ASP A 222      21.490  34.150  30.102  0.67  4.37           N 0
+ATOM    211  CD2 HIS A 221      16.535  36.383  29.340  0.00  0.00           C 0
+ATOM    219    N GLN A 223      21.369  32.352  32.311  0.60  1.09           N 0
+ATOM    209   CG HIS A 221      17.840  36.392  29.696  0.00  0.00           C 0
+TER
+END

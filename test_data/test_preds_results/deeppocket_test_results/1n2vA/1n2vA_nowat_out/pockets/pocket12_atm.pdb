@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0112
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8623
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5370
+HEADER 5  - Mean B-factor of pocket residues  : 0.0944
+HEADER 6  - Hydrophobicity Score              : 0.4444
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 212.3067
+HEADER 10 - Pocket volume (convex hull)       : 6.3036
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   2664   CB GLN A 355      15.226   0.759   6.772  0.00  0.00           C 0
+ATOM    396   CA GLY A  63      12.108  -2.069   7.683  0.00  0.00           C 0
+ATOM   2663    O GLN A 355      18.207  -0.501   6.947  0.48  2.14           O 0
+ATOM    398    O GLY A  63      12.823  -1.997   9.964  0.81  1.07           O 0
+ATOM   2702  NE2 GLN A 359      18.265  -5.397   8.645  0.60  5.47           N 0
+ATOM   2377  NE2 HIS A 319      15.735  -3.460   1.164  0.00  0.00           N 0
+ATOM   2699   CG GLN A 359      19.874  -5.089   6.855  0.00  0.00           C 0
+ATOM   2376  CE1 HIS A 319      16.552  -4.485   0.993  0.00  0.00           C 0
+ATOM   2730  NH2 ARG A 362      17.966  -3.407  10.471  0.00  0.00           N 0
+ATOM   2674   CG GLN A 356      17.681  -1.088   2.117  0.00  0.00           C 0
+ATOM   2670   CA GLN A 356      18.861  -0.371   4.276  0.00  0.00           C 0
+ATOM   2669    N GLN A 356      17.889   0.489   4.947  0.00  0.00           N 0
+ATOM   2662    C GLN A 355      17.654   0.359   6.252  0.00  0.00           C 0
+ATOM    223  NH2 ARG A  38      14.074  -4.493  10.605  0.00  0.00           N 0
+ATOM    222  NH1 ARG A  38      15.607  -6.168  10.255  0.00  0.00           N 0
+ATOM   2698   CB GLN A 359      19.916  -3.567   6.926  0.00  0.00           C 0
+ATOM    391    O THR A  62      12.860  -0.741   5.407  0.53  4.29           O 0
+ATOM    386    O ALA A  61       9.725  -2.694   4.118  0.00  0.00           O 0
+TER
+END

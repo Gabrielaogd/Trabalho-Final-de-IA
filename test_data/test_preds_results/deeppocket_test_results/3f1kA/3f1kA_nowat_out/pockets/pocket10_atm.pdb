@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0451
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0518
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6682
+HEADER 5  - Mean B-factor of pocket residues  : 0.2340
+HEADER 6  - Hydrophobicity Score              : -3.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 2.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 238.4782
+HEADER 10 - Pocket volume (convex hull)       : 3.9540
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   1342   CA ASP A 181       8.710  24.383  25.400  0.00  0.00           C 0
+ATOM   1345   CB ASP A 181       7.759  24.229  26.588  0.00  0.00           C 0
+ATOM   1377  OE1 GLN A 184       7.152  22.491  22.026  0.80  5.36           O 0
+ATOM   1341    N ASP A 181      10.054  23.971  25.764  0.00  0.00           N 0
+ATOM   1315    O GLN A 177      10.681  24.804  28.572  0.76  1.07           O 0
+ATOM   1778    O GLY A 237      12.474  18.427  29.151  0.43  4.29           O 0
+ATOM   1340   CB ALA A 180      12.559  22.497  26.296  0.00  0.00           C 0
+ATOM   1313   CA GLN A 177      12.138  23.889  30.234  0.00  0.00           C 0
+ATOM   1316   CB GLN A 177      11.358  23.492  31.475  0.00  0.00           C 0
+ATOM   1774  CG2 THR A 236      11.952  19.050  23.033  0.00  0.00           C 0
+ATOM   1339    O ALA A 180      10.771  23.823  23.625  0.00  0.00           O 0
+ATOM   1317   CG GLN A 177      11.990  22.356  32.245  0.00  0.00           C 0
+ATOM   1319  OE1 GLN A 177      10.123  22.595  33.708  0.00  0.00           O 0
+ATOM   1318   CD GLN A 177      11.188  22.020  33.476  0.00  0.00           C 0
+ATOM   1338    C ALA A 180      11.006  23.835  24.845  0.00  0.00           C 0
+ATOM   1776   CA GLY A 237      13.041  19.466  27.087  0.00  0.00           C 0
+ATOM   1771    O THR A 236      12.480  17.312  25.442  0.55  5.36           O 0
+TER
+END

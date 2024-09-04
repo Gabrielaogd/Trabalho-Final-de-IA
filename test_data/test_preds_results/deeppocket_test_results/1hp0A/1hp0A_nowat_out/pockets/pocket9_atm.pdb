@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0218
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9551
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6718
+HEADER 5  - Mean B-factor of pocket residues  : 0.3835
+HEADER 6  - Hydrophobicity Score              : -7.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 225.3174
+HEADER 10 - Pocket volume (convex hull)       : 6.4498
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    210   NZ LYS A  28      29.518  40.203  -8.281  0.00  0.00           N 0
+ATOM   2027   CG ASP A 270      29.400  33.947  -5.969  0.00  0.00           C 0
+ATOM   2028  OD1 ASP A 270      29.095  33.114  -6.851  0.00  0.00           O 0
+ATOM   2029  OD2 ASP A 270      30.467  34.598  -5.986  0.70  4.29           O 0
+ATOM    209   CE LYS A  28      29.922  39.859  -6.876  0.00  0.00           C 0
+ATOM   2030    N GLN A 271      26.036  32.492  -6.758  0.61  2.19           N 0
+ATOM   2038  NE2 GLN A 271      23.949  31.737 -11.021  0.00  0.00           N 0
+ATOM   2034   CB GLN A 271      24.943  31.246  -8.552  0.00  0.00           C 0
+ATOM   2036   CD GLN A 271      23.324  32.434 -10.068  0.00  0.00           C 0
+ATOM   2037  OE1 GLN A 271      22.463  33.283 -10.319  0.00  0.00           O 0
+ATOM   2035   CG GLN A 271      23.723  32.131  -8.631  0.00  0.00           C 0
+ATOM   2018    O VAL A 269      26.425  36.887  -4.870  0.00  0.00           O 0
+ATOM    207   CG LYS A  28      27.627  39.853  -5.886  0.00  0.00           C 0
+ATOM     20   NZ LYS A   3      21.381  36.629  -7.036  0.62  5.47           N 0
+ATOM     19   CE LYS A   3      21.309  37.986  -6.430  0.00  0.00           C 0
+ATOM    205    O LYS A  28      23.754  41.622  -5.577  0.77  2.14           O 0
+ATOM   2023   CA ASP A 270      26.972  34.165  -5.249  0.00  0.00           C 0
+TER
+END

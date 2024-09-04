@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0022
+HEADER 1  - Drug Score                        : 0.0388
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8018
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5111
+HEADER 5  - Mean B-factor of pocket residues  : 0.1399
+HEADER 6  - Hydrophobicity Score              : 42.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 235.0240
+HEADER 10 - Pocket volume (convex hull)       : 7.1000
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 16.9474
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.9500
+ATOM   1419   OH TYR A 181      24.204  29.751  10.845  0.00  0.00           O 0
+ATOM   1085   CB ASP A 141      25.965  26.020   4.977  0.00  0.00           C 0
+ATOM   1050  CG2 THR A 137      25.430  30.194   3.386  0.00  0.00           C 0
+ATOM   1088  OD2 ASP A 141      27.419  27.705   4.147  0.72  4.29           O 0
+ATOM   1020   CE MET A 133      21.735  31.409   7.237  0.00  0.00           C 0
+ATOM   1094  CG1 ILE A 142      21.793  26.113   7.307  0.00  0.00           C 0
+ATOM   1416  CE1 TYR A 181      22.975  27.706  10.992  0.00  0.00           C 0
+ATOM   1047    O THR A 137      23.996  27.485   2.895  0.00  0.00           O 0
+ATOM   1084    O ASP A 141      24.755  23.690   6.608  0.56  3.21           O 0
+ATOM   1680  CD1 LEU A 215      24.226  24.006  11.659  0.00  0.00           C 0
+ATOM   1690  CE1 HIS A 216      27.380  25.896  14.906  0.00  0.00           C 0
+ATOM   1096  CD1 ILE A 142      20.958  27.343   7.560  0.00  0.00           C 0
+ATOM   1019   SD MET A 133      21.199  30.986   5.576  0.00  0.00           S 0
+ATOM   1681  CD2 LEU A 215      25.834  22.612  10.347  0.00  0.00           C 0
+ATOM   1678   CB LEU A 215      25.944  22.649  12.845  0.00  0.00           C 0
+ATOM   1677    O LEU A 215      29.032  22.076  13.779  0.48  4.29           O 0
+TER
+END

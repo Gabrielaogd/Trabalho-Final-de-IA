@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2147
+HEADER 1  - Drug Score                        : 0.0198
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9433
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5815
+HEADER 5  - Mean B-factor of pocket residues  : 0.2921
+HEADER 6  - Hydrophobicity Score              : 50.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 370.3107
+HEADER 10 - Pocket volume (convex hull)       : 25.4490
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.6000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.3846
+ATOM    612   OH TYR D  76      -6.452  24.826  30.532  0.00  0.00           O 0
+ATOM    610  CE2 TYR D  76      -6.203  26.581  28.933  0.00  0.00           C 0
+ATOM    616    O LEU D  77      -8.798  32.036  30.639  0.00  0.00           O 0
+ATOM    620  CD2 LEU D  77      -4.769  30.470  29.061  0.00  0.00           C 0
+ATOM    604    O TYR D  76      -9.655  28.915  28.789  0.47  3.21           O 0
+ATOM    611   CZ TYR D  76      -6.881  25.468  29.385  0.00  0.00           C 0
+ATOM    636  OE2 GLU D  79     -11.450  29.677  34.198  0.56  8.57           O 0
+ATOM    614   CA LEU D  77      -7.858  30.986  28.699  0.00  0.00           C 0
+ATOM    633   CG GLU D  79     -12.044  29.299  32.037  0.00  0.00           C 0
+ATOM    634   CD GLU D  79     -12.318  29.183  33.539  0.00  0.00           C 0
+ATOM    187   CE LYS D  23     -13.905  24.913  32.514  0.00  0.00           C 0
+ATOM    192    O ILE D  24     -11.495  24.182  28.501  0.65  3.21           O 0
+ATOM    186   CD LYS D  23     -14.388  25.931  31.502  0.00  0.00           C 0
+ATOM    200    O PHE D  25      -8.747  21.700  29.552  0.60  8.57           O 0
+ATOM    635  OE1 GLU D  79     -13.329  28.763  34.072  0.86  4.29           O 0
+ATOM    609  CE1 TYR D  76      -7.991  25.028  28.721  0.00  0.00           C 0
+ATOM    198   CA PHE D  25     -10.966  21.438  28.659  0.00  0.00           C 0
+ATOM    205  CE1 PHE D  25     -10.736  18.539  32.104  0.00  0.00           C 0
+ATOM    203  CD1 PHE D  25     -11.300  19.254  31.051  0.00  0.00           C 0
+ATOM    188   NZ LYS D  23     -14.883  23.925  32.965  0.62  5.47           N 0
+TER
+END

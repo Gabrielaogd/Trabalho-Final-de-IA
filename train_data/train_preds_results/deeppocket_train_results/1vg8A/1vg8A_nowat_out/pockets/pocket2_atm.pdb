@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.0994
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8374
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5623
+HEADER 5  - Mean B-factor of pocket residues  : 0.4609
+HEADER 6  - Hydrophobicity Score              : 2.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 300.1519
+HEADER 10 - Pocket volume (convex hull)       : 15.7708
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0526
+ATOM   1232   CB ALA A1159      -0.900 -13.508  25.248  0.00  0.00           C 0
+ATOM   1253   CB VAL A1162      -1.529 -11.469  30.256  0.00  0.00           C 0
+ATOM    148   CG GLN A1027      -1.985  -9.582  26.200  0.00  0.00           C 0
+ATOM   1263  OE1 GLU A1163      -6.324 -13.107  29.627  0.60  9.64           O 0
+ATOM    150  OE1 GLN A1027      -3.324 -10.239  24.338  0.38  4.29           O 0
+ATOM    146    O GLN A1027      -5.320  -8.681  26.379  0.54  2.14           O 0
+ATOM    187   NZ LYS A1031      -7.895 -13.603  25.879  0.58  8.75           N 0
+ATOM   1231    O ALA A1159      -0.144 -15.369  27.116  0.46  8.57           O 0
+ATOM   1256    N GLU A1163      -3.447 -13.398  31.696  0.58  2.19           N 0
+ATOM   1242   CA ASN A1161       0.702 -15.328  32.179  0.00  0.00           C 0
+ATOM   1265    N GLN A1164      -3.592 -15.036  33.974  0.00  0.00           N 0
+ATOM   1260   CB GLU A1163      -5.391 -14.905  31.549  0.00  0.00           C 0
+ATOM   1241    N ASN A1161       1.011 -15.621  30.767  0.00  0.00           N 0
+ATOM   1272  OE1 GLN A1164      -0.751 -19.193  35.466  0.00  0.00           O 0
+ATOM   1269   CB GLN A1164      -2.154 -16.546  35.227  0.00  0.00           C 0
+ATOM   1247  OD1 ASN A1161       1.398 -16.932  34.594  0.00  0.00           O 0
+ATOM   1246   CG ASN A1161       2.240 -16.523  33.759  0.00  0.00           C 0
+ATOM   1248  ND2 ASN A1161       3.392 -17.170  33.494  0.35  5.47           N 0
+TER
+END

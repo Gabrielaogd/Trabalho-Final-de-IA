@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0456
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.2363
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7267
+HEADER 5  - Mean B-factor of pocket residues  : 0.1179
+HEADER 6  - Hydrophobicity Score              : -3.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 358.1691
+HEADER 10 - Pocket volume (convex hull)       : 8.9051
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM    911   CA ASN A  55      14.177 -13.603   5.296  0.00  0.00           C 0
+ATOM    861    O GLU A  51      16.034 -12.420   1.179  0.65  4.29           O 0
+ATOM    799  CG1 VAL A  47      18.948 -11.080   2.992  0.00  0.00           C 0
+ATOM    865  OE1 GLU A  51      20.645 -14.566   0.202  0.00  0.00           O 0
+ATOM    906    O GLY A  54      13.486 -15.804   3.831  0.00  0.00           O 0
+ATOM    904   CA GLY A  54      13.213 -14.639   1.798  0.00  0.00           C 0
+ATOM    914   CB ASN A  55      15.125 -12.432   5.547  0.00  0.00           C 0
+ATOM    862   CB GLU A  51      18.562 -12.811  -0.286  0.00  0.00           C 0
+ATOM    917  ND2 ASN A  55      16.646 -12.880   7.355  0.00  0.00           N 0
+ATOM    910    N ASN A  55      13.776 -13.598   3.896  0.00  0.00           N 0
+ATOM    863   CG GLU A  51      19.298 -13.518  -1.423  0.00  0.00           C 0
+ATOM    905    C GLY A  54      13.508 -14.707   3.263  0.00  0.00           C 0
+ATOM    859   CA GLU A  51      17.300 -12.092  -0.795  0.00  0.00           C 0
+ATOM    903    N GLY A  54      13.135 -13.303   1.260  0.67  1.09           N 0
+ATOM    846    O GLU A  50      16.155 -11.565  -3.303  0.39  4.29           O 0
+ATOM    800  CG2 VAL A  47      19.720 -11.101   5.411  0.00  0.00           C 0
+ATOM    897   OG SER A  53      11.833 -11.678  -1.440  0.00  0.00           O 0
+TER
+END

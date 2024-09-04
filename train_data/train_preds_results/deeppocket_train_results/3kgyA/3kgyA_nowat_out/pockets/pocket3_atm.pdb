@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0245
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6022
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4019
+HEADER 5  - Mean B-factor of pocket residues  : 0.1772
+HEADER 6  - Hydrophobicity Score              : 29.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 93.3826
+HEADER 10 - Pocket volume (convex hull)       : 1.1114
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   1601    O GLN A 192      34.611   5.876  33.463  0.43  3.21           O 0
+ATOM   1767   CB ARG A 211      35.823   9.359  35.320  0.00  0.00           C 0
+ATOM   1772  NH1 ARG A 211      38.371   7.997  37.571  0.45  6.56           N 0
+ATOM   1355    O VAL A 164      39.664   9.749  33.958  0.00  0.00           O 0
+ATOM   1598    N GLN A 192      36.112   3.509  33.063  0.62  3.28           N 0
+ATOM   1595   CB PRO A 191      39.144   3.796  31.685  0.00  0.00           C 0
+ATOM   1341   CA GLY A 162      42.568   5.289  36.657  0.00  0.00           C 0
+ATOM   1343    O GLY A 162      41.695   7.248  37.646  0.00  0.00           O 0
+ATOM   1342    C GLY A 162      42.570   6.761  36.957  0.00  0.00           C 0
+ATOM   1592   CA PRO A 191      38.393   2.833  32.634  0.00  0.00           C 0
+ATOM   1319    O LEU A 159      43.382   3.882  33.470  0.22  1.07           O 0
+ATOM   1352    N VAL A 164      42.526   9.388  34.594  0.00  0.00           N 0
+ATOM   1356   CB VAL A 164      42.029   9.674  32.221  0.00  0.00           C 0
+ATOM   1323  CD2 LEU A 159      42.059   6.490  29.776  0.00  0.00           C 0
+ATOM   1617   CZ PHE A 193      38.205   7.612  30.483  0.00  0.00           C 0
+ATOM   1615  CE1 PHE A 193      37.286   8.553  30.969  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0599
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8045
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5942
+HEADER 5  - Mean B-factor of pocket residues  : 0.0871
+HEADER 6  - Hydrophobicity Score              : 30.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 151.3996
+HEADER 10 - Pocket volume (convex hull)       : 4.4071
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   1784   CE LYS A1220      -4.717 -24.760 -22.567  0.00  0.00           C 0
+ATOM   2491   CB PHE A1307      -1.035 -22.541 -21.011  0.00  0.00           C 0
+ATOM   1785   NZ LYS A1220      -5.517 -24.658 -21.295  0.00  0.00           N 0
+ATOM   2490    O PHE A1307       1.021 -24.825 -21.579  0.52  1.07           O 0
+ATOM   1752    O GLY A1216       2.587 -28.375 -21.231  0.72  4.29           O 0
+ATOM   2505    N ALA A1309       1.340 -25.812 -17.082  0.00  0.00           N 0
+ATOM   2506   CA ALA A1309       0.244 -26.255 -16.242  0.00  0.00           C 0
+ATOM   2509   CB ALA A1309       0.656 -27.515 -15.468  0.00  0.00           C 0
+ATOM   2500    C VAL A1308       1.125 -24.767 -17.935  0.00  0.00           C 0
+ATOM   1765   CB GLN A1218      -1.230 -27.257 -23.511  0.00  0.00           C 0
+ATOM   1766   CG GLN A1218      -2.562 -27.574 -24.251  0.00  0.00           C 0
+ATOM   2501    O VAL A1308       0.175 -24.013 -17.811  0.52  2.14           O 0
+ATOM   2508    O ALA A1309      -1.419 -25.218 -14.927  0.33  5.36           O 0
+TER
+END

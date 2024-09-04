@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0710
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9783
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6446
+HEADER 5  - Mean B-factor of pocket residues  : 0.0486
+HEADER 6  - Hydrophobicity Score              : 25.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 206.1770
+HEADER 10 - Pocket volume (convex hull)       : 3.8960
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM   1118   CB TRP A 143      50.316  84.723   0.298  0.00  0.00           C 0
+ATOM   1115   CA TRP A 143      50.434  86.121  -0.314  0.00  0.00           C 0
+ATOM   1124  CE3 TRP A 143      50.004  84.183  -3.036  0.00  0.00           C 0
+ATOM   1117    O TRP A 143      49.023  86.853   1.473  0.58  4.29           O 0
+ATOM   1138  OG1 THR A 145      45.540  89.266   0.510  0.62  9.64           O 0
+ATOM    855    O PRO A 108      49.702  87.345  -9.530  0.39  5.36           O 0
+ATOM    990    O SER A 126      48.656  89.760  -5.611  0.79  5.36           O 0
+ATOM    869  OG1 THR A 110      47.015  88.710  -9.739  0.68  9.64           O 0
+ATOM   1126  CZ3 TRP A 143      50.067  83.750  -4.366  0.00  0.00           C 0
+ATOM    987    N SER A 126      50.835  88.639  -4.678  0.82  2.19           N 0
+ATOM    997   CB TYR A 127      45.517  90.322  -3.604  0.00  0.00           C 0
+ATOM    989    C SER A 126      48.779  89.830  -4.373  0.00  0.00           C 0
+ATOM   1131    O ALA A 144      48.508  89.765  -0.481  0.53  1.07           O 0
+ATOM    988   CA SER A 126      49.966  89.184  -3.649  0.00  0.00           C 0
+ATOM   1116    C TRP A 143      49.897  87.153   0.650  0.00  0.00           C 0
+ATOM    993    N TYR A 127      47.939  90.480  -3.587  0.00  0.00           N 0
+TER
+END

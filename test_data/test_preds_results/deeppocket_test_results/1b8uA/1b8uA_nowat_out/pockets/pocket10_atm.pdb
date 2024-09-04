@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0125
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7151
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5514
+HEADER 5  - Mean B-factor of pocket residues  : 0.2603
+HEADER 6  - Hydrophobicity Score              : 40.7500
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 178.4919
+HEADER 10 - Pocket volume (convex hull)       : 2.2872
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4737
+ATOM   1275   CA THR A 174      56.330   3.897  45.736  0.00  0.00           C 0
+ATOM   1277    O THR A 174      56.711   2.069  47.242  0.50  6.43           O 0
+ATOM   1268    O LYS A 173      57.598   3.221  43.354  0.61  7.50           O 0
+ATOM   1568    O MET A 211      62.559   7.660  46.696  0.00  0.00           O 0
+ATOM   1573    N ILE A 212      60.807   8.957  46.101  0.82  1.09           N 0
+ATOM   1580  CD1 ILE A 212      57.895   8.705  44.977  0.00  0.00           C 0
+ATOM   1574   CA ILE A 212      61.043   8.859  44.663  0.00  0.00           C 0
+ATOM   1272   CE LYS A 173      59.602   5.899  40.419  0.00  0.00           C 0
+ATOM   1576    O ILE A 212      63.241   8.909  43.694  0.13  6.43           O 0
+ATOM   1270   CG LYS A 173      57.439   6.107  41.645  0.00  0.00           C 0
+ATOM   1571   SD MET A 211      57.869   6.860  50.224  0.00  0.00           S 0
+ATOM   1278   CB THR A 174      55.700   4.876  46.731  0.00  0.00           C 0
+ATOM   1569   CB MET A 211      59.909   7.864  48.686  0.00  0.00           C 0
+ATOM   1567    C MET A 211      61.626   8.405  47.000  0.00  0.00           C 0
+ATOM   1578  CG1 ILE A 212      58.641   8.858  43.700  0.00  0.00           C 0
+ATOM   1280  CG2 THR A 174      56.016   6.297  46.332  0.00  0.00           C 0
+TER
+END

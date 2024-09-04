@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0728
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1226
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6270
+HEADER 5  - Mean B-factor of pocket residues  : 0.0246
+HEADER 6  - Hydrophobicity Score              : 35.1667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 305.6476
+HEADER 10 - Pocket volume (convex hull)       : 7.7594
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   1851    O GLU A 277     -17.045  37.070   7.106  0.60  2.14           O 0
+ATOM   1857    N ALA A 278     -18.048  35.064   6.874  0.76  1.09           N 0
+ATOM   1852   CB GLU A 277     -15.456  34.364   8.355  0.00  0.00           C 0
+ATOM   1850    C GLU A 277     -17.233  35.913   7.498  0.00  0.00           C 0
+ATOM   1858   CA ALA A 278     -18.768  35.453   5.664  0.00  0.00           C 0
+ATOM   1855  OE1 GLU A 277     -13.284  32.669   7.911  0.00  0.00           O 0
+ATOM   1861   CB ALA A 278     -19.578  34.259   5.121  0.00  0.00           C 0
+ATOM   1825    O ALA A 274     -18.251  32.083   7.451  0.63  2.14           O 0
+ATOM   1641  ND1 HIS A 250     -16.033  27.643   1.174  0.00  0.00           N 0
+ATOM   1660  CG1 VAL A 253     -20.968  31.526   3.303  0.00  0.00           C 0
+ATOM   1826   CB ALA A 274     -17.681  28.847   7.747  0.00  0.00           C 0
+ATOM   1643  CE1 HIS A 250     -14.808  27.409   1.616  0.00  0.00           C 0
+ATOM   1823   CA ALA A 274     -17.382  30.122   8.539  0.00  0.00           C 0
+ATOM   1638    O HIS A 250     -20.829  27.929   0.092  0.00  0.00           O 0
+ATOM   1659   CB VAL A 253     -21.137  30.010   3.341  0.00  0.00           C 0
+ATOM   1661  CG2 VAL A 253     -20.563  29.453   4.648  0.00  0.00           C 0
+ATOM   1633  CG1 VAL A 249     -18.573  26.146   5.605  0.00  0.00           C 0
+TER
+END

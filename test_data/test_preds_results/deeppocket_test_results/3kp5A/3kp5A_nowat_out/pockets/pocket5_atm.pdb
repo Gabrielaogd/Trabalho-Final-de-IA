@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1984
+HEADER 1  - Drug Score                        : 0.0059
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1378
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7237
+HEADER 5  - Mean B-factor of pocket residues  : 0.0179
+HEADER 6  - Hydrophobicity Score              : 30.2500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.9578
+HEADER 10 - Pocket volume (convex hull)       : 6.0076
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM    975   CB GLU A 138     -20.713 -11.574  -2.994  0.00  0.00           C 0
+ATOM   1010  CD1 TYR A 142     -26.339 -10.189  -7.971  0.00  0.00           C 0
+ATOM   1008   CB TYR A 142     -24.433 -11.848  -8.015  0.00  0.00           C 0
+ATOM    974    O GLU A 138     -22.070 -13.153  -5.671  0.73  1.07           O 0
+ATOM    973    C GLU A 138     -21.049 -12.694  -5.200  0.00  0.00           C 0
+ATOM    979  OE2 GLU A 138     -20.940  -9.360  -1.515  0.00  0.00           O 0
+ATOM    948   CA GLN A 135     -16.705 -10.108  -2.697  0.00  0.00           C 0
+ATOM    951   CB GLN A 135     -15.828  -8.864  -2.756  0.00  0.00           C 0
+ATOM    950    O GLN A 135     -17.421 -10.582  -4.919  0.53  5.36           O 0
+ATOM    981   CA ILE A 139     -20.435 -11.799  -7.347  0.00  0.00           C 0
+ATOM    985  CG1 ILE A 139     -19.847 -10.226  -9.203  0.00  0.00           C 0
+ATOM   1009   CG TYR A 142     -25.279 -10.781  -8.658  0.00  0.00           C 0
+ATOM    984   CB ILE A 139     -19.283 -11.036  -8.021  0.00  0.00           C 0
+ATOM    980    N ILE A 139     -20.165 -12.041  -5.947  0.71  1.09           N 0
+TER
+END

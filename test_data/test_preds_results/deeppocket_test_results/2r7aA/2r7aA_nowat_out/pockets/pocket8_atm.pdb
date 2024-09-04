@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0305
+HEADER 1  - Drug Score                        : 0.0209
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9229
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5749
+HEADER 5  - Mean B-factor of pocket residues  : 0.1567
+HEADER 6  - Hydrophobicity Score              : 1.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 181.5184
+HEADER 10 - Pocket volume (convex hull)       : 2.3076
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6087
+ATOM    243   CB PRO A  56       3.901  18.492 -23.470  0.00  0.00           C 0
+ATOM    244   CG PRO A  56       4.293  18.892 -24.832  0.00  0.00           C 0
+ATOM    260  OE1 GLU A  58       1.545  21.450 -25.019  0.70  8.57           O 0
+ATOM    110    O TYR A  38       7.435  24.521 -25.496  0.37  5.36           O 0
+ATOM     85    O GLU A  35      10.091  20.424 -25.200  0.00  0.00           O 0
+ATOM    245   CD PRO A  56       5.401  17.922 -25.168  0.00  0.00           C 0
+ATOM    236  CE2 TYR A  55       6.158  17.251 -20.369  0.00  0.00           C 0
+ATOM   1797   CG PRO A 261      11.840  19.541 -21.944  0.00  0.00           C 0
+ATOM    123   CB ALA A  39      10.734  23.077 -23.276  0.00  0.00           C 0
+ATOM    234  CD2 TYR A  55       6.444  16.320 -21.370  0.00  0.00           C 0
+ATOM     86   CB GLU A  35      10.398  17.205 -24.489  0.00  0.00           C 0
+ATOM     89  OE1 GLU A  35      10.237  16.152 -21.873  0.53  2.14           O 0
+ATOM    111   CB TYR A  38       6.720  21.505 -26.482  0.00  0.00           C 0
+ATOM    114  CD2 TYR A  38       4.385  21.382 -27.450  0.00  0.00           C 0
+ATOM    119    N ALA A  39       9.152  23.110 -25.156  0.00  0.00           N 0
+ATOM    120   CA ALA A  39       9.660  23.873 -24.019  0.00  0.00           C 0
+ATOM    109    C TYR A  38       8.065  23.506 -25.809  0.00  0.00           C 0
+TER
+END

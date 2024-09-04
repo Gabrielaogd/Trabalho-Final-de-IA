@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0463
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0601
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6529
+HEADER 5  - Mean B-factor of pocket residues  : 0.5192
+HEADER 6  - Hydrophobicity Score              : -8.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 255.2205
+HEADER 10 - Pocket volume (convex hull)       : 4.5316
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   6339  OE1 GLU A 596      13.410  76.389  28.808  0.00  0.00           O 0
+ATOM   6304    O GLU A 592      11.848  72.297  23.774  0.51  4.29           O 0
+ATOM   6306   CG GLU A 592       9.725  69.910  25.066  0.00  0.00           C 0
+ATOM   6308  OE1 GLU A 592       8.190  71.746  25.111  0.00  0.00           O 0
+ATOM   6316  CD1 LEU A 593      15.940  72.165  27.254  0.00  0.00           C 0
+ATOM   6292  OD1 ASP A 590      14.116  67.729  24.448  0.52  8.57           O 0
+ATOM   6293  OD2 ASP A 590      15.820  67.309  25.764  0.00  0.00           O 0
+ATOM   6310    N LEU A 593      13.346  70.648  24.108  0.00  0.00           N 0
+ATOM   6311   CA LEU A 593      14.335  71.552  24.709  0.00  0.00           C 0
+ATOM   6336   CB GLU A 596      13.664  76.697  26.047  0.00  0.00           C 0
+ATOM   6327   CB LYS A 595      10.695  74.944  22.070  0.00  0.00           C 0
+ATOM   6332    N GLU A 596      13.228  76.159  23.675  0.00  0.00           N 0
+ATOM   6314   CB LEU A 593      15.561  70.765  25.172  0.00  0.00           C 0
+TER
+END

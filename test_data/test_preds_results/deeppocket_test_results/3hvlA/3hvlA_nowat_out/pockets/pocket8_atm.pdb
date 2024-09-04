@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1516
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9642
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6741
+HEADER 5  - Mean B-factor of pocket residues  : 0.1364
+HEADER 6  - Hydrophobicity Score              : 14.6250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 391.6596
+HEADER 10 - Pocket volume (convex hull)       : 18.7870
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1600
+ATOM   1124  OD1 ASN A 293      22.361  37.104  38.514  0.00  0.00           O 0
+ATOM   1119   CA ASN A 293      20.438  35.400  37.280  0.00  0.00           C 0
+ATOM   1390   CE LYS A 331      16.790  33.069  40.552  0.00  0.00           C 0
+ATOM   1138  OE1 GLU A 295      20.401  38.554  42.210  0.00  0.00           O 0
+ATOM   1110    O PHE A 292      18.348  33.606  37.780  0.00  0.00           O 0
+ATOM   1179  OE1 GLU A 300      24.590  31.635  36.586  0.00  0.00           O 0
+ATOM   1102    C VAL A 291      18.961  30.800  35.530  0.00  0.00           C 0
+ATOM   1103    O VAL A 291      19.933  31.163  34.879  0.74  1.07           O 0
+ATOM   1101   CA VAL A 291      18.783  29.340  35.900  0.00  0.00           C 0
+ATOM   1105  CG1 VAL A 291      19.234  26.953  34.996  0.00  0.00           C 0
+ATOM   1175    O GLU A 300      22.233  28.360  33.302  0.53  5.36           O 0
+ATOM   1104   CB VAL A 291      19.208  28.467  34.654  0.00  0.00           C 0
+ATOM   1176   CB GLU A 300      23.572  30.829  34.169  0.00  0.00           C 0
+ATOM   1123   CG ASN A 293      22.778  36.110  37.931  0.00  0.00           C 0
+ATOM   1122   CB ASN A 293      21.932  35.341  36.958  0.00  0.00           C 0
+ATOM   1136   CG GLU A 295      22.349  39.013  40.895  0.00  0.00           C 0
+ATOM   1125  ND2 ASN A 293      24.023  35.707  38.027  0.00  0.00           N 0
+ATOM   1391   NZ LYS A 331      17.234  31.848  39.806  0.58  5.47           N 0
+ATOM   1109    C PHE A 292      18.728  33.744  36.642  0.00  0.00           C 0
+ATOM   1118    N ASN A 293      19.715  34.567  36.301  0.00  0.00           N 0
+ATOM   1096    O THR A 290      17.898  28.534  38.352  0.61  9.64           O 0
+ATOM   1126    N ALA A 294      19.095  37.242  38.078  0.59  1.09           N 0
+TER
+END

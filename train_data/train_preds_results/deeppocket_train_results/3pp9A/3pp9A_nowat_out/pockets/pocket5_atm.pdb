@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0060
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7795
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6183
+HEADER 5  - Mean B-factor of pocket residues  : 0.2686
+HEADER 6  - Hydrophobicity Score              : 33.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.2216
+HEADER 10 - Pocket volume (convex hull)       : 6.4983
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM     21  CD1 LEU A   4      31.999  37.481  29.411  0.00  0.00           C 0
+ATOM     23    N ILE A   5      32.534  35.055  27.057  0.00  0.00           N 0
+ATOM   1014  NH2 ARG A 117      31.635  31.237  29.448  0.00  0.00           N 0
+ATOM     26    O ILE A   5      30.085  36.362  26.460  0.00  0.00           O 0
+ATOM   1034    O ALA A 120      24.523  28.936  23.498  0.64  2.14           O 0
+ATOM   1035   CB ALA A 120      26.810  27.129  25.035  0.00  0.00           C 0
+ATOM   1069   CGAGLN A 124      22.314  30.949  25.291  0.00  0.00           C 0
+ATOM   1073  OE1AGLN A 124      21.373  30.014  27.274  0.00  0.00           O 0
+ATOM   1033    C ALA A 120      25.746  28.734  23.460  0.00  0.00           C 0
+ATOM   1043  OE1 GLN A 121      26.323  33.977  25.269  0.75  3.21           O 0
+ATOM     27   CB ILE A   5      31.196  33.771  25.355  0.00  0.00           C 0
+ATOM   1011   NE ARG A 117      31.139  29.241  28.421  0.00  0.00           N 0
+ATOM     28  CG1 ILE A   5      32.057  32.500  25.477  0.00  0.00           C 0
+ATOM   1007    O ARG A 117      29.590  29.166  24.030  0.50  3.21           O 0
+ATOM   1040   CB GLN A 121      27.281  32.097  23.143  0.00  0.00           C 0
+ATOM   1036    N GLN A 121      26.617  29.725  23.265  0.00  0.00           N 0
+ATOM   1037   CA GLN A 121      26.139  31.081  23.082  0.00  0.00           C 0
+TER
+END

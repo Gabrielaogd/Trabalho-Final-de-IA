@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0336
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8739
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6405
+HEADER 5  - Mean B-factor of pocket residues  : 0.0847
+HEADER 6  - Hydrophobicity Score              : -23.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 177.8157
+HEADER 10 - Pocket volume (convex hull)       : 2.1959
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM    991   CE LYS A 147      16.296  11.069  54.775  0.00  0.00           C 0
+ATOM    568   CB GLU A  96      10.535  14.269  55.330  0.00  0.00           C 0
+ATOM    570   CD GLU A  96      10.668  11.919  54.376  0.00  0.00           C 0
+ATOM    572  OE2 GLU A  96      10.225  11.146  55.251  0.46  7.50           O 0
+ATOM    571  OE1 GLU A  96      11.631  11.618  53.614  0.59  1.07           O 0
+ATOM    573    NAGLU A  97      11.369  16.809  53.728  0.00  0.00           N 0
+ATOM    969  NE2 GLN A 144      15.869  15.495  51.377  0.38  5.47           N 0
+ATOM    990   CD LYS A 147      15.556  11.008  53.455  0.00  0.00           C 0
+ATOM    579    OAGLU A  97      11.475  15.158  51.613  0.76  1.07           O 0
+ATOM    587  OE1AGLU A  97      15.741  18.500  52.649  0.00  0.00           O 0
+ATOM    992   NZ LYS A 147      17.683  11.566  54.583  0.00  0.00           N 0
+ATOM    581   CBAGLU A  97      13.146  17.849  52.403  0.00  0.00           C 0
+ATOM    585   CDAGLU A  97      14.984  19.228  53.334  0.00  0.00           C 0
+ATOM    583   CGAGLU A  97      13.510  18.939  53.351  0.00  0.00           C 0
+TER
+END

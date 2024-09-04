@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0270
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9895
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6326
+HEADER 5  - Mean B-factor of pocket residues  : 0.2481
+HEADER 6  - Hydrophobicity Score              : 29.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.5898
+HEADER 10 - Pocket volume (convex hull)       : 2.7243
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   1005  CH2 TRP A 133      41.988  -1.137   6.914  0.00  0.00           C 0
+ATOM    915   NE ARG A 121      36.340  -2.403   5.105  0.45  2.19           N 0
+ATOM    909   CA ARG A 121      40.478  -1.872   3.106  0.00  0.00           C 0
+ATOM    911    O ARG A 121      41.519  -3.826   2.189  0.65  2.14           O 0
+ATOM    913   CG ARG A 121      38.301  -1.197   4.283  0.00  0.00           C 0
+ATOM    912   CB ARG A 121      38.943  -1.879   3.092  0.00  0.00           C 0
+ATOM   1012  CG2 VAL A 134      37.064   1.370  13.683  0.00  0.00           C 0
+ATOM    917  NH1 ARG A 121      35.412  -1.088   6.773  0.50  5.47           N 0
+ATOM    995    O TRP A 133      40.758   0.843  11.655  0.43  8.57           O 0
+ATOM    918  NH2 ARG A 121      35.382  -3.375   6.948  0.00  0.00           N 0
+ATOM   1007   CA VAL A 134      38.562   2.575  12.034  0.00  0.00           C 0
+ATOM   1013    N ALA A 135      36.539   3.213  10.818  0.60  2.19           N 0
+ATOM   1003  CZ2 TRP A 133      40.869  -0.326   6.804  0.00  0.00           C 0
+ATOM    916   CZ ARG A 121      35.703  -2.284   6.269  0.00  0.00           C 0
+ATOM   1001  CE2 TRP A 133      40.857   0.889   7.529  0.00  0.00           C 0
+ATOM   1000  NE1 TRP A 133      39.897   1.863   7.604  0.00  0.00           N 0
+ATOM    883  OD1 ASP A 117      37.106   2.105   6.681  0.42  2.14           O 0
+TER
+END

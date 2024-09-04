@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0612
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.2011
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5452
+HEADER 5  - Mean B-factor of pocket residues  : 0.1926
+HEADER 6  - Hydrophobicity Score              : 24.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 6.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.8855
+HEADER 10 - Pocket volume (convex hull)       : 1.4615
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM    683   CZ ARG M  86      -3.739 -74.937  -3.494  0.00  0.00           C 0
+ATOM    691   CG GLN M  87       1.019 -74.379  -1.751  0.00  0.00           C 0
+ATOM    685  NH2 ARG M  86      -4.957 -74.799  -2.973  0.00  0.00           N 0
+ATOM    684  NH1 ARG M  86      -3.118 -76.091  -3.391  0.00  0.00           N 0
+ATOM    730  CH2 TRP M  90      -1.647 -67.915   0.593  0.00  0.00           C 0
+ATOM    726  CE2 TRP M  90      -1.146 -69.084   2.582  0.00  0.00           C 0
+ATOM    682   NE ARG M  86      -3.161 -73.922  -4.122  0.61  6.56           N 0
+ATOM    728  CZ2 TRP M  90      -1.989 -68.233   1.885  0.00  0.00           C 0
+ATOM    678    O ARG M  86       0.640 -70.171  -3.513  0.41  6.43           O 0
+ATOM    680   CG ARG M  86      -1.239 -72.607  -4.880  0.00  0.00           C 0
+ATOM    692   CD GLN M  87       1.209 -75.781  -1.222  0.00  0.00           C 0
+ATOM    729  CZ3 TRP M  90      -0.465 -68.391   0.014  0.00  0.00           C 0
+ATOM    727  CE3 TRP M  90       0.404 -69.203   0.732  0.00  0.00           C 0
+ATOM    687   CA GLN M  87       2.042 -72.037  -1.908  0.00  0.00           C 0
+ATOM    724  CD2 TRP M  90       0.061 -69.578   2.028  0.00  0.00           C 0
+TER
+END

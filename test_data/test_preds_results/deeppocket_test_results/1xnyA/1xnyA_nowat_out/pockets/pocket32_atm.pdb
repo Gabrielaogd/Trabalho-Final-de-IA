@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0177
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9464
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6301
+HEADER 5  - Mean B-factor of pocket residues  : 0.1429
+HEADER 6  - Hydrophobicity Score              : -5.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.4339
+HEADER 10 - Pocket volume (convex hull)       : 6.0821
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   2515   CD GLN A 343      44.932 -89.352-147.675  0.00  0.00           C 0
+ATOM   2517  NE2 GLN A 343      45.327 -89.585-148.922  0.00  0.00           N 0
+ATOM   2344   CB PRO A 320      41.729 -87.424-146.058  0.00  0.00           C 0
+ATOM   2516  OE1 GLN A 343      45.434 -88.474-146.973  0.85  5.36           O 0
+ATOM   2514   CG GLN A 343      43.801 -90.222-147.149  0.00  0.00           C 0
+ATOM   2176  NE2 HIS A 299      37.696 -90.365-152.236  0.00  0.00           N 0
+ATOM   2343    O PRO A 320      40.581 -90.330-146.227  0.62  1.07           O 0
+ATOM   2370  CD2 LEU A 323      37.358 -90.950-148.673  0.00  0.00           C 0
+ATOM   2312    O PRO A 316      38.380 -84.892-147.766  0.42  5.36           O 0
+ATOM   2341   CA PRO A 320      40.507 -88.084-145.412  0.00  0.00           C 0
+ATOM   2493  NE2 GLN A 340      40.791 -92.624-150.827  0.63  7.66           N 0
+ATOM   2291  OE1 GLU A 313      35.651 -88.031-149.523  0.76  3.21           O 0
+ATOM   2292  OE2 GLU A 313      35.270 -87.879-151.670  0.86  4.29           O 0
+ATOM   2313   CB PRO A 316      35.959 -84.104-149.864  0.00  0.00           C 0
+TER
+END

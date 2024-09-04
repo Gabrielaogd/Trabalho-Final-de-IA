@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0189
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0184
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6496
+HEADER 5  - Mean B-factor of pocket residues  : 0.1823
+HEADER 6  - Hydrophobicity Score              : -12.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 334.4362
+HEADER 10 - Pocket volume (convex hull)       : 14.8080
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   1732  CG2 THR A 217     -15.567  38.109 -27.819  0.00  0.00           C 0
+ATOM   1762   CB GLN A 221     -18.724  35.741 -23.398  0.00  0.00           C 0
+ATOM   1729    O THR A 217     -15.351  36.449 -25.100  0.66  2.14           O 0
+ATOM   1765  OE1 GLN A 221     -20.670  37.836 -22.465  0.00  0.00           O 0
+ATOM   1756  OD1 ASN A 220     -15.051  39.129 -20.738  0.00  0.00           O 0
+ATOM   1727   CA THR A 217     -13.588  37.408 -26.421  0.00  0.00           C 0
+ATOM   1731  OG1 THR A 217     -13.398  39.132 -28.124  0.00  0.00           O 0
+ATOM   1724   CE LYS A 216      -9.307  40.315 -22.743  0.00  0.00           C 0
+ATOM   1757  ND2 ASN A 220     -13.009  38.622 -19.963  0.00  0.00           N 0
+ATOM   1725   NZ LYS A 216      -8.507  41.563 -22.586  0.36  6.56           N 0
+ATOM   1754   CB ASN A 220     -13.869  37.376 -21.863  0.00  0.00           C 0
+ATOM   1758    N GLN A 221     -16.572  35.690 -22.187  0.72  1.09           N 0
+ATOM   1755   CG ASN A 220     -14.025  38.460 -20.805  0.00  0.00           C 0
+ATOM   1722   CG LYS A 216      -9.698  38.256 -24.105  0.00  0.00           C 0
+ATOM   1723   CD LYS A 216      -8.899  39.537 -23.986  0.00  0.00           C 0
+TER
+END

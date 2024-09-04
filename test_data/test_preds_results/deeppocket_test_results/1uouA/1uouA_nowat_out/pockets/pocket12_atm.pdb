@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0269
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0906
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6392
+HEADER 5  - Mean B-factor of pocket residues  : 0.3857
+HEADER 6  - Hydrophobicity Score              : 7.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 269.3585
+HEADER 10 - Pocket volume (convex hull)       : 8.0445
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM    573   CG ARG A 109      22.441   1.271  27.544  0.00  0.00           C 0
+ATOM    574   CD ARG A 109      23.687   1.716  28.326  0.00  0.00           C 0
+ATOM    583   CB GLN A 110      22.258   2.937  22.713  0.00  0.00           C 0
+ATOM    586  OE1 GLN A 110      24.070   5.126  22.220  0.00  0.00           O 0
+ATOM   1677   NE ARG A 265      16.817  11.293  24.488  0.00  0.00           N 0
+ATOM   1676   CD ARG A 265      16.794  10.512  25.726  0.00  0.00           C 0
+ATOM   2051    O SER A 317      19.234   6.633  20.365  0.00  0.00           O 0
+ATOM    587  NE2 GLN A 110      22.536   6.352  21.032  0.00  0.00           N 0
+ATOM   1426   CB SER A 228      18.131   3.877  25.486  0.00  0.00           C 0
+ATOM    585   CD GLN A 110      22.937   5.238  21.690  0.00  0.00           C 0
+ATOM    584   CG GLN A 110      21.911   4.088  21.750  0.00  0.00           C 0
+ATOM   2043    O LEU A 316      16.647   9.613  21.815  0.10  4.29           O 0
+ATOM   1425    O SER A 228      16.489   6.367  26.288  0.46  3.21           O 0
+ATOM   2049   CA SER A 317      16.943   7.135  20.743  0.00  0.00           C 0
+ATOM   2055   CA GLY A 318      19.628   8.625  18.431  0.00  0.00           C 0
+ATOM   2050    C SER A 317      18.299   7.331  20.049  0.00  0.00           C 0
+ATOM    580   CA GLN A 110      21.025   2.214  23.315  0.00  0.00           C 0
+TER
+END

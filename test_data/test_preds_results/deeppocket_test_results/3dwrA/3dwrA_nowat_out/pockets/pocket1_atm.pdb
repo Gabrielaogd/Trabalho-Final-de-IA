@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.1417
+HEADER 1  - Drug Score                        : 0.0124
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.5780
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4686
+HEADER 5  - Mean B-factor of pocket residues  : 0.1899
+HEADER 6  - Hydrophobicity Score              : 54.2727
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.7273
+HEADER 9  - Pocket volume (Monte Carlo)       : 101.2108
+HEADER 10 - Pocket volume (convex hull)       : 1.8264
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 18.0000
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.7308
+ATOM    116  CD2 LEU A  15      43.650  34.164  23.774  0.00  0.00           C 0
+ATOM    728  CG1 VAL A 110      42.670  36.611  19.402  0.00  0.00           C 0
+ATOM    729  CG2 VAL A 110      42.047  34.357  20.273  0.00  0.00           C 0
+ATOM    714   CB ALA A 108      39.143  39.632  24.069  0.00  0.00           C 0
+ATOM    887    O GLY A 129      39.509  40.954  20.738  0.00  0.00           O 0
+ATOM   1555  CG1 VAL A 206      43.632  40.723  19.710  0.00  0.00           C 0
+ATOM   1553    O VAL A 206      45.057  40.600  22.574  0.00  0.00           O 0
+ATOM    606  CD2 LEU A  94      38.855  36.749  26.653  0.00  0.00           C 0
+ATOM    149  CD1 ILE A  19      42.190  35.955  27.287  0.00  0.00           C 0
+ATOM    589  CG1 VAL A  92      39.105  32.908  24.066  0.00  0.00           C 0
+ATOM   1558   CA GLY A 207      45.295  37.926  22.993  0.00  0.00           C 0
+ATOM   1578   CB TYR A 210      42.773  40.923  25.673  0.00  0.00           C 0
+ATOM   1560    O GLY A 207      45.346  38.627  25.279  0.00  0.00           O 0
+ATOM    715    N ASN A 109      38.178  38.408  21.322  0.00  0.00           N 0
+ATOM    712    C ALA A 108      37.538  38.556  22.480  0.00  0.00           C 0
+ATOM    717    C ASN A 109      39.243  37.041  19.654  0.00  0.00           C 0
+ATOM    587    O VAL A  92      37.792  34.178  21.083  0.00  0.00           O 0
+ATOM    716   CA ASN A 109      37.984  37.250  20.465  0.00  0.00           C 0
+ATOM    723    N VAL A 110      39.620  35.781  19.449  0.00  0.00           N 0
+ATOM    718    O ASN A 109      39.868  38.001  19.248  0.62  1.07           O 0
+TER
+END

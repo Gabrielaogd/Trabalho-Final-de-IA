@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0362
+HEADER 1  - Drug Score                        : 0.0133
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7260
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6324
+HEADER 5  - Mean B-factor of pocket residues  : 0.2888
+HEADER 6  - Hydrophobicity Score              : -3.8000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 6.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 165.3969
+HEADER 10 - Pocket volume (convex hull)       : 1.8927
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   1601   CB ARG A 201      15.235  11.308  25.962  0.00  0.00           C 0
+ATOM   1579  CE1 TYR A 198      12.473   5.689  25.704  0.00  0.00           C 0
+ATOM   1577  CD1 TYR A 198      12.991   6.469  24.680  0.00  0.00           C 0
+ATOM   1614   CD ARG A 202      17.493   7.111  25.505  0.00  0.00           C 0
+ATOM   1581   CZ TYR A 198      11.346   4.921  25.476  0.00  0.00           C 0
+ATOM   1578  CD2 TYR A 198      11.258   5.718  23.214  0.00  0.00           C 0
+ATOM   1602   CG ARG A 201      13.908  12.037  25.817  0.00  0.00           C 0
+ATOM   1567   CG GLU A 197       9.765  11.843  24.454  0.00  0.00           C 0
+ATOM   1576   CG TYR A 198      12.395   6.493  23.420  0.00  0.00           C 0
+ATOM   1542    O LYS A 194       9.705   8.169  21.782  0.58  1.07           O 0
+ATOM   1580  CE2 TYR A 198      10.731   4.931  24.235  0.00  0.00           C 0
+ATOM   1544   CG LYS A 194       7.280   6.429  23.390  0.00  0.00           C 0
+ATOM   1546   CE LYS A 194       7.020   4.869  25.348  0.00  0.00           C 0
+TER
+END

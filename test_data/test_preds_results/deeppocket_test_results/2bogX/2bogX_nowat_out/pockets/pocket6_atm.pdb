@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0100
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9872
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6031
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 21.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 252.1297
+HEADER 10 - Pocket volume (convex hull)       : 10.4908
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3462
+ATOM    318    N TRP X  41      15.295   5.438  20.286  0.00  0.00           N 0
+ATOM   2023  OE2 GLU X 263      11.327  12.189  21.123  0.00  0.00           O 0
+ATOM    321    O TRP X  41      17.742   6.014  21.645  0.00  0.00           O 0
+ATOM   2022  OE1 GLU X 263      12.844  12.247  19.526  0.00  0.00           O 0
+ATOM    322   CB TRP X  41      16.601   6.941  18.858  0.00  0.00           C 0
+ATOM   2002  CD1 LEU X 260      11.553   9.032  18.496  0.00  0.00           C 0
+ATOM    324  CD1 TRP X  41      14.274   6.893  17.726  0.00  0.00           C 0
+ATOM    317  CG2 THR X  40      14.036   4.206  23.326  0.00  0.00           C 0
+ATOM   2003  CD2 LEU X 260       9.699   9.018  20.171  0.00  0.00           C 0
+ATOM    312   CA THR X  40      13.233   4.360  20.949  0.00  0.00           C 0
+ATOM    310    O GLY X  39      11.205   5.776  19.563  0.50  1.07           O 0
+ATOM     67  ND2 ASN X   8      11.213   4.111  25.569  0.64  5.47           N 0
+ATOM     84   CA MET X  11       9.417   9.395  25.149  0.00  0.00           C 0
+ATOM     77    C ASN X  10      10.004   8.730  27.331  0.00  0.00           C 0
+ATOM     78    O ASN X  10      10.886   9.576  27.325  0.67  4.29           O 0
+ATOM     91    N SER X  12       9.758  11.743  24.760  0.00  0.00           N 0
+ATOM     96   OG SER X  12      11.955  13.585  24.512  0.19  5.36           O 0
+ATOM     79   CB ASN X  10      11.058   7.128  28.980  0.00  0.00           C 0
+ATOM     83    N MET X  11       9.202   8.553  26.293  0.00  0.00           N 0
+ATOM     87   CB MET X  11       8.782   8.817  23.910  0.00  0.00           C 0
+ATOM    316  OG1 THR X  40      11.813   3.554  22.758  0.00  0.00           O 0
+TER
+END

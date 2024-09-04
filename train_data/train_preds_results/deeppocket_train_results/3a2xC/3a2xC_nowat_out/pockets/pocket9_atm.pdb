@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1805
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8721
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7576
+HEADER 5  - Mean B-factor of pocket residues  : 0.4299
+HEADER 6  - Hydrophobicity Score              : 12.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 359.4082
+HEADER 10 - Pocket volume (convex hull)       : 33.3578
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.1429
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM    173  CG2 ILE C  24     -18.808  25.179  21.275  0.00  0.00           C 0
+ATOM    213  ND1 HIS C  29     -20.539  28.624  22.131  0.00  0.00           N 0
+ATOM    163    O VAL C  23     -18.172  24.652  18.163  0.30  8.57           O 0
+ATOM    215  CE1 HIS C  29     -21.554  27.858  22.490  0.00  0.00           C 0
+ATOM    241   OG SER C  32     -20.104  35.627  22.108  0.70  8.57           O 0
+ATOM    240   CB SER C  32     -21.287  35.264  22.804  0.00  0.00           C 0
+ATOM    208   CA HIS C  29     -18.705  31.086  23.259  0.00  0.00           C 0
+ATOM    179   CB LYS C  25     -14.573  30.221  19.436  0.00  0.00           C 0
+ATOM    211   CB HIS C  29     -18.442  29.582  23.125  0.00  0.00           C 0
+ATOM    168   CA ILE C  24     -16.658  25.953  20.082  0.00  0.00           C 0
+ATOM    178    O LYS C  25     -15.647  29.918  22.331  0.00  0.00           O 0
+ATOM    207    N HIS C  29     -17.461  31.807  23.238  0.00  0.00           N 0
+ATOM    175    N LYS C  25     -15.589  28.121  20.151  0.00  0.00           N 0
+ATOM    203   CB ASP C  28     -15.760  33.911  21.752  0.00  0.00           C 0
+ATOM    183   NZ LYS C  25     -13.159  34.265  17.373  0.76  7.66           N 0
+ATOM    181   CD LYS C  25     -13.182  31.878  18.161  0.00  0.00           C 0
+ATOM    202    O ASP C  28     -18.475  33.808  23.406  0.00  0.00           O 0
+ATOM    201    C ASP C  28     -17.440  33.131  23.317  0.00  0.00           C 0
+ATOM    248   CD GLN C  33     -24.020  30.703  25.849  0.00  0.00           C 0
+ATOM    247   CG GLN C  33     -23.941  32.163  25.500  0.00  0.00           C 0
+ATOM    250  NE2 GLN C  33     -22.883  30.006  25.768  0.00  0.00           N 0
+ATOM    182   CE LYS C  25     -13.032  33.357  18.581  0.00  0.00           C 0
+ATOM    206  OD2 ASP C  28     -14.357  35.422  20.589  0.32  8.57           O 0
+ATOM    210    O HIS C  29     -20.732  31.273  24.494  0.50  1.07           O 0
+TER
+END

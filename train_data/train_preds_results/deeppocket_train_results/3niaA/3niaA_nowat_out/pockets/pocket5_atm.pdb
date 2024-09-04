@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.2342
+HEADER 1  - Drug Score                        : 0.0114
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.8162
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5432
+HEADER 5  - Mean B-factor of pocket residues  : 0.1755
+HEADER 6  - Hydrophobicity Score              : -2.2222
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 307.9132
+HEADER 10 - Pocket volume (convex hull)       : 24.3408
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.2759
+ATOM   1300   CZAARG A 183      23.528 -22.207  15.220  0.00  0.00           C 0
+ATOM   1298   NEAARG A 183      23.780 -22.365  13.925  0.74  1.09           N 0
+ATOM    238    O GLY A  48      26.224 -21.190  13.487  0.00  0.00           O 0
+ATOM    247  OE2 GLU A  49      29.648 -22.127  16.679  0.00  0.00           O 0
+ATOM    229    O GLN A  47      29.565 -23.511  12.412  0.00  0.00           O 0
+ATOM   1304  NH2AARG A 183      24.334 -21.448  15.957  0.59  6.56           N 0
+ATOM    236   CA GLY A  48      27.521 -21.842  11.589  0.00  0.00           C 0
+ATOM   1296   CDAARG A 183      22.978 -23.175  13.007  0.00  0.00           C 0
+ATOM   1292   CBAARG A 183      22.941 -23.756  10.510  0.00  0.00           C 0
+ATOM   1294   CGAARG A 183      23.177 -22.686  11.570  0.00  0.00           C 0
+ATOM   1332   CE LYS A 187      27.570 -28.721   8.753  0.00  0.00           C 0
+ATOM   1362   CA GLY A 191      31.068 -27.142   5.728  0.00  0.00           C 0
+ATOM    222    O PRO A  46      30.637 -22.735   8.177  0.53  3.21           O 0
+ATOM    231   CG GLN A  47      33.687 -22.648  11.435  0.00  0.00           C 0
+ATOM   1352    O TYR A 190      32.977 -25.325   4.884  0.54  8.57           O 0
+ATOM    228    C GLN A  47      29.799 -22.685  11.539  0.00  0.00           C 0
+ATOM    234  NE2 GLN A  47      34.866 -21.552   9.621  0.61  2.19           N 0
+ATOM    227   CA GLN A  47      31.183 -22.610  10.896  0.00  0.00           C 0
+ATOM   1325    N LYS A 187      26.554 -25.202   5.893  0.00  0.00           N 0
+ATOM   1291    O ARG A 183      24.337 -24.789   7.732  0.63  2.14           O 0
+ATOM   1326   CA LYS A 187      27.027 -26.576   5.821  0.00  0.00           C 0
+ATOM    235    N GLY A  48      28.888 -21.820  11.103  0.00  0.00           N 0
+ATOM   1324   CB ALA A 186      26.885 -22.276   7.039  0.00  0.00           C 0
+TER
+END

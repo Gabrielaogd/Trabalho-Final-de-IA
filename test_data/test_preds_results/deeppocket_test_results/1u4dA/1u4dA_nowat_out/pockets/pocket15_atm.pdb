@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0669
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0256
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6268
+HEADER 5  - Mean B-factor of pocket residues  : 0.6721
+HEADER 6  - Hydrophobicity Score              : 73.0000
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.8754
+HEADER 10 - Pocket volume (convex hull)       : 6.9612
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5500
+ATOM    341    O ALA A 170      21.290   0.865  47.021  0.00  0.00           O 0
+ATOM    373  CD1 PHE A 174      18.240   5.469  47.668  0.00  0.00           C 0
+ATOM    157  CD1 PHE A 137      22.158   6.708  48.538  0.00  0.00           C 0
+ATOM    319    O CYS A 159      21.814   8.314  45.025  0.00  0.00           O 0
+ATOM    155   CB PHE A 137      23.995   4.970  48.562  0.00  0.00           C 0
+ATOM    342   CB ALA A 170      23.812   0.391  45.160  0.00  0.00           C 0
+ATOM    594   CG MET A 201      16.528   5.661  42.489  0.00  0.00           C 0
+ATOM    347   CB MET A 171      18.955  -1.002  43.927  0.00  0.00           C 0
+ATOM    344   CA MET A 171      19.435  -0.364  45.234  0.00  0.00           C 0
+ATOM    349   SD MET A 171      16.676   0.469  43.810  0.00  0.00           S 0
+ATOM    156   CG PHE A 137      22.672   5.523  49.058  0.00  0.00           C 0
+ATOM    154    O PHE A 137      25.450   6.722  46.777  0.82  9.64           O 0
+ATOM    593   CB MET A 201      16.693   6.795  43.521  0.00  0.00           C 0
+ATOM    589    N MET A 201      17.932   8.031  41.801  0.00  0.00           N 0
+ATOM    372   CG PHE A 174      17.681   4.199  47.591  0.00  0.00           C 0
+ATOM    371   CB PHE A 174      18.537   2.983  47.813  0.00  0.00           C 0
+ATOM    343    N MET A 171      20.852  -0.608  45.369  0.58  1.09           N 0
+ATOM    340    C ALA A 170      21.648  -0.008  46.249  0.00  0.00           C 0
+TER
+END

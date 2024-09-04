@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0197
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1342
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6860
+HEADER 5  - Mean B-factor of pocket residues  : 0.2231
+HEADER 6  - Hydrophobicity Score              : 6.8889
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.0751
+HEADER 10 - Pocket volume (convex hull)       : 3.7401
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   1492   OG SER A 193       1.285  28.889   4.805  0.00  0.00           O 0
+ATOM   1112  CD1 TRP A 145      -1.804  36.276   3.952  0.00  0.00           C 0
+ATOM   1107   CA TRP A 145       0.000  34.465   1.606  0.00  0.00           C 0
+ATOM   1141  OD2 ASP A 148      -3.095  30.832   0.354  0.00  0.00           O 0
+ATOM   1083    O SER A 141       2.399  32.857   3.997  0.00  0.00           O 0
+ATOM   1474  OD2 ASP A 190       1.595  28.597   7.240  0.46  5.36           O 0
+ATOM   1084   CB SER A 141       3.433  31.559   6.768  0.00  0.00           C 0
+ATOM   1106    N TRP A 145       1.019  33.437   1.433  0.00  0.00           N 0
+ATOM   1105   CB ALA A 144       1.903  30.415   1.303  0.00  0.00           C 0
+ATOM    545    N THR A  74       0.743  32.976  11.587  0.66  1.09           N 0
+ATOM    541   CA ALA A  73       1.660  34.669  10.134  0.00  0.00           C 0
+ATOM    551  CG2 THR A  74      -1.794  31.643  12.000  0.00  0.00           C 0
+ATOM    544   CB ALA A  73       2.836  34.137   9.290  0.00  0.00           C 0
+ATOM   1110   CB TRP A 145       0.299  35.308   2.848  0.00  0.00           C 0
+ATOM    915  OE1 GLN A 118       1.627  35.874   5.919  0.00  0.00           O 0
+ATOM    548    O THR A  74       0.919  30.305  11.377  0.64  2.14           O 0
+TER
+END

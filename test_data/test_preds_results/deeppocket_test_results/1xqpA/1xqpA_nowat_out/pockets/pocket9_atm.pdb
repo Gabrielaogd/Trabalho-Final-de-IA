@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0155
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0249
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5923
+HEADER 5  - Mean B-factor of pocket residues  : 0.5394
+HEADER 6  - Hydrophobicity Score              : 2.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 227.3358
+HEADER 10 - Pocket volume (convex hull)       : 4.4200
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM    461  CD2 TYR A  59       2.953  32.575  26.826  0.00  0.00           C 0
+ATOM   1136   NZ LYS A 140       1.757  26.342  25.066  0.00  0.00           N 0
+ATOM   1127  NE2 GLN A 139      -0.862  26.736  28.088  0.70  5.47           N 0
+ATOM    459   CG TYR A  59       3.346  32.175  25.545  0.00  0.00           C 0
+ATOM    460  CD1 TYR A  59       2.912  32.941  24.467  0.00  0.00           C 0
+ATOM    472   CD ARG A  60       2.247  32.872  20.645  0.00  0.00           C 0
+ATOM    471   CG ARG A  60       3.508  32.055  20.827  0.00  0.00           C 0
+ATOM    884  NH2 ARG A 108      -2.442  31.937  29.499  0.04  7.66           N 0
+ATOM    462  CE1 TYR A  59       2.139  34.110  24.641  0.00  0.00           C 0
+ATOM   1142  OG1ATHR A 141       2.774  28.563  29.201  0.59  1.07           O 0
+ATOM    883  NH1 ARG A 108      -0.313  31.567  30.284  0.58  1.09           N 0
+ATOM    463  CE2 TYR A  59       2.180  33.757  27.023  0.00  0.00           C 0
+ATOM    458   CB TYR A  59       4.179  30.900  25.324  0.00  0.00           C 0
+ATOM    466    N ARG A  60       5.769  31.373  22.591  0.00  0.00           N 0
+ATOM    464   CZ TYR A  59       1.777  34.510  25.929  0.00  0.00           C 0
+TER
+END

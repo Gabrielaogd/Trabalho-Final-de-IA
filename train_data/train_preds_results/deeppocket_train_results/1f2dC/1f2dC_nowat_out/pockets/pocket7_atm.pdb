@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1409
+HEADER 1  - Drug Score                        : 0.1701
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.8477
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5039
+HEADER 5  - Mean B-factor of pocket residues  : 0.1173
+HEADER 6  - Hydrophobicity Score              : 17.1250
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 2.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 287.0575
+HEADER 10 - Pocket volume (convex hull)       : 15.9952
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 18.0000
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.6333
+ATOM   2494   CB ALA C 326      30.519  69.171  16.362  0.00  0.00           C 0
+ATOM    309  OD2 ASP C  40      26.396  73.511  18.405  0.00  0.00           O 0
+ATOM    306   CB ASP C  40      25.735  71.775  19.883  0.00  0.00           C 0
+ATOM    305    O ASP C  40      27.510  72.573  22.159  0.00  0.00           O 0
+ATOM    355  CE1 PHE C  47      35.246  70.939  22.214  0.00  0.00           C 0
+ATOM   2493    O ALA C 326      32.796  67.022  16.129  0.24  7.50           O 0
+ATOM   2219  CD1 LEU C 290      32.843  72.555  13.908  0.00  0.00           C 0
+ATOM   2492    C ALA C 326      31.881  67.062  16.928  0.00  0.00           C 0
+ATOM   2495    N PRO C 327      32.044  66.639  18.194  0.00  0.00           N 0
+ATOM   2500   CG PRO C 327      32.325  67.003  20.509  0.00  0.00           C 0
+ATOM   2496   CA PRO C 327      33.369  66.094  18.581  0.00  0.00           C 0
+ATOM    357   CZ PHE C  47      36.132  69.870  22.230  0.00  0.00           C 0
+ATOM    353  CD1 PHE C  47      33.916  70.754  22.668  0.00  0.00           C 0
+ATOM    350    O PHE C  47      29.403  70.754  24.133  0.53  3.21           O 0
+ATOM    351   CB PHE C  47      32.027  69.271  23.584  0.00  0.00           C 0
+ATOM   2501   CD PRO C 327      31.255  66.990  19.390  0.00  0.00           C 0
+ATOM   2483   CA GLY C 324      25.519  68.497  19.471  0.00  0.00           C 0
+ATOM   2486    N GLY C 325      27.097  66.646  18.976  0.72  1.09           N 0
+ATOM   2490    N ALA C 326      29.353  67.218  17.253  0.00  0.00           N 0
+ATOM    361    O GLY C  48      27.775  67.947  24.219  0.52  1.07           O 0
+TER
+END

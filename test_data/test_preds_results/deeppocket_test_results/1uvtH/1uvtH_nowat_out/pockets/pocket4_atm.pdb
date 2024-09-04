@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0484
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.5768
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3181
+HEADER 5  - Mean B-factor of pocket residues  : 0.1249
+HEADER 6  - Hydrophobicity Score              : 38.9000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 128.6621
+HEADER 10 - Pocket volume (convex hull)       : 2.6068
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM    521   CB HIS H  71      49.284  59.136  18.424  0.00  0.00           C 0
+ATOM    921  CD1 TYR H 117      46.605  64.463  14.914  0.00  0.00           C 0
+ATOM    604  CG1 VAL H  79      50.926  64.260  15.014  0.00  0.00           C 0
+ATOM     65  CG1 VAL H  24      45.483  60.688  14.925  0.00  0.00           C 0
+ATOM    507    O GLY H  69      50.590  64.425  18.101  0.68  1.07           O 0
+ATOM   1219  CD2 LEU H 155      45.923  60.185  23.717  0.00  0.00           C 0
+ATOM    511    O LYS H  70      49.438  62.065  20.455  0.60  8.57           O 0
+ATOM    523  ND1 HIS H  71      47.009  58.359  19.133  0.52  2.19           N 0
+ATOM     67    N GLY H  25      43.860  61.894  17.602  0.46  3.28           N 0
+ATOM    919   CB TYR H 117      47.547  66.382  16.256  0.00  0.00           C 0
+ATOM    918    O TYR H 117      47.116  67.460  19.023  0.78  3.21           O 0
+ATOM     68   CA GLY H  25      43.264  63.198  17.814  0.00  0.00           C 0
+ATOM     82    O SER H  27      45.226  65.181  22.965  0.47  5.36           O 0
+ATOM     79    N SER H  27      42.605  63.374  22.230  0.35  1.09           N 0
+ATOM     71    N LEU H  26      42.094  62.178  19.685  0.00  0.00           N 0
+TER
+END

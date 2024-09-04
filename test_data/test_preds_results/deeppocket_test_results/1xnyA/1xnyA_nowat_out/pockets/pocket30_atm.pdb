@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.0051
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9943
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5352
+HEADER 5  - Mean B-factor of pocket residues  : 0.1222
+HEADER 6  - Hydrophobicity Score              : 15.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 230.9198
+HEADER 10 - Pocket volume (convex hull)       : 5.3792
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   2322  CD1 LEU A 317      38.655 -78.791-148.447  0.00  0.00           C 0
+ATOM   1633  NH2 ARG A 228      41.664 -75.177-150.795  0.68  8.75           N 0
+ATOM   2323  CD2 LEU A 317      39.733 -80.915-149.277  0.00  0.00           C 0
+ATOM   1721   CE MET A 240      38.099 -75.208-150.265  0.00  0.00           C 0
+ATOM   1632  NH1 ARG A 228      41.984 -76.627-149.047  0.77  3.28           N 0
+ATOM   1717    O MET A 240      34.137 -76.455-151.779  0.57  2.14           O 0
+ATOM   2321   CG LEU A 317      38.611 -80.321-148.422  0.00  0.00           C 0
+ATOM   2313   CB PRO A 316      35.959 -84.104-149.864  0.00  0.00           C 0
+ATOM   1712  CE1 HIS A 239      31.929 -79.385-152.397  0.00  0.00           C 0
+ATOM   1710  ND1 HIS A 239      31.793 -79.765-151.139  0.70  1.09           N 0
+ATOM   1714    N MET A 240      33.025 -77.176-149.171  0.72  3.28           N 0
+ATOM   2314   CG PRO A 316      34.499 -83.893-150.033  0.00  0.00           C 0
+ATOM   2315   CD PRO A 316      34.108 -83.238-148.737  0.00  0.00           C 0
+ATOM   1658  ND2 ASN A 231      33.737 -78.309-146.066  0.76  4.37           N 0
+TER
+END

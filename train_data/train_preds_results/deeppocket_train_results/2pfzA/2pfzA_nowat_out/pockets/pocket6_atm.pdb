@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1464
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9332
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6618
+HEADER 5  - Mean B-factor of pocket residues  : 0.4321
+HEADER 6  - Hydrophobicity Score              : -7.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 247.4227
+HEADER 10 - Pocket volume (convex hull)       : 3.5317
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1840   CD GLU A 238      23.815  59.775  23.786  0.00  0.00           C 0
+ATOM   1816   CG GLN A 235      20.122  53.843  21.986  0.00  0.00           C 0
+ATOM   1842  OE2 GLU A 238      24.376  59.303  24.809  0.00  0.00           O 0
+ATOM   1841  OE1 GLU A 238      22.765  60.459  23.840  0.00  0.00           O 0
+ATOM   1843    N ARG A 239      25.373  57.998  19.230  0.00  0.00           N 0
+ATOM   1839   CG GLU A 238      24.473  59.519  22.431  0.00  0.00           C 0
+ATOM   1814    O GLN A 235      23.047  56.238  19.346  0.47  2.14           O 0
+ATOM   1847   CB ARG A 239      26.374  55.819  18.672  0.00  0.00           C 0
+ATOM   1812   CA GLN A 235      20.958  55.585  20.321  0.00  0.00           C 0
+ATOM   1815   CB GLN A 235      20.923  54.086  20.705  0.00  0.00           C 0
+ATOM   1844   CA ARG A 239      26.615  57.320  18.882  0.00  0.00           C 0
+ATOM   1878   CD LYS A 242      30.228  58.070  21.827  0.00  0.00           C 0
+ATOM   1838   CB GLU A 238      23.481  59.267  21.286  0.00  0.00           C 0
+ATOM   1811    N GLN A 235      19.615  56.085  19.995  0.00  0.00           N 0
+ATOM   1809    O ALA A 234      20.277  58.239  19.706  0.47  4.29           O 0
+ATOM   1808    C ALA A 234      19.392  57.362  19.666  0.00  0.00           C 0
+ATOM   1810   CB ALA A 234      17.055  57.918  20.479  0.00  0.00           C 0
+TER
+END

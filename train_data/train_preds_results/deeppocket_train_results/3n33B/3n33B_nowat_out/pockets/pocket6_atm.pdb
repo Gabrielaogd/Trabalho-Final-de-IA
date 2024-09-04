@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.2351
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6354
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4344
+HEADER 5  - Mean B-factor of pocket residues  : 0.0898
+HEADER 6  - Hydrophobicity Score              : 20.8750
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 97.0353
+HEADER 10 - Pocket volume (convex hull)       : 0.7771
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM    446    O ASP B  64      31.745 -44.179  22.031  0.63  3.21           O 0
+ATOM    461  CG2 VAL B  66      29.056 -40.108  25.514  0.00  0.00           C 0
+ATOM    460  CG1 VAL B  66      28.604 -42.552  25.985  0.00  0.00           C 0
+ATOM    398   CB PRO B  57      31.527 -41.761  28.141  0.00  0.00           C 0
+ATOM    433   CB SER B  62      33.847 -47.715  24.714  0.00  0.00           C 0
+ATOM    434   OG SER B  62      32.680 -47.520  23.926  0.66  2.14           O 0
+ATOM    405   CB LEU B  58      31.354 -46.404  27.075  0.00  0.00           C 0
+ATOM    399   CG PRO B  57      32.495 -40.651  27.811  0.00  0.00           C 0
+ATOM    637    O PHE B  91      30.978 -39.656  22.009  0.59  1.07           O 0
+ATOM    400   CD PRO B  57      33.855 -41.268  28.039  0.00  0.00           C 0
+ATOM    401    N LEU B  58      32.335 -44.724  28.574  0.61  1.09           N 0
+ATOM    406   CG LEU B  58      30.075 -45.638  26.715  0.00  0.00           C 0
+ATOM    412    O GLY B  59      36.028 -46.693  27.240  0.44  2.14           O 0
+ATOM    656    O GLY B  93      35.061 -40.041  24.840  0.73  3.21           O 0
+ATOM    432    O SER B  62      36.032 -46.615  22.733  0.44  4.29           O 0
+ATOM    653    N GLY B  93      35.119 -40.972  22.243  0.37  3.28           N 0
+TER
+END

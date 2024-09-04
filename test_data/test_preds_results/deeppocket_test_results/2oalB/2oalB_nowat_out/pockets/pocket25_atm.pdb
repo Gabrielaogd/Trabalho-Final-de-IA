@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : 0.0491
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5482
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3613
+HEADER 5  - Mean B-factor of pocket residues  : 0.5283
+HEADER 6  - Hydrophobicity Score              : 18.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 138.8163
+HEADER 10 - Pocket volume (convex hull)       : 3.8709
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   4031   CA VAL B 506     -24.939   7.762  -3.824  0.00  0.00           C 0
+ATOM   4035  CG1 VAL B 506     -24.312  10.122  -4.451  0.00  0.00           C 0
+ATOM   4034   CB VAL B 506     -25.412   9.240  -3.872  0.00  0.00           C 0
+ATOM   1131   CB LYS B 145     -25.096   8.906   1.306  0.00  0.00           C 0
+ATOM    864   CE LYS B 115     -20.820  11.005  -3.545  0.00  0.00           C 0
+ATOM   4059   CG ARG B 509     -22.521   6.100   0.178  0.00  0.00           C 0
+ATOM    847  CD1 LEU B 113     -16.813  14.736   2.147  0.00  0.00           C 0
+ATOM    845   CB LEU B 113     -18.696  15.797   0.872  0.00  0.00           C 0
+ATOM    865   NZ LYS B 115     -19.444  10.740  -3.035  0.41  7.66           N 0
+ATOM   1135   NZ LYS B 145     -21.244  10.468   2.896  0.35  8.75           N 0
+ATOM    844    O LEU B 113     -21.601  15.481  -0.387  0.26  8.57           O 0
+ATOM   1127    N LYS B 145     -26.144  11.053   0.738  0.62  2.19           N 0
+ATOM   1112    O CYS B 143     -25.300  13.839  -2.612  0.67  1.07           O 0
+ATOM   1132   CG LYS B 145     -24.077   9.469   2.290  0.00  0.00           C 0
+ATOM   1133   CD LYS B 145     -22.825   8.606   2.326  0.00  0.00           C 0
+ATOM   1143  OE1 GLU B 146     -24.953  12.955   3.239  0.00  0.00           O 0
+TER
+END

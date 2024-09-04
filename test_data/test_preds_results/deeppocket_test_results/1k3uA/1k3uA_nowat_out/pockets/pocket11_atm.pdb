@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0150
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7960
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4277
+HEADER 5  - Mean B-factor of pocket residues  : 0.2332
+HEADER 6  - Hydrophobicity Score              : 3.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 290.0736
+HEADER 10 - Pocket volume (convex hull)       : 10.1354
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM     28  NH2 ARG A   3      39.012  30.290  34.046  0.59  7.66           N 0
+ATOM      6   CG MET A   1      38.325  26.389  35.246  0.00  0.00           C 0
+ATOM    927    O GLU A 119      45.240  27.473  36.554  0.00  0.00           O 0
+ATOM      7   SD MET A   1      37.235  27.055  36.495  0.00  0.00           S 0
+ATOM    950   CA GLY A 122      44.026  29.806  33.911  0.00  0.00           C 0
+ATOM   1140   CB ASN A 147      41.678  21.142  35.402  0.00  0.00           C 0
+ATOM      1    N MET A   1      38.479  23.455  34.590  0.18  4.37           N 0
+ATOM   1143  ND2 ASN A 147      41.954  20.476  37.743  0.50  5.47           N 0
+ATOM    932  OE2 GLU A 119      43.719  22.557  38.326  0.53  9.64           O 0
+ATOM    929   CG GLU A 119      44.951  24.225  37.135  0.00  0.00           C 0
+ATOM   1139    O ASN A 147      42.165  22.111  32.797  0.41  6.43           O 0
+ATOM    956    O VAL A 123      43.946  26.359  31.557  0.38  3.21           O 0
+ATOM     27  NH1 ARG A   3      39.646  28.607  32.590  0.55  2.19           N 0
+ATOM    966  OD1 ASP A 124      40.086  26.981  30.353  0.67  3.21           O 0
+TER
+END

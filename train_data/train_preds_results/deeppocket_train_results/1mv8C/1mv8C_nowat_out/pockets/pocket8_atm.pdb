@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0639
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9949
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6118
+HEADER 5  - Mean B-factor of pocket residues  : 0.4352
+HEADER 6  - Hydrophobicity Score              : 1.4000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 361.3523
+HEADER 10 - Pocket volume (convex hull)       : 13.2775
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3810
+ATOM   1912   CA TYR C 256     -22.238 -42.078 -14.722  0.00  0.00           C 0
+ATOM   1911    N TYR C 256     -23.340 -42.825 -14.119  0.00  0.00           N 0
+ATOM   1915   CB TYR C 256     -21.762 -42.701 -16.049  0.00  0.00           C 0
+ATOM   1917  CD1 TYR C 256     -19.238 -42.577 -15.786  0.00  0.00           C 0
+ATOM   1950   NE ARG C 259     -17.465 -40.719  -8.669  0.00  0.00           N 0
+ATOM   1908   CZ ARG C 255     -22.837 -44.570  -7.735  0.00  0.00           C 0
+ATOM   1910  NH2 ARG C 255     -22.817 -43.470  -6.999  0.00  0.00           N 0
+ATOM   1949   CD ARG C 259     -18.483 -40.747  -9.713  0.00  0.00           C 0
+ATOM   1951   CZ ARG C 259     -16.256 -41.275  -8.791  0.00  0.00           C 0
+ATOM   1905   CG ARG C 255     -23.432 -45.074 -11.310  0.00  0.00           C 0
+ATOM   1898   CB SER C 254     -25.742 -45.436 -15.819  0.00  0.00           C 0
+ATOM   1899   OG SER C 254     -24.861 -44.418 -16.254  0.00  0.00           O 0
+ATOM   1868    O LYS C 250     -23.722 -45.644 -18.314  0.00  0.00           O 0
+ATOM   1903    O ARG C 255     -23.287 -41.541 -12.292  0.56  1.07           O 0
+ATOM   1907   NE ARG C 255     -22.769 -44.456  -9.054  0.73  2.19           N 0
+ATOM   1952  NH1 ARG C 259     -15.911 -41.883  -9.919  0.55  5.47           N 0
+ATOM   1906   CD ARG C 255     -22.791 -45.559 -10.011  0.00  0.00           C 0
+TER
+END

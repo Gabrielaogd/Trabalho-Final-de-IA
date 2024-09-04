@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0721
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9414
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5147
+HEADER 5  - Mean B-factor of pocket residues  : 0.0925
+HEADER 6  - Hydrophobicity Score              : 14.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 308.5840
+HEADER 10 - Pocket volume (convex hull)       : 13.6318
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   1774  OD1 ASP A 227      64.303  12.807  42.222  0.72  7.50           O 0
+ATOM    438   CD ARG A  56      66.457  11.508  47.043  0.00  0.00           C 0
+ATOM    439   NE ARG A  56      65.690  12.306  48.002  0.61  2.19           N 0
+ATOM   1771    O ASP A 227      61.423  11.133  42.542  0.61  4.29           O 0
+ATOM   1791   CB ALA A 229      62.290   9.391  48.013  0.00  0.00           C 0
+ATOM   1778    C PHE A 228      62.369   8.309  44.784  0.00  0.00           C 0
+ATOM    797  CD1 TYR A 102      57.591  13.019  47.001  0.00  0.00           C 0
+ATOM   1775  OD2 ASP A 227      62.965  14.362  41.394  0.00  0.00           O 0
+ATOM    799  CE1 TYR A 102      56.920  14.168  46.595  0.00  0.00           C 0
+ATOM    441  NH1 ARG A  56      65.303  13.230  50.078  0.00  0.00           N 0
+ATOM    794    O TYR A 102      58.985   9.329  45.926  0.57  1.07           O 0
+ATOM   1779    O PHE A 228      63.591   8.169  44.728  0.00  0.00           O 0
+ATOM    795   CB TYR A 102      57.733  10.884  48.340  0.00  0.00           C 0
+ATOM    807   CB PRO A 103      55.494  11.297  43.841  0.00  0.00           C 0
+ATOM    809   CD PRO A 103      57.549  10.157  43.741  0.00  0.00           C 0
+ATOM    808   CG PRO A 103      56.294  10.398  42.925  0.00  0.00           C 0
+TER
+END

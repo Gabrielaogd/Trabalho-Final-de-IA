@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0098
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0210
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6264
+HEADER 5  - Mean B-factor of pocket residues  : 0.4886
+HEADER 6  - Hydrophobicity Score              : 36.1111
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 339.6148
+HEADER 10 - Pocket volume (convex hull)       : 19.6219
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM    215   CA PRO A  31      57.744  21.140  89.746  0.00  0.00           C 0
+ATOM    221    N LEU A  32      57.350  18.884  88.853  0.60  4.37           N 0
+ATOM    141    O LEU A  21      58.364  19.637  83.017  0.34  6.43           O 0
+ATOM    218   CB PRO A  31      59.018  21.234  90.585  0.00  0.00           C 0
+ATOM    197    O SER A  28      55.376  25.985  86.815  0.00  0.00           O 0
+ATOM    214    N PRO A  31      56.863  22.138  90.361  0.00  0.00           N 0
+ATOM    164   CA GLY A  24      61.359  22.142  81.818  0.00  0.00           C 0
+ATOM    149    O VAL A  22      61.462  17.285  83.429  0.00  0.00           O 0
+ATOM    224    O LEU A  32      58.775  16.467  88.339  0.48  7.50           O 0
+ATOM    210    O VAL A  30      55.524  22.132  88.565  0.00  0.00           O 0
+ATOM    208   CA VAL A  30      54.876  23.570  90.359  0.00  0.00           C 0
+ATOM    220   CD PRO A  31      57.392  22.650  91.638  0.00  0.00           C 0
+ATOM    203    O PRO A  29      53.949  26.217  90.325  0.46  7.50           O 0
+ATOM    198   CB SER A  28      55.321  23.210  85.385  0.00  0.00           C 0
+ATOM    181    O VAL A  26      57.643  24.224  81.407  0.38  2.14           O 0
+ATOM    194    N SER A  28      55.583  25.324  84.175  0.35  2.19           N 0
+ATOM    209    C VAL A  30      55.777  22.541  89.691  0.00  0.00           C 0
+TER
+END

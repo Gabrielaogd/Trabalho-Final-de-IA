@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1153
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8870
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6076
+HEADER 5  - Mean B-factor of pocket residues  : 0.2067
+HEADER 6  - Hydrophobicity Score              : 26.8889
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 300.4480
+HEADER 10 - Pocket volume (convex hull)       : 15.2471
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0769
+ATOM   1703   CB ALA A 223      28.907  13.883  39.328  0.00  0.00           C 0
+ATOM   1769    O THR A 233      32.323  18.754  41.031  0.00  0.00           O 0
+ATOM   2169    O HIS A 285      34.549  10.519  42.488  0.74  2.14           O 0
+ATOM   1766    N THR A 233      31.857  17.020  38.870  0.76  2.19           N 0
+ATOM   1764  CG1 VAL A 232      34.960  16.566  38.732  0.00  0.00           C 0
+ATOM   1673    O ASN A 220      26.172  14.205  42.275  0.00  0.00           O 0
+ATOM   1671   CA ASN A 220      25.950  16.589  42.057  0.00  0.00           C 0
+ATOM   1676  OD1 ASN A 220      27.578  18.683  42.984  0.38  5.36           O 0
+ATOM   1760   CA VAL A 232      33.063  15.296  37.661  0.00  0.00           C 0
+ATOM   1770   CB THR A 233      29.699  18.030  39.561  0.00  0.00           C 0
+ATOM   2163    O CYS A 284      31.702   9.791  44.186  0.44  8.57           O 0
+ATOM   1702    O ALA A 223      29.127  10.734  39.897  0.49  1.07           O 0
+ATOM   1754    O LEU A 231      32.138  12.679  37.688  0.75  1.07           O 0
+ATOM   1701    C ALA A 223      28.245  11.580  40.027  0.00  0.00           C 0
+ATOM   1705   CA GLY A 224      27.494  10.617  42.118  0.00  0.00           C 0
+ATOM   1765  CG2 VAL A 232      35.356  14.273  37.830  0.00  0.00           C 0
+ATOM   1052  NH2 ARG A 142      34.265  10.483  39.438  0.42  1.09           N 0
+ATOM   1704    N GLY A 224      27.399  11.598  41.053  0.00  0.00           N 0
+ATOM   1051  NH1 ARG A 142      36.409  11.248  39.726  0.00  0.00           N 0
+ATOM   2168    C HIS A 285      34.761  10.614  43.717  0.00  0.00           C 0
+TER
+END

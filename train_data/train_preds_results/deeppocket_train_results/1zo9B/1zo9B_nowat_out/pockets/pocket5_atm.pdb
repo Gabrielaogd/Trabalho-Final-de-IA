@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0350
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1073
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7670
+HEADER 5  - Mean B-factor of pocket residues  : 0.2839
+HEADER 6  - Hydrophobicity Score              : 14.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 276.8243
+HEADER 10 - Pocket volume (convex hull)       : 11.5599
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.6000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM   1099  OE2 GLU B 131     -19.833  42.423  -0.247  0.67  3.21           O 0
+ATOM   3744    N LEU B 455     -16.358  43.516   4.816  0.64  4.37           N 0
+ATOM   3748   CB LEU B 455     -14.919  43.048   2.969  0.00  0.00           C 0
+ATOM   1096   CG GLU B 131     -18.819  43.617  -2.013  0.00  0.00           C 0
+ATOM   3751  CD2 LEU B 455     -13.785  42.817   0.817  0.00  0.00           C 0
+ATOM   1060   CGAGLN B 128     -13.381  45.614  -1.955  0.00  0.00           C 0
+ATOM   1064  OE1AGLN B 128     -12.031  47.124  -0.687  0.00  8.57           O 0
+ATOM   1097   CD GLU B 131     -20.029  43.157  -1.237  0.00  0.00           C 0
+ATOM   1098  OE1 GLU B 131     -21.179  43.489  -1.617  0.62  2.14           O 0
+ATOM   3726   CD LYS B 452     -25.134  45.080   0.848  0.00  0.00           C 0
+ATOM   3721   CA LYS B 452     -23.972  42.860   2.642  0.00  0.00           C 0
+ATOM   3724   CB LYS B 452     -25.236  43.671   2.946  0.00  0.00           C 0
+ATOM   3723    O LYS B 452     -23.555  43.057   5.011  0.43  6.43           O 0
+ATOM   3722    C LYS B 452     -23.219  42.550   3.934  0.00  0.00           C 0
+ATOM   3737    N PRO B 454     -19.782  42.981   5.793  0.78  1.09           N 0
+ATOM   3738   CA PRO B 454     -18.554  43.765   5.709  0.00  0.00           C 0
+ATOM   3743   CD PRO B 454     -20.494  43.252   7.056  0.00  0.00           C 0
+ATOM   3741   CB PRO B 454     -18.582  44.601   7.000  0.00  0.00           C 0
+ATOM   3732    O ILE B 453     -19.375  41.941   3.835  0.57  1.07           O 0
+ATOM   3731    C ILE B 453     -20.095  42.105   4.825  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0039
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9986
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5564
+HEADER 5  - Mean B-factor of pocket residues  : 0.2027
+HEADER 6  - Hydrophobicity Score              : 11.0909
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 5.2727
+HEADER 9  - Pocket volume (Monte Carlo)       : 292.2531
+HEADER 10 - Pocket volume (convex hull)       : 18.0877
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1500
+ATOM   1258  OE2 GLU B 159      -7.809  27.731 -27.305  0.42  8.57           O 0
+ATOM   1151  OE2 GLU B 144     -13.349  28.067 -29.452  0.69  4.29           O 0
+ATOM   1150  OE1 GLU B 144     -14.560  28.384 -27.648  0.00  0.00           O 0
+ATOM   1225   NZ LYS B 154      -9.522  30.235 -30.450  0.00  0.00           N 0
+ATOM   1142  CD2 LEU B 143     -10.879  25.232 -28.267  0.00  0.00           C 0
+ATOM   2478   NE ARG B 313     -14.683  28.843 -19.235  0.59  3.28           N 0
+ATOM   2493  CZ2 TRP B 314     -13.506  32.138 -17.246  0.00  0.00           C 0
+ATOM   2481  NH2 ARG B 313     -12.463  29.285 -19.653  0.00  0.00           N 0
+ATOM    201  OD2 ASP B  25     -18.690  31.973 -20.758  0.58  6.43           O 0
+ATOM    200  OD1 ASP B  25     -19.122  30.459 -22.293  0.00  0.00           O 0
+ATOM    199   CG ASP B  25     -18.923  30.795 -21.105  0.00  0.00           C 0
+ATOM    144   CE LYS B  19     -12.059  25.496 -22.975  0.00  0.00           C 0
+ATOM   1481  OD1 ASP B 186     -10.394  28.029 -21.530  0.00  0.00           O 0
+ATOM    143   CD LYS B  19     -13.253  25.083 -23.821  0.00  0.00           C 0
+ATOM    163  CE2 TYR B  21     -16.688  26.745 -21.662  0.00  0.00           C 0
+ATOM   1201  CD1 LEU B 151     -18.172  28.706 -27.386  0.00  0.00           C 0
+ATOM    145   NZ LYS B  19     -12.470  26.304 -21.783  0.56  2.19           N 0
+ATOM    161  CD2 TYR B  21     -17.951  26.797 -22.248  0.00  0.00           C 0
+TER
+END

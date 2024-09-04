@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0519
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0926
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6887
+HEADER 5  - Mean B-factor of pocket residues  : 0.4563
+HEADER 6  - Hydrophobicity Score              : 26.5714
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 226.6235
+HEADER 10 - Pocket volume (convex hull)       : 5.7755
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2857
+ATOM    666  CD1 LEU A  98      34.308   9.818  -2.348  0.00  0.00           C 0
+ATOM    656   CB LEU A  97      35.848  10.321   3.082  0.00  0.00           C 0
+ATOM    991  OE2 GLU A 138      40.378   8.643   3.064  0.00  0.00           O 0
+ATOM    655    O LEU A  97      34.954  12.593   1.334  0.00  0.00           O 0
+ATOM    654    C LEU A  97      34.269  11.578   1.532  0.00  0.00           C 0
+ATOM    618    N ASN A  92      39.370   3.631  -3.569  0.00  0.00           N 0
+ATOM    620    C ASN A  92      39.911   2.811  -1.280  0.00  0.00           C 0
+ATOM    621    O ASN A  92      40.893   2.794  -0.532  0.50  5.36           O 0
+ATOM    990  OE1 GLU A 138      41.548   6.911   2.342  0.00  0.00           O 0
+ATOM    627   CA GLY A  93      38.439   3.476   0.520  0.00  0.00           C 0
+ATOM    628    C GLY A  93      37.027   3.986   0.688  0.00  0.00           C 0
+ATOM    636   CD PRO A  94      37.784   5.219   2.741  0.00  0.00           C 0
+ATOM    614   CB LEU A  91      36.466   4.826  -4.007  0.00  0.00           C 0
+ATOM    633    O PRO A  94      35.101   7.239   1.286  0.68  4.29           O 0
+ATOM    630    N PRO A  94      36.769   4.696   1.802  0.00  0.00           N 0
+ATOM    626    N GLY A  93      38.678   3.037  -0.847  0.00  0.00           N 0
+ATOM    617  CD2 LEU A  91      36.064   7.105  -5.003  0.00  0.00           C 0
+ATOM    616  CD1 LEU A  91      34.489   6.167  -3.329  0.00  0.00           C 0
+ATOM    629    O GLY A  93      36.190   3.742  -0.170  0.00  0.00           O 0
+TER
+END

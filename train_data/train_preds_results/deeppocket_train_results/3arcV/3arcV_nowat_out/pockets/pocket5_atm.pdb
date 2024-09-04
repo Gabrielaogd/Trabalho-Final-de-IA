@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0508
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1051
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7186
+HEADER 5  - Mean B-factor of pocket residues  : 0.4482
+HEADER 6  - Hydrophobicity Score              : -28.4000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 319.7519
+HEADER 10 - Pocket volume (convex hull)       : 15.3673
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM    111  OE1 GLU V  15      -7.862 -45.889 247.145  0.77  3.21           O 0
+ATOM    102   CB SER V  14      -7.805 -43.357 243.866  0.00  0.00           C 0
+ATOM    103   OG SER V  14      -8.762 -43.072 242.857  0.56  4.29           O 0
+ATOM    112  OE2 GLU V  15      -7.429 -43.851 247.867  0.00  0.00           O 0
+ATOM     98    N SER V  14      -7.678 -45.785 243.433  0.68  2.19           N 0
+ATOM    540   CB GLU V  70     -12.824 -49.011 242.543  0.00  0.00           C 0
+ATOM    526  OD1 ASN V  68     -10.989 -46.770 240.397  0.54  3.21           O 0
+ATOM     94   CB ASN V  13      -8.291 -48.557 244.214  0.00  0.00           C 0
+ATOM    541   CG GLU V  70     -12.127 -50.175 243.259  0.00  0.00           C 0
+ATOM    491   CB PRO V  64     -15.639 -40.364 242.652  0.00  0.00           C 0
+ATOM    500   CD PRO V  65     -12.299 -39.757 242.130  0.00  0.00           C 0
+ATOM    497    O PRO V  65     -13.084 -42.575 239.834  0.36  1.07           O 0
+ATOM    492   CG PRO V  64     -17.002 -40.802 242.164  0.00  0.00           C 0
+ATOM    546   CA GLY V  71     -14.371 -45.923 239.726  0.00  0.00           C 0
+ATOM    568   CB ASP V  74     -18.468 -46.872 241.494  0.00  0.00           C 0
+ATOM    571  OD2 ASP V  74     -19.366 -44.694 241.864  0.72  2.14           O 0
+ATOM    510  NH1 ARG V  66     -17.991 -43.608 239.648  0.68  1.09           N 0
+ATOM    527  ND2 ASN V  68      -9.582 -45.026 240.555  0.00  0.00           N 0
+ATOM    545    N GLY V  71     -13.663 -47.117 240.202  0.00  0.00           N 0
+ATOM    539    O GLU V  70     -15.529 -48.246 240.813  0.69  1.07           O 0
+ATOM    538    C GLU V  70     -14.301 -48.176 240.701  0.00  0.00           C 0
+TER
+END

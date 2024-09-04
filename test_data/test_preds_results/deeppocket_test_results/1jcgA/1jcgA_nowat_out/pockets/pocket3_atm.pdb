@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1587
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7415
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6462
+HEADER 5  - Mean B-factor of pocket residues  : 0.1882
+HEADER 6  - Hydrophobicity Score              : 26.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.1563
+HEADER 10 - Pocket volume (convex hull)       : 5.0556
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM   1248   CA THR A 171      10.549  20.304 120.071  0.00  0.00           C 0
+ATOM   1243    O VAL A 170       8.816  21.569 121.799  0.31  5.36           O 0
+ATOM   1253  CG2 THR A 171       8.933  21.676 118.728  0.00  0.00           C 0
+ATOM   1262  NE1 TRP A 172       9.538  15.849 122.523  0.00  0.00           N 0
+ATOM   1254    N TRP A 172      11.343  18.100 119.463  0.00  0.00           N 0
+ATOM   1260  CD1 TRP A 172      10.524  16.696 122.080  0.00  0.00           C 0
+ATOM   2005   NZ LYS A 267       8.413  16.082 116.385  0.00  0.00           N 0
+ATOM   1257    O TRP A 172      10.746  15.786 118.125  0.53  1.07           O 0
+ATOM   1251   CB THR A 171      10.254  20.935 118.699  0.00  0.00           C 0
+ATOM   1263  CE2 TRP A 172       9.855  14.569 122.154  0.00  0.00           C 0
+ATOM   1265  CZ2 TRP A 172       9.166  13.368 122.374  0.00  0.00           C 0
+ATOM   1267  CH2 TRP A 172       9.722  12.215 121.881  0.00  0.00           C 0
+ATOM   1276  OE2 GLU A 173      11.008  11.849 115.901  0.77  8.57           O 0
+ATOM   1266  CZ3 TRP A 172      10.940  12.233 121.182  0.00  0.00           C 0
+ATOM   1275  OE1 GLU A 173       9.561  12.962 114.675  0.65  7.50           O 0
+ATOM   1274   CD GLU A 173      10.649  12.879 115.289  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0829
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8587
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6056
+HEADER 5  - Mean B-factor of pocket residues  : 0.1216
+HEADER 6  - Hydrophobicity Score              : 39.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 250.9519
+HEADER 10 - Pocket volume (convex hull)       : 15.3555
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5714
+ATOM   1086  OG1 THR A 139      -2.329  11.144  51.915  0.00  0.00           O 0
+ATOM   1075    O GLU A 138      -1.812  11.382  47.188  0.60  1.07           O 0
+ATOM   1082   CA THR A 139      -1.615  12.214  49.850  0.00  0.00           C 0
+ATOM   1081    N THR A 139      -1.069  10.975  49.298  0.00  0.00           N 0
+ATOM   1077   CG GLU A 138      -1.716   7.660  48.665  0.00  0.00           C 0
+ATOM   1074    C GLU A 138      -1.143  10.698  47.986  0.00  0.00           C 0
+ATOM   1107   CB SER A 142      -4.237  13.757  46.568  0.00  0.00           C 0
+ATOM   1087  CG2 THR A 139      -2.194  13.468  51.966  0.00  0.00           C 0
+ATOM    843  CE2 TYR A 108      -6.060  14.615  53.986  0.00  0.00           C 0
+ATOM    845   OH TYR A 108      -7.990  15.427  52.850  0.00  0.00           O 0
+ATOM    844   CZ TYR A 108      -6.714  15.645  53.330  0.00  0.00           C 0
+ATOM    789   CB ALA A 102      -7.206  20.253  50.774  0.00  0.00           C 0
+ATOM   1116  CD2 LEU A 143      -3.990  18.201  49.986  0.00  0.00           C 0
+ATOM   1141  CD1 ILE A 146      -6.507  19.525  47.072  0.00  0.00           C 0
+ATOM   1106    O SER A 142      -3.986  16.764  45.304  0.68  3.21           O 0
+ATOM   1084    O THR A 139      -1.511  14.423  48.893  0.00  0.00           O 0
+ATOM   1114   CG LEU A 143      -2.628  17.496  49.832  0.00  0.00           C 0
+ATOM   1108   OG SER A 142      -4.458  12.432  46.086  0.00  0.00           O 0
+ATOM   1076   CB GLU A 138      -1.190   8.212  47.363  0.00  0.00           C 0
+TER
+END

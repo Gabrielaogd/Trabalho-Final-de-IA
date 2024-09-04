@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0350
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9049
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5381
+HEADER 5  - Mean B-factor of pocket residues  : 0.0725
+HEADER 6  - Hydrophobicity Score              : 8.3333
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 236.3334
+HEADER 10 - Pocket volume (convex hull)       : 6.0911
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   3432    O ARG A 428      28.508   1.100  -1.256  0.00  0.00           O 0
+ATOM   2636   CB TRP A 330      26.055   5.328  -2.464  0.00  0.00           C 0
+ATOM   2638  CD1 TRP A 330      26.053   3.479  -0.656  0.00  0.00           C 0
+ATOM   2652  OD1 ASP A 331      31.321   7.888  -1.114  0.41  6.43           O 0
+ATOM   2614    OASER A 327      27.139   5.523  -5.679  0.69  7.50           O 0
+ATOM   2646    N ASP A 331      27.494   8.051  -1.385  0.45  2.19           N 0
+ATOM   2675  CG1 ILE A 334      28.729   5.400   2.425  0.00  0.00           C 0
+ATOM   2585  OD2 ASP A 323      27.874   5.547 -10.573  0.00  0.00           O 0
+ATOM   2572  OG1 THR A 321      30.779   9.469 -10.076  0.59  1.07           O 0
+ATOM   2573  CG2 THR A 321      33.092   9.088  -9.700  0.00  0.00           C 0
+ATOM   2571   CB THR A 321      31.992   9.105 -10.728  0.00  0.00           C 0
+ATOM   2621   CA GLY A 328      26.827   7.368  -7.734  0.00  0.00           C 0
+ATOM   2623    O GLY A 328      27.661   9.118  -6.288  0.37  3.21           O 0
+ATOM   2540   OGASER A 317      31.941  10.892  -5.328  0.06  9.64           O 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0266
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9634
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4400
+HEADER 5  - Mean B-factor of pocket residues  : 0.7781
+HEADER 6  - Hydrophobicity Score              : 25.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 253.0490
+HEADER 10 - Pocket volume (convex hull)       : 6.5210
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM    926  NH1 ARG A 132      -0.917  32.317  32.402  0.00  0.00           N 0
+ATOM    925   CZ ARG A 132      -0.783  32.778  31.164  0.00  0.00           C 0
+ATOM    927  NH2 ARG A 132      -0.975  34.067  30.916  0.46  7.66           N 0
+ATOM    803   NZ LYS A 116       5.875  35.226  34.707  0.00  0.00           N 0
+ATOM    854  CG2 THR A 123       3.271  29.883  30.367  0.00  0.00           C 0
+ATOM    783    O LEU A 114       5.755  32.704  26.499  0.76  3.21           O 0
+ATOM    924   NE ARG A 132      -0.460  31.949  30.175  0.55  1.09           N 0
+ATOM    873   CE LYS A 125       0.135  34.530  25.245  0.00  0.00           C 0
+ATOM    871   CG LYS A 125       0.994  32.270  24.533  0.00  0.00           C 0
+ATOM    857    C PHE A 124       2.886  29.019  25.607  0.00  0.00           C 0
+ATOM    922   CG ARG A 132       0.048  29.811  29.032  0.00  0.00           C 0
+ATOM    801   CD LYS A 116       6.546  33.696  32.842  0.00  0.00           C 0
+ATOM    853  OG1 THR A 123       4.476  28.833  32.171  0.61  6.43           O 0
+ATOM    799   CB LYS A 116       7.277  32.224  30.937  0.00  0.00           C 0
+TER
+END

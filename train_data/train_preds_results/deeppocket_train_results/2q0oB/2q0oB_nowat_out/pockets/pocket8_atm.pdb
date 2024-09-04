@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0331
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8855
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6634
+HEADER 5  - Mean B-factor of pocket residues  : 0.7419
+HEADER 6  - Hydrophobicity Score              : 36.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 275.2317
+HEADER 10 - Pocket volume (convex hull)       : 14.8966
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   1303   CB ALA B 166      18.271  31.118 -30.114  0.00  0.00           C 0
+ATOM   1280    C ILE B 163      18.884  31.412 -25.283  0.00  0.00           C 0
+ATOM   1281    O ILE B 163      19.236  32.422 -24.677  0.45  6.43           O 0
+ATOM   1284  CG2 ILE B 163      16.610  33.232 -24.635  0.00  0.00           C 0
+ATOM   1286    N ILE B 164      19.728  30.653 -25.967  0.00  0.00           N 0
+ATOM   1289    O ILE B 164      22.370  30.643 -28.123  0.00  0.00           O 0
+ATOM   1314   CA THR B 168      23.009  35.001 -33.283  0.00  0.00           C 0
+ATOM   1307    O LYS B 167      20.753  33.768 -32.217  0.00  0.00           O 0
+ATOM   1316    O THR B 168      21.619  36.663 -32.249  0.00  0.00           O 0
+ATOM   1302    O ALA B 166      21.416  31.374 -30.965  0.00  0.00           O 0
+ATOM   1319  CG2 THR B 168      25.333  34.397 -34.047  0.00  0.00           C 0
+ATOM   1313    N THR B 168      22.450  33.723 -33.699  0.71  2.19           N 0
+ATOM   1287   CA ILE B 164      21.147  30.962 -26.089  0.00  0.00           C 0
+ATOM   1291  CG1 ILE B 164      21.641  31.420 -23.659  0.00  0.00           C 0
+ATOM    121    O GLN B  18      23.363  35.623 -22.762  0.62  5.36           O 0
+ATOM   1292  CG2 ILE B 164      23.437  30.568 -25.150  0.00  0.00           C 0
+TER
+END

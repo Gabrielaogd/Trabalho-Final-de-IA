@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0028
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8528
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5356
+HEADER 5  - Mean B-factor of pocket residues  : 0.0880
+HEADER 6  - Hydrophobicity Score              : -24.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.9867
+HEADER 10 - Pocket volume (convex hull)       : 6.9822
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM    444   CD GLU B  56     100.245 -26.189 -10.492  0.00  0.00           C 0
+ATOM    418  OD2 ASP B  53     100.521 -20.309 -11.534  0.65  4.29           O 0
+ATOM    445  OE1 GLU B  56      99.839 -26.503  -9.381  0.00  0.00           O 0
+ATOM    446  OE2 GLU B  56     101.452 -25.963 -10.780  0.44  8.57           O 0
+ATOM    466  OE1 GLN B  59      96.870 -20.260  -7.837  0.74  5.36           O 0
+ATOM    443   CG GLU B  56      99.177 -25.910 -11.566  0.00  0.00           C 0
+ATOM    442   CB GLU B  56      97.745 -26.076 -11.005  0.00  0.00           C 0
+ATOM    414    O ASP B  53      96.365 -20.184 -10.548  0.41  1.07           O 0
+ATOM    447    N GLY B  57      94.455 -25.220 -11.385  0.51  1.09           N 0
+ATOM    416   CG ASP B  53      99.399 -19.935 -11.964  0.00  0.00           C 0
+ATOM    463   CB GLN B  59      93.929 -20.961  -7.728  0.00  0.00           C 0
+ATOM    448   CA GLY B  57      93.148 -25.403 -10.743  0.00  0.00           C 0
+ATOM    460   CA GLN B  59      92.442 -21.140  -7.370  0.00  0.00           C 0
+ATOM    459    N GLN B  59      91.934 -21.820  -8.558  0.00  0.00           N 0
+ATOM    440    C GLU B  56      95.292 -26.241 -11.526  0.00  0.00           C 0
+ATOM    441    O GLU B  56      95.003 -27.371 -11.164  0.00  0.00           O 0
+ATOM    465   CD GLN B  59      96.139 -20.427  -6.828  0.00  0.00           C 0
+ATOM    467  NE2 GLN B  59      96.637 -20.624  -5.634  0.00  0.00           N 0
+TER
+END

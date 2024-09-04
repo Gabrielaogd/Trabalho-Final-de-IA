@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1294
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6233
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4323
+HEADER 5  - Mean B-factor of pocket residues  : 0.0129
+HEADER 6  - Hydrophobicity Score              : 68.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 87.3086
+HEADER 10 - Pocket volume (convex hull)       : 0.7202
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM   1014  CG1 VAL A 131      53.650  14.370  22.488  0.00  0.00           C 0
+ATOM    993   CB VAL A 128      53.067  19.455  22.790  0.00  0.00           C 0
+ATOM   1013   CB VAL A 131      54.112  15.621  21.738  0.00  0.00           C 0
+ATOM   1180  CE1 PHE A 152      48.412  14.305  21.862  0.00  0.00           C 0
+ATOM    992    O VAL A 128      52.441  18.769  20.032  0.56  2.14           O 0
+ATOM    989    N VAL A 128      50.959  20.450  21.886  0.00  0.00           N 0
+ATOM   1012    O VAL A 131      52.136  14.993  19.730  0.57  6.43           O 0
+ATOM    977    O VAL A 126      47.700  20.709  24.308  0.41  2.14           O 0
+ATOM   1182   CZ PHE A 152      47.689  14.125  23.051  0.00  0.00           C 0
+ATOM   1161   CB PRO A 150      46.160  16.727  26.127  0.00  0.00           C 0
+ATOM   1167    O ILE A 151      47.086  18.365  21.129  0.61  1.07           O 0
+ATOM    995  CG2 VAL A 128      52.415  19.650  24.213  0.00  0.00           C 0
+ATOM   1070   CB PHE A 139      52.061  15.415  26.879  0.00  0.00           C 0
+ATOM    895   OH TYR A 115      51.085  18.944  27.577  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0828
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 4.0062
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6127
+HEADER 5  - Mean B-factor of pocket residues  : 0.2655
+HEADER 6  - Hydrophobicity Score              : 19.8889
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 414.0039
+HEADER 10 - Pocket volume (convex hull)       : 29.4603
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.1429
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2333
+ATOM   1833   CA GLY A 593      46.641  14.618  25.415  0.00  0.00           C 0
+ATOM   1433   CD ARG A 544      43.548  16.663  29.679  0.00  0.00           C 0
+ATOM   1839    O LYS A 594      48.048  16.404  29.179  0.57  5.36           O 0
+ATOM   1434   NE ARG A 544      44.912  17.198  29.693  0.00  0.00           N 0
+ATOM   1852    N ILE A 596      48.887  17.079  32.488  0.55  2.19           N 0
+ATOM   1855    O ILE A 596      49.874  18.666  34.739  0.59  7.50           O 0
+ATOM   1410  OE2 GLU A 541      48.093  11.299  35.806  0.39  7.50           O 0
+ATOM   1849   CB PRO A 595      51.823  16.247  31.074  0.00  0.00           C 0
+ATOM   1846   CA PRO A 595      50.334  16.223  30.725  0.00  0.00           C 0
+ATOM   1409  OE1 GLU A 541      48.772  10.233  33.986  0.60  6.43           O 0
+ATOM   1857  CG1 ILE A 596      46.186  16.454  33.362  0.00  0.00           C 0
+ATOM   1832    N GLY A 593      45.493  15.500  25.585  0.00  0.00           N 0
+ATOM   1432   CG ARG A 544      43.217  15.993  30.996  0.00  0.00           C 0
+ATOM   1431   CB ARG A 544      41.901  15.270  30.952  0.00  0.00           C 0
+ATOM   1420   CA SER A 543      42.793  11.687  34.121  0.00  0.00           C 0
+ATOM   1407   CG GLU A 541      47.193   9.164  35.413  0.00  0.00           C 0
+ATOM   1414    O ILE A 542      45.226  12.022  35.395  0.77  2.14           O 0
+ATOM   1427    N ARG A 544      42.269  13.595  32.713  0.60  1.09           N 0
+ATOM   1859  CD1 ILE A 596      45.485  15.473  34.266  0.00  0.00           C 0
+ATOM   1856   CB ILE A 596      47.058  17.465  34.120  0.00  0.00           C 0
+ATOM   1877  CE2 PHE A 598      47.294  17.278  37.861  0.00  0.00           C 0
+ATOM   1423   CBASER A 543      41.907  10.520  33.657  0.00  0.00           C 0
+ATOM   1425   OGASER A 543      41.329  10.747  32.382  0.61  8.57           O 0
+TER
+END

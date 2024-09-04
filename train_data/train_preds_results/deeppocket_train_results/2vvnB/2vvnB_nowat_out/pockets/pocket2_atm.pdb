@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.1258
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.4808
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3575
+HEADER 5  - Mean B-factor of pocket residues  : 0.1047
+HEADER 6  - Hydrophobicity Score              : 24.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 75.9107
+HEADER 10 - Pocket volume (convex hull)       : 0.2781
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM   2566  CG2 ILE B 318     -11.476 -38.885  22.934  0.00  0.00           C 0
+ATOM   2561   CA ILE B 318     -12.882 -37.435  24.467  0.00  0.00           C 0
+ATOM   2501   CA GLY B 311      -8.544 -33.958  24.019  0.00  0.00           C 0
+ATOM   2568    N THR B 319     -14.268 -36.854  22.550  0.66  1.09           N 0
+ATOM   2595   CA GLY B 322     -12.112 -34.176  18.877  0.00  0.00           C 0
+ATOM   2596    C GLY B 322     -11.054 -35.191  18.442  0.00  0.00           C 0
+ATOM   2598    N ILE B 323     -11.384 -36.481  18.491  0.00  0.00           N 0
+ATOM   2485  CD1 TRP B 309      -6.182 -35.462  21.594  0.00  0.00           C 0
+ATOM   2487  NE1 TRP B 309      -6.609 -34.251  21.062  0.00  0.00           N 0
+ATOM   2555    O ASP B 317     -13.534 -34.905  25.489  0.53  2.14           O 0
+ATOM   2573  OG1 THR B 319     -15.086 -34.633  20.785  0.44  1.07           O 0
+ATOM   2510  OD1 ASP B 312     -10.980 -31.481  20.774  0.00  0.00           O 0
+ATOM   2599   CA ILE B 323     -10.400 -37.514  18.136  0.00  0.00           C 0
+ATOM   2605  CD1 ILE B 323      -8.810 -39.911  19.892  0.00  0.00           C 0
+ATOM   2504    N ASP B 312      -9.722 -31.889  23.593  0.48  1.09           N 0
+TER
+END

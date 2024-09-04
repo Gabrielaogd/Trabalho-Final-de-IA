@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0819
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9573
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5371
+HEADER 5  - Mean B-factor of pocket residues  : 0.4386
+HEADER 6  - Hydrophobicity Score              : 35.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 324.9692
+HEADER 10 - Pocket volume (convex hull)       : 10.1718
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM    444   CD ARG A  60     -30.610   8.919   6.651  0.00  0.00           C 0
+ATOM    445   NE ARG A  60     -30.624   9.684   7.935  0.00  0.00           N 0
+ATOM    468    O CYS A  64     -29.657   2.055   6.971  0.00  0.00           O 0
+ATOM    481   CA ALA A  66     -28.471   2.524  11.799  0.00  0.00           C 0
+ATOM    448  NH2 ARG A  60     -31.092  11.437   9.334  0.00  0.00           N 0
+ATOM    426  CE2 TRP A  58     -27.039  13.340  10.780  0.00  0.00           C 0
+ATOM    425  NE1 TRP A  58     -28.126  14.166  10.964  0.54  4.37           N 0
+ATOM    428  CZ2 TRP A  58     -26.128  12.852  11.713  0.00  0.00           C 0
+ATOM    474    O GLN A  65     -26.944   3.268   9.456  0.51  3.21           O 0
+ATOM    469   CB CYS A  64     -28.433   4.450   5.261  0.00  0.00           C 0
+ATOM    730   CB ALA A 100     -26.581   8.694   7.134  0.00  0.00           C 0
+ATOM    483    O ALA A  66     -27.206   4.417  12.774  0.00  0.00           O 0
+ATOM    492    O LYS A  68     -24.383   6.254  10.205  0.46  1.07           O 0
+ATOM    994   CZ PHE A 133     -25.575   9.121  13.540  0.00  0.00           C 0
+ATOM    430  CH2 TRP A  58     -25.124  12.040  11.238  0.00  0.00           C 0
+ATOM    429  CZ3 TRP A  58     -25.038  11.693   9.892  0.00  0.00           C 0
+ATOM    427  CE3 TRP A  58     -25.936  12.180   8.965  0.00  0.00           C 0
+ATOM    424  CD2 TRP A  58     -26.935  13.034   9.392  0.00  0.00           C 0
+TER
+END

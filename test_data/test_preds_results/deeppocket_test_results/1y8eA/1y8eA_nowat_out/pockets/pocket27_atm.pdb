@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0242
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8536
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5128
+HEADER 5  - Mean B-factor of pocket residues  : 0.5327
+HEADER 6  - Hydrophobicity Score              : -12.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 228.8881
+HEADER 10 - Pocket volume (convex hull)       : 3.3176
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3500
+ATOM    524  NH2 ARG A  66      18.264   0.306  81.161  0.00  0.00           N 0
+ATOM    290    C GLY A  38      16.342   0.439  87.144  0.00  0.00           C 0
+ATOM    310   CD ARG A  40      15.899   5.600  83.467  0.00  0.00           C 0
+ATOM    501   CE LYS A  64      15.427  -1.150  83.542  0.00  0.00           C 0
+ATOM    292    N TYR A  39      16.150   1.690  87.539  0.68  2.19           N 0
+ATOM    284    O PRO A  37      19.538   1.326  88.704  0.00  0.00           O 0
+ATOM    289   CA GLY A  38      17.811   0.002  87.074  0.00  0.00           C 0
+ATOM    295    O TYR A  39      15.861   4.509  87.680  0.00  0.00           O 0
+ATOM    313  NH1 ARG A  40      18.195   6.897  82.029  0.00  0.00           N 0
+ATOM    521   NE ARG A  66      17.289   2.109  80.161  0.61  2.19           N 0
+ATOM    309   CG ARG A  40      14.545   4.948  83.647  0.00  0.00           C 0
+ATOM    499   CG LYS A  64      13.569   0.523  83.677  0.00  0.00           C 0
+ATOM    653  OD2 ASP A  84      22.074   6.591  79.340  0.32  8.57           O 0
+ATOM    652  OD1 ASP A  84      20.480   5.151  78.912  0.55  7.50           O 0
+ATOM    651   CG ASP A  84      20.869   6.305  79.189  0.00  0.00           C 0
+TER
+END

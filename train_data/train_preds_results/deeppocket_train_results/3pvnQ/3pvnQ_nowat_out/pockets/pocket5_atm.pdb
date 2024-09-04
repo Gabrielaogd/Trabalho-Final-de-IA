@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1499
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7891
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4697
+HEADER 5  - Mean B-factor of pocket residues  : 0.4195
+HEADER 6  - Hydrophobicity Score              : 11.7000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 169.1876
+HEADER 10 - Pocket volume (convex hull)       : 2.0211
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM    197   CG PRO Q  25       1.920  14.337  63.313  0.00  0.00           C 0
+ATOM   1428    O ASN Q 183       1.733  11.621  59.513  0.90  4.29           O 0
+ATOM   1452   CB ASN Q 186       3.489  17.694  56.449  0.00  0.00           C 0
+ATOM   1436    O VAL Q 184       4.925  13.949  60.868  0.71  3.21           O 0
+ATOM   1421    O PRO Q 182       1.680  14.004  55.557  0.52  8.57           O 0
+ATOM   1494    N LYS Q 191       6.398  21.714  62.173  0.56  2.19           N 0
+ATOM   1492  CD1 LEU Q 190       8.602  19.896  59.381  0.00  0.00           C 0
+ATOM    181    O LYS Q  23       6.257  17.729  64.418  0.38  3.21           O 0
+ATOM   1484    O ALA Q 189       3.572  20.646  59.453  0.31  9.64           O 0
+ATOM    198   CD PRO Q  25       3.391  14.786  63.424  0.00  0.00           C 0
+ATOM   1427    C ASN Q 183       2.343  11.764  58.480  0.00  0.00           C 0
+ATOM   1435    C VAL Q 184       5.128  13.271  59.863  0.00  0.00           C 0
+ATOM   1448    N ASN Q 186       5.504  16.872  57.600  0.53  2.19           N 0
+ATOM   1446  CD1 LEU Q 185       8.008  15.445  61.438  0.00  0.00           C 0
+ATOM   1441   CA LEU Q 185       6.480  15.032  58.834  0.00  0.00           C 0
+TER
+END

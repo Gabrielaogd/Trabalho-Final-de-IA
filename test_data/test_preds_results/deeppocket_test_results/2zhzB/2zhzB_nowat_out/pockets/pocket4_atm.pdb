@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.2507
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8013
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6273
+HEADER 5  - Mean B-factor of pocket residues  : 0.0192
+HEADER 6  - Hydrophobicity Score              : 9.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.0828
+HEADER 10 - Pocket volume (convex hull)       : 3.2871
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM    894   CB THR B 126       1.815 -21.790   8.513  0.00  0.00           C 0
+ATOM    893    O THR B 126       3.479 -20.803  11.067  0.69  3.21           O 0
+ATOM    891   CA THR B 126       2.789 -22.474   9.502  0.00  0.00           C 0
+ATOM    914   CB ARG B 129       7.054 -21.655  10.438  0.00  0.00           C 0
+ATOM    955  NH1 ARG B 133       6.910 -17.459  10.231  0.00  0.00           N 0
+ATOM    956  NH2 ARG B 133       5.411 -15.869  10.926  0.60  9.84           N 0
+ATOM    928   NE ARG B 130       1.246 -16.910  13.417  0.00  0.00           N 0
+ATOM    896  CG2 THR B 126       1.967 -22.389   7.130  0.00  0.00           C 0
+ATOM    917   NE ARG B 129       7.790 -22.576   7.485  0.62  4.37           N 0
+ATOM    916   CD ARG B 129       6.959 -23.244   8.478  0.00  0.00           C 0
+ATOM    895  OG1 THR B 126       0.464 -21.954   8.965  0.68  3.21           O 0
+ATOM    897    N VAL B 127       1.856 -22.184  11.750  0.00  0.00           N 0
+ATOM    903  CG2 VAL B 127      -0.719 -21.500  13.094  0.00  0.00           C 0
+ATOM    931  NH2 ARG B 130      -0.715 -17.884  14.131  0.00  0.00           N 0
+TER
+END

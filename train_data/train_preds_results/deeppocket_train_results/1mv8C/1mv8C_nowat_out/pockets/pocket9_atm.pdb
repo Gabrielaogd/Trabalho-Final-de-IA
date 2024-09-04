@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0566
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8210
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4730
+HEADER 5  - Mean B-factor of pocket residues  : 0.0720
+HEADER 6  - Hydrophobicity Score              : 22.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 162.9722
+HEADER 10 - Pocket volume (convex hull)       : 2.1163
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM    620  OG1 THR C  86     -43.212 -29.470   3.771  0.00  0.00           O 0
+ATOM   1144  OE2 GLU C 157     -43.658 -36.842   0.549  0.47  8.57           O 0
+ATOM    917  OG1 THR C 124     -40.536 -33.697   1.804  0.32  5.36           O 0
+ATOM    912    N THR C 124     -41.319 -33.161   4.483  0.40  1.09           N 0
+ATOM    898    O ARG C 122     -41.819 -36.503   5.348  0.00  0.00           O 0
+ATOM    907   CA SER C 123     -42.772 -34.047   6.207  0.00  0.00           C 0
+ATOM     87  CG2 VAL C  11     -47.243 -37.204   1.599  0.00  0.00           C 0
+ATOM     86  CG1 VAL C  11     -47.150 -38.653   3.636  0.00  0.00           C 0
+ATOM    601    O CYS C  83     -48.609 -34.264   6.813  0.73  3.21           O 0
+ATOM    911   OG SER C 123     -44.556 -33.181   7.631  0.00  0.00           O 0
+ATOM    599   CA CYS C  83     -46.983 -35.518   8.048  0.00  0.00           C 0
+ATOM     85   CB VAL C  11     -48.006 -37.710   2.816  0.00  0.00           C 0
+ATOM   1141   CG GLU C 157     -43.442 -38.555   2.204  0.00  0.00           C 0
+ATOM    607    O VAL C  84     -46.501 -31.497   6.504  0.61  4.29           O 0
+ATOM    906    N SER C 123     -42.699 -35.268   6.997  0.00  0.00           N 0
+TER
+END

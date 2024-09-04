@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1670
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6276
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4781
+HEADER 5  - Mean B-factor of pocket residues  : 0.5991
+HEADER 6  - Hydrophobicity Score              : -16.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 192.8030
+HEADER 10 - Pocket volume (convex hull)       : 6.0955
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   1066   CB ARG A 143      13.346  -7.252  15.963  0.00  0.00           C 0
+ATOM   1067   CG ARG A 143      14.077  -6.959  14.665  0.00  0.00           C 0
+ATOM   1057    O ASP A 142      14.330  -6.912  19.306  0.00  0.00           O 0
+ATOM   1071  NH1 ARG A 143      16.275  -9.183  13.275  0.68  7.66           N 0
+ATOM   1053  ND2 ASN A 141      10.464 -12.181  18.620  0.19  1.09           N 0
+ATOM      9    N ASP A   8      10.741 -14.988  14.212  0.00  0.00           N 0
+ATOM   1069   NE ARG A 143      14.089  -9.358  13.981  0.42  1.09           N 0
+ATOM   1072  NH2 ARG A 143      15.523 -11.146  14.194  0.00  0.00           N 0
+ATOM     15  OD1 ASP A   8      13.020 -16.001  15.502  0.33  5.36           O 0
+ATOM   1070   CZ ARG A 143      15.296  -9.893  13.819  0.00  0.00           C 0
+ATOM   2364   CE MET A 305      10.699 -10.532  11.825  0.00  0.00           C 0
+ATOM   1045   NZ LYS A 140       7.582 -11.854  14.589  0.58  1.09           N 0
+ATOM   1040    O LYS A 140      10.016  -7.862  16.710  0.31  1.07           O 0
+ATOM   1043   CD LYS A 140       7.777  -9.382  14.833  0.00  0.00           C 0
+ATOM   1049    O ASN A 141      11.405  -9.320  18.815  0.20  4.29           O 0
+TER
+END

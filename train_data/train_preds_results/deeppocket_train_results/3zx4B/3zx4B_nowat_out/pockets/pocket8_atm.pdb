@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0121
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6324
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4123
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 10.7500
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 92.4628
+HEADER 10 - Pocket volume (convex hull)       : 1.4330
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM   1395    O ALA B 175      15.747  42.024  31.825  0.00  0.00           O 0
+ATOM   1306  CG2 THR B 163      13.835  47.202  29.038  0.00  0.00           C 0
+ATOM   1115  OD2 ASP B 138      19.031  46.573  28.468  0.60  1.07           O 0
+ATOM   1378   CB ALA B 172      18.994  42.648  27.794  0.00  0.00           C 0
+ATOM    465   CB ASN B  59      17.307  46.448  32.467  0.00  0.00           C 0
+ATOM   1374    N ALA B 172      18.086  42.903  25.500  0.00  0.00           N 0
+ATOM   1281   CB GLU B 161      13.953  40.147  26.511  0.00  0.00           C 0
+ATOM   1288    C TRP B 162      12.350  44.955  26.093  0.00  0.00           C 0
+ATOM   1289    O TRP B 162      11.415  44.367  26.679  0.60  5.36           O 0
+ATOM   1279    C GLU B 161      14.074  42.107  24.958  0.00  0.00           C 0
+ATOM   1304   CB THR B 163      12.429  46.733  28.791  0.00  0.00           C 0
+ATOM   1280    O GLU B 161      15.192  42.585  24.803  0.80  1.07           O 0
+ATOM   1300    N THR B 163      12.747  46.179  26.386  0.00  0.00           N 0
+ATOM   1362    O HIS B 170      15.363  46.480  24.750  0.00  0.00           O 0
+TER
+END

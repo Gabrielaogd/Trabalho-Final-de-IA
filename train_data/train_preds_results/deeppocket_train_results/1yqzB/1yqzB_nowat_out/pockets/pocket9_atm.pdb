@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0171
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8171
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4819
+HEADER 5  - Mean B-factor of pocket residues  : 0.3783
+HEADER 6  - Hydrophobicity Score              : -14.7143
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 5.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 243.6631
+HEADER 10 - Pocket volume (convex hull)       : 12.9087
+HEADER 11 - Charge Score                      :     5
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM    556   CA LYS B  71      -6.561  23.739  36.344  0.00  0.00           C 0
+ATOM    547    O ARG B  70      -6.662  26.017  34.827  0.00  0.00           O 0
+ATOM    560   CG LYS B  71      -4.472  22.946  35.065  0.00  0.00           C 0
+ATOM    126   CG ARG B  21      -8.712  20.167  34.421  0.00  0.00           C 0
+ATOM    137   CG ARG B  22      -5.977  18.324  28.930  0.00  0.00           C 0
+ATOM    167   NZ LYS B  25     -10.550  21.184  30.056  0.00  0.00           N 0
+ATOM    563   NZ LYS B  71      -2.936  21.995  32.516  0.62  4.37           N 0
+ATOM    553  NH1 ARG B  70      -3.479  24.931  31.650  0.00  0.00           N 0
+ATOM    576  NE2AGLN B  72      -9.862  25.183  36.456  0.00  0.00           N 0
+ATOM    570   CGAGLN B  72     -10.663  25.113  38.733  0.00  0.00           C 0
+ATOM    568   CBAGLN B  72     -10.151  23.686  38.930  0.00  0.00           C 0
+ATOM    162    O LYS B  25     -14.697  20.524  36.046  0.00  0.00           O 0
+ATOM    141  NH1 ARG B  22      -4.370  20.135  26.566  0.00  0.00           N 0
+ATOM    165   CD LYS B  25     -12.441  20.946  31.648  0.00  0.00           C 0
+ATOM    127   CD ARG B  21     -10.072  20.063  35.143  0.00  0.00           C 0
+ATOM    163   CB LYS B  25     -14.462  20.719  33.130  0.00  0.00           C 0
+ATOM    132    N ARG B  22      -8.175  17.850  31.146  0.00  0.00           N 0
+ATOM    101    O SER B  18      -5.333  17.536  32.248  0.00  0.00           O 0
+ATOM    133   CA ARG B  22      -8.434  18.240  29.748  0.00  0.00           C 0
+TER
+END

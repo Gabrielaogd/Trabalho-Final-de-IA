@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0303
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8411
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4642
+HEADER 5  - Mean B-factor of pocket residues  : 0.1693
+HEADER 6  - Hydrophobicity Score              : -14.8000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 144.8202
+HEADER 10 - Pocket volume (convex hull)       : 2.1883
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1500
+ATOM   1398   CG GLN B 235      24.781  24.912  21.557  0.00  0.00           C 0
+ATOM   1399   CD GLN B 235      24.996  24.722  22.996  0.00  0.00           C 0
+ATOM   1392   OG SER B 234      27.452  26.315  18.461  0.00  0.00           O 0
+ATOM   1400  OE1 GLN B 235      25.137  25.709  23.780  0.76  4.29           O 0
+ATOM   1377   CE LYS B 232      32.577  29.220  22.666  0.00  0.00           C 0
+ATOM   1375   CG LYS B 232      31.049  30.660  21.256  0.00  0.00           C 0
+ATOM   1373    O LYS B 232      27.897  31.989  21.280  0.60  1.07           O 0
+ATOM   1320   CG GLU B 225      27.071  28.839  26.786  0.00  0.00           C 0
+ATOM   1376   CD LYS B 232      31.906  30.582  22.512  0.00  0.00           C 0
+ATOM    930   OG SER B 156      29.372  32.896  26.254  0.57  6.43           O 0
+ATOM   1318    O GLU B 225      24.941  29.651  24.359  0.58  1.07           O 0
+ATOM   1387    N SER B 234      26.530  29.198  18.323  0.50  1.09           N 0
+ATOM   1393    N GLN B 235      24.702  27.101  19.347  0.34  2.19           N 0
+ATOM   1323  OE2 GLU B 225      29.278  27.997  27.001  0.39  7.50           O 0
+TER
+END

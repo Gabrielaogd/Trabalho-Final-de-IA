@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0337
+HEADER 1  - Drug Score                        : 0.0043
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7190
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4269
+HEADER 5  - Mean B-factor of pocket residues  : 0.1271
+HEADER 6  - Hydrophobicity Score              : 36.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.9022
+HEADER 10 - Pocket volume (convex hull)       : 6.4753
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7000
+ATOM    345   CG MET A  77      19.525  -3.750  32.717  0.00  0.00           C 0
+ATOM    346   SD MET A  77      18.193  -2.804  31.891  0.00  0.00           S 0
+ATOM    463   CD ARG A  91      22.041   2.628  33.059  0.00  0.00           C 0
+ATOM    466  NH1 ARG A  91      22.838   1.516  30.547  0.55  5.47           N 0
+ATOM    485  CE2 PHE A  93      23.303  -2.996  32.911  0.00  0.00           C 0
+ATOM    462   CG ARG A  91      22.241   2.879  34.556  0.00  0.00           C 0
+ATOM    351    O ASP A  78      18.916  -1.282  38.626  0.47  7.50           O 0
+ATOM    486   CZ PHE A  93      23.959  -1.811  32.978  0.00  0.00           C 0
+ATOM    344   CB MET A  77      19.266  -3.710  34.226  0.00  0.00           C 0
+ATOM    471    O LEU A  92      22.592  -2.287  37.227  0.00  0.00           O 0
+ATOM    461   CB ARG A  91      23.272   1.902  35.108  0.00  0.00           C 0
+ATOM    361   CG LYS A  79      15.332  -3.006  36.511  0.00  0.00           C 0
+ATOM    168    O VAL A  55      20.150  -4.541  28.965  0.44  6.43           O 0
+ATOM    152    O ASN A  53      22.630  -2.044  26.192  0.28  8.57           O 0
+ATOM    347   CE MET A  77      18.077  -3.503  30.264  0.00  0.00           C 0
+ATOM    144    O LEU A  52      24.234  -3.332  29.475  0.00  0.00           O 0
+TER
+END

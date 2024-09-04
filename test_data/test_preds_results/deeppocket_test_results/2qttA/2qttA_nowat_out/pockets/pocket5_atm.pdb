@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0174
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0128
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6273
+HEADER 5  - Mean B-factor of pocket residues  : 0.2047
+HEADER 6  - Hydrophobicity Score              : 35.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 283.2853
+HEADER 10 - Pocket volume (convex hull)       : 8.2190
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1500
+ATOM   1070   CA SER A 160     -18.384  15.388 -13.667  0.00  0.00           C 0
+ATOM   1051  OE1 GLN A 157     -20.554  10.950 -19.914  0.00  0.00           O 0
+ATOM   1073   CB SER A 160     -19.797  15.998 -13.842  0.00  0.00           C 0
+ATOM   1074   OG SER A 160     -19.743  17.314 -14.365  0.00  0.00           O 0
+ATOM    854    O SER A 134     -17.019  10.699 -19.023  0.00  0.00           O 0
+ATOM   1056    O ALA A 158     -18.489  11.346 -15.162  0.39  3.21           O 0
+ATOM   1061    O PHE A 159     -16.339  13.471 -13.509  0.36  3.21           O 0
+ATOM   1057   CB ALA A 158     -15.558  10.093 -15.938  0.00  0.00           C 0
+ATOM    852   CA SER A 134     -15.365  11.905 -20.332  0.00  0.00           C 0
+ATOM    843  CD2 LEU A 132     -11.602  16.235 -16.472  0.00  0.00           C 0
+ATOM   1080  OG1 THR A 161     -13.475  16.464 -13.674  0.69  1.07           O 0
+ATOM   1078    O THR A 161     -13.972  19.128 -13.939  0.00  0.00           O 0
+ATOM   1075    N THR A 161     -16.420  16.799 -13.388  0.51  3.28           N 0
+ATOM   1111  CD1 LEU A 165     -13.442  19.858 -19.176  0.00  0.00           C 0
+ATOM   1082    N PRO A 162     -16.104  19.801 -13.695  0.00  0.00           N 0
+ATOM   1077    C THR A 161     -15.104  18.919 -13.512  0.00  0.00           C 0
+ATOM    847    O VAL A 133     -13.616  11.525 -18.198  0.56  3.21           O 0
+ATOM   1086   CB PRO A 162     -17.288  21.637 -14.619  0.00  0.00           C 0
+ATOM   1083   CA PRO A 162     -15.896  20.983 -14.553  0.00  0.00           C 0
+TER
+END

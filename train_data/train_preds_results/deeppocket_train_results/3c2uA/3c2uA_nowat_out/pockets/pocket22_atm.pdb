@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0013
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9126
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7021
+HEADER 5  - Mean B-factor of pocket residues  : 0.2147
+HEADER 6  - Hydrophobicity Score              : -21.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 214.1746
+HEADER 10 - Pocket volume (convex hull)       : 5.2866
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   2545   CD GLN A 311      58.015  14.732  42.593  0.00  0.00           C 0
+ATOM   1970   CG GLU A 238      56.363  17.177  37.921  0.00  0.00           C 0
+ATOM   2546  OE1 GLN A 311      59.021  14.692  41.878  0.57  6.43           O 0
+ATOM   1973  OE2 GLU A 238      56.765  15.510  36.216  0.57  7.50           O 0
+ATOM   1971   CD GLU A 238      55.920  16.251  36.736  0.00  0.00           C 0
+ATOM   1997  OD1 ASN A 241      53.882  16.131  42.925  0.36  5.36           O 0
+ATOM   1972  OE1 GLU A 238      54.731  16.168  36.366  0.63  9.64           O 0
+ATOM   1969   CB GLU A 238      55.218  18.082  38.477  0.00  0.00           C 0
+ATOM   2544   CG GLN A 311      57.057  15.907  42.518  0.00  0.00           C 0
+ATOM   1985   CB HIS A 240      48.861  17.112  38.115  0.00  0.00           C 0
+ATOM   1991    N ASN A 241      51.206  18.249  40.553  0.00  0.00           N 0
+ATOM   1983    C HIS A 240      49.963  17.871  40.226  0.00  0.00           C 0
+ATOM   1992   CA ASN A 241      51.764  17.790  41.832  0.00  0.00           C 0
+ATOM   1984    O HIS A 240      49.234  17.228  40.994  0.61  7.50           O 0
+ATOM   2005   CD PRO A 242      50.593  16.127  44.043  0.00  0.00           C 0
+ATOM   2547  NE2 GLN A 311      57.674  13.728  43.423  0.00  0.00           N 0
+TER
+END

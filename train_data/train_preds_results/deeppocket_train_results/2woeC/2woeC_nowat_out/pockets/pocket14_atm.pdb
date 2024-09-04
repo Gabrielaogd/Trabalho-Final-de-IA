@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0040
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6723
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4708
+HEADER 5  - Mean B-factor of pocket residues  : 0.2699
+HEADER 6  - Hydrophobicity Score              : 34.4286
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 172.5035
+HEADER 10 - Pocket volume (convex hull)       : 4.2629
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM   1335  NH1 ARG C 181     -55.744  23.076  22.131  0.66  6.56           N 0
+ATOM   1019    O LEU C 140     -49.503  27.083  22.299  0.64  6.43           O 0
+ATOM   1336  NH2 ARG C 181     -55.918  23.516  24.374  0.00  0.00           N 0
+ATOM   1285    O HIS C 175     -52.814  21.097  22.326  0.77  3.21           O 0
+ATOM   1286   CB HIS C 175     -52.460  22.498  19.346  0.00  0.00           C 0
+ATOM   1288  ND1 HIS C 175     -51.417  24.678  18.607  0.89  2.19           N 0
+ATOM   1043   CG PRO C 143     -52.769  29.470  20.187  0.00  0.00           C 0
+ATOM   1042   CB PRO C 143     -52.624  28.512  19.084  0.00  0.00           C 0
+ATOM   2209  CD1 LEU C 293     -46.564  25.287  25.770  0.00  0.00           C 0
+ATOM   1023  CD2 LEU C 140     -48.395  22.651  21.603  0.00  0.00           C 0
+ATOM   1020   CB LEU C 140     -47.131  24.805  22.011  0.00  0.00           C 0
+ATOM   1316  CG2 ILE C 178     -47.948  20.068  24.352  0.00  0.00           C 0
+ATOM   1313    O ILE C 178     -50.160  20.008  26.367  0.76  4.29           O 0
+ATOM   1312    C ILE C 178     -50.694  19.754  25.286  0.00  0.00           C 0
+ATOM   1318    N GLY C 179     -51.838  20.317  24.899  0.00  0.00           N 0
+ATOM   1319   CA GLY C 179     -52.578  21.259  25.740  0.00  0.00           C 0
+ATOM   1287   CG HIS C 175     -51.319  23.321  18.818  0.00  0.00           C 0
+TER
+END

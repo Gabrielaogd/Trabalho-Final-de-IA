@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0532
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7647
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6848
+HEADER 5  - Mean B-factor of pocket residues  : 0.2096
+HEADER 6  - Hydrophobicity Score              : 39.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 239.9615
+HEADER 10 - Pocket volume (convex hull)       : 7.3577
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM   1297   OG SER A 226      36.576   0.367  -8.736  0.32  3.21           O 0
+ATOM   1325  CG2 VAL A 230      40.387  -1.359  -4.219  0.00  0.00           C 0
+ATOM   1295    O SER A 226      37.712  -2.200  -6.060  0.77  1.07           O 0
+ATOM   1296   CB SER A 226      37.354  -0.793  -8.976  0.00  0.00           C 0
+ATOM   1303  OG1 THR A 227      34.703   1.215  -4.958  0.00  0.00           O 0
+ATOM   1324  CG1 VAL A 230      40.406  -1.119  -1.705  0.00  0.00           C 0
+ATOM   1323   CB VAL A 230      39.735  -1.780  -2.914  0.00  0.00           C 0
+ATOM   1304  CG2 THR A 227      34.320   0.083  -2.894  0.00  0.00           C 0
+ATOM   1299   CA THR A 227      35.596  -1.024  -4.758  0.00  0.00           C 0
+ATOM   1298    N THR A 227      35.690  -1.235  -6.195  0.00  0.00           N 0
+ATOM   1294    C SER A 226      36.766  -1.808  -6.733  0.00  0.00           C 0
+ATOM   1221  CD1 PHE A 216      36.372   0.381   0.915  0.00  0.00           C 0
+ATOM   1229    O ALA A 217      32.858   5.094  -2.204  0.44  9.64           O 0
+ATOM   1216   CA PHE A 216      33.538   2.212   1.172  0.00  0.00           C 0
+ATOM   1226    N ALA A 217      32.329   4.116   0.354  0.66  2.19           N 0
+ATOM   1211    O THR A 215      35.097   3.079   3.386  0.50  8.57           O 0
+TER
+END

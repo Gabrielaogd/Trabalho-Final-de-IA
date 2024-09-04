@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.1362
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6374
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4394
+HEADER 5  - Mean B-factor of pocket residues  : 0.1867
+HEADER 6  - Hydrophobicity Score              : 44.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 91.2561
+HEADER 10 - Pocket volume (convex hull)       : 0.5778
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM   1006  OG1 THR A 138      36.035  26.668  31.188  0.68  3.21           O 0
+ATOM   1028  CD2 TYR A 141      32.233  31.088  33.844  0.00  0.00           C 0
+ATOM   1025   CB TYR A 141      32.547  28.979  35.200  0.00  0.00           C 0
+ATOM   1026   CG TYR A 141      32.599  30.478  35.051  0.00  0.00           C 0
+ATOM   2398   CB GLN A 321      36.539  32.398  31.406  0.00  0.00           C 0
+ATOM   2402  NE2 GLN A 321      36.051  32.611  34.667  0.00  0.00           N 0
+ATOM   2363    O LEU A 317      39.034  30.061  31.201  0.46  1.07           O 0
+ATOM   2367  CD2 LEU A 317      39.397  26.140  33.773  0.00  0.00           C 0
+ATOM   2364   CB LEU A 317      40.754  28.227  33.445  0.00  0.00           C 0
+ATOM   2081  CG1 VAL A 281      39.421  30.297  37.183  0.00  0.00           C 0
+ATOM   1007  CG2 THR A 138      33.965  27.528  30.306  0.00  0.00           C 0
+ATOM   2083    N ILE A 282      36.448  28.669  38.349  0.79  3.28           N 0
+ATOM   2086    O ILE A 282      38.288  26.579  37.669  0.00  0.00           O 0
+ATOM    996    O ASN A 137      33.891  25.643  35.093  0.00  0.00           O 0
+ATOM   1002   CA THR A 138      34.043  26.126  32.425  0.00  0.00           C 0
+TER
+END

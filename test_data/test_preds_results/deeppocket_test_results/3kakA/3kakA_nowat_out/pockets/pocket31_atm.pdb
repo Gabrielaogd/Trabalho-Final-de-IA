@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0606
+HEADER 1  - Drug Score                        : 0.0032
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1328
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6433
+HEADER 5  - Mean B-factor of pocket residues  : 0.7700
+HEADER 6  - Hydrophobicity Score              : -0.1429
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 352.1239
+HEADER 10 - Pocket volume (convex hull)       : 8.0683
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM      8    N LEU A  28      41.815  -6.923  29.190  0.00  0.00           N 0
+ATOM     16    N PHE A  29      40.795  -6.485  31.439  0.59  2.19           N 0
+ATOM     13   CG LEU A  28      40.727  -4.770  27.272  0.00  0.00           C 0
+ATOM     19    O PHE A  29      38.424  -8.355  32.617  0.56  7.50           O 0
+ATOM     12   CB LEU A  28      41.028  -4.543  28.791  0.00  0.00           C 0
+ATOM     34  OD2 ASP A  30      41.971 -13.498  30.210  0.18  7.50           O 0
+ATOM      5   CB PRO A  27      43.097 -10.180  28.826  0.00  0.00           C 0
+ATOM      6   CG PRO A  27      44.400 -10.632  28.097  0.00  0.00           C 0
+ATOM      1    N PRO A  27      43.305  -9.024  26.778  0.00  0.00           N 0
+ATOM     31   CB ASP A  30      40.897 -11.460  30.740  0.00  0.00           C 0
+ATOM      2   CA PRO A  27      42.568  -8.961  28.049  0.00  0.00           C 0
+ATOM    461   CG PRO A  84      34.227  -5.306  30.286  0.00  0.00           C 0
+ATOM     14  CD1 LEU A  28      39.805  -3.681  26.690  0.00  0.00           C 0
+ATOM   3125   OG SER A 432      34.008  -9.573  29.711  0.00  0.00           O 0
+ATOM     27    N ASP A  30      40.325  -9.372  31.843  0.71  1.09           N 0
+ATOM     18    C PHE A  29      39.640  -8.397  32.360  0.00  0.00           C 0
+ATOM     28   CA ASP A  30      39.975 -10.784  31.779  0.00  0.00           C 0
+ATOM   3132   CD PRO A 433      36.125 -12.220  29.829  0.00  0.00           C 0
+ATOM   3131   CG PRO A 433      37.235 -13.242  30.107  0.00  0.00           C 0
+TER
+END

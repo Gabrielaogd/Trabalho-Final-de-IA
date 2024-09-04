@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1325
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9692
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5921
+HEADER 5  - Mean B-factor of pocket residues  : 0.1866
+HEADER 6  - Hydrophobicity Score              : 6.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.9024
+HEADER 10 - Pocket volume (convex hull)       : 6.5070
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM    751  CD2 HIS A  95      -6.412  -8.882  -8.573  0.00  0.00           C 0
+ATOM    754    N ASP A  96      -8.411  -5.665  -7.688  0.00  0.00           N 0
+ATOM    180  OD1 ASN A  26     -12.371  -7.048 -13.135  0.00  0.00           O 0
+ATOM    748   CB HIS A  95      -7.606  -8.403  -6.315  0.00  0.00           C 0
+ATOM    181  ND2 ASN A  26     -13.017  -5.541 -11.593  0.00  0.00           N 0
+ATOM    758   CB ASP A  96      -9.812  -4.565  -9.395  0.00  0.00           C 0
+ATOM    760  OD1 ASP A  96      -9.480  -5.190 -11.680  0.72  2.14           O 0
+ATOM    169    O GLY A  24      -8.002  -9.258 -14.776  0.00  0.00           O 0
+ATOM    741   CB THR A  94     -11.205  -4.961  -4.892  0.00  0.00           C 0
+ATOM    742  OG1 THR A  94     -10.859  -3.972  -5.863  0.54  1.07           O 0
+ATOM    744    N HIS A  95      -8.642  -6.564  -5.051  0.00  0.00           N 0
+ATOM    716    N ILE A  91     -12.066  -0.774  -7.259  0.37  1.09           N 0
+ATOM    743  CG2 THR A  94     -12.530  -4.602  -4.229  0.00  0.00           C 0
+ATOM    723  CD1 ILE A  91     -16.185  -2.022  -7.426  0.00  0.00           C 0
+ATOM    720   CB ILE A  91     -14.101  -1.461  -6.047  0.00  0.00           C 0
+ATOM    721  CG1 ILE A  91     -15.051  -1.050  -7.175  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0083
+HEADER 1  - Drug Score                        : 0.0087
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8229
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5424
+HEADER 5  - Mean B-factor of pocket residues  : 0.3538
+HEADER 6  - Hydrophobicity Score              : -1.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 167.4960
+HEADER 10 - Pocket volume (convex hull)       : 3.4306
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1355   CG LYS A 197      35.603  60.316 106.637  0.00  0.00           C 0
+ATOM   1354   CB LYS A 197      36.118  60.965 105.352  0.00  0.00           C 0
+ATOM   1369  NH2 ARG A 198      42.819  58.640 104.872  0.00  0.00           N 0
+ATOM   1348   CB SER A 196      35.447  56.662 102.727  0.00  0.00           C 0
+ATOM   1350    N LYS A 197      34.998  59.310 103.932  0.64  1.09           N 0
+ATOM   1366   NE ARG A 198      41.678  60.487 104.086  0.63  4.37           N 0
+ATOM   1367   CZ ARG A 198      42.329  59.345 103.853  0.00  0.00           C 0
+ATOM   1323  CD2 PHE A 193      39.451  53.732 101.335  0.00  0.00           C 0
+ATOM   1349   OG SER A 196      36.097  57.133 101.563  0.68  2.14           O 0
+ATOM   1368  NH1 ARG A 198      42.500  58.909 102.609  0.61  1.09           N 0
+ATOM   1359    N ARG A 198      36.926  60.886 102.405  0.00  0.00           N 0
+ATOM   1364   CG ARG A 198      39.776  60.828 102.463  0.00  0.00           C 0
+ATOM   2048   NZ LYS A 281      43.603  56.475 101.730  0.82  4.37           N 0
+ATOM   2046   CD LYS A 281      43.060  55.171  99.691  0.00  0.00           C 0
+ATOM   1362    O ARG A 198      38.689  60.049  99.631  0.65  5.36           O 0
+ATOM   1382   CG PRO A 200      39.356  56.344  97.284  0.00  0.00           C 0
+ATOM   1325  CE2 PHE A 193      40.462  53.253 102.150  0.00  0.00           C 0
+TER
+END

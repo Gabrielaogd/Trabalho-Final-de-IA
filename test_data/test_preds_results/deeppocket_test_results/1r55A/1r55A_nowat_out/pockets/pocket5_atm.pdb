@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0426
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7768
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5264
+HEADER 5  - Mean B-factor of pocket residues  : 0.3065
+HEADER 6  - Hydrophobicity Score              : 6.5714
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.3267
+HEADER 10 - Pocket volume (convex hull)       : 5.4657
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM     30   CZ TYR A 211      22.436  38.048  38.067  0.00  0.00           C 0
+ATOM    398  NE2 GLN A 254      24.759  35.406  35.348  0.00  0.00           N 0
+ATOM     10   CB ARG A 209      20.380  40.399  35.567  0.00  0.00           C 0
+ATOM     31   OH TYR A 211      23.229  39.133  37.769  0.81  7.50           O 0
+ATOM     14    O LYS A 210      19.272  35.551  35.375  0.00  0.00           O 0
+ATOM    377    O ASP A 252      18.650  36.199  31.452  0.66  3.21           O 0
+ATOM    394   CB GLN A 254      22.835  33.632  34.675  0.00  0.00           C 0
+ATOM    390    N GLN A 254      20.610  33.226  33.749  0.00  0.00           N 0
+ATOM    381  OD2 ASP A 252      20.606  37.788  29.535  0.00  0.00           O 0
+ATOM    353   CG ARG A 249      23.381  31.841  30.288  0.00  0.00           C 0
+ATOM    354   CD ARG A 249      24.886  31.812  30.466  0.00  0.00           C 0
+ATOM    352   CB ARG A 249      22.908  31.769  28.835  0.00  0.00           C 0
+ATOM    351    O ARG A 249      20.996  33.533  27.157  0.52  5.36           O 0
+ATOM    355   NE ARG A 249      25.230  32.057  31.866  0.76  2.19           N 0
+ATOM    376    C ASP A 252      18.809  35.293  30.631  0.00  0.00           C 0
+ATOM    384    C ILE A 253      19.948  32.815  32.676  0.00  0.00           C 0
+TER
+END

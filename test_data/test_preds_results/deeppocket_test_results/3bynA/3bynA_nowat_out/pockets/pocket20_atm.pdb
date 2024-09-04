@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0381
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7830
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4633
+HEADER 5  - Mean B-factor of pocket residues  : 0.4002
+HEADER 6  - Hydrophobicity Score              : 10.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 193.8282
+HEADER 10 - Pocket volume (convex hull)       : 4.6175
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1926  CE2 PHE A 278      25.873  25.784  39.477  0.00  0.00           C 0
+ATOM   1890    C GLU A 274      25.075  25.807  34.835  0.00  0.00           C 0
+ATOM      5   CB GLN A  34      23.609  22.860  40.028  0.00  0.00           C 0
+ATOM   1892   CB GLU A 274      22.906  27.063  34.661  0.00  0.00           C 0
+ATOM   1895  OE1 GLU A 274      20.537  27.850  35.857  0.00  0.00           O 0
+ATOM      1    N GLN A  34      22.508  23.846  42.022  0.00  0.00           N 0
+ATOM   1902   CG GLU A 275      23.414  21.765  35.257  0.00  0.00           C 0
+ATOM   1897    N GLU A 275      24.802  24.548  34.494  0.35  1.09           N 0
+ATOM   2133   NZ LYS A 303      23.565  32.202  36.807  0.64  7.66           N 0
+ATOM   2165  OE2 GLU A 307      24.948  30.524  35.079  0.85  1.07           O 0
+ATOM   1891    O GLU A 274      25.897  26.111  35.698  0.71  1.07           O 0
+ATOM   1927   CZ PHE A 278      25.953  26.205  40.804  0.00  0.00           C 0
+ATOM   2132   CE LYS A 303      24.526  32.357  37.935  0.00  0.00           C 0
+ATOM   2092  CD2 LEU A 298      27.195  30.035  39.901  0.00  0.00           C 0
+TER
+END

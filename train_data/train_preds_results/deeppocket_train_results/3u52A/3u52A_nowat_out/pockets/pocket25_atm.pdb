@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.1122
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0434
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5639
+HEADER 5  - Mean B-factor of pocket residues  : 0.2008
+HEADER 6  - Hydrophobicity Score              : 35.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 264.6060
+HEADER 10 - Pocket volume (convex hull)       : 9.3634
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.6818
+ATOM   4022    O VAL A 487      27.510  54.590  87.008  0.44  4.29           O 0
+ATOM   3209   CG ARG A 389      22.423  59.296  84.788  0.00  0.00           C 0
+ATOM   4024  CG1 VAL A 487      25.165  53.097  89.127  0.00  0.00           C 0
+ATOM   4004   CG ASP A 485      25.726  58.610  88.206  0.00  0.00           C 0
+ATOM   3178   CB ALA A 384      19.178  57.480  86.308  0.00  0.00           C 0
+ATOM   3208   CB ARG A 389      21.848  58.895  83.388  0.00  0.00           C 0
+ATOM   3177    O ALA A 384      18.555  55.014  84.124  0.00  0.00           O 0
+ATOM   4006  OD2 ASP A 485      25.878  57.735  89.125  0.76  2.14           O 0
+ATOM   2882    N ILE A 352      22.758  60.158  92.494  0.54  3.28           N 0
+ATOM   4025  CG2 VAL A 487      25.463  54.657  91.093  0.00  0.00           C 0
+ATOM   2885    O ILE A 352      22.133  58.866  94.917  0.54  3.21           O 0
+ATOM   2886   CB ILE A 352      20.308  59.927  92.574  0.00  0.00           C 0
+ATOM   2889  CD1 ILE A 352      19.201  59.902  90.293  0.00  0.00           C 0
+ATOM   4003   CB ASP A 485      26.640  58.622  87.024  0.00  0.00           C 0
+ATOM   4023   CB VAL A 487      25.779  54.401  89.612  0.00  0.00           C 0
+ATOM   4005  OD1 ASP A 485      24.836  59.493  88.244  0.00  0.00           O 0
+ATOM   2783   OH TYR A 340      21.119  61.381  87.690  0.45  1.07           O 0
+TER
+END

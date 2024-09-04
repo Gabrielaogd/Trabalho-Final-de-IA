@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0756
+HEADER 1  - Drug Score                        : 0.0130
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8699
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7220
+HEADER 5  - Mean B-factor of pocket residues  : 0.1131
+HEADER 6  - Hydrophobicity Score              : 24.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 347.0938
+HEADER 10 - Pocket volume (convex hull)       : 20.5983
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.6667
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7059
+ATOM    618  CD1 LEU A 739      26.032  30.270  -0.430  0.00  0.00           C 0
+ATOM    608    O THR A 738      26.118  26.430  -4.174  0.48  2.14           O 0
+ATOM    613   CA LEU A 739      26.153  27.430  -1.587  0.00  0.00           C 0
+ATOM    611  CG2 THR A 738      23.024  26.227  -4.947  0.00  0.00           C 0
+ATOM    616   CB LEU A 739      25.667  27.813  -0.190  0.00  0.00           C 0
+ATOM    574    O ARG A 735      22.936  25.849  -0.198  0.00  0.00           O 0
+ATOM    619  CD2 LEU A 739      25.498  29.279   1.792  0.00  0.00           C 0
+ATOM    612    N LEU A 739      25.382  26.295  -2.063  0.00  0.00           N 0
+ATOM    615    O LEU A 739      28.488  27.876  -1.947  0.48  4.29           O 0
+ATOM    313   NZ LYS A 700      30.996  29.288  -4.581  0.57  4.37           N 0
+ATOM    410  CD1 ILE A 712      22.508  27.872   3.420  0.00  0.00           C 0
+ATOM    610  OG1 THR A 738      22.396  23.959  -4.507  0.00  0.00           O 0
+ATOM    576   CG ARG A 735      18.491  26.003   0.012  0.00  0.00           C 0
+ATOM    609   CB THR A 738      23.083  25.085  -3.958  0.00  0.00           C 0
+ATOM    572   CA ARG A 735      20.740  24.862  -0.161  0.00  0.00           C 0
+ATOM    566    O ASN A 734      21.627  22.983  -1.948  0.58  1.07           O 0
+ATOM    567   CB ASN A 734      19.066  21.074  -1.846  0.00  0.00           C 0
+ATOM    565    C ASN A 734      20.822  22.638  -1.089  0.00  0.00           C 0
+ATOM    571    N ARG A 735      20.324  23.474  -0.188  0.00  0.00           N 0
+TER
+END

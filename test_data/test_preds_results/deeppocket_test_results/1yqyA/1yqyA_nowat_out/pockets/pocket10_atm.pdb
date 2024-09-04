@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0517
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.9995
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5613
+HEADER 5  - Mean B-factor of pocket residues  : 0.2611
+HEADER 6  - Hydrophobicity Score              : -7.1818
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.7273
+HEADER 9  - Pocket volume (Monte Carlo)       : 346.1888
+HEADER 10 - Pocket volume (convex hull)       : 22.4984
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.3333
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2069
+ATOM     63  CE3 TRP A 271      -7.592  34.112 -12.028  0.00  0.00           C 0
+ATOM     21  NH1 ARG A 267     -11.842  35.614  -6.555  0.00  0.00           N 0
+ATOM     32  CE2 TYR A 268     -12.284  35.551 -11.338  0.00  0.00           C 0
+ATOM     65  CZ3 TRP A 271      -8.042  32.787 -12.055  0.00  0.00           C 0
+ATOM   1815   CD ARG A 491      -7.662  29.338  -1.689  0.00  0.00           C 0
+ATOM   2038   CD LYS A 518      -1.832  29.342  -6.006  0.00  0.00           C 0
+ATOM   2023    O ASN A 516      -4.433  30.381  -8.823  0.44  5.36           O 0
+ATOM   1782  OD1 ASP A 487      -3.529  31.514  -2.924  0.63  3.21           O 0
+ATOM   1799  ND2 ASN A 489      -7.902  37.112  -8.481  0.84  4.37           N 0
+ATOM   1796   CB ASN A 489      -7.863  36.859  -6.074  0.00  0.00           C 0
+ATOM   2031    O GLY A 517      -3.055  33.501  -7.542  0.71  3.21           O 0
+ATOM   2029   CA GLY A 517      -3.290  32.727  -9.798  0.00  0.00           C 0
+ATOM   1795    O ASN A 489      -6.933  35.114  -3.804  0.00  0.00           O 0
+ATOM   1780   CB ASP A 487      -3.959  33.837  -3.046  0.00  0.00           C 0
+ATOM   2039   CE LYS A 518      -1.114  28.476  -4.990  0.00  0.00           C 0
+ATOM   2040   NZ LYS A 518      -1.288  27.022  -5.262  0.00  0.00           N 0
+ATOM   1792    N ASN A 489      -5.437  36.732  -5.613  0.00  0.00           N 0
+ATOM   1813   CB ARG A 491      -8.125  31.779  -1.322  0.00  0.00           C 0
+ATOM   1814   CG ARG A 491      -8.739  30.380  -1.383  0.00  0.00           C 0
+ATOM   1810   CA ARG A 491      -9.105  32.925  -1.025  0.00  0.00           C 0
+ATOM   1803    O GLU A 490      -9.713  35.261  -2.421  0.71  5.36           O 0
+ATOM   1816   NE ARG A 491      -6.559  29.423  -0.740  0.00  0.00           N 0
+ATOM   1826   CD PRO A 492     -11.736  31.605  -1.039  0.00  0.00           C 0
+TER
+END

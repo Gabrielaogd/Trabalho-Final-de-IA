@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0574
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9590
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5390
+HEADER 5  - Mean B-factor of pocket residues  : 0.4157
+HEADER 6  - Hydrophobicity Score              : 30.6250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.9314
+HEADER 10 - Pocket volume (convex hull)       : 10.6912
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    415    O ALA A  55     -10.363  11.704  14.263  0.78  2.14           O 0
+ATOM    413   CA ALA A  55     -11.141  10.253  16.022  0.00  0.00           C 0
+ATOM    416   CB ALA A  55     -10.202  10.243  17.208  0.00  0.00           C 0
+ATOM    476  NH1 ARG A  62     -12.187  16.544  14.257  0.00  0.00           N 0
+ATOM    434   CB ALA A  58     -13.753  13.117  13.485  0.00  0.00           C 0
+ATOM    365    O SER A  48      -6.388  14.192  20.089  0.61  4.29           O 0
+ATOM    367   OG SER A  48      -8.412  13.780  22.631  0.50  7.50           O 0
+ATOM    366   CB SER A  48      -7.965  15.079  22.300  0.00  0.00           C 0
+ATOM    362    N SER A  48      -5.934  16.404  21.880  0.00  0.00           N 0
+ATOM    171  OD2 ASP A  22      -8.643  19.087  15.581  0.00  0.00           O 0
+ATOM    477  NH2 ARG A  62      -9.962  16.789  14.773  0.66  5.47           N 0
+ATOM    382  CD1 ILE A  50      -7.201  12.505  16.009  0.00  0.00           C 0
+ATOM    357    N ALA A  47      -4.277  18.091  20.484  0.56  3.28           N 0
+ATOM    361   CB ALA A  47      -5.570  19.491  22.067  0.00  0.00           C 0
+ATOM    168   CB ASP A  22      -7.137  20.869  15.071  0.00  0.00           C 0
+ATOM    355  CD1 LEU A  46      -6.223  16.033  15.925  0.00  0.00           C 0
+ATOM    353   CB LEU A  46      -4.786  16.531  17.905  0.00  0.00           C 0
+TER
+END

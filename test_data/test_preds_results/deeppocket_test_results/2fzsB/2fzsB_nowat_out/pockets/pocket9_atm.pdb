@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0443
+HEADER 1  - Drug Score                        : 0.0039
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0226
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6759
+HEADER 5  - Mean B-factor of pocket residues  : 0.1993
+HEADER 6  - Hydrophobicity Score              : 14.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 309.1690
+HEADER 10 - Pocket volume (convex hull)       : 10.6936
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM   1088    N ARG B 140      47.634  68.958  70.500  0.00  0.00           N 0
+ATOM   1087   CB ALA B 139      44.998  69.038  68.691  0.00  0.00           C 0
+ATOM   1063  OE1 GLU B 136      43.757  68.589  73.414  0.46  9.64           O 0
+ATOM   1122  CD1 LEU B 143      46.768  73.974  70.001  0.00  0.00           C 0
+ATOM   1089   CA ARG B 140      48.584  69.567  71.413  0.00  0.00           C 0
+ATOM   1093   CG ARG B 140      49.454  69.481  73.836  0.00  0.00           C 0
+ATOM   1096   CZ ARG B 140      47.920  69.737  76.873  0.00  0.00           C 0
+ATOM   1097  NH1 ARG B 140      48.879  70.503  77.390  0.00  0.00           N 0
+ATOM   1098  NH2 ARG B 140      46.724  69.782  77.392  0.62  4.37           N 0
+ATOM   1064  OE2 GLU B 136      45.033  68.172  75.189  0.62  3.21           O 0
+ATOM   1092   CB ARG B 140      48.557  68.854  72.770  0.00  0.00           C 0
+ATOM   1120   CB LEU B 143      49.181  73.731  69.482  0.00  0.00           C 0
+ATOM   1091    O ARG B 140      50.703  70.560  70.921  0.58  1.07           O 0
+ATOM   1129   CG LYS B 144      53.524  71.389  72.403  0.00  0.00           C 0
+ATOM   1131   CE LYS B 144      53.660  70.066  74.551  0.00  0.00           C 0
+ATOM   1124    N LYS B 144      52.274  72.790  69.813  0.00  0.00           N 0
+ATOM   1095   NE ARG B 140      48.151  68.878  75.870  0.69  3.28           N 0
+ATOM   1125   CA LYS B 144      53.659  72.928  70.359  0.00  0.00           C 0
+ATOM   1119    O LEU B 143      52.224  74.926  69.069  0.34  4.29           O 0
+TER
+END

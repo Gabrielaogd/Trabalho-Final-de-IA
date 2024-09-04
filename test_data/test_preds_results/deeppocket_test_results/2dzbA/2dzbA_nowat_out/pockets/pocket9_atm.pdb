@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1538
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8814
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6641
+HEADER 5  - Mean B-factor of pocket residues  : 0.6216
+HEADER 6  - Hydrophobicity Score              : 24.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 272.1129
+HEADER 10 - Pocket volume (convex hull)       : 10.7852
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM    490   CD GLU A  97     -28.351  20.306  35.826  0.00  0.00           C 0
+ATOM    674  CD1 LEU A 122     -32.533  20.022  32.541  0.00  0.00           C 0
+ATOM    491  OE1 GLU A  97     -27.710  19.236  35.903  0.00  0.00           O 0
+ATOM    492  OE2 GLU A  97     -29.259  20.615  36.624  0.68  5.36           O 0
+ATOM    675  CD2 LEU A 122     -32.298  21.222  34.737  0.00  0.00           C 0
+ATOM    466   CB PRO A  94     -27.048  14.904  31.337  0.00  0.00           C 0
+ATOM    463   CA PRO A  94     -27.634  16.312  31.393  0.00  0.00           C 0
+ATOM    227  NH2 ARG A  53     -23.809  15.262  31.668  0.00  0.00           N 0
+ATOM    462    N PRO A  94     -28.925  16.157  30.714  0.00  0.00           N 0
+ATOM    457    O LEU A  93     -29.363  18.358  30.863  0.00  0.00           O 0
+ATOM    456    C LEU A  93     -29.701  17.232  30.497  0.00  0.00           C 0
+ATOM    458   CB LEU A  93     -32.028  16.350  30.744  0.00  0.00           C 0
+ATOM    465    O PRO A  94     -26.085  18.156  31.351  0.45  3.21           O 0
+ATOM    224   NE ARG A  53     -21.907  16.571  31.774  0.45  6.56           N 0
+ATOM    497   CB ALA A  98     -23.326  20.746  31.180  0.00  0.00           C 0
+ATOM    467   CG PRO A  94     -28.266  14.041  31.388  0.00  0.00           C 0
+ATOM    493    N ALA A  98     -25.611  21.471  31.650  0.00  0.00           N 0
+ATOM    494   CA ALA A  98     -24.218  21.898  31.629  0.00  0.00           C 0
+ATOM    489   CG GLU A  97     -28.010  21.276  34.711  0.00  0.00           C 0
+TER
+END

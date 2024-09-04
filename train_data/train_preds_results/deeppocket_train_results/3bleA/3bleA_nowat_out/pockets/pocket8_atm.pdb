@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1501
+HEADER 1  - Drug Score                        : 0.0414
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9665
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7190
+HEADER 5  - Mean B-factor of pocket residues  : 0.9293
+HEADER 6  - Hydrophobicity Score              : 30.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.7957
+HEADER 10 - Pocket volume (convex hull)       : 4.6264
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM   2295  OE1 GLN A 297      -1.223  35.104   0.820  0.38  8.57           O 0
+ATOM   2316  CD1 TYR A 312      -6.722  34.819  -0.665  0.00  0.00           C 0
+ATOM   2315   CG TYR A 312      -5.630  33.959  -0.534  0.00  0.00           C 0
+ATOM   2314   CB TYR A 312      -4.851  33.883   0.757  0.00  0.00           C 0
+ATOM   2292   CB GLN A 297      -0.046  37.794  -0.078  0.00  0.00           C 0
+ATOM   2302    N LEU A 311      -8.878  34.894   3.571  0.00  0.00           N 0
+ATOM   2306   CB LEU A 311      -9.776  34.578   1.319  0.00  0.00           C 0
+ATOM   2308  CD1 LEU A 311     -11.107  36.446   0.341  0.00  0.00           C 0
+ATOM   2320   CZ TYR A 312      -7.102  34.058  -2.911  0.00  0.00           C 0
+ATOM   2296  NE2 GLN A 297      -0.854  34.697  -1.359  0.61  6.56           N 0
+ATOM   2318  CE1 TYR A 312      -7.457  34.872  -1.847  0.00  0.00           C 0
+ATOM   2317  CD2 TYR A 312      -5.293  33.152  -1.619  0.00  0.00           C 0
+ATOM   2319  CE2 TYR A 312      -6.022  33.196  -2.804  0.00  0.00           C 0
+ATOM   2294   CD GLN A 297      -0.606  35.336  -0.221  0.00  0.00           C 0
+ATOM   2310    N TYR A 312      -6.828  33.752   2.204  0.00  0.00           N 0
+ATOM   2297    N ASN A 310      -8.487  37.041   5.048  0.35  4.37           N 0
+ATOM   2313    O TYR A 312      -3.587  33.613   3.128  0.38  1.07           O 0
+TER
+END

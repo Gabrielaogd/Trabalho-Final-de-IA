@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0383
+HEADER 1  - Drug Score                        : 0.0276
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0326
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6186
+HEADER 5  - Mean B-factor of pocket residues  : 0.2020
+HEADER 6  - Hydrophobicity Score              : 28.8571
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 282.1063
+HEADER 10 - Pocket volume (convex hull)       : 10.7320
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   3881  NH1 ARG A 498      28.165  -1.851  69.232  0.67  7.66           N 0
+ATOM   3868   CB LEU A 497      35.162  -1.943  70.028  0.00  0.00           C 0
+ATOM   3872    N ARG A 498      32.773  -3.917  70.919  0.74  4.37           N 0
+ATOM   3864    N LEU A 497      33.654  -3.039  68.410  0.72  2.19           N 0
+ATOM   3869   CG LEU A 497      36.080  -1.181  69.065  0.00  0.00           C 0
+ATOM   3870  CD1 LEU A 497      36.495   0.161  69.683  0.00  0.00           C 0
+ATOM   3792   CB ALA A 486      34.306   4.066  65.113  0.00  0.00           C 0
+ATOM   3789   CA ALA A 486      35.137   3.078  64.341  0.00  0.00           C 0
+ATOM   3813    N ARG A 490      33.345   0.005  60.408  0.72  1.09           N 0
+ATOM   3861   CB PRO A 496      30.715  -3.183  67.146  0.00  0.00           C 0
+ATOM   3817   CB ARG A 490      31.544   1.591  59.910  0.00  0.00           C 0
+ATOM   3814   CA ARG A 490      32.128   0.199  59.613  0.00  0.00           C 0
+ATOM   3791    O ALA A 486      34.031   2.355  62.341  0.00  0.00           O 0
+ATOM   3809   CB LEU A 489      34.880  -1.342  62.896  0.00  0.00           C 0
+ATOM   3811  CD1 LEU A 489      35.555  -1.563  65.299  0.00  0.00           C 0
+ATOM   3858   CA PRO A 496      32.092  -3.665  66.659  0.00  0.00           C 0
+ATOM   3848    O ALA A 494      32.277  -4.737  62.356  0.58  4.29           O 0
+ATOM   3808    O LEU A 489      33.462  -2.208  60.047  0.00  0.00           O 0
+ATOM   3807    C LEU A 489      33.911  -1.186  60.562  0.00  0.00           C 0
+TER
+END

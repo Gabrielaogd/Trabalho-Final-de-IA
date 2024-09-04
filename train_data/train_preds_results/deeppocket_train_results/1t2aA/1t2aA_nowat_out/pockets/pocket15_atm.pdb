@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0703
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8628
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5393
+HEADER 5  - Mean B-factor of pocket residues  : 0.1748
+HEADER 6  - Hydrophobicity Score              : 21.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 266.1601
+HEADER 10 - Pocket volume (convex hull)       : 12.3602
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4737
+ATOM    832   CA ALA A 138      -7.138 -45.437 -11.277  0.00  0.00           C 0
+ATOM    831    N ALA A 138      -7.078 -46.550 -12.227  0.00  0.00           N 0
+ATOM    799    O ARG A 134      -4.517 -47.854 -12.210  0.68  3.21           O 0
+ATOM    496  CG2 VAL A  94      -7.108 -45.402  -7.308  0.00  0.00           C 0
+ATOM    825    C ASP A 137      -8.186 -47.187 -12.561  0.00  0.00           C 0
+ATOM    827   CB ASP A 137      -7.912 -49.669 -12.851  0.00  0.00           C 0
+ATOM    857  OG1 THR A 141     -10.851 -47.183  -9.618  0.00  0.00           O 0
+ATOM    467   CB SER A  90      -3.916 -49.808  -7.446  0.00  0.00           C 0
+ATOM    468   OG SER A  90      -4.252 -50.577  -6.353  0.62  5.36           O 0
+ATOM    830  OD2 ASP A 137      -8.337 -51.911 -13.587  0.00  0.00           O 0
+ATOM    797   CA ARG A 134      -3.354 -49.928 -12.632  0.00  0.00           C 0
+ATOM    801   CG ARG A 134      -2.131 -51.532 -11.105  0.00  0.00           C 0
+ATOM    802   CD ARG A 134      -1.534 -51.792  -9.713  0.00  0.00           C 0
+ATOM    795  CD2 LEU A 133      -4.941 -54.728 -14.859  0.00  0.00           C 0
+ATOM    793   CG LEU A 133      -4.986 -53.232 -15.193  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0655
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8775
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6149
+HEADER 5  - Mean B-factor of pocket residues  : 0.1753
+HEADER 6  - Hydrophobicity Score              : 15.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 274.0797
+HEADER 10 - Pocket volume (convex hull)       : 10.2100
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    144    O LYS A 224      13.154  16.190  63.716  0.00  0.00           O 0
+ATOM    161    O PHE A 226      15.949  10.795  62.065  0.56  5.36           O 0
+ATOM    143    C LYS A 224      13.226  15.252  64.520  0.00  0.00           C 0
+ATOM    136    O LEU A 223      12.116  12.021  64.280  0.00  0.00           O 0
+ATOM    152    C ASN A 225      16.633  14.350  63.683  0.00  0.00           C 0
+ATOM    160    C PHE A 226      16.911  11.559  61.982  0.00  0.00           C 0
+ATOM    175  OD1 ASN A 227      15.847  12.741  57.171  0.00  0.00           O 0
+ATOM    172    O ASN A 227      16.070   9.411  58.610  0.19  8.57           O 0
+ATOM    153    O ASN A 225      17.398  14.852  62.866  0.00  0.00           O 0
+ATOM    176  ND2 ASN A 227      17.510  14.217  57.520  0.54  8.75           N 0
+ATOM    174   CG ASN A 227      16.961  13.013  57.634  0.00  0.00           C 0
+ATOM    170   CA ASN A 227      16.959  11.408  59.550  0.00  0.00           C 0
+ATOM    169    N ASN A 227      17.483  11.892  60.827  0.00  0.00           N 0
+ATOM    191  CG2 THR A 229      14.428   7.221  63.606  0.00  0.00           C 0
+ATOM    185    N THR A 229      16.555   6.312  61.743  0.39  1.09           N 0
+ATOM    190  OG1 THR A 229      14.068   5.042  62.623  0.39  2.14           O 0
+ATOM    216   CD LYS A 232      13.617   5.547  57.217  0.00  0.00           C 0
+TER
+END

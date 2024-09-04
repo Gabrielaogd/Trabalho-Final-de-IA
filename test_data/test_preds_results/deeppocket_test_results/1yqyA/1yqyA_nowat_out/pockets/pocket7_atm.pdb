@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.0257
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9840
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7064
+HEADER 5  - Mean B-factor of pocket residues  : 0.6217
+HEADER 6  - Hydrophobicity Score              : -3.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 293.0951
+HEADER 10 - Pocket volume (convex hull)       : 6.0883
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   1587    N ARG A 465     -10.923  38.396  22.517  0.00  0.00           N 0
+ATOM   1574    O ILE A 463     -12.589  37.126  20.194  0.62  2.14           O 0
+ATOM   1524  OD1 ASP A 456     -16.517  33.588  22.056  0.65  7.50           O 0
+ATOM   1592   CG ARG A 465     -12.662  40.784  22.194  0.00  0.00           C 0
+ATOM   1525  OD2 ASP A 456     -14.965  32.781  23.409  0.61  9.64           O 0
+ATOM   1580   CA ASN A 464     -10.963  35.961  22.146  0.00  0.00           C 0
+ATOM   1523   CG ASP A 456     -15.435  33.001  22.264  0.00  0.00           C 0
+ATOM   1586  ND2 ASN A 464     -10.192  34.583  25.276  0.00  0.00           N 0
+ATOM   1598    N GLY A 466      -9.006  39.114  24.449  0.00  0.00           N 0
+ATOM   1599   CA GLY A 466      -7.901  39.166  25.404  0.00  0.00           C 0
+ATOM   1585  OD1 ASN A 464      -9.022  36.324  24.473  0.48  3.21           O 0
+ATOM   1584   CG ASN A 464      -9.751  35.345  24.286  0.00  0.00           C 0
+ATOM   1566   CB LYS A 462     -16.261  34.973  18.424  0.00  0.00           C 0
+ATOM   1568   CD LYS A 462     -18.481  36.069  18.819  0.00  0.00           C 0
+ATOM   1567   CG LYS A 462     -17.230  36.064  17.957  0.00  0.00           C 0
+ATOM   1597  NH2 ARG A 465     -14.679  39.476  18.234  0.62  3.28           N 0
+ATOM   1594   NE ARG A 465     -13.296  40.156  19.917  0.82  1.09           N 0
+TER
+END

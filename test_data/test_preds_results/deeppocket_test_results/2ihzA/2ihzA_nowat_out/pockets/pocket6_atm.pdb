@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0344
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.7186
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4728
+HEADER 5  - Mean B-factor of pocket residues  : 0.4912
+HEADER 6  - Hydrophobicity Score              : 37.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 352.2171
+HEADER 10 - Pocket volume (convex hull)       : 28.9402
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    299   CB SER A  62       2.001  -1.163  10.863  0.00  0.00           C 0
+ATOM    296   CA SER A  62       2.176  -2.404  11.732  0.00  0.00           C 0
+ATOM    468  OE2 GLU A  81      -4.314  -2.093  13.987  0.00  0.00           O 0
+ATOM    298    O SER A  62       1.400  -4.286  10.500  0.00  0.00           O 0
+ATOM    467  OE1 GLU A  81      -2.800  -2.733  15.454  0.00  0.00           O 0
+ATOM    300   OG SER A  62       1.761  -0.017  11.666  0.75  3.21           O 0
+ATOM    472    O LEU A  82      -2.107   2.717  12.773  0.00  0.00           O 0
+ATOM    323    N LYS A  65       3.051  -9.322  13.204  0.45  4.37           N 0
+ATOM    304    O ARG A  63       4.364  -7.375   9.484  0.33  6.43           O 0
+ATOM    327   CB LYS A  65       0.956 -10.518  13.765  0.00  0.00           C 0
+ATOM    469    N LEU A  82      -1.054   1.733  15.109  0.62  1.09           N 0
+ATOM    315    O PHE A  64       3.137  -7.298  14.166  0.35  4.29           O 0
+ATOM    329   CD LYS A  65      -0.416 -10.588  15.926  0.00  0.00           C 0
+ATOM    303    C ARG A  63       4.171  -6.383  10.201  0.00  0.00           C 0
+ATOM    312    N PHE A  64       4.185  -6.438  11.532  0.00  0.00           N 0
+ATOM    314    C PHE A  64       3.511  -8.081  13.291  0.00  0.00           C 0
+ATOM    290    O LEU A  61       3.039  -4.234  13.665  0.42  5.36           O 0
+ATOM    295    N SER A  62       3.270  -2.220  12.686  0.00  0.00           N 0
+ATOM    456    O VAL A  80      -0.032  -0.774  17.866  0.66  3.21           O 0
+ATOM    289    C LEU A  61       3.557  -3.122  13.627  0.00  0.00           C 0
+TER
+END

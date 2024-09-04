@@ -1,0 +1,49 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0477
+HEADER 1  - Drug Score                        : 0.0137
+HEADER 2  - Number of alpha spheres           :    34
+HEADER 3  - Mean alpha-sphere radius          : 4.1647
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6523
+HEADER 5  - Mean B-factor of pocket residues  : 0.3597
+HEADER 6  - Hydrophobicity Score              : -6.8571
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 325.5585
+HEADER 10 - Pocket volume (convex hull)       : 31.7090
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM   1665   CG ASN H 204B      8.261  17.244  28.636  0.00  0.00           C 0
+ATOM   1653   CB PHE H 204A      6.804  16.588  33.532  0.00  0.00           C 0
+ATOM   1666  OD1 ASN H 204B      9.462  17.366  28.407  0.51  8.57           O 0
+ATOM   1664   CB ASN H 204B      7.429  18.455  29.045  0.00  0.00           C 0
+ATOM   1651    C PHE H 204A      5.417  17.672  31.738  0.00  0.00           C 0
+ATOM   1652    O PHE H 204A      4.964  18.810  31.860  0.64  6.43           O 0
+ATOM   1035  OG1 THR H 128      13.885  13.495  30.889  0.67  7.50           O 0
+ATOM   1009  OD2 ASP H 125      16.215  16.169  30.624  0.00  0.00           O 0
+ATOM   1712   OH TYR H 208      11.544  15.705  27.624  0.69  6.43           O 0
+ATOM   1641   OG SER H 203       7.377  14.296  31.062  0.66  1.07           O 0
+ATOM   1710  CE2 TYR H 208      10.273  13.677  27.709  0.00  0.00           C 0
+ATOM   1658  CE2 PHE H 204A      7.264  13.537  35.770  0.00  0.00           C 0
+ATOM   1659   CZ PHE H 204A      6.857  14.026  37.003  0.00  0.00           C 0
+ATOM   1052   OG SER H 129B     10.789  11.650  35.460  0.69  3.21           O 0
+ATOM   1657  CE1 PHE H 204A      6.449  15.353  37.118  0.00  0.00           C 0
+ATOM   1656  CD2 PHE H 204A      7.263  14.379  34.649  0.00  0.00           C 0
+ATOM   1655  CD1 PHE H 204A      6.451  16.182  35.993  0.00  0.00           C 0
+ATOM   1654   CG PHE H 204A      6.856  15.704  34.751  0.00  0.00           C 0
+ATOM   1026   CG GLU H 127      16.125  15.943  34.713  0.00  0.00           C 0
+ATOM   1008  OD1 ASP H 125      16.213  14.535  32.085  0.00  0.00           O 0
+ATOM   1051   CB SER H 129B     10.679  11.447  36.856  0.00  0.00           C 0
+ATOM   1031   CA THR H 128      13.538  12.065  32.834  0.00  0.00           C 0
+ATOM   1036  CG2 THR H 128      12.523  11.531  30.589  0.00  0.00           C 0
+ATOM   1030    N THR H 128      14.602  12.765  33.551  0.00  0.00           N 0
+ATOM   1024    O GLU H 127      13.792  12.219  35.579  0.65  2.14           O 0
+ATOM   1023    C GLU H 127      14.640  12.778  34.882  0.00  0.00           C 0
+ATOM   1025   CB GLU H 127      15.462  15.008  35.713  0.00  0.00           C 0
+TER
+END

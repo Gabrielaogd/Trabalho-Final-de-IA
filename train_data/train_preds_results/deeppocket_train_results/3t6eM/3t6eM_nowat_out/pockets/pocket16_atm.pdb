@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0401
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8632
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5461
+HEADER 5  - Mean B-factor of pocket residues  : 0.2908
+HEADER 6  - Hydrophobicity Score              : 63.1250
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 230.4521
+HEADER 10 - Pocket volume (convex hull)       : 8.8267
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM    965   CA MET M 120      23.113 -64.589   5.420  0.00  0.00           C 0
+ATOM    969   CG MET M 120      21.059 -63.217   6.010  0.00  0.00           C 0
+ATOM    995   CBASER M 123      25.194 -62.131   2.561  0.00  0.00           C 0
+ATOM    475   CA GLY M  62      23.753 -64.370  -0.050  0.00  0.00           C 0
+ATOM    997   OGASER M 123      24.927 -61.414   1.382  0.00  0.00           O 0
+ATOM    495   CB ALA M  65      21.678 -67.393   2.705  0.00  0.00           C 0
+ATOM    968   CB MET M 120      21.666 -64.606   5.958  0.00  0.00           C 0
+ATOM   1006  CD2 LEU M 124      22.495 -58.483   5.469  0.00  0.00           C 0
+ATOM    477    O GLY M  62      21.952 -65.913  -0.562  0.72  2.14           O 0
+ATOM    501  CG1 ILE M  66      18.745 -65.657  -1.157  0.00  0.00           C 0
+ATOM    527  CD1 ILE M  69      16.846 -67.931   3.175  0.00  0.00           C 0
+ATOM    970   SD MET M 120      19.386 -63.171   6.739  0.00  0.00           S 0
+ATOM   1408  CE1 PHE M 175      17.180 -66.323   6.806  0.00  0.00           C 0
+ATOM   1406  CD1 PHE M 175      15.962 -66.667   6.259  0.00  0.00           C 0
+ATOM    967    O MET M 120      24.205 -62.433   5.762  0.00  0.00           O 0
+ATOM    503  CD1 ILE M  66      19.224 -64.454  -2.023  0.00  0.00           C 0
+TER
+END

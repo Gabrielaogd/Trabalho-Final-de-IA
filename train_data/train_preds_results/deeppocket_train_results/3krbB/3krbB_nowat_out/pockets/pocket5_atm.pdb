@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0749
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8797
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5056
+HEADER 5  - Mean B-factor of pocket residues  : 0.3778
+HEADER 6  - Hydrophobicity Score              : -7.1667
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 193.1626
+HEADER 10 - Pocket volume (convex hull)       : 3.9518
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4545
+ATOM    735   CG LYS B  88      22.190  59.769  29.125  0.00  0.00           C 0
+ATOM    938  NH2 ARG B 111      15.598  63.060  26.484  0.00  0.00           N 0
+ATOM    705  OE2 GLU B  84      16.566  63.024  32.115  0.50  9.64           O 0
+ATOM    937  NH1 ARG B 111      16.370  65.035  27.333  0.84  5.47           N 0
+ATOM    702   CG GLU B  84      18.672  64.044  32.586  0.00  0.00           C 0
+ATOM    734   CB LYS B  88      22.778  60.970  29.774  0.00  0.00           C 0
+ATOM    707   CA GLN B  85      22.228  65.252  29.778  0.00  0.00           C 0
+ATOM    700    O GLU B  84      21.969  63.682  31.928  0.65  5.36           O 0
+ATOM    710   CB GLN B  85      21.964  66.157  28.573  0.00  0.00           C 0
+ATOM    711   CG GLN B  85      22.356  65.422  27.291  0.00  0.00           C 0
+ATOM    302  CE1 TYR B  38      21.336  62.664  24.985  0.00  0.00           C 0
+ATOM    305   OH TYR B  38      18.986  62.720  24.454  0.58  8.57           O 0
+ATOM    736   CD LYS B  88      22.477  59.691  27.706  0.00  0.00           C 0
+ATOM    706    N GLN B  85      21.508  65.658  30.970  0.00  0.00           N 0
+ATOM    625  ND2 ASN B  76      19.512  66.794  26.335  0.00  0.00           N 0
+ATOM    737   CE LYS B  88      22.113  58.248  27.252  0.00  0.00           C 0
+ATOM    738   NZ LYS B  88      21.988  58.272  25.837  0.00  0.00           N 0
+TER
+END

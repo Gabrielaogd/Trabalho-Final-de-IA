@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0617
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9821
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7050
+HEADER 5  - Mean B-factor of pocket residues  : 0.2665
+HEADER 6  - Hydrophobicity Score              : 9.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 256.9427
+HEADER 10 - Pocket volume (convex hull)       : 5.9993
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM   2789   CB ASP B 338      10.554  -3.339 -25.528  0.00  0.00           C 0
+ATOM   2794   CA THR B 339       7.193  -3.179 -22.533  0.00  0.00           C 0
+ATOM   2806  CG2 VAL B 340       4.478  -6.842 -23.389  0.00  0.00           C 0
+ATOM   2788    O ASP B 338       9.877  -2.975 -22.527  0.00  0.00           O 0
+ATOM   2793    N THR B 339       7.971  -2.696 -23.657  0.67  1.09           N 0
+ATOM   2796    O THR B 339       5.423  -3.102 -24.122  0.66  1.07           O 0
+ATOM   2846    C PRO B 346       3.595  -2.993 -27.383  0.00  0.00           C 0
+ATOM   2848   CB PRO B 346       3.620  -5.458 -27.932  0.00  0.00           C 0
+ATOM   2847    O PRO B 346       3.062  -2.471 -28.361  0.74  4.29           O 0
+ATOM   2864   CG GLU B 348       8.448  -1.273 -30.690  0.00  0.00           C 0
+ATOM   2795    C THR B 339       5.801  -3.510 -23.032  0.00  0.00           C 0
+ATOM   2787    C ASP B 338       9.284  -2.622 -23.553  0.00  0.00           C 0
+ATOM   2854    O LEU B 347       7.211  -1.954 -26.552  0.79  2.14           O 0
+ATOM   2790   CG ASP B 338      11.399  -2.998 -26.738  0.00  0.00           C 0
+ATOM   2792  OD2 ASP B 338      12.112  -3.920 -27.196  0.00  0.00           O 0
+ATOM   2853    C LEU B 347       6.554  -1.160 -27.213  0.00  0.00           C 0
+TER
+END

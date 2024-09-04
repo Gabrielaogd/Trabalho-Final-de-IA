@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0732
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9547
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5678
+HEADER 5  - Mean B-factor of pocket residues  : 0.2069
+HEADER 6  - Hydrophobicity Score              : 5.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.8458
+HEADER 10 - Pocket volume (convex hull)       : 3.0263
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   1001   NZ LYS A 156      11.201  13.639  25.438  0.00  0.00           N 0
+ATOM    910   CB THR A 144       8.608   7.820  23.489  0.00  0.00           C 0
+ATOM   1000   CE LYS A 156      11.920  12.461  24.874  0.00  0.00           C 0
+ATOM     23    O GLY A  19       9.598  10.934  30.523  0.00  0.00           O 0
+ATOM    911  OG1 THR A 144       7.882   8.300  22.350  0.00  0.00           O 0
+ATOM    967   CB PRO A 152      12.466  11.101  21.317  0.00  0.00           C 0
+ATOM     20    N GLY A  19       9.637   8.191  30.245  0.62  1.09           N 0
+ATOM      4    O ILE A  16      10.336   6.426  26.094  0.32  1.07           O 0
+ATOM     16    N GLY A  18       7.724   6.471  29.140  0.59  6.56           N 0
+ATOM    912  CG2 THR A 144      10.049   8.314  23.397  0.00  0.00           C 0
+ATOM    999   CD LYS A 156      12.684  11.688  25.937  0.00  0.00           C 0
+ATOM    964   CA PRO A 152      12.182  11.222  19.826  0.00  0.00           C 0
+ATOM    950   OG SER A 150       6.394   9.354  19.230  0.24  7.50           O 0
+TER
+END

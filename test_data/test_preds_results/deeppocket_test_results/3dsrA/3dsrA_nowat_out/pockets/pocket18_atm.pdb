@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0607
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8715
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4718
+HEADER 5  - Mean B-factor of pocket residues  : 0.6823
+HEADER 6  - Hydrophobicity Score              : 24.8889
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.6252
+HEADER 10 - Pocket volume (convex hull)       : 12.0695
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM    243  OE1 GLN A  43     -37.360 -17.863  56.323  0.46  9.64           O 0
+ATOM    330  NE2 GLN A  55     -33.940 -13.143  53.678  0.74  1.09           N 0
+ATOM    244  NE2 GLN A  43     -36.859 -15.988  57.481  0.65  5.47           N 0
+ATOM    327   CG GLN A  55     -33.616 -15.111  55.073  0.00  0.00           C 0
+ATOM    121  OD1 ASN A  27     -39.919 -21.011  56.090  0.00  0.00           O 0
+ATOM    259  CD2 LEU A  45     -34.484 -18.928  52.267  0.00  0.00           C 0
+ATOM    248    O VAL A  44     -35.149 -22.376  55.400  0.72  1.07           O 0
+ATOM    114   OH TYR A  26     -38.785 -22.796  51.266  0.75  5.36           O 0
+ATOM   1808   CB ALA A 261     -39.379 -19.836  48.381  0.00  0.00           C 0
+ATOM    112  CE2 TYR A  26     -39.613 -23.134  53.487  0.00  0.00           C 0
+ATOM    113   CZ TYR A  26     -38.726 -23.462  52.471  0.00  0.00           C 0
+ATOM   1814   CG PRO A 273     -35.884 -13.128  50.666  0.00  0.00           C 0
+ATOM      5   CB ALA A  12     -35.811 -10.721  55.481  0.00  0.00           C 0
+ATOM   1815   CD PRO A 273     -36.698 -13.178  49.401  0.00  0.00           C 0
+TER
+END

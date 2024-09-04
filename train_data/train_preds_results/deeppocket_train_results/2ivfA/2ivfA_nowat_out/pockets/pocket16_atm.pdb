@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0119
+HEADER 1  - Drug Score                        : 0.0033
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.7746
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4337
+HEADER 5  - Mean B-factor of pocket residues  : 0.0944
+HEADER 6  - Hydrophobicity Score              : 27.5455
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 5.6364
+HEADER 9  - Pocket volume (Monte Carlo)       : 161.5755
+HEADER 10 - Pocket volume (convex hull)       : 4.6788
+HEADER 11 - Charge Score                      :     5
+HEADER 12 - Local hydrophobic density Score   : 18.0000
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.7600
+ATOM   6423    N ARG A 869      20.611  24.213  -7.237  0.00  0.00           N 0
+ATOM   6713  NH1 ARG A 906      23.583  20.413  -3.405  0.65  9.84           N 0
+ATOM   6417   CB HIS A 868      22.650  25.942  -6.094  0.00  0.00           C 0
+ATOM   6460  CG2 VAL A 873      18.993  20.907  -2.894  0.00  0.00           C 0
+ATOM   6838  CZ2 TRP A 921      20.037  24.991  -0.536  0.00  0.00           C 0
+ATOM   1559   OH TYR A 259      27.692  23.162  -0.247  0.44  9.64           O 0
+ATOM   6811  CD2 TYR A 919      24.823  22.555   2.538  0.00  0.00           C 0
+ATOM   6840  CH2 TRP A 921      20.048  26.066  -1.391  0.00  0.00           C 0
+ATOM   6419  ND1 HIS A 868      20.521  26.796  -5.003  0.00  0.00           N 0
+ATOM   6292  CG1 VAL A 852      24.465  27.902  -3.265  0.00  0.00           C 0
+ATOM   6293  CG2 VAL A 852      22.684  28.848  -1.739  0.00  0.00           C 0
+ATOM   6808   CB TYR A 919      23.541  24.496   3.520  0.00  0.00           C 0
+ATOM   6477  NE2 HIS A 875      24.128  19.806  -0.154  0.56  3.28           N 0
+ATOM   6273   CB PRO A 850      23.677  29.123   2.261  0.00  0.00           C 0
+ATOM   6270   CA PRO A 850      24.985  28.506   2.701  0.00  0.00           C 0
+ATOM   6276    N ARG A 851      26.659  28.231   1.026  0.00  0.00           N 0
+ATOM   1557  CE2 TYR A 259      27.655  24.835   1.402  0.00  0.00           C 0
+ATOM   6280   CB ARG A 851      27.938  27.648  -0.956  0.00  0.00           C 0
+TER
+END

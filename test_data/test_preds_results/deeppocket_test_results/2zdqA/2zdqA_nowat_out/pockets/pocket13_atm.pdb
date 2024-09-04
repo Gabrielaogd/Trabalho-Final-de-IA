@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0127
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0738
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6290
+HEADER 5  - Mean B-factor of pocket residues  : 0.4205
+HEADER 6  - Hydrophobicity Score              : 20.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 265.2626
+HEADER 10 - Pocket volume (convex hull)       : 10.0622
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1932  CD1 LEU A 253      55.161  -0.285   0.773  0.00  0.00           C 0
+ATOM    970   CD PRO A 129      52.589  -2.460   3.159  0.00  0.00           C 0
+ATOM   1900  CG2 THR A 249      59.241  -1.676   0.462  0.00  0.00           C 0
+ATOM    969   CG PRO A 129      53.272  -1.568   4.150  0.00  0.00           C 0
+ATOM   2117  OE1 GLU A 277      57.614  -2.470   9.129  0.75  4.29           O 0
+ATOM   2122    O LEU A 278      54.708   0.697   6.086  0.78  2.14           O 0
+ATOM   2119    N LEU A 278      57.311   1.299   6.804  0.39  2.19           N 0
+ATOM   1933  CD2 LEU A 253      54.103  -2.157  -0.507  0.00  0.00           C 0
+ATOM   2109    O GLY A 276      61.097   0.424   8.333  0.72  9.64           O 0
+ATOM   2123   CB LEU A 278      57.147   1.745   4.388  0.00  0.00           C 0
+ATOM   1874  OG1 THR A 246      64.725   1.662   3.546  0.59  7.50           O 0
+ATOM   1870   CA THR A 246      63.862   1.613   1.261  0.00  0.00           C 0
+ATOM   1899  OG1 THR A 249      61.594  -1.725   0.004  0.00  0.00           O 0
+ATOM   1875  CG2 THR A 246      62.717   2.904   3.151  0.00  0.00           C 0
+ATOM   2125  CD1 LEU A 278      58.840   1.605   2.611  0.00  0.00           C 0
+ATOM   2124   CG LEU A 278      58.478   2.311   3.904  0.00  0.00           C 0
+ATOM   1898   CB THR A 249      60.441  -0.881  -0.078  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.1116
+HEADER 1  - Drug Score                        : 0.1809
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0764
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4676
+HEADER 5  - Mean B-factor of pocket residues  : 0.1700
+HEADER 6  - Hydrophobicity Score              : 53.4000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 305.7384
+HEADER 10 - Pocket volume (convex hull)       : 10.2663
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM    778  CD2 LEU A 131       0.692 -18.201 -14.556  0.00  0.00           C 0
+ATOM    772   CA LEU A 131       1.725 -21.241 -15.069  0.00  0.00           C 0
+ATOM    769  CG1 VAL A 130       2.424 -22.684 -10.637  0.00  0.00           C 0
+ATOM    795   CB MET A 134      -2.203 -23.646 -13.618  0.00  0.00           C 0
+ATOM    797   SD MET A 134      -2.145 -24.064 -10.976  0.00  0.00           S 0
+ATOM    767    O VAL A 130       1.509 -23.660 -13.683  0.00  0.00           O 0
+ATOM    403   CA GLY A  83      -2.781 -16.022 -16.783  0.00  0.00           C 0
+ATOM    803   CB ALA A 135      -2.848 -20.577 -17.581  0.00  0.00           C 0
+ATOM    607   SG CYS A 109      -5.926 -16.220 -12.448  0.00  0.00           S 0
+ATOM    794    O MET A 134      -4.412 -23.392 -15.684  0.52  5.36           O 0
+ATOM    625  CD1 LEU A 111      -1.560 -15.138 -12.542  0.00  0.00           C 0
+ATOM    606   CB CYS A 109      -6.657 -16.013 -14.065  0.00  0.00           C 0
+ATOM    592  CD2 HIS A 107     -10.549 -17.626 -14.916  0.00  0.00           C 0
+ATOM    392   CB SER A  81      -7.492 -20.607 -17.864  0.00  0.00           C 0
+ATOM    397    O LEU A  82      -5.487 -16.081 -17.251  0.00  0.00           O 0
+ATOM    393   OG SER A  81      -6.471 -21.592 -17.747  0.17  4.29           O 0
+TER
+END

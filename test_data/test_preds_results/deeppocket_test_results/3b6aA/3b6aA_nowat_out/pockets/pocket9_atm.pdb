@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0168
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0969
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7107
+HEADER 5  - Mean B-factor of pocket residues  : 0.1382
+HEADER 6  - Hydrophobicity Score              : 11.8000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 452.0011
+HEADER 10 - Pocket volume (convex hull)       : 23.0178
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.8462
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7647
+ATOM    875   CG GLU A 140      30.108  -5.858 -29.741  0.00  0.00           C 0
+ATOM    846    O MET A 136      25.716  -5.366 -31.517  0.51  2.14           O 0
+ATOM    877  OE1 GLU A 140      30.424  -3.480 -29.863  0.00  0.00           O 0
+ATOM    874   CB GLU A 140      29.042  -5.787 -30.826  0.00  0.00           C 0
+ATOM    857  CG2 VAL A 137      23.819  -8.500 -28.574  0.00  0.00           C 0
+ATOM    854    O VAL A 137      26.526  -8.885 -31.789  0.00  0.00           O 0
+ATOM    856  CG1 VAL A 137      24.755 -10.194 -30.227  0.00  0.00           C 0
+ATOM    852   CA VAL A 137      24.764  -7.693 -30.730  0.00  0.00           C 0
+ATOM    884   CG ARG A 141      29.474 -10.499 -31.702  0.00  0.00           C 0
+ATOM    825   CA PRO A 133      18.770  -6.472 -29.928  0.00  0.00           C 0
+ATOM    827    O PRO A 133      20.982  -7.111 -30.589  0.73  1.07           O 0
+ATOM    849   SD MET A 136      22.122  -1.990 -29.881  0.00  0.00           S 0
+ATOM    845    C MET A 136      24.503  -5.526 -31.643  0.00  0.00           C 0
+ATOM    885   CD ARG A 141      28.449 -11.652 -31.632  0.00  0.00           C 0
+ATOM    888  NH1 ARG A 141      30.653 -12.617 -30.122  0.65  5.47           N 0
+ATOM    847   CB MET A 136      23.611  -3.120 -31.692  0.00  0.00           C 0
+ATOM    850   CE MET A 136      22.199  -0.215 -29.992  0.00  0.00           C 0
+ATOM    851    N VAL A 137      23.907  -6.607 -31.171  0.00  0.00           N 0
+TER
+END

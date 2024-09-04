@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0728
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9030
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6252
+HEADER 5  - Mean B-factor of pocket residues  : 0.2634
+HEADER 6  - Hydrophobicity Score              : -19.1667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 208.6537
+HEADER 10 - Pocket volume (convex hull)       : 3.6915
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM    748    N ARG D  99     108.511 -32.801   7.803  0.00  0.00           N 0
+ATOM    753   CG ARG D  99     108.371 -29.622   7.925  0.00  0.00           C 0
+ATOM    899  CG2 THR D 118     107.065 -29.032  13.328  0.00  0.00           C 0
+ATOM    739    O ASP D  97     111.958 -33.116   8.628  0.00  0.00           O 0
+ATOM    905   CG GLU D 119     105.038 -35.200  14.627  0.00  0.00           C 0
+ATOM    907  OE1 GLU D 119     106.672 -36.913  14.423  0.54  7.50           O 0
+ATOM    897   CB THR D 118     106.137 -30.222  13.508  0.00  0.00           C 0
+ATOM    916  ND2 ASN D 120     105.394 -32.814  17.951  0.00  0.00           N 0
+ATOM    900    N GLU D 119     104.618 -32.755  12.838  0.60  2.19           N 0
+ATOM    746    C GLY D  98     108.530 -33.960   8.451  0.00  0.00           C 0
+ATOM    747    O GLY D  98     107.571 -34.370   9.110  0.40  7.50           O 0
+ATOM    745   CA GLY D  98     109.801 -34.782   8.371  0.00  0.00           C 0
+ATOM    894   CA THR D 118     105.442 -30.568  12.182  0.00  0.00           C 0
+ATOM    749   CA ARG D  99     107.324 -31.958   7.827  0.00  0.00           C 0
+TER
+END

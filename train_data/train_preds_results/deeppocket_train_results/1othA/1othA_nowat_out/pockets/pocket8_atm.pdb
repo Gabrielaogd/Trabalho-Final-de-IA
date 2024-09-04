@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0235
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9062
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5014
+HEADER 5  - Mean B-factor of pocket residues  : 0.2075
+HEADER 6  - Hydrophobicity Score              : 12.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 215.0296
+HEADER 10 - Pocket volume (convex hull)       : 1.2423
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   2478  OE1 GLN A 348     -18.040 -17.446 -40.672  0.00  0.00           O 0
+ATOM   2475   CB GLN A 348     -15.606 -16.920 -42.107  0.00  0.00           C 0
+ATOM   2474    O GLN A 348     -14.691 -15.623 -44.766  0.00  0.00           O 0
+ATOM    309   NZ LYS A  70     -21.789 -14.360 -40.547  0.96  7.66           N 0
+ATOM    262  CE2 PHE A  65     -19.413 -10.533 -41.919  0.00  0.00           C 0
+ATOM   2473    C GLN A 348     -14.280 -15.529 -43.605  0.00  0.00           C 0
+ATOM    260  CD2 PHE A  65     -18.346 -10.386 -41.032  0.00  0.00           C 0
+ATOM   2480    N LEU A 349     -13.878 -14.361 -43.082  0.53  1.09           N 0
+ATOM   2486  CD1 LEU A 349     -15.396 -10.369 -42.861  0.00  0.00           C 0
+ATOM    234  OD1 ASP A  62     -14.052 -14.082 -40.241  0.00  0.00           O 0
+ATOM   2481   CA LEU A 349     -13.883 -13.112 -43.822  0.00  0.00           C 0
+ATOM   2488    N GLN A 350     -13.255 -12.368 -46.021  0.60  4.37           N 0
+ATOM    269   CG ARG A  66     -17.545 -13.715 -37.912  0.00  0.00           C 0
+TER
+END

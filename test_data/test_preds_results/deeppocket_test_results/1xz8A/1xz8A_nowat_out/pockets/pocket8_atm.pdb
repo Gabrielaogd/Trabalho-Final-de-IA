@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1727
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9070
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7377
+HEADER 5  - Mean B-factor of pocket residues  : 0.3066
+HEADER 6  - Hydrophobicity Score              : -27.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 287.7246
+HEADER 10 - Pocket volume (convex hull)       : 8.5070
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM     59   CG ASP A   8      29.145  -4.234  33.888  0.00  0.00           C 0
+ATOM     58   CB ASP A   8      28.872  -5.470  33.056  0.00  0.00           C 0
+ATOM     61  OD2 ASP A   8      30.301  -4.082  34.332  0.00  0.00           O 0
+ATOM     79  NE2 GLN A  10      27.374  -3.267  38.442  0.58  5.47           N 0
+ATOM     75   CB GLN A  10      25.919  -2.841  36.215  0.00  0.00           C 0
+ATOM     71    N GLN A  10      25.049  -3.932  34.239  0.68  2.19           N 0
+ATOM     66   CB GLU A   9      23.895  -6.544  33.206  0.00  0.00           C 0
+ATOM     70  OE2 GLU A   9      22.451  -8.206  34.835  0.00  0.00           O 0
+ATOM     62    N GLU A   9      25.993  -5.700  32.274  0.60  2.19           N 0
+ATOM     60  OD1 ASP A   8      28.221  -3.419  34.110  0.00  0.00           O 0
+ATOM    103  NH2 ARG A  13      21.958  -4.896  36.070  0.00  0.00           N 0
+ATOM     76   CG GLN A  10      25.488  -2.105  37.464  0.00  0.00           C 0
+ATOM     77   CD GLN A  10      26.413  -2.365  38.634  0.00  0.00           C 0
+ATOM     78  OE1 GLN A  10      26.267  -1.765  39.701  0.00  0.00           O 0
+ATOM    100   NE ARG A  13      20.927  -2.837  36.180  0.57  5.47           N 0
+TER
+END

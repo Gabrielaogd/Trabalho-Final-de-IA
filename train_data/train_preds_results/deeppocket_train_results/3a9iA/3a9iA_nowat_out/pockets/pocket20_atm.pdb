@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0374
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1123
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7634
+HEADER 5  - Mean B-factor of pocket residues  : 0.2092
+HEADER 6  - Hydrophobicity Score              : 11.7143
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.4064
+HEADER 10 - Pocket volume (convex hull)       : 6.3863
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM    636  CG1 VAL A  82      21.133  33.780  10.356  0.00  0.00           C 0
+ATOM    381   CA VAL A  48      20.407  31.814   6.324  0.00  0.00           C 0
+ATOM    376    O PRO A  47      18.548  31.245   8.241  0.00  0.00           O 0
+ATOM    637  CG2 VAL A  82      22.150  35.908   9.446  0.00  0.00           C 0
+ATOM    426   CD ARG A  54      16.691  34.129  11.818  0.00  0.00           C 0
+ATOM    398    N PRO A  51      13.560  32.223   6.502  0.00  0.00           N 0
+ATOM    403   CG PRO A  51      12.053  34.016   6.250  0.00  0.00           C 0
+ATOM    399   CA PRO A  51      13.080  32.572   7.851  0.00  0.00           C 0
+ATOM    427   NE ARG A  54      15.330  34.235  11.268  0.00  0.00           N 0
+ATOM    395    O SER A  50      15.226  30.936   7.332  0.00  0.00           O 0
+ATOM    402   CB PRO A  51      11.806  33.374   7.573  0.00  0.00           C 0
+ATOM    430  NH2 ARG A  54      13.030  34.203  11.322  0.52  3.28           N 0
+ATOM    386  CG2 VAL A  48      21.647  33.670   5.082  0.00  0.00           C 0
+ATOM    383    O VAL A  48      19.229  32.189   4.279  0.00  0.00           O 0
+ATOM    394    C SER A  50      14.608  31.390   6.368  0.00  0.00           C 0
+ATOM    404   CD PRO A  51      12.791  32.921   5.455  0.00  0.00           C 0
+ATOM    393   CA SER A  50      15.011  30.985   4.950  0.00  0.00           C 0
+ATOM    390    O ALA A  49      16.634  30.632   2.711  0.32  9.64           O 0
+TER
+END

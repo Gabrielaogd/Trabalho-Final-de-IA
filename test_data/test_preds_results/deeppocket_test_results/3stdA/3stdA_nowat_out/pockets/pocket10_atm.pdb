@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0079
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9947
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5873
+HEADER 5  - Mean B-factor of pocket residues  : 0.2693
+HEADER 6  - Hydrophobicity Score              : 18.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 456.9848
+HEADER 10 - Pocket volume (convex hull)       : 27.6845
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2800
+ATOM    681    O TRP A  92       6.600  20.796  34.099  0.00  0.00           O 0
+ATOM     10   CG GLU A  10       1.433  25.701  35.908  0.00  0.00           C 0
+ATOM     11   CD GLU A  10       0.833  26.552  34.800  0.00  0.00           C 0
+ATOM     13  OE2 GLU A  10      -0.052  26.032  34.089  0.57  6.43           O 0
+ATOM    701    N LYS A  94       6.247  21.114  38.688  0.67  4.37           N 0
+ATOM    693   CA GLU A  93       6.913  19.851  36.722  0.00  0.00           C 0
+ATOM      4    O GLY A   2       2.101  23.210  38.749  0.00  0.00           O 0
+ATOM    704    O LYS A  94       4.700  20.095  40.868  0.62  6.43           O 0
+ATOM      6   CA GLU A  10       3.080  25.696  37.885  0.00  0.00           C 0
+ATOM    697   CG GLU A  93       6.513  17.656  35.409  0.00  0.00           C 0
+ATOM     19  CG1 ILE A  11       7.865  26.890  36.240  0.00  0.00           C 0
+ATOM      9   CB GLU A  10       2.473  26.445  36.698  0.00  0.00           C 0
+ATOM     17    O ILE A  11       5.266  28.884  36.875  0.56  6.43           O 0
+ATOM     12  OE1 GLU A  10       1.229  27.734  34.644  0.00  0.00           O 0
+ATOM    696   CB GLU A  93       6.897  18.317  36.727  0.00  0.00           C 0
+ATOM    698   CD GLU A  93       6.346  16.143  35.519  0.00  0.00           C 0
+ATOM    699  OE1 GLU A  93       6.636  15.565  36.595  0.00  0.00           O 0
+ATOM    682   CB TRP A  92       9.153  22.823  34.364  0.00  0.00           C 0
+ATOM    684  CD1 TRP A  92      10.141  24.321  32.493  0.00  0.00           C 0
+ATOM    678    N TRP A  92       8.861  21.368  32.432  0.00  0.00           N 0
+ATOM     20  CG2 ILE A  11       8.132  25.458  38.308  0.00  0.00           C 0
+ATOM    680    C TRP A  92       7.716  20.818  34.622  0.00  0.00           C 0
+ATOM     14    N ILE A  11       5.364  26.493  37.892  0.57  1.09           N 0
+TER
+END

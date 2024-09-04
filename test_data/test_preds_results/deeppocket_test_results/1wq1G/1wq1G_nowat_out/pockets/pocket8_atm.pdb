@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1070
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8614
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4743
+HEADER 5  - Mean B-factor of pocket residues  : 0.4309
+HEADER 6  - Hydrophobicity Score              : 12.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.1494
+HEADER 10 - Pocket volume (convex hull)       : 8.0190
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2857
+ATOM   1382   CA THR G 889     -35.932  28.729   9.544  0.00  0.00           C 0
+ATOM   1387  CG2 THR G 889     -36.851  28.417   7.216  0.00  0.00           C 0
+ATOM   1324  OE1 GLN G 882     -41.287  23.893  10.874  0.59  6.43           O 0
+ATOM   1386  OG1 THR G 889     -37.326  30.399   8.495  0.58  5.36           O 0
+ATOM   1409   CD ARG G 892     -37.504  24.138   8.273  0.00  0.00           C 0
+ATOM   1360   CA PRO G 886     -39.981  30.466  15.311  0.00  0.00           C 0
+ATOM   1320    O GLN G 882     -41.164  27.477  16.492  0.86  9.64           O 0
+ATOM   1363   CB PRO G 886     -41.145  31.220  15.970  0.00  0.00           C 0
+ATOM   1362    O PRO G 886     -39.670  31.226  13.048  0.00  0.00           O 0
+ATOM   1321   CB GLN G 882     -41.277  24.995  14.370  0.00  0.00           C 0
+ATOM   1325  NE2 GLN G 882     -42.962  24.433  12.280  0.58  7.66           N 0
+ATOM   1322   CG GLN G 882     -40.673  24.851  12.982  0.00  0.00           C 0
+ATOM   1323   CD GLN G 882     -41.673  24.356  11.953  0.00  0.00           C 0
+ATOM   1376    O ASN G 888     -35.828  28.416  12.300  0.53  4.29           O 0
+ATOM   1348    O TRP G 885     -37.581  28.974  15.225  0.00  0.00           O 0
+ATOM   1407   CB ARG G 892     -37.025  22.923  10.451  0.00  0.00           C 0
+ATOM   1316  CG2 VAL G 881     -37.101  22.483  14.859  0.00  0.00           C 0
+ATOM   1403    N ARG G 892     -34.896  23.590  11.450  0.00  0.00           N 0
+ATOM   1313    O VAL G 881     -37.884  25.845  16.714  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0338
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0703
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5424
+HEADER 5  - Mean B-factor of pocket residues  : 0.4091
+HEADER 6  - Hydrophobicity Score              : 11.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.5603
+HEADER 10 - Pocket volume (convex hull)       : 3.8858
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1304
+ATOM   2102   CD LYS X1275     -26.562 -55.531  -2.463  0.00  0.00           C 0
+ATOM   2066  CD1 LEU X1270     -27.307 -48.782   1.712  0.00  0.00           C 0
+ATOM   2104   NZ LYS X1275     -28.432 -55.007  -0.861  0.00  0.00           N 0
+ATOM   2152  OD1 ASN X1281     -24.536 -48.986   3.594  0.55  8.57           O 0
+ATOM   2092    O PRO X1274     -25.174 -52.389  -4.376  0.35  2.14           O 0
+ATOM   2154    N GLY X1282     -22.482 -47.649  -0.972  0.65  2.19           N 0
+ATOM   2113    N CYS X1277     -20.044 -52.687  -3.280  0.40  3.28           N 0
+ATOM   2130    O PHE X1279     -19.663 -48.646  -0.443  0.43  4.29           O 0
+ATOM   2146    N ASN X1281     -22.206 -48.462   1.647  0.00  0.00           N 0
+ATOM   2147   CA ASN X1281     -23.509 -47.933   1.212  0.00  0.00           C 0
+ATOM   2158    N ALA X1283     -24.425 -47.976  -2.994  0.00  0.00           N 0
+ATOM   2105    N ASN X1276     -21.780 -54.976  -2.899  0.00  0.00           N 0
+ATOM   2097   CA LYS X1275     -23.984 -54.909  -3.917  0.00  0.00           C 0
+ATOM   2064   CB LEU X1270     -29.462 -48.881   0.543  0.00  0.00           C 0
+ATOM   2071    O PRO X1271     -29.805 -50.999  -2.590  0.00  0.00           O 0
+ATOM   2162   CB ALA X1283     -26.627 -49.147  -3.237  0.00  0.00           C 0
+ATOM   2118   SG CYS X1277     -21.730 -50.197  -4.551  0.00  0.00           S 0
+ATOM   2117   CB CYS X1277     -20.235 -50.267  -3.603  0.00  0.00           C 0
+TER
+END

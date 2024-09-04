@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0738
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7245
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4570
+HEADER 5  - Mean B-factor of pocket residues  : 0.3527
+HEADER 6  - Hydrophobicity Score              : -16.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 204.8939
+HEADER 10 - Pocket volume (convex hull)       : 8.0059
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM   1738    N ASP A 233      15.324  90.627 152.979  0.00  0.00           N 0
+ATOM   1742   CB ASP A 233      13.271  90.287 151.697  0.00  0.00           C 0
+ATOM   1739   CA ASP A 233      13.870  90.705 153.040  0.00  0.00           C 0
+ATOM   1734   CG GLU A 232      17.797  93.691 152.808  0.00  0.00           C 0
+ATOM   1579    O GLY A 211      16.616  90.510 145.624  0.05  8.57           O 0
+ATOM   1587    N GLN A 213      19.557  89.646 148.572  0.59  1.09           N 0
+ATOM   1744  OD1 ASP A 233      14.274  88.146 151.948  0.00  0.00           O 0
+ATOM   1743   CG ASP A 233      13.309  88.796 151.485  0.00  0.00           C 0
+ATOM   1745  OD2 ASP A 233      12.371  88.275 150.845  0.00  0.00           O 0
+ATOM   1585  OG1 THR A 212      16.767  86.734 146.558  0.17  5.36           O 0
+ATOM   1581   CA THR A 212      18.275  88.625 146.796  0.00  0.00           C 0
+ATOM   1586  CG2 THR A 212      18.182  86.788 148.507  0.00  0.00           C 0
+ATOM   1591   CB GLN A 213      20.714  91.618 149.419  0.00  0.00           C 0
+ATOM   1733   CB GLU A 232      18.125  92.233 152.556  0.00  0.00           C 0
+TER
+END

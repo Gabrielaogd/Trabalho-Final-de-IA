@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : 0.0270
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6265
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4649
+HEADER 5  - Mean B-factor of pocket residues  : 0.3643
+HEADER 6  - Hydrophobicity Score              : 17.1111
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 172.7747
+HEADER 10 - Pocket volume (convex hull)       : 4.0857
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   1083   SD MET A 139      29.748  49.121  41.235  0.00  0.00           S 0
+ATOM     89    O THR A  12      32.681  46.548  40.677  0.39  1.07           O 0
+ATOM   1088    O ALA A 140      28.008  44.606  44.839  0.47  8.57           O 0
+ATOM   1085    N ALA A 140      27.956  44.652  42.028  0.39  1.09           N 0
+ATOM   1105  OD1 ASN A 142      30.044  45.658  48.950  0.00  0.00           O 0
+ATOM    104   CB CYS A  14      32.324  50.577  44.076  0.00  0.00           C 0
+ATOM    110   CB ALA A  15      35.174  50.347  48.078  0.00  0.00           C 0
+ATOM    106    N ALA A  15      35.026  49.321  45.847  0.64  2.19           N 0
+ATOM    109    O ALA A  15      35.852  47.110  46.961  0.64  2.14           O 0
+ATOM    114    O ALA A  16      35.079  46.734  50.235  0.43  5.36           O 0
+ATOM    121   CG GLU A  17      33.684  44.281  47.753  0.00  0.00           C 0
+ATOM   1082   CG MET A 139      27.941  49.024  41.281  0.00  0.00           C 0
+ATOM   1084   CE MET A 139      30.033  50.911  41.771  0.00  0.00           C 0
+ATOM    100    N CYS A  14      33.561  48.474  43.873  0.60  3.28           N 0
+ATOM     94   CA PRO A  13      34.126  46.272  43.066  0.00  0.00           C 0
+ATOM    124  OE2 GLU A  17      32.061  43.609  46.128  0.58  6.43           O 0
+ATOM   1081   CB MET A 139      27.456  47.650  41.663  0.00  0.00           C 0
+TER
+END

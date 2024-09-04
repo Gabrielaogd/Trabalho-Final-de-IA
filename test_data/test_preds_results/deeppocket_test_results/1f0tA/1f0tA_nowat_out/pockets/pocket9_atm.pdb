@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0017
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8963
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5410
+HEADER 5  - Mean B-factor of pocket residues  : 0.2374
+HEADER 6  - Hydrophobicity Score              : 5.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 286.1131
+HEADER 10 - Pocket volume (convex hull)       : 14.6441
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM    796    O THR A 125      33.721  -5.897  41.720  0.00  0.00           O 0
+ATOM    794   CA THR A 125      33.909  -3.743  40.650  0.00  0.00           C 0
+ATOM    799  CG2 THR A 125      35.693  -2.019  41.074  0.00  0.00           C 0
+ATOM   1585   NZ LYS A 239      39.593  -4.584  36.150  0.62  8.75           N 0
+ATOM    789    O PRO A 124      33.433  -3.756  37.902  0.51  3.21           O 0
+ATOM    797   CB THR A 125      34.672  -2.936  41.728  0.00  0.00           C 0
+ATOM   1519    O CYS A 232      31.154  -8.974  36.543  0.00  0.00           O 0
+ATOM   1548  CG2 VAL A 235      33.202  -5.922  35.268  0.00  0.00           C 0
+ATOM   1525    O ASN A 233      31.469 -11.801  33.581  0.29  5.36           O 0
+ATOM   1554   OG SER A 236      37.847 -10.773  35.236  0.70  9.64           O 0
+ATOM   1553   CB SER A 236      37.427 -10.989  33.900  0.00  0.00           C 0
+ATOM   1549    N SER A 236      36.050  -9.002  33.498  0.63  2.19           N 0
+ATOM   1546   CB VAL A 235      34.507  -6.639  34.926  0.00  0.00           C 0
+ATOM   1547  CG1 VAL A 235      35.680  -5.685  35.078  0.00  0.00           C 0
+TER
+END

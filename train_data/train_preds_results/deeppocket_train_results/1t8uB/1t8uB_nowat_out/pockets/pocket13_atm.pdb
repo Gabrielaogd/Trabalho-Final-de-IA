@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0742
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9429
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5174
+HEADER 5  - Mean B-factor of pocket residues  : 0.1248
+HEADER 6  - Hydrophobicity Score              : 33.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 130.2579
+HEADER 10 - Pocket volume (convex hull)       : 0.8283
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1877   CB PRO B 373      35.650  91.203  27.840  0.00  0.00           C 0
+ATOM   1878   CG PRO B 373      34.516  90.536  27.098  0.00  0.00           C 0
+ATOM    908  CE2 TYR B 253      33.288  91.266  22.949  0.00  0.00           C 0
+ATOM    941  CD2 LEU B 257      36.922  89.531  23.240  0.00  0.00           C 0
+ATOM    910   OH TYR B 253      34.314  92.899  21.544  0.00  0.00           O 0
+ATOM   1005    N PHE B 266      31.827  94.918  22.700  0.69  1.09           N 0
+ATOM   1896  CD1 ILE B 375      31.127  93.194  27.744  0.00  0.00           C 0
+ATOM   1009   CB PHE B 266      30.447  93.605  24.230  0.00  0.00           C 0
+ATOM   1023  OE1 GLU B 267      31.801  97.140  25.487  0.80  5.36           O 0
+ATOM   1883    O GLU B 374      33.792  94.696  29.847  0.23  7.50           O 0
+ATOM   1002   CB THR B 265      33.718  97.337  22.530  0.00  0.00           C 0
+ATOM   1004  CG2 THR B 265      35.175  97.811  22.584  0.00  0.00           C 0
+TER
+END

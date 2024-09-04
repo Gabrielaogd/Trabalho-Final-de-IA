@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : -0.0525
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9636
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6182
+HEADER 5  - Mean B-factor of pocket residues  : 0.1943
+HEADER 6  - Hydrophobicity Score              : 7.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 204.2511
+HEADER 10 - Pocket volume (convex hull)       : 1.8664
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM    129   CA SER A 143      59.538  -7.355   0.037  0.00  0.00           C 0
+ATOM   2731   CD ARG A 454      56.393  -4.189   3.907  0.00  0.00           C 0
+ATOM   2711  CD2 LEU A 451      52.183  -6.621   3.197  0.00  0.00           C 0
+ATOM    131    O SER A 143      59.366  -8.623   2.070  0.50  8.57           O 0
+ATOM    123    O ASN A 142      59.569  -5.273   1.878  0.00  0.00           O 0
+ATOM    128    N SER A 143      60.148  -6.039  -0.161  0.49  3.28           N 0
+ATOM   2727    C ARG A 454      56.010  -1.269  -0.139  0.00  0.00           C 0
+ATOM   2728    O ARG A 454      56.994  -1.178  -0.872  0.00  0.00           O 0
+ATOM   2736    N ARG A 455      54.769  -1.412  -0.603  0.62  1.09           N 0
+ATOM   2729   CB ARG A 454      56.170  -2.652   1.920  0.00  0.00           C 0
+ATOM    122    C ASN A 142      60.102  -5.100   0.782  0.00  0.00           C 0
+ATOM   2737   CA ARG A 455      54.477  -1.489  -2.037  0.00  0.00           C 0
+ATOM    132   CB SER A 143      59.797  -8.260  -1.174  0.00  0.00           C 0
+TER
+END

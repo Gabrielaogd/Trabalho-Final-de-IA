@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0749
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0684
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6073
+HEADER 5  - Mean B-factor of pocket residues  : 0.4663
+HEADER 6  - Hydrophobicity Score              : -8.2857
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 304.2179
+HEADER 10 - Pocket volume (convex hull)       : 12.5999
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3478
+ATOM    123  OD1 ASP C  16       7.761 -24.006   5.630  0.79  5.36           O 0
+ATOM    140   CG GLN C  19       8.911 -25.058  -0.196  0.00  0.00           C 0
+ATOM    139   CB GLN C  19       8.762 -23.619   0.271  0.00  0.00           C 0
+ATOM    108    O SER C  14      11.528 -20.894   5.275  0.00  0.00           O 0
+ATOM    114    O SER C  15       8.911 -20.863   2.640  0.63  2.14           O 0
+ATOM    562   CG GLN C  73      15.121 -29.795  -0.741  0.00  0.00           C 0
+ATOM    563   CD GLN C  73      15.028 -30.521   0.590  0.00  0.00           C 0
+ATOM    143  NE2 GLN C  19       9.972 -26.446  -1.887  0.00  0.00           N 0
+ATOM    565  NE2 GLN C  73      14.207 -31.587   0.622  0.70  5.47           N 0
+ATOM    141   CD GLN C  19       9.979 -25.262  -1.281  0.00  0.00           C 0
+ATOM    564  OE1 GLN C  73      15.722 -30.174   1.565  0.46  5.36           O 0
+ATOM    537   CB ALA C  70      16.736 -24.015   0.911  0.00  0.00           C 0
+ATOM    142  OE1 GLN C  19      10.791 -24.375  -1.565  0.68  2.14           O 0
+ATOM    536    O ALA C  70      16.681 -26.100  -1.620  0.59  1.07           O 0
+ATOM    571   CG ARG C  74      14.118 -25.497  -3.856  0.00  0.00           C 0
+ATOM    534   CA ALA C  70      17.456 -25.274   0.469  0.00  0.00           C 0
+ATOM    576  NH2 ARG C  74      12.929 -22.516  -0.637  0.48  2.19           N 0
+ATOM    574   CZ ARG C  74      13.721 -22.808  -1.646  0.00  0.00           C 0
+ATOM    573   NE ARG C  74      13.250 -23.528  -2.664  0.00  0.00           N 0
+TER
+END

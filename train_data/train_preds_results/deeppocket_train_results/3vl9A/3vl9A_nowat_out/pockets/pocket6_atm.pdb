@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.2995
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8106
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5249
+HEADER 5  - Mean B-factor of pocket residues  : 0.3954
+HEADER 6  - Hydrophobicity Score              : 24.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 242.9401
+HEADER 10 - Pocket volume (convex hull)       : 12.8598
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM    256    O GLY A  35       9.312  18.133   7.500  0.00  0.00           O 0
+ATOM    225    O GLU A  30       7.512  24.289   9.026  0.56  2.14           O 0
+ATOM    245    O GLY A  33       7.010  22.290  11.166  0.00  0.00           O 0
+ATOM    229  OE1 GLU A  30      12.247  24.179   6.760  0.62  6.43           O 0
+ATOM    226   CB GLU A  30       8.811  24.276   6.198  0.00  0.00           C 0
+ATOM    432  CZ3 TRP A  57       6.856  20.828   6.719  0.00  0.00           C 0
+ATOM    230  OE2 GLU A  30      11.343  23.923   4.795  0.00  0.00           O 0
+ATOM    433  CH2 TRP A  57       7.437  20.974   5.478  0.00  0.00           C 0
+ATOM    258   CA SER A  36       8.942  17.295   4.922  0.00  0.00           C 0
+ATOM    228   CD GLU A  30      11.323  24.357   5.930  0.00  0.00           C 0
+ATOM     75    N GLN A  12      14.122  23.465   1.214  0.00  0.00           N 0
+ATOM     79   CB GLN A  12      13.345  25.418   2.463  0.00  0.00           C 0
+ATOM    202  CD1 LEU A  27      10.196  21.789   1.754  0.00  0.00           C 0
+ATOM     68    O CYS A  10      13.228  19.762   1.100  0.00  0.00           O 0
+ATOM    261   CB SER A  36       9.977  16.186   5.103  0.00  0.00           C 0
+TER
+END

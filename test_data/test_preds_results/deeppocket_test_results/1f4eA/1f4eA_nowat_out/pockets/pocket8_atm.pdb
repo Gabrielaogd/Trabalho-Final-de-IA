@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0229
+HEADER 1  - Drug Score                        : 0.0194
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9400
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6994
+HEADER 5  - Mean B-factor of pocket residues  : 0.0379
+HEADER 6  - Hydrophobicity Score              : 38.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 163.8875
+HEADER 10 - Pocket volume (convex hull)       : 2.2933
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM    900  CG2 ILE A 109      22.133  74.809  94.908  0.00  0.00           C 0
+ATOM    831   CG TRP A 101      22.182  69.255  95.018  0.00  0.00           C 0
+ATOM    832  CD1 TRP A 101      21.172  69.240  95.977  0.00  0.00           C 0
+ATOM    898   CB ILE A 109      21.026  73.800  94.606  0.00  0.00           C 0
+ATOM    835  CE2 TRP A 101      22.851  68.062  96.849  0.00  0.00           C 0
+ATOM    833  CD2 TRP A 101      23.251  68.488  95.565  0.00  0.00           C 0
+ATOM    834  NE1 TRP A 101      21.568  68.505  97.079  0.00  0.00           N 0
+ATOM    899  CG1 ILE A 109      20.044  73.791  95.785  0.00  0.00           C 0
+ATOM    853  CG2 THR A 103      17.921  71.399  97.532  0.00  0.00           C 0
+ATOM    917  OE1 GLN A 111      27.440  71.831  94.844  0.61  5.36           O 0
+ATOM    838  CZ3 TRP A 101      25.344  67.400  95.948  0.00  0.00           C 0
+ATOM   1076   CB SER A 131      29.351  68.308  96.298  0.00  0.00           C 0
+ATOM    839  CH2 TRP A 101      24.913  66.969  97.212  0.00  0.00           C 0
+ATOM    836  CE3 TRP A 101      24.537  68.170  95.124  0.00  0.00           C 0
+ATOM    837  CZ2 TRP A 101      23.673  67.293  97.698  0.00  0.00           C 0
+ATOM    916   CD GLN A 111      26.569  71.822  93.964  0.00  0.00           C 0
+ATOM    915   CG GLN A 111      25.830  73.096  93.592  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.1150
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8733
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5974
+HEADER 5  - Mean B-factor of pocket residues  : 0.3469
+HEADER 6  - Hydrophobicity Score              : 32.1429
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 281.5930
+HEADER 10 - Pocket volume (convex hull)       : 8.1869
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   1566    O VAL A 211      33.442   8.181  59.993  0.82  8.57           O 0
+ATOM   1094   CD ARG A 150      32.490   4.222  60.145  0.00  0.00           C 0
+ATOM   1100   CA SER A 151      36.882   2.211  56.804  0.00  0.00           C 0
+ATOM   1103   CB SER A 151      38.000   1.740  57.739  0.00  0.00           C 0
+ATOM   1580  CG2 VAL A 213      32.147   7.090  55.754  0.00  0.00           C 0
+ATOM   1572    C GLY A 212      34.314  10.017  57.312  0.00  0.00           C 0
+ATOM   1573    O GLY A 212      35.417  10.076  56.793  0.48  9.64           O 0
+ATOM   1097  NH1 ARG A 150      33.053   3.400  62.784  0.00  0.00           N 0
+ATOM   1072    O SER A 147      35.409   0.013  59.802  0.71  2.14           O 0
+ATOM   1099    N SER A 151      35.606   1.643  57.210  0.00  0.00           N 0
+ATOM   1093   CG ARG A 150      32.730   3.731  58.682  0.00  0.00           C 0
+ATOM   1091    O ARG A 150      34.561   3.162  55.955  0.57  3.21           O 0
+ATOM   1073   CB SER A 147      34.683  -0.082  62.940  0.00  0.00           C 0
+ATOM   1102    O SER A 151      38.169   2.483  54.842  0.27  7.50           O 0
+ATOM   1117    O LEU A 153      35.697   5.485  52.560  0.56  7.50           O 0
+ATOM   1575   CA VAL A 213      33.314   9.222  55.219  0.00  0.00           C 0
+TER
+END

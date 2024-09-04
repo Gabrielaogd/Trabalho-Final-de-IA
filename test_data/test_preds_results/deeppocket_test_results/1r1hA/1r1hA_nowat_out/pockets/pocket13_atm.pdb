@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0319
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7621
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4525
+HEADER 5  - Mean B-factor of pocket residues  : 0.4653
+HEADER 6  - Hydrophobicity Score              : -20.8571
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 202.1927
+HEADER 10 - Pocket volume (convex hull)       : 4.8796
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   2678   CA GLU A 388      12.814  22.230  50.865  0.00  0.00           C 0
+ATOM   2647  NH1 ARG A 384      11.266  27.884  52.620  0.41  7.66           N 0
+ATOM   2644   CD ARG A 384      10.010  25.643  53.786  0.00  0.00           C 0
+ATOM   2710  ND2 ASN A 391      15.957  22.549  52.325  0.00  0.00           N 0
+ATOM   2682   CG GLU A 388      12.416  21.525  53.319  0.00  0.00           C 0
+ATOM   2671    O LYS A 387      13.232  23.825  48.526  0.52  6.43           O 0
+ATOM   2670    C LYS A 387      12.109  23.720  49.026  0.00  0.00           C 0
+ATOM   2677    N GLU A 388      11.833  22.991  50.104  0.00  0.00           N 0
+ATOM   2803  OE1 GLU A 403      13.887  29.463  48.811  0.68  5.36           O 0
+ATOM   2672   CB LYS A 387      10.539  25.598  49.376  0.00  0.00           C 0
+ATOM   2709  OD1 ASN A 391      17.459  24.168  51.937  0.61  2.14           O 0
+ATOM   2736  NH1 ARG A 394      18.275  26.241  49.936  0.52  3.28           N 0
+ATOM   2796    N GLU A 403      17.802  30.239  51.775  0.00  0.00           N 0
+ATOM   2791   CA SER A 402      19.491  29.379  53.324  0.00  0.00           C 0
+ATOM   2737  NH2 ARG A 394      19.775  26.750  51.597  0.00  0.00           N 0
+ATOM   2800   CB GLU A 403      16.003  30.708  50.127  0.00  0.00           C 0
+TER
+END

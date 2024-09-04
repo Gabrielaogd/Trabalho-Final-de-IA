@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0023
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9555
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6070
+HEADER 5  - Mean B-factor of pocket residues  : 0.1042
+HEADER 6  - Hydrophobicity Score              : 14.7778
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 365.9972
+HEADER 10 - Pocket volume (convex hull)       : 21.5918
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1500
+ATOM   1590   CD ARG X 200      16.925  15.040  -7.597  0.00  0.00           C 0
+ATOM   1570    O VAL X 198      21.487  15.505  -2.830  0.16  5.36           O 0
+ATOM   1589   CG ARG X 200      18.412  14.780  -7.652  0.00  0.00           C 0
+ATOM   1584    N ARG X 200      21.143  16.041  -7.260  0.47  4.37           N 0
+ATOM   1588   CB ARG X 200      19.100  15.750  -8.592  0.00  0.00           C 0
+ATOM   1575   CA HIS X 199      22.651  16.013  -5.385  0.00  0.00           C 0
+ATOM   1581  CD2 HIS X 199      24.108  18.948  -4.101  0.00  0.00           C 0
+ATOM   1036   CG PRO X 132      17.081  12.451  -4.280  0.00  0.00           C 0
+ATOM   1355    N ASN X 172      17.822  13.723   2.830  0.50  2.19           N 0
+ATOM   1362  ND2 ASN X 172      19.952  16.346   0.084  0.00  0.00           N 0
+ATOM   1338    O TYR X 170      15.311  11.921   0.306  0.55  2.14           O 0
+ATOM   2216  OE2 GLU X 279      13.625  16.028   3.530  0.69  3.21           O 0
+ATOM   1334  NE2 HIS X 169      12.246  13.141  -0.261  0.00  0.00           N 0
+ATOM   1037   CD PRO X 132      15.743  13.078  -4.186  0.00  0.00           C 0
+ATOM   1333  CE1 HIS X 169      12.264  12.803  -1.537  0.00  0.00           C 0
+ATOM   1026    O LEU X 131      13.187  13.668  -5.019  0.45  6.43           O 0
+ATOM   1359   CB ASN X 172      19.374  15.593   2.330  0.00  0.00           C 0
+ATOM   1361  OD1 ASN X 172      20.163  14.180   0.547  0.74  1.07           O 0
+ATOM   1360   CG ASN X 172      19.861  15.298   0.902  0.00  0.00           C 0
+TER
+END

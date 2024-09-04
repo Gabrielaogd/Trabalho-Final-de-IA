@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0312
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9594
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6902
+HEADER 5  - Mean B-factor of pocket residues  : 0.2992
+HEADER 6  - Hydrophobicity Score              : 2.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 189.5116
+HEADER 10 - Pocket volume (convex hull)       : 2.5390
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    614    O ARG B  82       4.285  -8.506  29.808  0.00  0.00           O 0
+ATOM    658    O MET B  87       5.979 -11.399  32.193  0.52  7.50           O 0
+ATOM    623   CA ALA B  83       1.803  -7.537  29.976  0.00  0.00           C 0
+ATOM    671  OE2 GLU B  88       2.476 -14.924  30.830  0.00  0.00           O 0
+ATOM    622    N ALA B  83       2.925  -6.975  30.697  0.00  0.00           N 0
+ATOM    651   CG GLN B  86       3.208 -13.190  26.667  0.00  0.00           C 0
+ATOM    647   CA GLN B  86       4.281 -11.094  27.567  0.00  0.00           C 0
+ATOM    625    O ALA B  83       1.716  -8.243  27.672  0.30  6.43           O 0
+ATOM    615   CB ARG B  82       5.175  -7.528  32.709  0.00  0.00           C 0
+ATOM    613    C ARG B  82       4.124  -7.532  30.528  0.00  0.00           C 0
+ATOM    655    N MET B  87       5.896 -10.944  29.363  0.66  1.09           N 0
+ATOM    618   NE ARG B  82       5.165  -8.415  35.429  0.59  2.19           N 0
+ATOM    621  NH2 ARG B  82       3.646  -7.919  37.065  0.58  7.66           N 0
+ATOM    587    O PRO B  79       2.187  -5.336  32.978  0.79  4.29           O 0
+ATOM    626   CB ALA B  83       0.495  -6.835  30.407  0.00  0.00           C 0
+TER
+END

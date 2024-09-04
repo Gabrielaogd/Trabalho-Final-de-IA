@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.1048
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8967
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4979
+HEADER 5  - Mean B-factor of pocket residues  : 0.3855
+HEADER 6  - Hydrophobicity Score              : 9.2222
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.3275
+HEADER 10 - Pocket volume (convex hull)       : 13.8819
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   2081   CD PRO X1272     -32.883 -52.054  -4.309  0.00  0.00           C 0
+ATOM   2088  CG2 VAL X1273     -29.625 -53.043  -8.280  0.00  0.00           C 0
+ATOM   2080   CG PRO X1272     -32.902 -53.433  -4.917  0.00  0.00           C 0
+ATOM    162    O THR X1023     -31.184 -49.674 -12.283  0.25  6.43           O 0
+ATOM   2072   CB PRO X1271     -31.086 -48.779  -4.407  0.00  0.00           C 0
+ATOM   2085    O VAL X1273     -28.289 -50.614  -6.319  0.75  1.07           O 0
+ATOM    164  OG1 THR X1023     -28.765 -48.952 -10.138  0.57  3.21           O 0
+ATOM    173  CD2 LEU X1024     -30.690 -45.603 -10.593  0.00  0.00           C 0
+ATOM   2180   OG SER X1286     -29.696 -44.681  -5.444  0.00  0.00           O 0
+ATOM   2073   CG PRO X1271     -30.830 -47.367  -3.863  0.00  0.00           C 0
+ATOM   2189  CE1 TYR X1287     -32.481 -43.350  -2.501  0.00  0.00           C 0
+ATOM   2215   NZ LYS X1290     -34.964 -44.007  -8.693  0.68  8.75           N 0
+ATOM   2187  CD1 TYR X1287     -31.988 -42.218  -3.185  0.00  0.00           C 0
+ATOM   2213   CD LYS X1290     -33.405 -42.082  -8.687  0.00  0.00           C 0
+ATOM    180   CD PRO X1025     -33.830 -45.997 -13.606  0.00  0.00           C 0
+ATOM   2179   CB SER X1286     -29.265 -44.596  -6.804  0.00  0.00           C 0
+ATOM   2214   CE LYS X1290     -33.666 -43.470  -9.246  0.00  0.00           C 0
+TER
+END

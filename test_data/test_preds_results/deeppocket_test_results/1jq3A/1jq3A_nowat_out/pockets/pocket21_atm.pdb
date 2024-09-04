@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0547
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9535
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5152
+HEADER 5  - Mean B-factor of pocket residues  : 0.2546
+HEADER 6  - Hydrophobicity Score              : 8.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 215.1825
+HEADER 10 - Pocket volume (convex hull)       : 9.0280
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1037    O ARG A 131       8.937  38.903  22.221  0.65  6.43           O 0
+ATOM   1102    O SER A 138      10.384  43.943  19.066  0.61  1.07           O 0
+ATOM   1104   OG SER A 138      11.625  41.408  20.621  0.82  1.07           O 0
+ATOM   1039   CG ARG A 131       7.044  39.159  19.395  0.00  0.00           C 0
+ATOM   1132  OD1 ASP A 142       4.664  44.650  19.407  0.79  6.43           O 0
+ATOM   1119   CB PHE A 141       8.144  43.400  16.585  0.00  0.00           C 0
+ATOM   1133  OD2 ASP A 142       5.247  45.715  21.232  0.00  0.00           O 0
+ATOM   1108    O CYS A 139       9.218  47.467  19.664  0.45  4.29           O 0
+ATOM   1109   CB CYS A 139      11.600  47.070  21.696  0.00  0.00           C 0
+ATOM   1106   CA CYS A 139      10.944  46.141  20.674  0.00  0.00           C 0
+ATOM   1078   CB LYS A 135      11.794  42.047  25.150  0.00  0.00           C 0
+ATOM   1079   CG LYS A 135      10.723  40.949  25.159  0.00  0.00           C 0
+ATOM   1080   CD LYS A 135       9.797  41.068  26.361  0.00  0.00           C 0
+ATOM   1081   CE LYS A 135       8.676  40.034  26.316  0.00  0.00           C 0
+ATOM   1077    O LYS A 135      13.056  44.263  23.296  0.72  5.36           O 0
+ATOM   1075   CA LYS A 135      12.674  41.979  23.899  0.00  0.00           C 0
+TER
+END

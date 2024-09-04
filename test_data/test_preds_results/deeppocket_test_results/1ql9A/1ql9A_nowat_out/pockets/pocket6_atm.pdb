@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0480
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9306
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6728
+HEADER 5  - Mean B-factor of pocket residues  : 0.3046
+HEADER 6  - Hydrophobicity Score              : 4.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 240.8117
+HEADER 10 - Pocket volume (convex hull)       : 3.6284
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1140    O SER A 171      15.401  60.360  58.127  0.00  0.00           O 0
+ATOM   1491    O ASP A 223      11.350  61.637  56.207  0.63  3.21           O 0
+ATOM   1492   CB ASP A 223      10.098  64.178  56.299  0.00  0.00           C 0
+ATOM   1135    O ALA A 170      17.419  63.183  56.804  0.00  0.00           O 0
+ATOM   1137    N SER A 171      16.656  61.839  55.166  0.00  0.00           N 0
+ATOM   1142   OG SER A 171      14.030  61.543  54.021  0.67  4.29           O 0
+ATOM   1134    C ALA A 170      17.523  62.714  55.669  0.00  0.00           C 0
+ATOM   1494  OD1 ASP A 223      10.039  65.891  54.627  0.76  8.57           O 0
+ATOM   1256  CD2 LEU A 185      11.875  64.631  49.859  0.00  0.00           C 0
+ATOM   1254   CG LEU A 185      11.030  63.839  50.829  0.00  0.00           C 0
+ATOM   1493   CG ASP A 223       9.742  65.575  55.801  0.00  0.00           C 0
+ATOM   1136   CB ALA A 170      18.220  64.288  53.851  0.00  0.00           C 0
+ATOM   1112    O ASP A 167      16.107  61.825  52.159  0.59  2.14           O 0
+ATOM   1115  OD1 ASP A 167      16.587  65.356  48.878  0.50  7.50           O 0
+ATOM   1110   CA ASP A 167      16.924  62.953  50.198  0.00  0.00           C 0
+ATOM   1113   CB ASP A 167      15.730  63.155  49.262  0.00  0.00           C 0
+ATOM   1138   CA SER A 171      15.524  61.350  55.943  0.00  0.00           C 0
+TER
+END

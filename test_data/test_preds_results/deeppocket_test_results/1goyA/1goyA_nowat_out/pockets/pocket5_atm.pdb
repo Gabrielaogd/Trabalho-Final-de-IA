@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0970
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6663
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4607
+HEADER 5  - Mean B-factor of pocket residues  : 0.3538
+HEADER 6  - Hydrophobicity Score              : 5.8000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 116.0480
+HEADER 10 - Pocket volume (convex hull)       : 1.2214
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM    756   CD LYS A  97      27.732  42.950   3.229  0.00  0.00           C 0
+ATOM    757   CE LYS A  97      29.234  42.621   3.139  0.00  0.00           C 0
+ATOM    755   CG LYS A  97      27.530  44.106   4.215  0.00  0.00           C 0
+ATOM    831  OG1 THR A 106      31.139  43.379   7.608  0.30  9.64           O 0
+ATOM    771  OG1 THR A  99      26.130  38.240   7.176  0.00  0.00           O 0
+ATOM    772  CG2 THR A  99      25.126  39.046   5.145  0.00  0.00           C 0
+ATOM    758   NZ LYS A  97      29.572  41.675   2.026  0.59  8.75           N 0
+ATOM    753    O LYS A  97      26.711  44.858   7.451  0.59  1.07           O 0
+ATOM    811    O THR A 104      26.261  43.144  11.102  0.70  1.07           O 0
+ATOM    813  OG1 THR A 104      28.034  40.686  12.448  0.56  8.57           O 0
+ATOM    766    N THR A  99      24.549  40.590   7.817  0.56  5.47           N 0
+ATOM    760   CA THR A  98      24.592  42.995   7.975  0.00  0.00           C 0
+TER
+END

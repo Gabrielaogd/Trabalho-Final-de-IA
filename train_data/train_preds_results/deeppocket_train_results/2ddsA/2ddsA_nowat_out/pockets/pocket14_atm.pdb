@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0149
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0371
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5645
+HEADER 5  - Mean B-factor of pocket residues  : 0.2950
+HEADER 6  - Hydrophobicity Score              : 65.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 6.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.6208
+HEADER 10 - Pocket volume (convex hull)       : 3.0396
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM     99   OH TYR A  18     -14.286   2.225  -9.082  0.62  4.29           O 0
+ATOM    155   CZ TYR A  25     -15.339   8.290 -10.062  0.00  0.00           C 0
+ATOM    156   OH TYR A  25     -14.667   8.656 -11.205  0.00  0.00           O 0
+ATOM    153  CE1 TYR A  25     -16.424   7.432 -10.151  0.00  0.00           C 0
+ATOM    114  CD1 LEU A  20     -13.353   5.640  -7.260  0.00  0.00           C 0
+ATOM   1847  ND2 ASN A 243     -15.833   0.891 -12.883  0.66  4.37           N 0
+ATOM    180  NE1 TRP A  28     -17.271   2.981  -8.767  0.56  2.19           N 0
+ATOM   1845   CG ASN A 243     -14.624   0.381 -12.687  0.00  0.00           C 0
+ATOM   1858   CZ PHE A 244     -10.699   2.511 -16.282  0.00  0.00           C 0
+ATOM   1856  CE1 PHE A 244     -10.954   1.535 -15.325  0.00  0.00           C 0
+ATOM   1844   CB ASN A 243     -13.934  -0.217 -13.896  0.00  0.00           C 0
+ATOM   1843    O ASN A 243     -14.323   0.055 -17.182  0.00  0.00           O 0
+ATOM   1846  OD1 ASN A 243     -14.067   0.397 -11.591  0.70  2.14           O 0
+TER
+END

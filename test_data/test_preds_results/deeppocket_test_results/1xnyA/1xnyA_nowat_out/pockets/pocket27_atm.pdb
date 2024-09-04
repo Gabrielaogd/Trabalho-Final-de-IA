@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : 0.0248
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0445
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6312
+HEADER 5  - Mean B-factor of pocket residues  : 0.1919
+HEADER 6  - Hydrophobicity Score              : -11.1667
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 160.2336
+HEADER 10 - Pocket volume (convex hull)       : 1.1563
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM    542   CB ASP A  78      12.214 -46.152-134.194  0.00  0.00           C 0
+ATOM    565   CD ARG A  81      10.028 -49.203-137.497  0.00  0.00           C 0
+ATOM    506  CG2 THR A  73      10.770 -47.041-130.554  0.00  0.00           C 0
+ATOM    568  NH1 ARG A  81       7.559 -50.447-137.050  0.68  6.56           N 0
+ATOM    566   NE ARG A  81       8.750 -48.736-138.012  0.47  3.28           N 0
+ATOM    567   CZ ARG A  81       7.593 -49.344-137.784  0.00  0.00           C 0
+ATOM    497    O SER A  72      12.646 -49.049-132.863  0.64  1.07           O 0
+ATOM    485    C ARG A  71      10.364 -51.875-132.253  0.00  0.00           C 0
+ATOM    476    O HIS A  70       9.771 -51.986-136.054  0.00  0.00           O 0
+ATOM    484   CA ARG A  71       9.434 -52.450-133.318  0.00  0.00           C 0
+ATOM    488   CG ARG A  71       7.255 -53.806-133.569  0.00  0.00           C 0
+ATOM    487   CB ARG A  71       8.346 -53.287-132.637  0.00  0.00           C 0
+ATOM    486    O ARG A  71       9.950 -51.632-131.115  0.00  0.00           O 0
+TER
+END

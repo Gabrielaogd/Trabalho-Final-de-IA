@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0746
+HEADER 1  - Drug Score                        : 0.0262
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9566
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5913
+HEADER 5  - Mean B-factor of pocket residues  : 0.2300
+HEADER 6  - Hydrophobicity Score              : 21.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 322.5737
+HEADER 10 - Pocket volume (convex hull)       : 18.2252
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.6364
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5500
+ATOM    778    O SER A  99      16.556 -16.800   8.248  0.26  8.57           O 0
+ATOM    779   CB SER A  99      18.996 -15.231   9.112  0.00  0.00           C 0
+ATOM   1875  CD1 LEU A 240      19.642 -13.805   1.542  0.00  0.00           C 0
+ATOM   1890  CG1 VAL A 242      18.115 -11.974   6.069  0.00  0.00           C 0
+ATOM   1891  CG2 VAL A 242      20.400 -12.165   7.085  0.00  0.00           C 0
+ATOM   1766    O ARG A 227      16.597 -11.675   2.276  0.55  1.07           O 0
+ATOM   1767   CB ARG A 227      14.913 -12.621   4.459  0.00  0.00           C 0
+ATOM   1742  CD2 LEU A 224      11.765 -17.043   3.616  0.00  0.00           C 0
+ATOM   1779   CG LYS A 228      13.728 -12.343  -0.969  0.00  0.00           C 0
+ATOM   1876  CD2 LEU A 240      19.568 -11.735   0.170  0.00  0.00           C 0
+ATOM   1782   NZ LYS A 228      12.204 -14.683  -0.895  0.88  8.75           N 0
+ATOM   1738    O LEU A 224      12.100 -12.812   2.147  0.52  1.07           O 0
+ATOM   1769   CD ARG A 227      14.488 -14.201   6.368  0.00  0.00           C 0
+ATOM   1778   CB LYS A 228      14.250 -10.934  -0.892  0.00  0.00           C 0
+ATOM   1859  OE2 GLU A 238      20.309 -10.563  -3.216  0.64  1.07           O 0
+ATOM   1300   NZ LYS A 168      17.434  -9.250  -5.548  0.00  0.00           N 0
+ATOM   1777    O LYS A 228      16.598  -9.061  -1.118  0.64  1.07           O 0
+ATOM   1780   CD LYS A 228      12.595 -12.455  -2.000  0.00  0.00           C 0
+ATOM   1775   CA LYS A 228      15.302 -10.649   0.177  0.00  0.00           C 0
+TER
+END

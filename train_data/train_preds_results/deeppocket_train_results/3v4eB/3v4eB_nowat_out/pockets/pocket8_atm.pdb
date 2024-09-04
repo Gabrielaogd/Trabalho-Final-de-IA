@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1550
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8135
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5035
+HEADER 5  - Mean B-factor of pocket residues  : 0.2987
+HEADER 6  - Hydrophobicity Score              : 50.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 268.1971
+HEADER 10 - Pocket volume (convex hull)       : 3.8436
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1429
+ATOM    468  NE2 GLN B  55     -14.460  12.560 -20.443  0.46  6.56           N 0
+ATOM    601    O TRP B  73      -9.976  14.659 -17.016  0.56  4.29           O 0
+ATOM    602   CB TRP B  73     -12.395  12.937 -17.532  0.00  0.00           C 0
+ATOM    463    O GLN B  55     -10.305  12.066 -23.036  0.23  8.57           O 0
+ATOM    464   CB GLN B  55     -12.144  11.090 -21.126  0.00  0.00           C 0
+ATOM    475  CG2 THR B  56      -6.148  10.488 -22.371  0.00  0.00           C 0
+ATOM    473   CB THR B  56      -7.100  11.457 -23.121  0.00  0.00           C 0
+ATOM    636    N LEU B  77      -2.486  13.509 -18.841  0.65  2.19           N 0
+ATOM    474  OG1 THR B  56      -6.368  12.321 -24.008  0.33  6.43           O 0
+ATOM    452    O PHE B  54      -9.274  11.088 -20.003  0.38  1.07           O 0
+ATOM    628   CA LYS B  76      -4.089  14.868 -17.676  0.00  0.00           C 0
+ATOM    631   CB LYS B  76      -4.083  16.387 -17.785  0.00  0.00           C 0
+ATOM    639    O LEU B  77      -1.007  13.335 -21.263  0.69  5.36           O 0
+ATOM    634   CE LYS B  76      -7.794  17.450 -18.052  0.00  0.00           C 0
+ATOM    633   CD LYS B  76      -6.578  16.539 -18.219  0.00  0.00           C 0
+ATOM    623    O VAL B  75      -6.001  12.898 -17.254  0.52  3.21           O 0
+TER
+END

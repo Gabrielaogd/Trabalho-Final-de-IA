@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0544
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9140
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6212
+HEADER 5  - Mean B-factor of pocket residues  : 0.1892
+HEADER 6  - Hydrophobicity Score              : 57.5000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 136.3878
+HEADER 10 - Pocket volume (convex hull)       : 1.4170
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM    688   CB MET A  88      43.840  93.180 -14.971  0.00  0.00           C 0
+ATOM    712    N ALA A  91      46.925  95.199 -17.336  0.71  1.09           N 0
+ATOM    701    N PHE A  90      47.187  96.254 -14.746  0.00  0.00           N 0
+ATOM    705   CB PHE A  90      49.519  95.518 -14.972  0.00  0.00           C 0
+ATOM    713   CA ALA A  91      46.675  94.576 -18.612  0.00  0.00           C 0
+ATOM    716   CB ALA A  91      45.249  94.083 -18.706  0.00  0.00           C 0
+ATOM    870  CG2 THR A 110      45.371  90.449  -9.970  0.00  0.00           C 0
+ATOM    690   SD MET A  88      43.586  91.149 -13.202  0.00  0.00           S 0
+ATOM    862    O ALA A 109      50.121  90.100 -10.358  0.65  9.64           O 0
+ATOM    869  OG1 THR A 110      47.015  88.710  -9.739  0.68  9.64           O 0
+ATOM    708  CD2 PHE A  90      49.933  95.373 -12.532  0.00  0.00           C 0
+ATOM    874    O VAL A 111      45.143  94.854 -10.904  0.00  0.00           O 0
+ATOM    865   CA THR A 110      47.735  90.977  -9.238  0.00  0.00           C 0
+ATOM    871    N VAL A 111      46.794  93.204  -9.382  0.75  2.19           N 0
+TER
+END

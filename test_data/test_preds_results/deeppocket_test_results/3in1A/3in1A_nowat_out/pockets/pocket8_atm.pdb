@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0305
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8240
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5414
+HEADER 5  - Mean B-factor of pocket residues  : 0.5430
+HEADER 6  - Hydrophobicity Score              : -4.8571
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.2828
+HEADER 10 - Pocket volume (convex hull)       : 5.7248
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM    988   CA GLN A 133      66.477  39.870   4.335  0.00  0.00           C 0
+ATOM    992   CG GLN A 133      68.311  38.497   5.488  0.00  0.00           C 0
+ATOM    990    O GLN A 133      64.408  40.539   5.344  0.41  5.36           O 0
+ATOM      1    N ASN A   3      61.398  37.940   8.432  0.14  8.75           N 0
+ATOM    991   CB GLN A 133      67.372  39.690   5.563  0.00  0.00           C 0
+ATOM     13   CB LEU A   4      64.541  41.490   8.710  0.00  0.00           C 0
+ATOM      7  OD1 ASN A   3      63.021  37.277  10.403  0.00  0.00           O 0
+ATOM    994  OE1 GLN A 133      69.134  38.817   7.721  0.54  7.50           O 0
+ATOM    404  NH1 ARG A  57      65.122  40.215  13.421  0.42  7.66           N 0
+ATOM    969  NH2 ARG A 130      69.964  40.977  10.337  0.38  1.09           N 0
+ATOM    598  OD2 ASP A  83      68.755  40.792  13.148  0.53  5.36           O 0
+ATOM    614  OE1 GLN A  85      72.048  37.999  12.230  0.00  0.00           O 0
+ATOM     16  CD2 LEU A   4      66.878  42.323   8.470  0.00  0.00           C 0
+TER
+END

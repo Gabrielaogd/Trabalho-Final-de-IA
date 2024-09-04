@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0005
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9202
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5340
+HEADER 5  - Mean B-factor of pocket residues  : 0.2437
+HEADER 6  - Hydrophobicity Score              : 5.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 227.9085
+HEADER 10 - Pocket volume (convex hull)       : 4.1730
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM    198   CA GLY A  28      22.329  12.221  39.401  0.00  0.00           C 0
+ATOM    196    O GLY A  27      25.098  12.259  39.161  0.54  6.43           O 0
+ATOM     66  OE2 GLU A   9      21.611   7.821  36.524  0.00  0.00           O 0
+ATOM     51  OE1 GLN A   7      25.359   8.035  35.368  0.58  4.29           O 0
+ATOM    191    C GLY A  26      26.499  15.042  38.365  0.00  0.00           C 0
+ATOM    192    O GLY A  26      25.447  15.186  37.741  0.00  0.00           O 0
+ATOM    190   CA GLY A  26      27.829  15.337  37.689  0.00  0.00           C 0
+ATOM     52  NE2 GLN A   7      26.356   8.772  33.477  0.00  0.00           N 0
+ATOM    185    O THR A  25      29.487  13.224  38.440  0.48  9.64           O 0
+ATOM    904  CD1 TRP A 124      29.239   7.721  35.921  0.00  0.00           C 0
+ATOM    906  NE1 TRP A 124      30.475   8.298  36.070  0.46  5.47           N 0
+ATOM    897  ND2 ASN A 123      28.480   8.740  39.302  0.00  0.00           N 0
+ATOM    896  OD1 ASN A 123      26.555   7.799  38.658  0.68  2.14           O 0
+ATOM     50   CD GLN A   7      25.341   8.219  34.138  0.00  0.00           C 0
+ATOM     49   CG GLN A   7      24.134   7.802  33.313  0.00  0.00           C 0
+TER
+END

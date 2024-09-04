@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    44:
+HEADER 0  - Pocket Score                      : -0.0843
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9719
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5439
+HEADER 5  - Mean B-factor of pocket residues  : 0.4130
+HEADER 6  - Hydrophobicity Score              : -12.2500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.3196
+HEADER 10 - Pocket volume (convex hull)       : 5.4266
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0526
+ATOM   4755    O SER A 824      63.511  -0.013  28.983  0.62  1.07           O 0
+ATOM   4759   CA ASN A 825      64.642   2.147  30.410  0.00  0.00           C 0
+ATOM   4709    O CYS A 817      61.376  -3.324  35.008  0.00  0.00           O 0
+ATOM   4765  ND2 ASN A 825      67.520   0.825  30.039  0.38  9.84           N 0
+ATOM   4761    O ASN A 825      63.549   3.555  32.025  0.21  9.64           O 0
+ATOM   4706    N CYS A 817      59.817  -1.055  34.708  0.68  3.28           N 0
+ATOM   4702   CG LYS A 816      61.885   1.347  37.750  0.00  0.00           C 0
+ATOM   4703   CD LYS A 816      62.742   1.127  38.989  0.00  0.00           C 0
+ATOM   4701   CB LYS A 816      60.919   0.189  37.451  0.00  0.00           C 0
+ATOM   4698   CA LYS A 816      59.794   0.581  36.485  0.00  0.00           C 0
+ATOM   4710   CB CYS A 817      59.839  -2.210  32.556  0.00  0.00           C 0
+ATOM   4769    O GLU A 826      60.492   2.617  31.327  0.71  3.21           O 0
+ATOM   4720    O ASP A 819      63.051  -5.602  31.738  0.30  2.14           O 0
+ATOM   4743   CB ALA A 822      62.589  -3.431  29.352  0.00  0.00           C 0
+ATOM   4742    O ALA A 822      65.123  -2.976  27.821  0.41  4.29           O 0
+ATOM   4728    O PRO A 820      66.287  -5.987  30.604  0.48  8.57           O 0
+TER
+END

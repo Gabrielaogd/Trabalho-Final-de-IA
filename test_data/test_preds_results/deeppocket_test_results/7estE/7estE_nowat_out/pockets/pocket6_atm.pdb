@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.2001
+HEADER 1  - Drug Score                        : 0.0055
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8996
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6768
+HEADER 5  - Mean B-factor of pocket residues  : 0.3218
+HEADER 6  - Hydrophobicity Score              : 1.8750
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 264.7122
+HEADER 10 - Pocket volume (convex hull)       : 12.8185
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4211
+ATOM    843  CD2 TYR E 117      -8.516  71.977  -1.590  0.00  0.00           C 0
+ATOM    845  CE2 TYR E 117      -8.613  73.281  -1.143  0.00  0.00           C 0
+ATOM    827   CG ASN E 115     -11.566  69.993  -3.921  0.00  0.00           C 0
+ATOM    829  ND2 ASN E 115     -12.330  69.321  -3.076  0.00  0.00           N 0
+ATOM    521    O GLY E  78     -11.550  70.753   3.971  0.00  0.00           O 0
+ATOM    528  CG2 THR E  79      -8.415  71.381   1.785  0.00  0.00           C 0
+ATOM    523   CA THR E  79      -9.531  69.284   2.644  0.00  0.00           C 0
+ATOM    826   CB ASN E 115     -12.216  70.648  -5.129  0.00  0.00           C 0
+ATOM    835   OG SER E 116      -8.744  74.046  -4.248  0.67  6.43           O 0
+ATOM    543   CG GLN E  81     -12.762  64.303  -0.222  0.00  0.00           C 0
+ATOM    544   CD GLN E  81     -13.096  64.317  -1.713  0.00  0.00           C 0
+ATOM    545  OE1 GLN E  81     -13.991  63.636  -2.208  0.80  4.29           O 0
+ATOM    812  OG1 THR E 113     -16.613  65.275  -3.842  0.70  8.57           O 0
+ATOM    546  NE2 GLN E  81     -12.397  65.103  -2.511  0.00  0.00           N 0
+ATOM    811   CB THR E 113     -15.461  65.936  -4.347  0.00  0.00           C 0
+ATOM    813  CG2 THR E 113     -15.775  67.383  -4.644  0.00  0.00           C 0
+ATOM    525    O THR E  79      -9.523  67.333   1.253  0.69  2.14           O 0
+ATOM    524    C THR E  79      -9.538  67.777   2.401  0.00  0.00           C 0
+ATOM    532    O GLU E  80     -11.707  65.277   3.433  0.47  9.64           O 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0049
+HEADER 1  - Drug Score                        : 0.0092
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8026
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5703
+HEADER 5  - Mean B-factor of pocket residues  : 0.2445
+HEADER 6  - Hydrophobicity Score              : 7.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 327.6888
+HEADER 10 - Pocket volume (convex hull)       : 20.1779
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.6923
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7647
+ATOM   1655    O ARG A 213      26.723  17.785  15.696  0.59  3.21           O 0
+ATOM   1657   CG ARG A 213      24.906  15.483  17.058  0.00  0.00           C 0
+ATOM   1661  NH1 ARG A 213      24.438  13.825  14.485  0.00  0.00           N 0
+ATOM   1697   CG GLN A 217      30.629  17.803  16.527  0.00  0.00           C 0
+ATOM   1713   CB GLN A 219      24.123  16.653  23.769  0.00  0.00           C 0
+ATOM   1695    O GLN A 217      28.961  18.288  20.384  0.00  0.00           O 0
+ATOM   1658   CD ARG A 213      24.184  14.165  17.287  0.00  0.00           C 0
+ATOM   1693   CA GLN A 217      28.650  18.545  18.009  0.00  0.00           C 0
+ATOM   1696   CB GLN A 217      30.150  18.229  17.913  0.00  0.00           C 0
+ATOM   1627  CG2 ILE A 209      18.720  17.147  19.757  0.00  0.00           C 0
+ATOM   1710   CA GLN A 219      23.911  17.800  22.780  0.00  0.00           C 0
+ATOM   1714   CG GLN A 219      22.837  15.920  24.115  0.00  0.00           C 0
+ATOM   1694    C GLN A 217      28.268  18.758  19.475  0.00  0.00           C 0
+ATOM   1709    N GLN A 219      25.172  18.450  22.465  0.00  0.00           N 0
+ATOM   1659   NE ARG A 213      23.083  13.978  16.345  0.70  2.19           N 0
+ATOM   1656   CB ARG A 213      23.949  16.674  17.112  0.00  0.00           C 0
+ATOM   1624    O ILE A 209      20.728  18.354  17.607  0.61  1.07           O 0
+ATOM   1704    O ASN A 218      24.491  19.054  20.420  0.00  0.00           O 0
+ATOM   1703    C ASN A 218      25.352  19.041  21.292  0.00  0.00           C 0
+TER
+END

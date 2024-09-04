@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0115
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8425
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5402
+HEADER 5  - Mean B-factor of pocket residues  : 0.5652
+HEADER 6  - Hydrophobicity Score              : 13.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 192.3262
+HEADER 10 - Pocket volume (convex hull)       : 3.4609
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM   1078   NZ LYS H 109     -24.503  -9.646  26.441  0.00  0.00           N 0
+ATOM    536   CA ASP H  62     -22.047 -14.669  31.569  0.00  0.00           C 0
+ATOM    200   NZ LYS H  36     -21.411 -15.999  28.009  0.25  6.56           N 0
+ATOM    539   CB ASP H  62     -20.751 -13.810  31.534  0.00  0.00           C 0
+ATOM    794   SD MET H  84     -23.547 -14.494  24.318  0.00  0.00           S 0
+ATOM    792   CB MET H  84     -26.099 -14.053  25.320  0.00  0.00           C 0
+ATOM    532  CG1 VAL H  61     -26.236 -11.787  32.158  0.00  0.00           C 0
+ATOM    531   CB VAL H  61     -25.325 -12.020  33.360  0.00  0.00           C 0
+ATOM    542  OD2 ASP H  62     -19.564 -12.362  33.008  0.52  9.64           O 0
+ATOM    800    O LEU H  85     -26.715 -11.458  28.798  0.62  4.29           O 0
+ATOM    809    O ASP H  86     -27.225  -8.638  31.316  0.00  0.00           O 0
+ATOM    535    N ASP H  62     -22.942 -14.080  32.538  0.00  0.00           N 0
+ATOM    529    C VAL H  61     -24.251 -14.125  32.369  0.00  0.00           C 0
+ATOM    530    O VAL H  61     -24.736 -14.717  31.407  0.66  2.14           O 0
+TER
+END

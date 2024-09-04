@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.1358
+HEADER 1  - Drug Score                        : 0.0585
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.5680
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3723
+HEADER 5  - Mean B-factor of pocket residues  : 0.1362
+HEADER 6  - Hydrophobicity Score              : 55.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 90.5631
+HEADER 10 - Pocket volume (convex hull)       : 0.4514
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   1442  CG1AVAL A 168      56.198  70.665  36.816  0.00  0.00           C 0
+ATOM    191   CB GLN A  18      56.431  73.328  33.197  0.00  0.00           C 0
+ATOM   1444  CG2AVAL A 168      53.736  70.097  36.424  0.00  0.00           C 0
+ATOM    190    O GLN A  18      53.962  75.157  32.764  0.12  2.14           O 0
+ATOM   1398    O ASP A 164      50.853  71.394  41.207  0.71  3.21           O 0
+ATOM   1110  CD2 TYR A 128      52.116  76.031  39.030  0.00  0.00           C 0
+ATOM   1404   CA TRP A 165      53.439  72.239  41.583  0.00  0.00           C 0
+ATOM   1393  CG2 ILE A 163      49.081  73.785  39.122  0.00  0.00           C 0
+ATOM   1440   CBAVAL A 168      54.924  70.057  37.419  0.00  0.00           C 0
+ATOM   1407   CB TRP A 165      54.570  73.277  41.656  0.00  0.00           C 0
+ATOM   1112  CE2 TYR A 128      51.754  76.069  37.690  0.00  0.00           C 0
+ATOM    163  CD1 LEU A  15      57.791  73.870  37.894  0.00  0.00           C 0
+ATOM    201   CG MET A  19      55.824  77.720  36.277  0.00  0.00           C 0
+ATOM    189    C GLN A  18      55.150  75.485  32.843  0.00  0.00           C 0
+TER
+END

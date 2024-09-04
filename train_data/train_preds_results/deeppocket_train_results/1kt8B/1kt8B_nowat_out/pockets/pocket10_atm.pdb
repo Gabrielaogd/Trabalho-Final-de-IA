@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0361
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8321
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5504
+HEADER 5  - Mean B-factor of pocket residues  : 0.3485
+HEADER 6  - Hydrophobicity Score              : 43.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 215.5231
+HEADER 10 - Pocket volume (convex hull)       : 4.6454
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM    857    O MET B 605       2.214  49.954  37.236  0.56  6.43           O 0
+ATOM    861   CE MET B 605       1.768  51.099  42.521  0.00  0.00           C 0
+ATOM    860   SD MET B 605       2.996  49.792  42.181  0.00  0.00           S 0
+ATOM    855   CA MET B 605       3.662  49.620  39.126  0.00  0.00           C 0
+ATOM    882   CA CYS B 608       0.145  46.704  37.405  0.00  0.00           C 0
+ATOM    890    O LEU B 609       1.889  45.753  41.321  0.74  6.43           O 0
+ATOM   1268  OE1 GLN B 657      -4.261  46.803  38.651  0.00  0.00           O 0
+ATOM    883    C CYS B 608       0.344  45.419  38.224  0.00  0.00           C 0
+ATOM    886   SG CYS B 608      -1.505  48.107  35.727  0.00  0.00           S 0
+ATOM    884    O CYS B 608      -0.570  44.598  38.339  0.61  2.14           O 0
+ATOM    895    N PRO B 610       1.575  43.620  41.962  0.00  0.00           N 0
+ATOM   1269  NE2 GLN B 657      -5.450  45.551  40.109  0.00  0.00           N 0
+ATOM    337  CH2 TRP B 543      -3.073  41.503  43.279  0.00  0.00           C 0
+ATOM    896   CA PRO B 610       1.499  44.092  43.336  0.00  0.00           C 0
+ATOM    335  CZ2 TRP B 543      -2.748  41.931  44.544  0.00  0.00           C 0
+ATOM   1267   CD GLN B 657      -4.683  45.701  39.022  0.00  0.00           C 0
+ATOM   1266   CG GLN B 657      -4.349  44.429  38.236  0.00  0.00           C 0
+ATOM    889    C LEU B 609       1.781  44.552  41.027  0.00  0.00           C 0
+TER
+END

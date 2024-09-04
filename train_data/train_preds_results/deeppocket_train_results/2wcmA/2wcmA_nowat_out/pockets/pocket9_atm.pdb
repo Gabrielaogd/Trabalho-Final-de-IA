@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0068
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.2265
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5933
+HEADER 5  - Mean B-factor of pocket residues  : 0.4030
+HEADER 6  - Hydrophobicity Score              : 20.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.9308
+HEADER 10 - Pocket volume (convex hull)       : 2.8287
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1081   CA MET A 133      -1.905 -15.039   8.945  0.00  0.00           C 0
+ATOM   1084   CB MET A 133      -1.501 -15.560  10.329  0.00  0.00           C 0
+ATOM   1083    O MET A 133      -3.256 -13.043   9.142  0.00  0.00           O 0
+ATOM   1108   CB ALA A 136      -5.688 -14.184   7.039  0.00  0.00           C 0
+ATOM   1106    C ALA A 136      -6.457 -11.869   6.855  0.00  0.00           C 0
+ATOM   1140   CE LYS A 140     -10.097 -10.423   9.663  0.00  0.00           C 0
+ATOM   1107    O ALA A 136      -7.631 -11.609   6.545  0.66  2.14           O 0
+ATOM   1115  CG2 VAL A 137      -5.620 -10.760  10.756  0.00  0.00           C 0
+ATOM     18   CG GLU A   3      -5.476 -15.253  15.630  0.00  0.00           C 0
+ATOM     21  OE2 GLU A   3      -7.747 -15.842  15.415  0.00  0.00           O 0
+ATOM     44   OGASER A   6      -3.128 -12.508  12.899  0.68  1.07           O 0
+ATOM     19   CD GLU A   3      -6.599 -16.226  15.774  0.00  0.00           C 0
+ATOM     55  NE2 HIS A   7      -7.300 -11.502  14.090  0.58  2.19           N 0
+ATOM   1087   CE MET A 133      -1.627 -17.292  13.117  0.00  0.00           C 0
+TER
+END

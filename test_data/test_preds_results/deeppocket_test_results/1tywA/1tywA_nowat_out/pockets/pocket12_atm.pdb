@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.1167
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1723
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6849
+HEADER 5  - Mean B-factor of pocket residues  : 0.1883
+HEADER 6  - Hydrophobicity Score              : -11.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 194.5045
+HEADER 10 - Pocket volume (convex hull)       : 1.2760
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   2437   CZ ARG A 434      67.085  79.980  91.985  0.00  0.00           C 0
+ATOM   2439  NH2 ARG A 434      66.446  80.653  92.934  0.43  6.56           N 0
+ATOM   2590  OE1 GLU A 456      73.350  81.119  90.281  0.71  8.57           O 0
+ATOM   2438  NH1 ARG A 434      66.983  80.377  90.720  0.52  8.75           N 0
+ATOM   2759  OD2 ASP A 479      73.074  83.762  97.880  0.51  6.43           O 0
+ATOM   2587   CB GLU A 456      73.705  79.527  92.585  0.00  0.00           C 0
+ATOM   2596   CB ASP A 457      70.160  78.961  95.420  0.00  0.00           C 0
+ATOM   2589   CD GLU A 456      72.571  80.145  90.395  0.00  0.00           C 0
+ATOM   2591  OE2 GLU A 456      71.611  79.953  89.625  0.00  0.00           O 0
+ATOM   2750  CG2 ILE A 478      75.798  83.096  94.671  0.00  0.00           C 0
+ATOM   2588   CG GLU A 456      72.780  79.110  91.480  0.00  0.00           C 0
+ATOM   2747    O ILE A 478      74.959  80.078  95.852  0.00  0.00           O 0
+ATOM   2436   NE ARG A 434      67.775  78.885  92.304  0.00  0.00           N 0
+ATOM   2592    N ASP A 457      72.548  78.613  95.399  0.60  1.09           N 0
+TER
+END

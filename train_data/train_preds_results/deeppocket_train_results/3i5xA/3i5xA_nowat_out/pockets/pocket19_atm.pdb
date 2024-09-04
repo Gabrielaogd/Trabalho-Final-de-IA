@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0019
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7111
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5065
+HEADER 5  - Mean B-factor of pocket residues  : 0.6746
+HEADER 6  - Hydrophobicity Score              : -4.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.6021
+HEADER 10 - Pocket volume (convex hull)       : 4.5754
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM   1493  CD1 ILE A 275      91.451  17.222  13.498  0.00  0.00           C 0
+ATOM   1533   CG ASP A 279      93.905  21.686   8.917  0.00  0.00           C 0
+ATOM   1534  OD1 ASP A 279      94.350  22.115  10.009  0.00  0.00           O 0
+ATOM   1535  OD2 ASP A 279      94.254  20.593   8.433  0.00  0.00           O 0
+ATOM   1487   CA ILE A 275      88.737  18.259  12.229  0.00  0.00           C 0
+ATOM   1494    N GLY A 276      88.597  18.846   9.863  0.57  3.28           N 0
+ATOM   1528    N ASP A 279      91.326  23.352   9.853  0.00  0.00           N 0
+ATOM   1492  CG2 ILE A 275      89.912  16.236  11.232  0.00  0.00           C 0
+ATOM   1526  NH2AARG A 278      94.355  24.571  16.984  0.12  5.47           N 0
+ATOM   1559  OE1 GLU A 282      95.370  25.696  11.865  0.00  0.00           O 0
+ATOM   1560  OE2 GLU A 282      94.415  26.153  13.784  0.62  1.07           O 0
+ATOM   1826  ND2 ASN A 318      96.549  26.905  15.619  0.00  0.00           N 0
+ATOM   1522   CZAARG A 278      93.444  23.733  16.510  0.00  0.00           C 0
+ATOM   1520   NEAARG A 278      92.778  24.039  15.406  0.00  0.00           N 0
+ATOM   1524  NH1AARG A 278      93.196  22.594  17.138  0.41  7.66           N 0
+ATOM   1518   CDAARG A 278      91.759  23.194  14.796  0.00  0.00           C 0
+ATOM   1514   CBAARG A 278      90.252  23.033  12.775  0.00  0.00           C 0
+TER
+END

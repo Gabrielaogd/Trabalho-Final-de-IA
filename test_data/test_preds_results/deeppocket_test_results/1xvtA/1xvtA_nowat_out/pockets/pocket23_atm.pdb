@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0173
+HEADER 1  - Drug Score                        : 0.0041
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9079
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5359
+HEADER 5  - Mean B-factor of pocket residues  : 0.3741
+HEADER 6  - Hydrophobicity Score              : -17.5556
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 303.0392
+HEADER 10 - Pocket volume (convex hull)       : 15.1540
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.6364
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4231
+ATOM   1590    N SER A 226      70.189  63.817  -7.543  0.47  3.28           N 0
+ATOM   1621    O ASP A 230      68.861  60.584 -12.234  0.74  1.07           O 0
+ATOM   1612    O LYS A 229      67.723  62.238  -9.834  0.34  2.14           O 0
+ATOM   1594   CB SER A 226      71.877  65.363  -8.431  0.00  0.00           C 0
+ATOM   1593    O SER A 226      69.148  66.179  -9.026  0.00  0.00           O 0
+ATOM   1615   CD LYS A 229      68.221  66.624 -13.404  0.00  0.00           C 0
+ATOM   1595   OG SER A 226      72.205  66.737  -8.528  0.50  8.57           O 0
+ATOM   1613   CB LYS A 229      67.659  64.669 -11.886  0.00  0.00           C 0
+ATOM   2021   CD ARG A 283      72.578  62.195 -15.820  0.00  0.00           C 0
+ATOM   1582    O ARG A 224      71.582  60.719  -6.204  0.64  5.36           O 0
+ATOM   1627   CA PRO A 231      70.098  58.857 -10.435  0.00  0.00           C 0
+ATOM   1139  CG2 VAL A 157      73.652  64.128  -5.487  0.00  0.00           C 0
+ATOM   1577   CG PRO A 223      74.111  57.868  -7.837  0.00  0.00           C 0
+ATOM   1629    O PRO A 231      71.911  58.273 -11.861  0.61  6.43           O 0
+ATOM   2024  NH1 ARG A 283      71.095  60.994 -13.737  0.00  0.00           N 0
+ATOM   2098   CB GLU A 293      71.444  66.414 -18.179  0.00  0.00           C 0
+ATOM   2099   CG GLU A 293      71.020  65.017 -17.731  0.00  0.00           C 0
+ATOM   1617   NZ LYS A 229      68.645  68.325 -15.196  0.66  6.56           N 0
+ATOM   2022   NE ARG A 283      71.131  62.325 -15.608  0.00  0.00           N 0
+ATOM   2023   CZ ARG A 283      70.460  61.749 -14.618  0.00  0.00           C 0
+ATOM   1576   CB PRO A 223      74.365  58.149  -6.404  0.00  0.00           C 0
+ATOM   1138  CG1 VAL A 157      75.579  63.121  -4.276  0.00  0.00           C 0
+TER
+END

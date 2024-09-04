@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0114
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8450
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5862
+HEADER 5  - Mean B-factor of pocket residues  : 0.0236
+HEADER 6  - Hydrophobicity Score              : 19.8750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 220.5358
+HEADER 10 - Pocket volume (convex hull)       : 4.4859
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1249  OD1 ASN H 159      34.768  56.844  28.133  0.00  0.00           O 0
+ATOM   1248   CG ASN H 159      35.091  57.457  29.149  0.00  0.00           C 0
+ATOM   1074   CB LYS H 135      31.595  58.760  33.208  0.00  0.00           C 0
+ATOM   1076   CD LYS H 135      30.890  56.383  32.930  0.00  0.00           C 0
+ATOM   1672  CZ3 TRP H 207      35.438  64.318  27.061  0.00  0.00           C 0
+ATOM   1081    C GLY H 136      35.929  60.984  32.406  0.00  0.00           C 0
+ATOM   1587    O VAL H 200      36.316  64.366  31.309  0.00  0.00           O 0
+ATOM   1073    O LYS H 135      32.180  61.900  32.803  0.00  0.00           O 0
+ATOM   1083    N ARG H 137      36.877  61.636  31.746  0.00  0.00           N 0
+ATOM   1087   CB ARG H 137      37.673  61.264  29.466  0.00  0.00           C 0
+ATOM   1247   CB ASN H 159      34.849  56.868  30.524  0.00  0.00           C 0
+ATOM   1250  ND2 ASN H 159      35.662  58.652  29.109  0.69  5.47           N 0
+ATOM   1673  CH2 TRP H 207      34.909  63.628  25.961  0.00  0.00           C 0
+ATOM   1603   CB LYS H 202      31.921  66.146  26.764  0.00  0.00           C 0
+ATOM   1599    N LYS H 202      32.739  66.419  29.064  0.65  3.28           N 0
+ATOM   1602    O LYS H 202      29.927  67.113  28.862  0.50  7.50           O 0
+ATOM   1592   CA MET H 201      34.206  66.189  30.994  0.00  0.00           C 0
+TER
+END

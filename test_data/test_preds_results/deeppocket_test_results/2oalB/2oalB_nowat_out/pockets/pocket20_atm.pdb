@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0977
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6356
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5043
+HEADER 5  - Mean B-factor of pocket residues  : 0.6097
+HEADER 6  - Hydrophobicity Score              : 26.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 144.0807
+HEADER 10 - Pocket volume (convex hull)       : 4.3726
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4211
+ATOM   4045   NZ LYS B 507     -31.382   8.758  -4.651  0.61  2.19           N 0
+ATOM   4013    O PHE B 503     -26.986   7.987  -7.245  0.59  1.07           O 0
+ATOM   4042   CG LYS B 507     -29.879   6.355  -5.720  0.00  0.00           C 0
+ATOM   4014   CB PHE B 503     -27.319  10.147  -9.651  0.00  0.00           C 0
+ATOM   1048  OG1 THR B 135     -35.125  13.006 -10.010  0.50  1.07           O 0
+ATOM   1049  CG2 THR B 135     -34.686  15.071 -11.170  0.00  0.00           C 0
+ATOM    963  CD1 TRP B 126     -31.798  16.495  -7.960  0.00  0.00           C 0
+ATOM    999  NH1 ARG B 129     -31.761  12.422 -13.099  0.67  8.75           N 0
+ATOM   1108   CB ALA B 142     -31.208  13.632  -5.891  0.00  0.00           C 0
+ATOM   4016  CD1 PHE B 503     -27.467  12.426  -8.586  0.00  0.00           C 0
+ATOM   4019  CE2 PHE B 503     -27.693  13.663 -11.059  0.00  0.00           C 0
+ATOM   4017  CD2 PHE B 503     -27.554  12.275 -10.975  0.00  0.00           C 0
+ATOM   4015   CG PHE B 503     -27.441  11.645  -9.741  0.00  0.00           C 0
+ATOM   1064  OE1 GLU B 137     -32.959  11.064  -6.482  0.00  0.00           O 0
+ATOM   4044   CE LYS B 507     -31.999   7.415  -4.860  0.00  0.00           C 0
+ATOM   4018  CE1 PHE B 503     -27.605  13.812  -8.659  0.00  0.00           C 0
+ATOM   1000  NH2 ARG B 129     -30.204  10.889 -13.802  0.59  6.56           N 0
+ATOM   4020   CZ PHE B 503     -27.719  14.431  -9.899  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0295
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8854
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4120
+HEADER 5  - Mean B-factor of pocket residues  : 0.2930
+HEADER 6  - Hydrophobicity Score              : -3.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 243.4069
+HEADER 10 - Pocket volume (convex hull)       : 5.0865
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4762
+ATOM   4063   CB GLU C 474       7.373  28.518  75.943  0.00  0.00           C 0
+ATOM   1357   NZALYS C 144       7.512  33.993  70.478  0.00  0.00           N 0
+ATOM   4065   CD GLU C 474       8.589  27.781  73.831  0.00  0.00           C 0
+ATOM   4066  OE1 GLU C 474       7.604  27.031  73.614  0.65  4.29           O 0
+ATOM   4067  OE2 GLU C 474       9.599  27.836  73.088  0.26  9.64           O 0
+ATOM   1355   CEALYS C 144       8.824  34.274  71.123  0.00  0.00           C 0
+ATOM   4109   OG SER C 479       5.470  35.227  71.733  0.00  0.00           O 0
+ATOM   4093   CB LEU C 477       7.990  33.564  77.451  0.00  0.00           C 0
+ATOM   1353   CDALYS C 144       8.762  35.190  72.351  0.00  0.00           C 0
+ATOM   4091    C LEU C 477       5.698  34.474  77.764  0.00  0.00           C 0
+ATOM   4092    O LEU C 477       4.751  33.714  77.680  0.48  6.43           O 0
+ATOM   4064   CG GLU C 474       8.606  28.654  75.076  0.00  0.00           C 0
+ATOM   4095  CD1 LEU C 477      10.213  32.642  76.864  0.00  0.00           C 0
+ATOM   4062    O GLU C 474       5.623  30.495  77.713  0.48  5.36           O 0
+ATOM   1193  OD2 ASP C 126      13.165  31.543  71.560  0.31  4.29           O 0
+ATOM   1351   CGALYS C 144      10.156  35.455  72.860  0.00  0.00           C 0
+TER
+END

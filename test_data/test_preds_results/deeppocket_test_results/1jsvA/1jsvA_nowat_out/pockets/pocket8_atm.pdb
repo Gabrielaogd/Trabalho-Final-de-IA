@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0228
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7261
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4589
+HEADER 5  - Mean B-factor of pocket residues  : 0.1580
+HEADER 6  - Hydrophobicity Score              : 24.7000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 119.3826
+HEADER 10 - Pocket volume (convex hull)       : 2.8920
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM    255   CB LYS A  33      20.498  10.639  24.713  0.00  0.00           C 0
+ATOM    124    N GLY A  16      22.573   7.857  30.507  0.00  0.00           N 0
+ATOM    276  CD1 ILE A  35      24.053   7.906  25.356  0.00  0.00           C 0
+ATOM    263    O LYS A  34      23.893  10.435  28.310  0.00  0.00           O 0
+ATOM    257   CD LYS A  33      18.460   9.158  24.467  0.00  0.00           C 0
+ATOM    127    O GLY A  16      20.411   9.364  30.697  0.00  0.00           O 0
+ATOM    102   CA GLY A  13      18.153   6.659  30.630  0.00  0.00           C 0
+ATOM    105    N THR A  14      19.562   4.696  30.486  0.43  1.09           N 0
+ATOM    112    N TYR A  15      22.367   5.038  30.080  0.00  0.00           N 0
+ATOM    119  CD2 TYR A  15      22.943   4.122  26.953  0.00  0.00           C 0
+ATOM   1101  CD2 LEU A 148      21.130   4.467  22.511  0.00  0.00           C 0
+ATOM    141  CG2 VAL A  18      17.460  10.199  28.037  0.00  0.00           C 0
+ATOM    259   NZ LYS A  33      16.300   7.880  24.367  0.21  1.09           N 0
+ATOM   1078  OD2 ASP A 145      17.036   4.389  24.861  0.39  2.14           O 0
+ATOM   1077  OD1 ASP A 145      17.462   5.441  22.985  0.89  1.07           O 0
+TER
+END

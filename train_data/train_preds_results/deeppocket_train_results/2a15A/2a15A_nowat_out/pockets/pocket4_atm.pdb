@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1379
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0270
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6938
+HEADER 5  - Mean B-factor of pocket residues  : 0.0069
+HEADER 6  - Hydrophobicity Score              : 50.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 302.5946
+HEADER 10 - Pocket volume (convex hull)       : 10.5010
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM    968  CD1 TYR A 127      13.138 -23.685  -5.542  0.00  0.00           C 0
+ATOM    964    C TYR A 127       8.944 -21.946  -6.806  0.00  0.00           C 0
+ATOM    974    N TRP A 128       8.849 -21.075  -7.829  0.00  0.00           N 0
+ATOM    995  ND2 ASN A 129       8.812 -23.021 -13.500  0.00  0.00           N 0
+ATOM    312   CB ILE A  42      14.847 -18.650  -7.202  0.00  0.00           C 0
+ATOM    314  CG2 ILE A  42      16.293 -18.813  -7.680  0.00  0.00           C 0
+ATOM    970  CE1 TYR A 127      14.445 -23.619  -4.995  0.00  0.00           C 0
+ATOM    311    O ILE A  42      13.547 -18.232  -9.933  0.05  6.43           O 0
+ATOM    976    C TRP A 128       8.145 -20.422 -10.070  0.00  0.00           C 0
+ATOM    977    O TRP A 128       9.175 -19.752 -10.139  0.41  4.29           O 0
+ATOM   1018   SD MET A 132       6.409 -23.940 -10.726  0.00  0.00           S 0
+ATOM    963   CA TYR A 127      10.253 -21.862  -6.056  0.00  0.00           C 0
+ATOM    961    O GLY A 126      11.271 -19.203  -6.132  0.00  0.00           O 0
+ATOM    975   CA TRP A 128       7.753 -21.158  -8.792  0.00  0.00           C 0
+ATOM    966   CB TYR A 127      10.648 -23.225  -5.426  0.00  0.00           C 0
+ATOM    965    O TYR A 127       8.041 -22.724  -6.485  0.43  5.36           O 0
+ATOM   1019   CE MET A 132       5.637 -24.377  -9.185  0.00  0.00           C 0
+TER
+END

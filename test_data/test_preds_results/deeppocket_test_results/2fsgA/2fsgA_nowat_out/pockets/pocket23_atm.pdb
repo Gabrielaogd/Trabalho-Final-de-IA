@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0634
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9436
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6652
+HEADER 5  - Mean B-factor of pocket residues  : 0.4341
+HEADER 6  - Hydrophobicity Score              : 40.8000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 348.4710
+HEADER 10 - Pocket volume (convex hull)       : 16.6830
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.2000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM   5184    N ARG A 832     104.629 -14.690  66.939  0.67  3.28           N 0
+ATOM   5171    O GLN A 830      99.793 -14.776  67.239  0.62  6.43           O 0
+ATOM   5193  NH1 ARG A 832     103.003 -15.157  61.429  0.00  0.00           N 0
+ATOM   5170    C GLN A 830     100.338 -15.532  68.032  0.00  0.00           C 0
+ATOM   5172   CB GLN A 830      99.759 -17.945  67.714  0.00  0.00           C 0
+ATOM   4592  CG1 VAL A 753     106.007  -9.735  68.229  0.00  0.00           C 0
+ATOM   4595   CA VAL A 754     103.147  -6.716  68.297  0.00  0.00           C 0
+ATOM   4590    O VAL A 753     105.876  -6.635  67.922  0.62  6.43           O 0
+ATOM   4600  CG2 VAL A 754     101.628  -8.694  68.151  0.00  0.00           C 0
+ATOM   5189   CG ARG A 832     106.609 -14.582  64.472  0.00  0.00           C 0
+ATOM   5187    O ARG A 832     107.262 -13.464  67.470  0.71  1.07           O 0
+ATOM   5191   NE ARG A 832     104.914 -15.080  62.735  0.56  6.56           N 0
+ATOM   5182  CG1 VAL A 831     103.460 -12.087  68.863  0.00  0.00           C 0
+ATOM   5178   CA VAL A 831     102.455 -14.306  68.061  0.00  0.00           C 0
+ATOM   5183  CG2 VAL A 831     100.983 -12.621  69.285  0.00  0.00           C 0
+ATOM   5188   CB ARG A 832     106.352 -15.715  65.411  0.00  0.00           C 0
+ATOM   5185   CA ARG A 832     105.933 -15.378  66.873  0.00  0.00           C 0
+ATOM   5180    O VAL A 831     104.180 -15.829  68.784  0.44  4.29           O 0
+ATOM   5179    C VAL A 831     103.838 -14.985  67.952  0.00  0.00           C 0
+ATOM   5177    N VAL A 831     101.579 -15.394  68.450  0.00  0.00           N 0
+TER
+END

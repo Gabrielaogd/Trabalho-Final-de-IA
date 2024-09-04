@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0517
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0018
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6828
+HEADER 5  - Mean B-factor of pocket residues  : 0.2134
+HEADER 6  - Hydrophobicity Score              : 18.1111
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 5.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 278.9365
+HEADER 10 - Pocket volume (convex hull)       : 12.5037
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM     86   CA GLY A  11     -32.302  14.119  -1.036  0.00  0.00           C 0
+ATOM   2033   CG ARG A 265     -33.582  13.713  -7.915  0.00  0.00           C 0
+ATOM     77    O ARG A  10     -33.505  16.134  -2.840  0.51  1.07           O 0
+ATOM   2079   OH TYR A 269     -30.723  12.561  -5.644  0.54  8.57           O 0
+ATOM   2035   NE ARG A 265     -34.081  11.440  -8.547  0.54  5.47           N 0
+ATOM   2028    N ARG A 265     -36.746  15.730  -8.936  0.60  1.09           N 0
+ATOM   2032   CB ARG A 265     -34.883  14.063  -8.621  0.00  0.00           C 0
+ATOM   2038  NH2 ARG A 265     -35.561  10.058  -9.596  0.25  6.56           N 0
+ATOM   1997    O ARG A 261     -37.984  11.630 -12.087  0.59  5.36           O 0
+ATOM   2067   NZ LYS A 268     -38.446  15.419  -2.828  0.00  0.00           N 0
+ATOM   2029   CA ARG A 265     -35.518  15.384  -8.221  0.00  0.00           C 0
+ATOM   2026  CG2 ILE A 264     -40.368  17.097  -7.308  0.00  0.00           C 0
+ATOM   2024   CB ILE A 264     -40.085  16.547  -8.746  0.00  0.00           C 0
+ATOM   2077  CE2 TYR A 269     -31.241  14.824  -5.176  0.00  0.00           C 0
+ATOM   2184  OE1 GLU A 282     -43.648  14.377  -7.151  0.71  8.57           O 0
+ATOM   2066   CE LYS A 268     -38.323  16.565  -3.780  0.00  0.00           C 0
+ATOM   2022    C ILE A 264     -37.519  16.731  -8.572  0.00  0.00           C 0
+ATOM   2065   CD LYS A 268     -36.823  16.698  -4.050  0.00  0.00           C 0
+ATOM     63    O TRP A   9     -36.283  15.711  -0.062  0.00  0.00           O 0
+TER
+END

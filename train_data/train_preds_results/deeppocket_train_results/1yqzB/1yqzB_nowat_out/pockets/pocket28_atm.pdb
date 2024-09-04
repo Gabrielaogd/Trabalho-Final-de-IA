@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : -0.0872
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1207
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5784
+HEADER 5  - Mean B-factor of pocket residues  : 0.2237
+HEADER 6  - Hydrophobicity Score              : 10.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.5340
+HEADER 10 - Pocket volume (convex hull)       : 6.7117
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   2942  ND1 HIS B 369      29.882  -0.067  18.147  0.00  0.00           N 0
+ATOM   3097  CG1 VAL B 387      28.967   5.263  21.467  0.00  0.00           C 0
+ATOM   1518    O MET B 191      29.952   2.403  23.771  0.00  0.00           O 0
+ATOM   1545   CG PRO B 194      32.807   5.575  22.752  0.00  0.00           C 0
+ATOM   3095    O VAL B 387      28.340   5.331  18.031  0.60  3.21           O 0
+ATOM   2640  CE1 TYR B 331      32.191   8.748  20.476  0.00  0.00           C 0
+ATOM   2926   CG PRO B 367      34.041   7.344  14.330  0.00  0.00           C 0
+ATOM   2643   OH TYR B 331      34.452   9.237  20.001  0.50  9.64           O 0
+ATOM   1546   CD PRO B 194      32.859   4.451  23.765  0.00  0.00           C 0
+ATOM   1516   CA MET B 191      30.124   0.027  23.390  0.00  0.00           C 0
+ATOM   1510    O ASP B 190      32.304  -1.657  23.079  0.58  3.21           O 0
+ATOM   2940   CB HIS B 369      29.377   1.979  16.754  0.00  0.00           C 0
+ATOM   2924    O PRO B 367      30.983   7.185  15.292  0.56  4.29           O 0
+ATOM   2925   CB PRO B 367      33.258   6.520  13.342  0.00  0.00           C 0
+ATOM   2830  CG2 THR B 354      32.392   2.553  12.996  0.00  0.00           C 0
+ATOM   3096   CB VAL B 387      27.946   4.315  20.847  0.00  0.00           C 0
+TER
+END

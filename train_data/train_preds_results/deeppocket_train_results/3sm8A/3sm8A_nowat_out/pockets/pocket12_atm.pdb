@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.1525
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7123
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3820
+HEADER 5  - Mean B-factor of pocket residues  : 0.0976
+HEADER 6  - Hydrophobicity Score              : -4.0000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 321.3892
+HEADER 10 - Pocket volume (convex hull)       : 12.6576
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.7500
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3810
+ATOM   1532  NH2 ARG A1184      20.874 -28.651 -42.929  0.00  0.00           N 0
+ATOM     14    O HIS A 996      27.016 -29.302 -47.705  0.14  7.50           O 0
+ATOM     15   CB HIS A 996      24.415 -30.372 -49.328  0.00  0.00           C 0
+ATOM     24    O HIS A 997      25.521 -26.316 -48.065  0.42  3.21           O 0
+ATOM   1542    O ASP A1186      20.913 -25.413 -45.886  0.00  0.00           O 0
+ATOM     18  CD2 HIS A 996      22.909 -32.506 -49.192  0.00  0.00           C 0
+ATOM     16   CG HIS A 996      23.636 -31.548 -49.819  0.00  0.00           C 0
+ATOM     35   CB HIS A 998      26.714 -25.737 -44.741  0.00  0.00           C 0
+ATOM   1536    O CYS A1185      21.028 -25.252 -42.179  0.66  2.14           O 0
+ATOM   1527   CG ARG A1184      22.299 -27.665 -40.054  0.00  0.00           C 0
+ATOM   1528   CD ARG A1184      22.422 -29.029 -40.586  0.00  0.00           C 0
+ATOM     38  CD2 HIS A 998      27.915 -27.856 -44.318  0.00  0.00           C 0
+ATOM     36   CG HIS A 998      27.837 -26.529 -44.197  0.00  0.00           C 0
+ATOM   1561   OG SER A1189      25.167 -25.734 -38.894  0.54  7.50           O 0
+ATOM     40  NE2 HIS A 998      29.102 -28.244 -43.715  0.35  5.47           N 0
+ATOM     39  CE1 HIS A 998      29.737 -27.202 -43.236  0.00  0.00           C 0
+ATOM     37  ND1 HIS A 998      28.975 -26.121 -43.532  0.40  2.19           N 0
+ATOM   1514  OE2 GLU A1182      27.642 -27.462 -35.950  0.00  0.00           O 0
+TER
+END

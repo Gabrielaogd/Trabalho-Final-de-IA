@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0046
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9937
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7304
+HEADER 5  - Mean B-factor of pocket residues  : 0.1063
+HEADER 6  - Hydrophobicity Score              : 9.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 369.9547
+HEADER 10 - Pocket volume (convex hull)       : 13.5213
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM   3906    O ILE B 481     -15.431 -46.796  59.175  0.57  3.21           O 0
+ATOM   3931   CB MET B 484     -13.598 -47.111  62.799  0.00  0.00           C 0
+ATOM   3909  CG2 ILE B 481     -18.464 -47.902  58.509  0.00  0.00           C 0
+ATOM   3930    O MET B 484     -11.998 -49.156  61.369  0.79  3.21           O 0
+ATOM   3904   CA ILE B 481     -17.565 -45.910  59.847  0.00  0.00           C 0
+ATOM   3929    C MET B 484     -12.368 -48.099  60.849  0.00  0.00           C 0
+ATOM   3935    N ASN B 485     -12.596 -47.990  59.550  0.00  0.00           N 0
+ATOM   3942  ND2 ASN B 485     -14.092 -50.645  56.145  0.64  6.56           N 0
+ATOM   3948  OG1 THR B 486     -10.071 -53.291  60.128  0.00  0.00           O 0
+ATOM   3347   CB SER B 413     -16.028 -54.272  55.246  0.00  0.00           C 0
+ATOM   3348   OG SER B 413     -14.901 -53.442  54.959  0.73  2.14           O 0
+ATOM   3936   CA ASN B 485     -12.433 -49.148  58.669  0.00  0.00           C 0
+ATOM   3954   CB GLU B 487     -11.440 -53.675  54.809  0.00  0.00           C 0
+ATOM   3958  OE2 GLU B 487     -12.989 -56.287  53.144  0.00  0.00           O 0
+ATOM   3943    N THR B 486     -10.738 -50.892  58.716  0.00  0.00           N 0
+ATOM   3950    N GLU B 487     -10.176 -52.477  56.569  0.57  1.09           N 0
+ATOM   3951   CA GLU B 487     -10.061 -53.405  55.434  0.00  0.00           C 0
+ATOM   3898    O ASP B 480     -16.145 -44.412  61.718  0.79  2.14           O 0
+ATOM   3908  CG1 ILE B 481     -19.924 -46.787  60.264  0.00  0.00           C 0
+TER
+END

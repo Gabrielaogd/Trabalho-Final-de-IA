@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0084
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.0353
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5657
+HEADER 5  - Mean B-factor of pocket residues  : 0.2617
+HEADER 6  - Hydrophobicity Score              : -7.3333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 388.0405
+HEADER 10 - Pocket volume (convex hull)       : 21.0422
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    211  ND1 HIS A 232      34.330   9.100  36.790  0.52  6.56           N 0
+ATOM    187  ND2 ASN A 229      34.390   6.471  40.527  0.00  0.00           N 0
+ATOM    210   CG HIS A 232      33.774   9.304  38.037  0.00  0.00           C 0
+ATOM    209   CB HIS A 232      32.292   9.370  38.262  0.00  0.00           C 0
+ATOM    157  NH1 ARG A 226      29.562   9.745  34.439  0.00  0.00           N 0
+ATOM    154   CD ARG A 226      28.116   8.232  36.314  0.00  0.00           C 0
+ATOM    165  ND1 HIS A 227      30.576   2.378  36.210  0.00  0.00           N 0
+ATOM    163   CB HIS A 227      30.808   2.061  38.703  0.00  0.00           C 0
+ATOM    164   CG HIS A 227      30.770   1.553  37.297  0.00  0.00           C 0
+ATOM    151    O ARG A 226      29.683   4.987  39.138  0.60  1.07           O 0
+ATOM    149   CA ARG A 226      27.833   5.201  37.623  0.00  0.00           C 0
+ATOM    155   NE ARG A 226      27.621   8.646  35.006  0.49  3.28           N 0
+ATOM    156   CZ ARG A 226      28.328   9.359  34.136  0.00  0.00           C 0
+ATOM    158  NH2 ARG A 226      27.808   9.671  32.959  0.26  9.84           N 0
+ATOM   1016  OE1 GLU A 334      29.416   6.466  27.188  0.00  0.00           O 0
+ATOM    167  CE1 HIS A 227      30.555   1.652  35.106  0.00  0.00           C 0
+ATOM    144    O THR A 225      26.900   3.564  35.554  0.00  0.00           O 0
+ATOM   1017  OE2 GLU A 334      27.236   6.224  27.393  0.00  0.00           O 0
+ATOM    184   CB ASN A 229      32.007   6.271  40.885  0.00  0.00           C 0
+TER
+END

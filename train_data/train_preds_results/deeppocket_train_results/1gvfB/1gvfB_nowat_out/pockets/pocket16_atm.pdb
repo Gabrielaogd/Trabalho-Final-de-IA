@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0221
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8923
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6254
+HEADER 5  - Mean B-factor of pocket residues  : 0.4709
+HEADER 6  - Hydrophobicity Score              : -3.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 135.0512
+HEADER 10 - Pocket volume (convex hull)       : 0.2062
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM    831   CG HIS B 107       3.692  19.986  65.275  0.00  0.00           C 0
+ATOM   1066   NE ARG B 137       7.436  17.977  68.937  0.65  4.37           N 0
+ATOM    832  ND1 HIS B 107       2.540  20.656  65.702  0.00  0.00           N 0
+ATOM   1069  NH2 ARG B 137       6.828  17.586  71.056  0.52  9.84           N 0
+ATOM    833  CD2 HIS B 107       4.710  20.714  65.798  0.00  0.00           C 0
+ATOM    829    O HIS B 107       4.258  15.750  64.131  0.31  8.57           O 0
+ATOM   1065   CD ARG B 137       7.816  17.694  67.564  0.00  0.00           C 0
+ATOM   1068  NH1 ARG B 137       7.154  15.776  69.630  0.00  0.00           N 0
+ATOM    835  NE2 HIS B 107       4.192  21.772  66.508  0.85  3.28           N 0
+ATOM    834  CE1 HIS B 107       2.867  21.718  66.432  0.00  0.00           C 0
+ATOM   1067   CZ ARG B 137       7.143  17.086  69.862  0.00  0.00           C 0
+ATOM    830   CB HIS B 107       3.648  18.745  64.435  0.00  0.00           C 0
+ATOM    827   CA HIS B 107       4.989  18.052  64.154  0.00  0.00           C 0
+TER
+END

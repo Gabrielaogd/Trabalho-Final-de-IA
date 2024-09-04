@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0654
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7097
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5953
+HEADER 5  - Mean B-factor of pocket residues  : 0.2244
+HEADER 6  - Hydrophobicity Score              : -1.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 100.7245
+HEADER 10 - Pocket volume (convex hull)       : 0.4160
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1732   CA THR A 222      50.907  37.071 -17.374  0.00  0.00           C 0
+ATOM   1733    C THR A 222      50.013  35.918 -17.755  0.00  0.00           C 0
+ATOM   1741    O GLY A 223      46.785  35.486 -17.374  0.52  4.29           O 0
+ATOM   1734    O THR A 222      49.668  35.736 -18.919  0.71  5.36           O 0
+ATOM   1722    O TYR A 221      50.144  38.954 -15.523  0.46  4.29           O 0
+ATOM   1243  OD1 ASN A 159      44.579  39.417 -19.661  0.17  5.36           O 0
+ATOM   1777    O GLY A 228      45.779  39.429 -15.467  0.52  1.07           O 0
+ATOM   1241   CB ASN A 159      44.480  41.796 -19.738  0.00  0.00           C 0
+ATOM   1238   CA ASN A 159      44.153  41.874 -18.237  0.00  0.00           C 0
+ATOM   1814  ND2 ASN A 233      48.760  41.361 -14.285  0.68  4.37           N 0
+ATOM   1250   CG GLU A 160      48.005  45.447 -18.579  0.00  0.00           C 0
+ATOM   1245    N GLU A 160      45.135  44.086 -18.474  0.76  1.09           N 0
+ATOM   1239    C ASN A 159      44.443  43.233 -17.679  0.00  0.00           C 0
+TER
+END

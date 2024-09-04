@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0560
+HEADER 1  - Drug Score                        : 0.0064
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8144
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5357
+HEADER 5  - Mean B-factor of pocket residues  : 0.1582
+HEADER 6  - Hydrophobicity Score              : 42.8182
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7273
+HEADER 9  - Pocket volume (Monte Carlo)       : 394.4966
+HEADER 10 - Pocket volume (convex hull)       : 26.7573
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.8333
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5455
+ATOM   2026    O ILE B 257      28.005  33.545  96.322  0.65  8.57           O 0
+ATOM   1896   CG LYS B 240      23.106  29.199  93.985  0.00  0.00           C 0
+ATOM   2021  CD1 LEU B 256      23.159  33.918  94.613  0.00  0.00           C 0
+ATOM   2036  CG1 VAL B 258      28.225  34.869  92.857  0.00  0.00           C 0
+ATOM   1895   CB LYS B 240      22.967  29.789  95.396  0.00  0.00           C 0
+ATOM   1892   CA LYS B 240      23.928  29.108  96.366  0.00  0.00           C 0
+ATOM   1900    N LEU B 241      24.563  30.917  97.835  0.73  1.09           N 0
+ATOM   2022  CD2 LEU B 256      24.087  34.961  92.518  0.00  0.00           C 0
+ATOM   1898   CE LYS B 240      22.227  29.221  91.654  0.00  0.00           C 0
+ATOM   1897   CD LYS B 240      22.103  29.842  93.038  0.00  0.00           C 0
+ATOM   2020   CG LEU B 256      24.100  34.965  94.042  0.00  0.00           C 0
+ATOM   1863  CE2 PHE B 235      26.933  28.031 100.639  0.00  0.00           C 0
+ATOM   1904   CB LEU B 241      26.175  31.700  99.469  0.00  0.00           C 0
+ATOM   1907  CD2 LEU B 241      28.027  32.209 101.064  0.00  0.00           C 0
+ATOM   1772   OH TYR B 223      32.018  30.714  97.079  0.44  8.57           O 0
+ATOM   1249  CE2 TYR B 158      31.461  29.963 101.537  0.00  0.00           C 0
+ATOM   1890    O GLY B 239      25.734  27.103  96.992  0.00  0.00           O 0
+ATOM   1251   OH TYR B 158      31.816  27.854 100.482  0.58  4.29           O 0
+ATOM   1205   CD PRO B 153      27.034  24.436 101.274  0.00  0.00           C 0
+ATOM   1204   CG PRO B 153      26.871  23.686  99.985  0.00  0.00           C 0
+ATOM   1213  OD2 ASP B 154      32.575  25.449 100.259  0.42  4.29           O 0
+ATOM   1211   CG ASP B 154      32.042  24.498 100.879  0.00  0.00           C 0
+ATOM   1210   CB ASP B 154      32.122  23.119 100.248  0.00  0.00           C 0
+TER
+END

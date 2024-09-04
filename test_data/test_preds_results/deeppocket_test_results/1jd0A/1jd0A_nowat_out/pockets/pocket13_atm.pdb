@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0399
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0253
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6518
+HEADER 5  - Mean B-factor of pocket residues  : 0.2123
+HEADER 6  - Hydrophobicity Score              : 36.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.8763
+HEADER 10 - Pocket volume (convex hull)       : 5.7789
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM    253   CB SER A  35      13.087 -17.659  12.167  0.00  0.00           C 0
+ATOM    274    O LEU A  38      15.947 -13.504   8.335  0.00  0.00           O 0
+ATOM    252    O SER A  35      13.330 -15.096  10.076  0.61  4.29           O 0
+ATOM    275   CB LEU A  38      16.276 -13.046  11.410  0.00  0.00           C 0
+ATOM   2064  OG1 THR A 258      21.631 -12.762  10.638  0.71  3.21           O 0
+ATOM   2085    C SER A 261      22.975 -18.200  10.576  0.00  0.00           C 0
+ATOM    288    N TYR A  40      20.503 -13.028   7.163  0.50  2.19           N 0
+ATOM   2080  CE1 PHE A 260      22.199 -15.188  14.665  0.00  0.00           C 0
+ATOM    250   CA SER A  35      13.285 -16.136  12.228  0.00  0.00           C 0
+ATOM    277  CD1 LEU A  38      16.281 -13.801  13.787  0.00  0.00           C 0
+ATOM   2065  CG2 THR A 258      20.497 -11.677  12.463  0.00  0.00           C 0
+ATOM   2086    O SER A 261      23.246 -18.267  11.792  0.37  3.21           O 0
+ATOM    273    C LEU A  38      16.425 -12.572   8.983  0.00  0.00           C 0
+ATOM    279    N GLN A  39      17.516 -11.912   8.612  0.00  0.00           N 0
+ATOM   2075    O PHE A 260      23.480 -14.860  10.734  0.00  0.00           O 0
+ATOM    292   CB TYR A  40      22.560 -14.344   7.064  0.00  0.00           C 0
+TER
+END

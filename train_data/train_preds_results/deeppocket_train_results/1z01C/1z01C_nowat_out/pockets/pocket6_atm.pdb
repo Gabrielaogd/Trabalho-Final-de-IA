@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0291
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0236
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7456
+HEADER 5  - Mean B-factor of pocket residues  : 0.2512
+HEADER 6  - Hydrophobicity Score              : -7.8000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 228.1286
+HEADER 10 - Pocket volume (convex hull)       : 2.8291
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6842
+ATOM   2638    N LYS C 343      44.036   4.281  38.893  0.00  0.00           N 0
+ATOM   2631   CB ARG C 342      41.997   2.915  36.851  0.00  0.00           C 0
+ATOM   2643   CG LYS C 343      43.364   3.770  41.801  0.00  0.00           C 0
+ATOM   2629    C ARG C 342      43.584   4.661  37.702  0.00  0.00           C 0
+ATOM   2672   CG GLN C 346      41.290   9.633  39.165  0.00  0.00           C 0
+ATOM   2671   CB GLN C 346      42.301   8.758  38.438  0.00  0.00           C 0
+ATOM   2675  NE2 GLN C 346      39.234   9.301  37.946  0.12  9.84           N 0
+ATOM   2639   CA LYS C 343      44.281   5.248  39.959  0.00  0.00           C 0
+ATOM   2641    O LYS C 343      45.373   7.382  39.963  0.75  2.14           O 0
+ATOM   2677   CA TYR C 347      45.867  11.022  39.802  0.00  0.00           C 0
+ATOM   2682  CD1 TYR C 347      47.147  11.423  42.901  0.00  0.00           C 0
+ATOM   2717  OD1 ASP C 350      41.772  13.236  40.536  0.74  9.64           O 0
+ATOM   2676    N TYR C 347      45.066  10.118  38.994  0.00  0.00           N 0
+ATOM   2642   CB LYS C 343      44.567   4.524  41.275  0.00  0.00           C 0
+ATOM   2680   CB TYR C 347      46.844  10.232  40.680  0.00  0.00           C 0
+ATOM   2630    O ARG C 342      43.348   5.837  37.421  0.66  1.07           O 0
+TER
+END

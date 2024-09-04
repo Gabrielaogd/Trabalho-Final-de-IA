@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0598
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9244
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5046
+HEADER 5  - Mean B-factor of pocket residues  : 0.4978
+HEADER 6  - Hydrophobicity Score              : 1.8750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 340.1375
+HEADER 10 - Pocket volume (convex hull)       : 10.0244
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0417
+ATOM    186  OE1 GLN A  18      23.156  26.285  32.277  0.00  0.00           O 0
+ATOM   3010  ND1 HIS A 321      19.445  24.475  31.321  0.00  0.00           N 0
+ATOM    225  OE1 GLN A  22      21.165  21.276  32.718  0.00  0.00           O 0
+ATOM   3040   CA GLY A 324      18.463  26.365  38.159  0.00  0.00           C 0
+ATOM   3059   CB LEU A 326      14.283  23.466  32.902  0.00  0.00           C 0
+ATOM   3042    O GLY A 324      16.648  24.783  38.147  0.00  0.00           O 0
+ATOM   3008   CB HIS A 321      19.772  26.967  31.572  0.00  0.00           C 0
+ATOM   3047    O ASN A 325      15.855  26.836  34.397  0.85  1.07           O 0
+ATOM    226  NE2 GLN A  22      23.054  22.461  32.373  0.00  0.00           N 0
+ATOM   3046    C ASN A 325      15.048  26.213  35.085  0.00  0.00           C 0
+ATOM   3055    N LEU A 326      14.256  25.270  34.579  0.00  0.00           N 0
+ATOM   3061  CD1 LEU A 326      15.890  23.221  30.991  0.00  0.00           C 0
+ATOM   3062  CD2 LEU A 326      14.106  21.501  31.384  0.00  0.00           C 0
+ATOM   3186  NH1 ARG A 338      15.844  18.697  30.221  0.00  0.00           N 0
+ATOM   3187  NH2 ARG A 338      17.661  19.851  29.433  0.59  2.19           N 0
+ATOM   3041    C GLY A 324      17.066  25.887  37.784  0.00  0.00           C 0
+ATOM   3039    N GLY A 324      18.792  27.698  37.671  0.00  0.00           N 0
+ATOM   3029   CA ASN A 323      18.784  30.142  37.740  0.00  0.00           C 0
+ATOM   3028    N ASN A 323      18.502  30.279  36.296  0.00  0.00           N 0
+ATOM   3007    O HIS A 321      19.365  29.618  32.559  0.44  5.36           O 0
+TER
+END

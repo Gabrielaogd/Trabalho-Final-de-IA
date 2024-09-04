@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0660
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9437
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7263
+HEADER 5  - Mean B-factor of pocket residues  : 0.4793
+HEADER 6  - Hydrophobicity Score              : -6.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 197.3635
+HEADER 10 - Pocket volume (convex hull)       : 2.8845
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0526
+ATOM    190    C GLN C  26      19.107  82.318   1.134  0.00  0.00           C 0
+ATOM    197    N HIS C  27      20.124  81.545   1.502  0.00  0.00           N 0
+ATOM    191    O GLN C  26      18.649  82.319  -0.005  0.39  2.14           O 0
+ATOM    192   CB GLN C  26      19.419  84.456   2.313  0.00  0.00           C 0
+ATOM    166    O ARG C  23      21.693  81.875   3.866  0.00  0.00           O 0
+ATOM    195  OE1 GLN C  26      21.013  86.713   3.689  0.00  0.00           O 0
+ATOM    173  NH2 ARG C  23      27.154  83.430   2.753  0.00  0.00           N 0
+ATOM    170   NE ARG C  23      26.492  84.605   4.635  0.79  3.28           N 0
+ATOM   2191  OE1 GLN C 286      25.087  80.740   2.602  0.00  0.00           O 0
+ATOM    171   CZ ARG C  23      26.764  83.452   4.027  0.00  0.00           C 0
+ATOM    168   CG ARG C  23      24.452  84.663   6.087  0.00  0.00           C 0
+ATOM    164   CA ARG C  23      22.357  83.237   5.692  0.00  0.00           C 0
+ATOM    201   CB HIS C  27      21.982  79.965   1.211  0.00  0.00           C 0
+ATOM    167   CB ARG C  23      23.883  83.258   5.934  0.00  0.00           C 0
+ATOM    198   CA HIS C  27      20.776  80.651   0.554  0.00  0.00           C 0
+ATOM    203  ND1 HIS C  27      23.441  79.379  -0.765  0.00  0.00           N 0
+ATOM   2192  NE2 GLN C 286      26.190  79.371   1.239  0.25  4.37           N 0
+TER
+END

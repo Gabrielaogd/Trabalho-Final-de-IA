@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : 0.0340
+HEADER 1  - Drug Score                        : 0.0038
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9146
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5135
+HEADER 5  - Mean B-factor of pocket residues  : 0.2579
+HEADER 6  - Hydrophobicity Score              : 45.7778
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.4235
+HEADER 10 - Pocket volume (convex hull)       : 5.2633
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5417
+ATOM    996  OE1AGLU C 103      18.231   3.005  99.767  0.00  0.00           O 0
+ATOM   2848   CB ALA C 324      20.087   1.423 104.943  0.00  0.00           C 0
+ATOM   1024  CE2 TYR C 106      20.946   9.210 100.588  0.00  0.00           C 0
+ATOM   2845   CA ALA C 324      18.568   1.721 104.683  0.00  0.00           C 0
+ATOM   2844    N ALA C 324      17.930   2.124 105.924  0.75  2.19           N 0
+ATOM   2820    O PHE C 322      17.398   5.362 107.470  0.76  1.07           O 0
+ATOM   2834    OAASP C 323      15.844   2.374 105.073  0.61  2.14           O 0
+ATOM   2832    CAASP C 323      16.634   2.433 106.021  0.00  0.00           C 0
+ATOM    981  CD2 LEU C 102      18.750   9.211 104.565  0.00  0.00           C 0
+ATOM      7  CD1 LEU C  -6      21.547   5.355 108.623  0.00  0.00           C 0
+ATOM     28  CD2 PHE C  -4      21.308   8.958 107.239  0.00  0.00           C 0
+ATOM     30  CE2 PHE C  -4      22.545   8.769 106.680  0.00  0.00           C 0
+ATOM   1026   OH TYR C 106      21.532  10.073 102.723  0.93  5.36           O 0
+ATOM    978   CB LEU C 102      16.995   8.419 102.990  0.00  0.00           C 0
+ATOM   2816    O GLY C 321      14.579   6.193 104.459  0.64  3.21           O 0
+ATOM    982    NAGLU C 103      16.879   7.329  99.939  0.70  1.09           N 0
+ATOM    992   CGAGLU C 103      16.659   4.667  98.999  0.00  0.00           C 0
+ATOM    990   CBAGLU C 103      17.684   5.608  98.353  0.00  0.00           C 0
+TER
+END

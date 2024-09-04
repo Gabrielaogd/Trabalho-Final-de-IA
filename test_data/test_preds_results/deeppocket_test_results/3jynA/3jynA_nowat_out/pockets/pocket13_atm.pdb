@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.1487
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0036
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4948
+HEADER 5  - Mean B-factor of pocket residues  : 0.3403
+HEADER 6  - Hydrophobicity Score              : 26.1000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 227.9143
+HEADER 10 - Pocket volume (convex hull)       : 2.9666
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3182
+ATOM    165  CE1 PHE A  21      26.139  -5.993 -11.903  0.00  0.00           C 0
+ATOM    749  CG2 VAL A 100      20.338  -2.417 -12.839  0.00  0.00           C 0
+ATOM    178   CA PRO A  23      24.353  -5.087 -15.106  0.00  0.00           C 0
+ATOM    184    N GLU A  24      22.055  -5.792 -15.385  0.60  2.19           N 0
+ATOM    729    O VAL A  98      25.145  -2.123 -10.180  0.68  2.14           O 0
+ATOM    181   CB PRO A  23      24.586  -3.581 -15.075  0.00  0.00           C 0
+ATOM    743    N VAL A 100      20.680  -2.039  -9.940  0.60  2.19           N 0
+ATOM     33  NH2 ARG A   4      25.430  -9.257  -9.056  0.18  8.75           N 0
+ATOM    746    O VAL A 100      18.381  -3.527  -9.027  0.55  9.64           O 0
+ATOM    685    O LEU A  92      21.080  -6.777  -5.255  0.57  8.57           O 0
+ATOM    189   CG GLU A  24      20.411  -8.203 -14.626  0.00  0.00           C 0
+ATOM    747   CB VAL A 100      19.299  -2.878 -11.819  0.00  0.00           C 0
+ATOM    188   CB GLU A  24      19.880  -6.899 -15.187  0.00  0.00           C 0
+ATOM    739  ND1 HIS A  99      21.611  -2.966  -6.848  0.70  3.28           N 0
+ATOM    691   CA GLY A  93      23.507  -5.547  -5.012  0.00  0.00           C 0
+ATOM    693    O GLY A  93      24.705  -3.625  -5.747  0.00  0.00           O 0
+ATOM    716   OG SER A  96      27.004  -4.226  -7.158  0.64  2.14           O 0
+TER
+END

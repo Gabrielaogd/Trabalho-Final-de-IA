@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0865
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9050
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5996
+HEADER 5  - Mean B-factor of pocket residues  : 0.0475
+HEADER 6  - Hydrophobicity Score              : -10.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 159.6720
+HEADER 10 - Pocket volume (convex hull)       : 1.8711
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5217
+ATOM   1412   CB PRO A 317      27.721  -1.698 108.754  0.00  0.00           C 0
+ATOM   1459  OD1 ASP A 323      28.742   2.513 107.134  0.00  0.00           O 0
+ATOM   1474   OG SER A 325      31.368   2.590 106.466  0.59  2.14           O 0
+ATOM   1460  OD2 ASP A 323      27.814   1.722 105.370  0.58  5.36           O 0
+ATOM   1398   OH TYR A 315      35.964  -1.098 106.259  0.75  9.64           O 0
+ATOM   1396  CE2 TYR A 315      35.904  -1.072 108.641  0.00  0.00           C 0
+ATOM   1413   CG PRO A 317      28.152  -2.595 109.945  0.00  0.00           C 0
+ATOM   1389    C TYR A 315      32.783   1.149 111.736  0.00  0.00           C 0
+ATOM   1394  CD2 TYR A 315      35.716  -0.372 109.849  0.00  0.00           C 0
+ATOM   1473   CB SER A 325      32.181   2.840 107.569  0.00  0.00           C 0
+ATOM   1390    O TYR A 315      33.120   0.034 112.139  0.41  7.50           O 0
+ATOM   1414   CD PRO A 317      29.030  -1.728 110.807  0.00  0.00           C 0
+ATOM   1397   CZ TYR A 315      35.783  -0.398 107.431  0.00  0.00           C 0
+ATOM   1408    N PRO A 317      28.707  -0.338 110.390  0.00  0.00           N 0
+ATOM   1399    N GLN A 316      31.513   1.501 111.615  0.00  0.00           N 0
+ATOM   1401    C GLN A 316      29.298   0.770 110.867  0.00  0.00           C 0
+ATOM   1400   CA GLN A 316      30.439   0.559 111.841  0.00  0.00           C 0
+TER
+END

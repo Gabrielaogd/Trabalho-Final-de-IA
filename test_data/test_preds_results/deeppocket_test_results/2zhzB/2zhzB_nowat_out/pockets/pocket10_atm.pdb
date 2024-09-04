@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0442
+HEADER 1  - Drug Score                        : 0.0048
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9146
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6381
+HEADER 5  - Mean B-factor of pocket residues  : 0.0243
+HEADER 6  - Hydrophobicity Score              : 18.4000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 206.4100
+HEADER 10 - Pocket volume (convex hull)       : 1.8145
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM    872  CG2 VAL B 123      -4.252 -24.182   8.488  0.00  0.00           C 0
+ATOM    802   CB PRO B 112      -0.585 -25.474   2.467  0.00  0.00           C 0
+ATOM    801    O PRO B 112      -3.117 -26.081   0.948  0.38  8.57           O 0
+ATOM    803   CG PRO B 112      -0.595 -24.264   1.556  0.00  0.00           C 0
+ATOM    896  CG2 THR B 126       1.967 -22.389   7.130  0.00  0.00           C 0
+ATOM    859    O HIS B 122       0.416 -25.313   7.968  0.00  0.00           O 0
+ATOM    841    O ALA B 119      -3.904 -27.523   6.933  0.70  2.14           O 0
+ATOM    860   CB HIS B 122      -0.707 -27.298   5.689  0.00  0.00           C 0
+ATOM    842   CB ALA B 119      -6.213 -28.738   4.897  0.00  0.00           C 0
+ATOM    866    N VAL B 123      -1.679 -25.935   8.479  0.00  0.00           N 0
+ATOM    867   CA VAL B 123      -1.918 -24.730   9.266  0.00  0.00           C 0
+ATOM    858    C HIS B 122      -0.495 -26.136   7.910  0.00  0.00           C 0
+ATOM    895  OG1 THR B 126       0.464 -21.954   8.965  0.68  3.21           O 0
+TER
+END

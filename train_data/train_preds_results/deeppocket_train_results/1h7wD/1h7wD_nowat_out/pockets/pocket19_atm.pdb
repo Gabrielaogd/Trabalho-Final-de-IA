@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0093
+HEADER 1  - Drug Score                        : 0.0151
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.7746
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4529
+HEADER 5  - Mean B-factor of pocket residues  : 0.3656
+HEADER 6  - Hydrophobicity Score              : 12.6250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.7313
+HEADER 10 - Pocket volume (convex hull)       : 8.7232
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.6923
+ATOM   2214    O ASP D 291      36.480  56.734 -35.616  0.68  2.14           O 0
+ATOM   2219    N ASP D 292      35.162  57.861 -37.053  0.63  2.19           N 0
+ATOM   2209  OG1 THR D 290      32.328  56.934 -32.247  0.68  2.14           O 0
+ATOM   2213    C ASP D 291      35.837  57.738 -35.918  0.00  0.00           C 0
+ATOM   2220   CA ASP D 292      35.096  56.823 -38.075  0.00  0.00           C 0
+ATOM   2250   CB GLN D 295      35.575  51.927 -37.195  0.00  0.00           C 0
+ATOM   2208   CB THR D 290      33.684  56.842 -31.790  0.00  0.00           C 0
+ATOM   2247   CA GLN D 295      36.819  51.879 -36.296  0.00  0.00           C 0
+ATOM   2210  CG2 THR D 290      33.717  56.047 -30.493  0.00  0.00           C 0
+ATOM   2246    N GLN D 295      37.626  53.086 -36.418  0.00  0.00           N 0
+ATOM   2237    C PHE D 294      38.688  53.226 -35.628  0.00  0.00           C 0
+ATOM   2211    N ASP D 291      35.460  58.433 -33.649  0.50  3.28           N 0
+ATOM   2239   CB PHE D 294      39.607  55.175 -34.368  0.00  0.00           C 0
+ATOM   2238    O PHE D 294      39.034  52.349 -34.834  0.58  4.29           O 0
+ATOM   2313  CE2 PHE D 303      40.083  53.689 -30.707  0.00  0.00           C 0
+ATOM   2333  CG2 THR D 305      37.711  54.563 -27.673  0.00  0.00           C 0
+ATOM   2314   CZ PHE D 303      40.411  55.010 -30.975  0.00  0.00           C 0
+ATOM   3338   OG SER D 436      39.255  57.910 -28.800  0.81  1.07           O 0
+ATOM   2205   CA THR D 290      34.251  58.256 -31.568  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0726
+HEADER 1  - Drug Score                        : 0.0227
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.8174
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5145
+HEADER 5  - Mean B-factor of pocket residues  : 0.2307
+HEADER 6  - Hydrophobicity Score              : 11.5556
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 265.8132
+HEADER 10 - Pocket volume (convex hull)       : 12.8773
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 16.7368
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.6129
+ATOM    872   CD LYS A 115       5.344  25.199  77.468  0.00  0.00           C 0
+ATOM    905   CB HIS A 119      -0.743  22.713  78.880  0.00  0.00           C 0
+ATOM    870   CB LYS A 115       4.681  23.145  76.131  0.00  0.00           C 0
+ATOM    869    O LYS A 115       2.356  21.127  77.247  0.72  1.07           O 0
+ATOM    944  CG2 THR A 123      -1.075  26.352  76.226  0.00  0.00           C 0
+ATOM    900  CD1 ILE A 118       2.852  22.495  80.960  0.00  0.00           C 0
+ATOM    271    O TYR A  39       5.181  27.486  74.946  0.50  2.14           O 0
+ATOM    874   NZ LYS A 115       5.959  27.342  78.543  0.49  9.84           N 0
+ATOM    908  CD2 HIS A 119      -2.141  24.512  80.102  0.00  0.00           C 0
+ATOM    943  OG1 THR A 123      -1.258  28.087  74.493  0.00  0.00           O 0
+ATOM    951   CD PRO A 124      -2.748  30.426  77.554  0.00  0.00           C 0
+ATOM    942   CB THR A 123      -1.644  27.736  75.837  0.00  0.00           C 0
+ATOM    962   OGASER A 125       0.332  29.857  72.969  0.76  1.07           O 0
+ATOM    960   CBASER A 125       0.217  31.266  72.916  0.00  0.00           C 0
+ATOM    952    NASER A 125      -1.962  31.395  74.018  0.00  0.00           N 0
+ATOM    260   CB PRO A  37       2.180  34.791  75.829  0.00  0.00           C 0
+ATOM    261   CG PRO A  37       0.822  35.410  75.856  0.00  0.00           C 0
+ATOM    949   CB PRO A 124      -3.333  32.595  76.897  0.00  0.00           C 0
+ATOM    950   CG PRO A 124      -3.343  31.678  78.111  0.00  0.00           C 0
+ATOM    275  CD2 TYR A  39       1.840  26.456  73.186  0.00  0.00           C 0
+ATOM    266    O ALA A  38       4.727  31.125  75.130  0.54  7.50           O 0
+ATOM    269   CA TYR A  39       3.994  28.988  73.474  0.00  0.00           C 0
+TER
+END

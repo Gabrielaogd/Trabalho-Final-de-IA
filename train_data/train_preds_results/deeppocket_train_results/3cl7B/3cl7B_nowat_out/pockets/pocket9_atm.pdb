@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0708
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9522
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7299
+HEADER 5  - Mean B-factor of pocket residues  : 0.0874
+HEADER 6  - Hydrophobicity Score              : 19.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 376.2978
+HEADER 10 - Pocket volume (convex hull)       : 20.6148
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM   2134  NH2 ARG B 265      30.675  40.027   4.875  0.00  0.00           N 0
+ATOM    570  CD2 LEU B  74      32.642  41.042   8.782  0.00  0.00           C 0
+ATOM    562   OG SER B  73      26.877  39.007  11.092  0.00  0.00           O 0
+ATOM    560    O SER B  73      29.252  37.035   9.956  0.00  0.00           O 0
+ATOM    561   CB SER B  73      27.902  39.158  12.051  0.00  0.00           C 0
+ATOM    563    N LEU B  74      30.817  38.269  11.061  0.00  0.00           N 0
+ATOM    559    C SER B  73      29.623  37.687  10.958  0.00  0.00           C 0
+ATOM    568   CG LEU B  74      32.698  40.629  10.237  0.00  0.00           C 0
+ATOM    535    O SER B  70      30.955  40.548  13.064  0.71  1.07           O 0
+ATOM    437   CG MET B  57      35.273  44.319  12.921  0.00  0.00           C 0
+ATOM    569  CD1 LEU B  74      33.750  41.459  10.981  0.00  0.00           C 0
+ATOM    427   CB GLU B  56      36.096  43.060   7.690  0.00  0.00           C 0
+ATOM    538   OGASER B  70      29.596  44.511  14.774  0.00  0.00           O 0
+ATOM    532   CAASER B  70      29.899  42.069  14.619  0.00  0.00           C 0
+ATOM    536   CBASER B  70      30.547  43.465  14.650  0.00  0.00           C 0
+ATOM    426    O GLU B  56      38.011  45.003   9.196  0.50  7.50           O 0
+ATOM    425    C GLU B  56      37.598  43.872   9.495  0.00  0.00           C 0
+ATOM    438   SD MET B  57      34.162  43.553  14.106  0.00  0.00           S 0
+ATOM    439   CE MET B  57      34.649  44.340  15.636  0.00  0.00           C 0
+TER
+END

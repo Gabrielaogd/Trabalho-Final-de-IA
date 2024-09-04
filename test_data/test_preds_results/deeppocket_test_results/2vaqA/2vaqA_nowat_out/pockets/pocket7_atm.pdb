@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.0038
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9764
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6063
+HEADER 5  - Mean B-factor of pocket residues  : 0.6636
+HEADER 6  - Hydrophobicity Score              : 62.4000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 220.3758
+HEADER 10 - Pocket volume (convex hull)       : 6.6607
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM     27   CG LYS A  32     114.607  25.451  -5.529  0.00  0.00           C 0
+ATOM     13  CD1 ILE A  30     117.077  25.269 -12.351  0.00  0.00           C 0
+ATOM     26   CB LYS A  32     113.953  24.429  -6.443  0.00  0.00           C 0
+ATOM     30   NZ LYS A  32     114.375  28.655  -5.770  0.00  0.00           N 0
+ATOM     11  CG1 ILE A  30     116.377  23.883 -12.350  0.00  0.00           C 0
+ATOM   2388    O VAL A 332     111.984  21.852  -9.274  0.00  0.00           O 0
+ATOM   2389   CB VAL A 332     110.363  24.189  -7.891  0.00  0.00           C 0
+ATOM   2390  CG1 VAL A 332     109.547  25.129  -8.779  0.00  0.00           C 0
+ATOM     29   CE LYS A  32     113.234  27.720  -5.471  0.00  0.00           C 0
+ATOM   2395    O TYR A 333     110.594  23.400 -13.117  0.63  9.64           O 0
+ATOM   2387    C VAL A 332     110.806  22.214  -9.432  0.00  0.00           C 0
+ATOM     22    N LYS A  32     114.609  22.479  -7.848  0.66  1.09           N 0
+ATOM     23   CA LYS A  32     114.682  23.077  -6.500  0.00  0.00           C 0
+ATOM     17    O LEU A  31     116.660  21.541  -7.839  0.45  6.43           O 0
+ATOM      9    O ILE A  30     114.130  21.559 -12.060  0.56  1.07           O 0
+TER
+END

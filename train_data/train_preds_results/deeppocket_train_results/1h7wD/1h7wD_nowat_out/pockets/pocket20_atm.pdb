@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0324
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.2021
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7139
+HEADER 5  - Mean B-factor of pocket residues  : 0.1187
+HEADER 6  - Hydrophobicity Score              : 26.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 355.7769
+HEADER 10 - Pocket volume (convex hull)       : 11.5521
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   6330   NZ LYS D 835      26.765  74.235  18.722  0.00  0.00           N 0
+ATOM   4170    O ILE D 543      25.936  78.872  25.221  0.00  0.00           O 0
+ATOM   4080    O VAL D 531      27.722  72.255  22.376  0.00  0.00           O 0
+ATOM   6329   CE LYS D 835      27.912  74.314  19.661  0.00  0.00           C 0
+ATOM   4090  OD1 ASP D 532      26.328  73.921  27.329  0.67  1.07           O 0
+ATOM   4104   CB SER D 534      25.704  76.952  28.327  0.00  0.00           C 0
+ATOM   4091  OD2 ASP D 532      24.683  72.498  27.617  0.00  0.00           O 0
+ATOM   4173  CG2 ILE D 543      22.131  81.155  25.912  0.00  0.00           C 0
+ATOM   4171   CB ILE D 543      23.474  80.890  25.228  0.00  0.00           C 0
+ATOM   4097  CG1 ILE D 533      28.989  76.752  23.318  0.00  0.00           C 0
+ATOM   4092    N ILE D 533      28.309  74.480  25.094  0.74  3.28           N 0
+ATOM   4085   CA ASP D 532      27.267  72.276  25.134  0.00  0.00           C 0
+ATOM   4168   CA ILE D 543      24.508  80.468  26.294  0.00  0.00           C 0
+ATOM   6302   SG CYS D 831      29.305  80.394  19.595  0.00  0.00           S 0
+ATOM   4099  CD1 ILE D 533      29.598  77.498  22.132  0.00  0.00           C 0
+ATOM   4179   CB ASN D 544      28.222  80.648  23.549  0.00  0.00           C 0
+ATOM   4182  ND2 ASN D 544      26.925  82.131  22.149  0.82  9.84           N 0
+ATOM   6301   CB CYS D 831      29.819  79.003  18.556  0.00  0.00           C 0
+ATOM   4174  CD1 ILE D 543      23.005  82.562  23.369  0.00  0.00           C 0
+ATOM   4172  CG1 ILE D 543      23.950  82.133  24.475  0.00  0.00           C 0
+TER
+END

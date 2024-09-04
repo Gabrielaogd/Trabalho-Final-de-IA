@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0403
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9199
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7050
+HEADER 5  - Mean B-factor of pocket residues  : 0.1768
+HEADER 6  - Hydrophobicity Score              : 5.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.9381
+HEADER 10 - Pocket volume (convex hull)       : 6.0219
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1332    O VAL B 208     -22.929 -32.444  38.495  0.54  2.14           O 0
+ATOM   1354    O ASP B 211     -21.535 -37.033  39.236  0.56  8.57           O 0
+ATOM   1355   CB ASP B 211     -21.183 -35.027  41.321  0.00  0.00           C 0
+ATOM   1334  CG1 VAL B 208     -25.859 -31.322  39.471  0.00  0.00           C 0
+ATOM   1353    C ASP B 211     -21.157 -35.894  38.978  0.00  0.00           C 0
+ATOM   1363   CB SER B 212     -23.031 -34.947  36.042  0.00  0.00           C 0
+ATOM   1840  CE1 TYR B 273     -26.420 -32.805  35.640  0.00  0.00           C 0
+ATOM   1843   OH TYR B 273     -28.477 -32.509  36.837  0.92  7.50           O 0
+ATOM   1822    O GLY B 271     -26.094 -36.404  34.908  0.58  9.64           O 0
+ATOM   1360   CA SER B 212     -22.096 -35.964  36.713  0.00  0.00           C 0
+ATOM   1330   CA VAL B 208     -23.509 -31.006  40.338  0.00  0.00           C 0
+ATOM   1335  CG2 VAL B 208     -25.464 -30.061  41.591  0.00  0.00           C 0
+ATOM   1358  OD2 ASP B 211     -20.803 -34.547  43.616  0.00  0.00           O 0
+ATOM   1329    N VAL B 208     -22.649 -30.127  41.112  0.00  0.00           N 0
+ATOM   1326   CB PRO B 207     -21.176 -29.270  43.674  0.00  0.00           C 0
+ATOM   1324    C PRO B 207     -21.415 -30.475  41.467  0.00  0.00           C 0
+TER
+END

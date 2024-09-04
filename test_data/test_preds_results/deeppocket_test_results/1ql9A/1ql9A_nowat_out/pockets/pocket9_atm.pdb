@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0437
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9443
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4586
+HEADER 5  - Mean B-factor of pocket residues  : 0.3501
+HEADER 6  - Hydrophobicity Score              : 18.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 199.4219
+HEADER 10 - Pocket volume (convex hull)       : 2.0435
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM    343   NE ARG A  62       7.145  22.533  57.431  0.47  7.66           N 0
+ATOM    514   CG ASN A  84       4.902  23.421  50.250  0.00  0.00           C 0
+ATOM    516  ND2 ASN A  84       4.329  24.340  51.014  0.00  0.00           N 0
+ATOM    513   CB ASN A  84       6.287  23.744  49.717  0.00  0.00           C 0
+ATOM    346  NH2 ARG A  62       5.843  20.653  57.186  0.00  0.00           N 0
+ATOM    515  OD1 ASN A  84       4.352  22.359  49.972  0.00  0.00           O 0
+ATOM    341   CG ARG A  62       8.694  24.483  57.336  0.00  0.00           C 0
+ATOM    520    O ALA A  85      10.443  24.684  50.528  0.25  6.43           O 0
+ATOM    340   CB ARG A  62       7.920  25.712  56.865  0.00  0.00           C 0
+ATOM    350    O ILE A  63       6.914  27.414  51.560  0.00  0.00           O 0
+ATOM    347    N ILE A  63       7.862  27.861  54.175  0.00  0.00           N 0
+ATOM    337   CA ARG A  62       8.777  26.736  56.112  0.00  0.00           C 0
+ATOM    333    O SER A  61      11.456  26.041  56.372  0.00  0.00           O 0
+TER
+END

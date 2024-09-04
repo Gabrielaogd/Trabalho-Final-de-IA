@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0051
+HEADER 1  - Drug Score                        : 0.0065
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8768
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7143
+HEADER 5  - Mean B-factor of pocket residues  : 0.1413
+HEADER 6  - Hydrophobicity Score              : 17.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 358.4750
+HEADER 10 - Pocket volume (convex hull)       : 12.0804
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM    270   CB MET A  34     -29.734  83.279  68.453  0.00  0.00           C 0
+ATOM    239   CA LYS A  31     -27.635  86.213  71.438  0.00  0.00           C 0
+ATOM    241    O LYS A  31     -29.933  85.737  71.025  0.79  1.07           O 0
+ATOM    243   CG LYS A  31     -27.902  85.873  74.025  0.00  0.00           C 0
+ATOM    281  CD1 ILE A  35     -33.087  83.945  73.689  0.00  0.00           C 0
+ATOM    269    O MET A  34     -32.918  82.865  68.405  0.00  0.00           O 0
+ATOM    299   CG LYS A  38     -33.374  79.738  68.265  0.00  0.00           C 0
+ATOM    303    N GLU A  39     -37.514  81.522  67.870  0.00  0.00           N 0
+ATOM    296    C LYS A  38     -37.020  80.465  67.264  0.00  0.00           C 0
+ATOM    298   CB LYS A  38     -34.849  80.077  68.392  0.00  0.00           C 0
+ATOM    311  OE2 GLU A  39     -40.532  81.273  70.936  0.43  9.64           O 0
+ATOM    277    O ILE A  35     -35.830  83.895  69.700  0.56  3.21           O 0
+ATOM    280  CG2 ILE A  35     -35.121  85.575  72.348  0.00  0.00           C 0
+ATOM    274    N ILE A  35     -32.410  84.523  69.822  0.00  0.00           N 0
+ATOM    297    O LYS A  38     -37.724  79.522  66.894  0.65  5.36           O 0
+ATOM    268    C MET A  34     -32.167  83.771  68.750  0.00  0.00           C 0
+ATOM    275   CA ILE A  35     -33.671  84.420  70.566  0.00  0.00           C 0
+ATOM    271   CG MET A  34     -28.615  83.035  67.417  0.00  0.00           C 0
+ATOM    237  NE2 HIS A  30     -25.213  83.371  67.366  0.75  7.66           N 0
+ATOM    235  CD2 HIS A  30     -24.983  84.373  68.264  0.00  0.00           C 0
+TER
+END

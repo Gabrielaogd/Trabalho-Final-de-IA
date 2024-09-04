@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.1185
+HEADER 1  - Drug Score                        : 0.1367
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7274
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4969
+HEADER 5  - Mean B-factor of pocket residues  : 0.1032
+HEADER 6  - Hydrophobicity Score              : 74.4444
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 212.4139
+HEADER 10 - Pocket volume (convex hull)       : 9.7406
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.8571
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6087
+ATOM   2264  CG2 ILE B 280      26.814  17.385  49.783  0.00  0.00           C 0
+ATOM   2097  CG1 VAL B 258      28.034  21.831  45.083  0.00  0.00           C 0
+ATOM   2074    O VAL B 255      31.168  18.506  44.276  0.73  3.21           O 0
+ATOM   2243  NE2 GLN B 277      25.962  15.416  45.789  0.75  3.28           N 0
+ATOM   2075   CB VAL B 255      29.601  15.814  43.353  0.00  0.00           C 0
+ATOM   2265  CD1 ILE B 280      26.664  14.468  48.766  0.00  0.00           C 0
+ATOM   2106  CD2 LEU B 259      33.760  18.352  48.728  0.00  0.00           C 0
+ATOM   2105  CD1 LEU B 259      31.958  19.898  49.489  0.00  0.00           C 0
+ATOM   2103   CB LEU B 259      32.752  19.957  47.120  0.00  0.00           C 0
+ATOM   2099    N LEU B 259      31.459  21.276  45.518  0.00  0.00           N 0
+ATOM   1002  CZ2 TRP B 125      28.555  22.175  48.998  0.00  0.00           C 0
+ATOM   2166  CZ3 TRP B 267      25.027  19.354  43.798  0.00  0.00           C 0
+ATOM   2273  CD2 LEU B 281      24.720  21.889  47.900  0.00  0.00           C 0
+ATOM   2167  CH2 TRP B 267      25.445  18.176  43.150  0.00  0.00           C 0
+ATOM   2077  CG2 VAL B 255      30.646  14.806  42.887  0.00  0.00           C 0
+ATOM   2079   CA ALA B 256      33.564  18.087  43.031  0.00  0.00           C 0
+ATOM   2078    N ALA B 256      32.286  17.534  42.587  0.00  0.00           N 0
+ATOM   2073    C VAL B 255      31.171  17.801  43.265  0.00  0.00           C 0
+ATOM   2096   CB VAL B 258      28.839  21.307  43.897  0.00  0.00           C 0
+ATOM   2072   CA VAL B 255      29.863  17.215  42.732  0.00  0.00           C 0
+TER
+END

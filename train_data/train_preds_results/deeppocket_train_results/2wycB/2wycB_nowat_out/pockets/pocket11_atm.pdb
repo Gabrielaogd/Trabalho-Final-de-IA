@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0947
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7311
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5145
+HEADER 5  - Mean B-factor of pocket residues  : 0.7022
+HEADER 6  - Hydrophobicity Score              : 23.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 136.9052
+HEADER 10 - Pocket volume (convex hull)       : 1.5379
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM   2744    C LEU B 348      30.369  74.357  18.242  0.00  0.00           C 0
+ATOM   2746   CB LEU B 348      32.807  74.292  17.712  0.00  0.00           C 0
+ATOM   2700    O ASN B 342      33.989  78.564  15.621  0.00  0.00           O 0
+ATOM   2776   SG CYS B 352      32.662  76.268  21.223  0.00  0.00           S 0
+ATOM   2775   CB CYS B 352      31.043  76.942  21.632  0.00  0.00           C 0
+ATOM   2675    O CYS B 339      34.456  79.972  19.487  0.61  3.21           O 0
+ATOM   2706   CA GLN B 343      32.647  80.963  16.044  0.00  0.00           C 0
+ATOM   2710   CG GLN B 343      32.448  82.721  17.866  0.00  0.00           C 0
+ATOM   2708    O GLN B 343      30.914  80.264  14.539  0.43  7.50           O 0
+ATOM   2709   CB GLN B 343      32.293  82.406  16.391  0.00  0.00           C 0
+ATOM   2750    N ALA B 349      29.462  74.852  17.395  0.00  0.00           N 0
+ATOM   2751   CA ALA B 349      28.408  75.785  17.822  0.00  0.00           C 0
+ATOM   2721    O GLU B 345      31.219  75.775  14.711  0.00  0.00           O 0
+ATOM   2753    O ALA B 349      27.591  76.011  20.073  0.00  0.00           O 0
+TER
+END

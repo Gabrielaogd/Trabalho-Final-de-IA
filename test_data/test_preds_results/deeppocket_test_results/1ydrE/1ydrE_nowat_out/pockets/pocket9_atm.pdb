@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1016
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7558
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4783
+HEADER 5  - Mean B-factor of pocket residues  : 0.2243
+HEADER 6  - Hydrophobicity Score              : -11.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 238.4676
+HEADER 10 - Pocket volume (convex hull)       : 11.9733
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1500
+ATOM    505   NZ LYS E  76      12.135  25.986 -10.797  0.00  0.00           N 0
+ATOM    807    O ASP E 112      10.284  26.798  -9.214  0.71  1.07           O 0
+ATOM   2682  OE2 GLU E 341      10.613  29.446 -14.887  0.00  0.00           O 0
+ATOM    800   CG LYS E 111       7.258  23.812 -11.633  0.00  0.00           C 0
+ATOM    802   CE LYS E 111       7.506  23.742 -14.138  0.00  0.00           C 0
+ATOM    805   CA ASP E 112       8.106  27.315  -8.461  0.00  0.00           C 0
+ATOM    798    O LYS E 111       5.924  26.011  -9.389  0.47  4.29           O 0
+ATOM    819  ND2 ASN E 113      10.485  31.374 -10.515  0.52  5.47           N 0
+ATOM    185  OD1 ASN E  36       3.574  23.867 -11.637  0.55  2.14           O 0
+ATOM    801   CD LYS E 111       8.026  23.187 -12.805  0.00  0.00           C 0
+ATOM    803   NZ LYS E 111       8.195  23.204 -15.343  0.50  4.37           N 0
+ATOM    806    C ASP E 112       9.543  27.662  -8.784  0.00  0.00           C 0
+ATOM    812    N ASN E 113       9.919  28.923  -8.610  0.50  2.19           N 0
+ATOM   2701    O GLY E 344      12.545  24.609 -17.261  0.69  2.14           O 0
+ATOM   2699   CA GLY E 344      13.486  26.377 -15.993  0.00  0.00           C 0
+ATOM   2724   CB PHE E 347      12.316  21.269 -13.970  0.00  0.00           C 0
+TER
+END

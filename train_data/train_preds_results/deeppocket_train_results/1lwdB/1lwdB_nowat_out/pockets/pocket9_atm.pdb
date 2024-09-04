@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1538
+HEADER 1  - Drug Score                        : 0.0041
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5180
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3866
+HEADER 5  - Mean B-factor of pocket residues  : 0.0973
+HEADER 6  - Hydrophobicity Score              : 16.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 70.4505
+HEADER 10 - Pocket volume (convex hull)       : 0.2754
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM    876    O ARG B 110      17.440  23.497  46.854  0.62  2.14           O 0
+ATOM   2248   CB SER B 278      18.646  17.646  47.976  0.00  0.00           C 0
+ATOM   2272  CD1 LEU B 281      22.429  21.943  46.950  0.00  0.00           C 0
+ATOM   2245   CA SER B 278      20.157  17.657  48.268  0.00  0.00           C 0
+ATOM    885   CA GLU B 111      17.297  25.253  48.989  0.00  0.00           C 0
+ATOM   2270   CB LEU B 281      22.789  21.011  49.229  0.00  0.00           C 0
+ATOM   2339   SD MET B 291      17.227  20.176  51.403  0.00  0.00           S 0
+ATOM    886    C GLU B 111      17.469  25.339  50.494  0.00  0.00           C 0
+ATOM    893    N PRO B 112      18.655  25.755  50.945  0.00  0.00           N 0
+ATOM   2247    O SER B 278      20.370  18.457  50.527  0.00  0.00           O 0
+ATOM    877   CB ARG B 110      15.833  21.011  47.713  0.00  0.00           C 0
+ATOM   2274    N ALA B 282      22.035  20.336  52.135  0.00  0.00           N 0
+ATOM    899   CD PRO B 112      19.841  26.162  50.166  0.00  0.00           C 0
+TER
+END

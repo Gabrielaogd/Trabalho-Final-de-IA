@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0754
+HEADER 1  - Drug Score                        : 0.0896
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8366
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5764
+HEADER 5  - Mean B-factor of pocket residues  : 0.2425
+HEADER 6  - Hydrophobicity Score              : 52.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.6440
+HEADER 10 - Pocket volume (convex hull)       : 4.4202
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 21.0000
+HEADER 13 - Number of apolar alpha sphere     :    22
+HEADER 14 - Proportion of apolar alpha sphere : 0.9167
+ATOM   3669  CD1 TYR A 477       5.564  35.000  72.259  0.00  0.00           C 0
+ATOM   3651   CB HIS A 475       2.558  36.606  76.489  0.00  0.00           C 0
+ATOM   3671  CE1 TYR A 477       5.781  36.382  72.409  0.00  0.00           C 0
+ATOM   3648   CA HIS A 475       2.722  36.403  74.976  0.00  0.00           C 0
+ATOM   3642    O LEU A 474       3.817  38.972  74.746  0.56  3.21           O 0
+ATOM   4070   CB TRP A 528       8.074  41.082  77.787  0.00  0.00           C 0
+ATOM   3231  NH1 ARG A 422       5.862  40.347  73.466  0.76  2.19           N 0
+ATOM   3657    N SER A 476       2.500  33.987  74.922  0.43  8.75           N 0
+ATOM   3201  CD1 LEU A 419       9.343  35.560  72.838  0.00  0.00           C 0
+ATOM   4076  CE3 TRP A 528      11.067  39.580  77.677  0.00  0.00           C 0
+ATOM   4073  CD2 TRP A 528      10.633  40.797  77.123  0.00  0.00           C 0
+ATOM   3238   CG MET A 423      12.331  37.631  74.185  0.00  0.00           C 0
+ATOM   3239   SD MET A 423      12.255  35.911  74.672  0.00  0.00           S 0
+ATOM   3226   CB ARG A 422      10.384  41.469  72.128  0.00  0.00           C 0
+ATOM   3228   CD ARG A 422       7.900  41.413  71.806  0.00  0.00           C 0
+ATOM   3230   CZ ARG A 422       6.437  41.504  73.795  0.00  0.00           C 0
+ATOM   4071   CG TRP A 528       9.372  41.499  77.106  0.00  0.00           C 0
+ATOM   3229   NE ARG A 422       7.400  42.021  73.037  0.47  1.09           N 0
+TER
+END

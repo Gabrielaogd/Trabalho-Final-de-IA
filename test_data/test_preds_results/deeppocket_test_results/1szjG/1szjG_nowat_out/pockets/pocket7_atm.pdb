@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1496
+HEADER 1  - Drug Score                        : 0.1305
+HEADER 2  - Number of alpha spheres           :    34
+HEADER 3  - Mean alpha-sphere radius          : 3.9283
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5581
+HEADER 5  - Mean B-factor of pocket residues  : 0.1481
+HEADER 6  - Hydrophobicity Score              : 50.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 242.9109
+HEADER 10 - Pocket volume (convex hull)       : 3.9461
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 22.0000
+HEADER 13 - Number of apolar alpha sphere     :    23
+HEADER 14 - Proportion of apolar alpha sphere : 0.6765
+ATOM   2216   CA LEU G 300     -32.640   2.554  -9.399  0.00  0.00           C 0
+ATOM   2202   CB ILE G 298     -26.657   4.480  -9.376  0.00  0.00           C 0
+ATOM   2221  CD1 LEU G 300     -32.666  -0.489 -10.286  0.00  0.00           C 0
+ATOM   2209    O GLN G 299     -31.389   4.587 -10.661  0.67  5.36           O 0
+ATOM   2205  CD1 ILE G 298     -25.605   2.487  -8.090  0.00  0.00           C 0
+ATOM   2204  CG2 ILE G 298     -25.778   4.346 -10.600  0.00  0.00           C 0
+ATOM   2215    N LEU G 300     -32.068   3.729  -8.734  0.00  0.00           N 0
+ATOM   2203  CG1 ILE G 298     -25.946   3.971  -8.130  0.00  0.00           C 0
+ATOM   2219   CB LEU G 300     -32.665   1.322  -8.495  0.00  0.00           C 0
+ATOM   2201    O ILE G 298     -28.599   5.856  -7.284  0.00  0.00           O 0
+ATOM   2248    O PHE G 304     -33.228   4.447  -6.203  0.00  0.00           O 0
+ATOM   2257   CA VAL G 305     -31.137   5.672  -4.844  0.00  0.00           C 0
+ATOM   2252  CD2 PHE G 304     -33.458   0.635  -4.458  0.00  0.00           C 0
+ATOM   2256    N VAL G 305     -32.321   5.079  -4.235  0.00  0.00           N 0
+ATOM   2267   CB LYS G 306     -26.710   4.340  -4.383  0.00  0.00           C 0
+ATOM   2254  CE2 PHE G 304     -32.769  -0.361  -3.784  0.00  0.00           C 0
+ATOM   2270   CE LYS G 306     -25.125   1.540  -3.966  0.00  0.00           C 0
+ATOM   1800  CG2 THR G 243     -29.590   1.556  -1.229  0.00  0.00           C 0
+ATOM   2258    C VAL G 305     -29.927   5.468  -3.947  0.00  0.00           C 0
+ATOM   2263    N LYS G 306     -28.729   5.652  -4.504  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0291
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.5852
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4477
+HEADER 5  - Mean B-factor of pocket residues  : 0.1470
+HEADER 6  - Hydrophobicity Score              : 14.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 89.4229
+HEADER 10 - Pocket volume (convex hull)       : 0.9250
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM   1789   CA GLY A 260      14.985  16.644 -22.527  0.00  0.00           C 0
+ATOM     89  OE1 GLU A  35      10.237  16.152 -21.873  0.53  2.14           O 0
+ATOM   1788    N GLY A 260      15.906  15.566 -22.222  0.48  2.19           N 0
+ATOM   1803   CB ARG A 262      11.499  16.356 -17.825  0.00  0.00           C 0
+ATOM   1799    N ARG A 262      13.025  17.881 -19.013  0.00  0.00           N 0
+ATOM   1810    N ILE A 263      15.072  16.740 -17.698  0.00  0.00           N 0
+ATOM   1747    O ASN A 254      12.145  10.082 -21.483  0.46  5.36           O 0
+ATOM   1779    O GLY A 258      16.396  12.012 -21.702  0.47  3.21           O 0
+ATOM     65   CB SER A  32      14.620  14.029 -25.537  0.00  0.00           C 0
+ATOM   1753   CA LEU A 255      12.622  10.077 -18.751  0.00  0.00           C 0
+ATOM   1758  CD1 LEU A 255      11.146  12.570 -17.602  0.00  0.00           C 0
+ATOM   1755    O LEU A 255      14.957  10.439 -18.396  0.61  3.21           O 0
+ATOM     90  OE2 GLU A  35       9.773  14.165 -22.704  0.54  1.07           O 0
+ATOM   1801    C ARG A 262      13.892  16.569 -17.101  0.00  0.00           C 0
+TER
+END

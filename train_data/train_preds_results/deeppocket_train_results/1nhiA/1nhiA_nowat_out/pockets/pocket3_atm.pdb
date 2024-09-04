@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0240
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7558
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5761
+HEADER 5  - Mean B-factor of pocket residues  : 0.1829
+HEADER 6  - Hydrophobicity Score              : 3.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.5585
+HEADER 10 - Pocket volume (convex hull)       : 5.5725
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM    850   CD ARG A 113       0.020   4.852  44.805  0.00  0.00           C 0
+ATOM    907   CB ALA A 120       3.460   6.743  44.736  0.00  0.00           C 0
+ATOM   1051    O HIS A 139       2.367   4.137  47.337  0.00  0.00           O 0
+ATOM    888    O GLN A 118       0.671   2.798  41.511  0.00  0.00           O 0
+ATOM    895   CA GLU A 119       1.355   5.381  40.683  0.00  0.00           C 0
+ATOM    899   CG GLU A 119       1.827   5.306  38.147  0.00  0.00           C 0
+ATOM   1041    O ALA A 137       6.130   5.914  43.051  0.00  0.00           O 0
+ATOM    851   NE ARG A 113       0.059   3.805  45.826  0.42  3.28           N 0
+ATOM   1048    N HIS A 139       5.063   4.541  46.863  0.65  2.19           N 0
+ATOM    898   CB GLU A 119       1.723   6.141  39.406  0.00  0.00           C 0
+ATOM    906    O ALA A 120       4.375   8.313  41.986  0.00  0.00           O 0
+ATOM   1035   CB PRO A 136       8.046   8.415  38.891  0.00  0.00           C 0
+ATOM    902  OE2 GLU A 119       3.123   6.056  36.287  0.61  8.57           O 0
+ATOM   1044   CA ALA A 138       6.877   4.371  45.247  0.00  0.00           C 0
+ATOM   1047   CB ALA A 138       7.892   3.224  45.349  0.00  0.00           C 0
+ATOM    903    N ALA A 120       2.566   6.480  42.463  0.00  0.00           N 0
+TER
+END

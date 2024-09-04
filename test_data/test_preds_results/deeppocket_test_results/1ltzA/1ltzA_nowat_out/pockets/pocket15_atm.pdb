@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0203
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0990
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5449
+HEADER 5  - Mean B-factor of pocket residues  : 0.1711
+HEADER 6  - Hydrophobicity Score              : 13.2222
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 149.0109
+HEADER 10 - Pocket volume (convex hull)       : 1.3052
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1377  NH1 ARG A 177     -22.988   5.220  13.507  0.57  2.19           N 0
+ATOM   1354   CE MET A 174     -27.484   8.514  12.971  0.00  0.00           C 0
+ATOM   1324   CA GLY A 170     -29.016   7.701  17.113  0.00  0.00           C 0
+ATOM   1326    O GLY A 170     -26.828   8.520  16.600  0.71  1.07           O 0
+ATOM   1378  NH2 ARG A 177     -22.932   3.336  14.825  0.40  9.84           N 0
+ATOM   1344   CB PRO A 173     -24.056   5.867  18.067  0.00  0.00           C 0
+ATOM   1345   CG PRO A 173     -25.238   5.720  18.956  0.00  0.00           C 0
+ATOM   2107   CG PRO A 270     -24.079   1.337  11.693  0.00  0.00           C 0
+ATOM   2078    O ALA A 266     -30.764   4.751  11.780  0.00  0.00           O 0
+ATOM   2070    O LEU A 265     -28.482   6.439   9.907  0.00  0.00           O 0
+ATOM   1352   CG MET A 174     -25.007   9.018  14.114  0.00  0.00           C 0
+ATOM   2091    O ALA A 268     -27.477   2.415   9.450  0.14  4.29           O 0
+ATOM   1785  ND2 ASN A 229     -24.353   4.925   9.217  0.17  3.28           N 0
+TER
+END

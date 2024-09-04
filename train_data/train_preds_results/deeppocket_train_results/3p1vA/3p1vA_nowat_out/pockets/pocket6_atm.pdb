@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0300
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5550
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3376
+HEADER 5  - Mean B-factor of pocket residues  : 0.0254
+HEADER 6  - Hydrophobicity Score              : 53.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 96.2896
+HEADER 10 - Pocket volume (convex hull)       : 2.0274
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   2203  CE1 TYR A 295     -18.227   7.258  88.204  0.00  0.00           C 0
+ATOM   2206   OH TYR A 295     -16.843   6.101  89.787  0.88  1.07           O 0
+ATOM   1911   OH TYR A 256     -15.264   1.305  85.283  0.75  4.29           O 0
+ATOM   1926  CG2 THR A 258     -13.449   4.135  87.289  0.00  0.00           C 0
+ATOM   2168  CD1 ILE A 291     -18.999   0.765  87.120  0.00  0.00           C 0
+ATOM    604  CD1 LEU A  94     -15.264   0.988  89.036  0.00  0.00           C 0
+ATOM   1908  CE1 TYR A 256     -13.699   2.682  84.137  0.00  0.00           C 0
+ATOM   2155    C GLY A 289     -18.140   5.564  82.699  0.00  0.00           C 0
+ATOM   2194   OG SER A 294     -21.700   4.004  89.924  0.63  9.64           O 0
+ATOM   2166  CG1 ILE A 291     -19.947   1.189  85.868  0.00  0.00           C 0
+ATOM   2198    O TYR A 295     -21.473   6.324  85.840  0.63  2.14           O 0
+ATOM   2156    O GLY A 289     -18.261   6.559  83.431  0.56  1.07           O 0
+ATOM   1915    O LEU A 257     -13.278   6.823  85.396  0.00  0.00           O 0
+TER
+END

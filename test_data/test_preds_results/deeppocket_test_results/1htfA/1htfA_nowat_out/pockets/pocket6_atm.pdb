@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0103
+HEADER 1  - Drug Score                        : 0.0042
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8985
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5229
+HEADER 5  - Mean B-factor of pocket residues  : 0.1080
+HEADER 6  - Hydrophobicity Score              : 38.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.5522
+HEADER 10 - Pocket volume (convex hull)       : 16.2801
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.9333
+ATOM    731    N LEU A  97      35.717  -2.284  -1.967  0.00  0.00           N 0
+ATOM    736   CG LEU A  97      33.179  -2.785  -0.135  0.00  0.00           C 0
+ATOM    737  CD1 LEU A  97      32.169  -3.887   0.127  0.00  0.00           C 0
+ATOM    735   CB LEU A  97      34.553  -3.345  -0.028  0.00  0.00           C 0
+ATOM    206  CG2 THR A  26      30.063  -0.969  -1.931  0.00  0.00           C 0
+ATOM    721    O CYS A  95      35.237  -0.863  -6.214  0.00  0.00           O 0
+ATOM    726    C THR A  96      36.250  -1.176  -2.453  0.00  0.00           C 0
+ATOM    723   SG CYS A  95      33.959   2.472  -4.739  0.00  0.00           S 0
+ATOM    660   CG ARG A  87      27.479  -2.761  -6.645  0.00  0.00           C 0
+ATOM    661   CD ARG A  87      27.551  -4.266  -6.428  0.00  0.00           C 0
+ATOM    203    O THR A  26      26.433  -3.208  -3.105  0.58  7.50           O 0
+ATOM    204   CB THR A  26      28.735  -1.737  -1.745  0.00  0.00           C 0
+ATOM    696  CG2 THR A  91      31.894  -2.768 -10.735  0.00  0.00           C 0
+ATOM    659   CB ARG A  87      27.436  -2.485  -8.131  0.00  0.00           C 0
+ATOM    688  CD1 LEU A  90      29.400   1.421  -5.537  0.00  0.00           C 0
+ATOM    686   CB LEU A  90      30.856   1.279  -7.583  0.00  0.00           C 0
+TER
+END

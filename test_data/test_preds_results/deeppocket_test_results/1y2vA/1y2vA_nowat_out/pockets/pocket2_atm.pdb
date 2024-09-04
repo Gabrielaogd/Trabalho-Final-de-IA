@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.3397
+HEADER 1  - Drug Score                        : 0.2154
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9425
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5801
+HEADER 5  - Mean B-factor of pocket residues  : 0.2410
+HEADER 6  - Hydrophobicity Score              : 16.8571
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 250.9433
+HEADER 10 - Pocket volume (convex hull)       : 10.4028
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM    717   CG LEU A  91      39.266  22.386  39.397  0.00  0.00           C 0
+ATOM    748   CG GLN A  95      40.219  26.553  43.209  0.00  0.00           C 0
+ATOM    750  OE1 GLN A  95      39.110  24.458  43.170  0.86  4.29           O 0
+ATOM    715    O LEU A  91      41.667  24.321  41.205  0.67  2.14           O 0
+ATOM    749   CD GLN A  95      39.111  25.619  43.587  0.00  0.00           C 0
+ATOM    214  CE3 TRP A  26      39.563  30.303  42.193  0.00  0.00           C 0
+ATOM    216  CZ3 TRP A  26      38.876  29.729  43.269  0.00  0.00           C 0
+ATOM    199    O ASN A  25      39.014  30.049  37.178  0.36  5.36           O 0
+ATOM    218    N LYS A  27      38.134  32.814  39.912  0.00  0.00           N 0
+ATOM    222   CB LYS A  27      35.799  32.699  40.620  0.00  0.00           C 0
+ATOM    739   CB ASN A  94      43.909  27.495  39.913  0.00  0.00           C 0
+ATOM    740   CG ASN A  94      43.894  28.882  39.254  0.00  0.00           C 0
+ATOM    741  OD1 ASN A  94      43.485  29.006  38.099  0.93  1.07           O 0
+ATOM    193   CB THR A  24      42.181  26.343  35.876  0.00  0.00           C 0
+ATOM    713   CA LEU A  91      41.789  23.169  39.081  0.00  0.00           C 0
+ATOM    718  CD1 LEU A  91      38.226  21.666  38.561  0.00  0.00           C 0
+ATOM    195  CG2 THR A  24      42.328  24.842  35.641  0.00  0.00           C 0
+TER
+END

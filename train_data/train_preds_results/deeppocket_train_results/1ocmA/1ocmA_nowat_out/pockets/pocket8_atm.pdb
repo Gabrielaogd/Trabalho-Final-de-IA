@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1448
+HEADER 1  - Drug Score                        : 0.0257
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8946
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5019
+HEADER 5  - Mean B-factor of pocket residues  : 0.3877
+HEADER 6  - Hydrophobicity Score              : 25.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 322.2017
+HEADER 10 - Pocket volume (convex hull)       : 26.1018
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4231
+ATOM   2372  NH2 ARG A 320      -5.760  13.722  32.267  0.00  0.00           N 0
+ATOM   2344  OE1 GLU A 317      -8.843  13.899  30.647  0.00  0.00           O 0
+ATOM   2306   CE LYS A 313      -9.855  18.037  36.516  0.00  0.00           C 0
+ATOM   2307   NZ LYS A 313     -10.629  18.218  35.253  0.67  6.56           N 0
+ATOM   2304   CG LYS A 313      -7.655  18.748  35.496  0.00  0.00           C 0
+ATOM   2302    O LYS A 313      -5.917  18.388  32.529  0.39  1.07           O 0
+ATOM   2342   CG GLU A 317      -8.758  15.799  29.206  0.00  0.00           C 0
+ATOM   2341   CB GLU A 317      -7.562  16.508  29.839  0.00  0.00           C 0
+ATOM   2309   CA GLU A 314      -7.048  20.478  31.233  0.00  0.00           C 0
+ATOM   2312   CB GLU A 314      -7.858  21.740  30.936  0.00  0.00           C 0
+ATOM   2311    O GLU A 314      -6.125  19.707  29.198  0.67  2.14           O 0
+ATOM   1971  NH2 ARG A 271     -12.260  18.361  23.846  0.00  0.00           N 0
+ATOM   2003  CG2 ILE A 275      -5.551  22.828  26.605  0.00  0.00           C 0
+ATOM   2002  CG1 ILE A 275      -7.351  23.273  24.912  0.00  0.00           C 0
+ATOM   2380  CD1 ILE A 321      -9.319  15.688  25.046  0.00  0.00           C 0
+ATOM   1978  CG2 ILE A 272      -8.739  19.238  23.359  0.00  0.00           C 0
+ATOM   2350   CB ALA A 318      -5.116  19.183  25.869  0.00  0.00           C 0
+ATOM   1970  NH1 ARG A 271     -12.264  20.624  23.466  0.35  8.75           N 0
+ATOM   2315  OE1 GLU A 314      -8.800  24.270  29.881  0.00  0.00           O 0
+ATOM   2004  CD1 ILE A 275      -7.799  24.608  25.490  0.00  0.00           C 0
+ATOM   2346    N ALA A 318      -5.660  17.403  27.458  0.00  0.00           N 0
+ATOM   2347   CA ALA A 318      -5.491  17.715  26.043  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0081
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9239
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5776
+HEADER 5  - Mean B-factor of pocket residues  : 0.2771
+HEADER 6  - Hydrophobicity Score              : 7.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 187.4712
+HEADER 10 - Pocket volume (convex hull)       : 1.6593
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM    564   CB GLN A 423       4.566  -0.703  21.538  0.00  0.00           C 0
+ATOM    373  CD2 HIS A 400       9.799  -5.374  19.726  0.00  0.00           C 0
+ATOM    362    O VAL A 399       6.959  -6.131  16.584  0.00  0.00           O 0
+ATOM    367   CA HIS A 400       8.565  -3.881  16.964  0.00  0.00           C 0
+ATOM    288  CG2 VAL A 391       9.055  -3.596  22.682  0.00  0.00           C 0
+ATOM    560    N GLN A 423       3.952  -0.701  19.151  0.63  2.19           N 0
+ATOM    555   CB LYS A 422       4.161  -2.673  16.558  0.00  0.00           C 0
+ATOM    561   CA GLN A 423       3.442  -0.512  20.513  0.00  0.00           C 0
+ATOM    553    C LYS A 422       3.145  -0.986  18.132  0.00  0.00           C 0
+ATOM    554    O LYS A 422       1.923  -1.059  18.252  0.26  9.64           O 0
+ATOM    369    O HIS A 400       7.553  -1.710  16.727  0.53  1.07           O 0
+ATOM    370   CB HIS A 400       9.755  -3.561  17.870  0.00  0.00           C 0
+ATOM    269    O LYS A 389      10.333  -0.117  21.608  0.38  1.07           O 0
+ATOM    549  OD1 ASP A 421       6.140   1.288  19.182  0.00  0.00           O 0
+TER
+END

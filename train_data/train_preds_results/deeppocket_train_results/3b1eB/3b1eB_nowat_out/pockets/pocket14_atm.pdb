@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0377
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1930
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6191
+HEADER 5  - Mean B-factor of pocket residues  : 0.0252
+HEADER 6  - Hydrophobicity Score              : 10.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 250.1831
+HEADER 10 - Pocket volume (convex hull)       : 5.2976
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM    817   CB SER B  99      22.351  54.260  55.872  0.00  0.00           C 0
+ATOM   1011  NH2 ARG B 124      19.771  56.771  62.326  0.65  8.75           N 0
+ATOM   1017   OG SER B 125      23.431  55.201  60.646  0.00  0.00           O 0
+ATOM    791  CG1 VAL B  95      21.092  59.301  59.723  0.00  0.00           C 0
+ATOM    818   OG SER B  99      21.947  52.916  55.661  0.00  0.00           O 0
+ATOM   1013   CA SER B 125      23.928  52.881  61.269  0.00  0.00           C 0
+ATOM   1059  ND2 ASN B 129      23.172  50.477  57.815  0.46  5.47           N 0
+ATOM   1051  CD2 LEU B 128      18.641  50.471  63.098  0.00  0.00           C 0
+ATOM    789    O VAL B  95      22.665  58.395  56.923  0.65  1.07           O 0
+ATOM    794   CA PRO B  96      20.930  58.974  54.893  0.00  0.00           C 0
+ATOM    793    N PRO B  96      21.143  59.808  56.079  0.78  1.09           N 0
+ATOM    798   CG PRO B  96      19.191  60.599  55.050  0.00  0.00           C 0
+ATOM    799   CD PRO B  96      20.137  60.864  56.202  0.00  0.00           C 0
+ATOM   1008   NE ARG B 124      19.925  54.891  63.633  0.74  5.47           N 0
+ATOM   1048   CB LEU B 128      20.669  49.306  62.118  0.00  0.00           C 0
+TER
+END

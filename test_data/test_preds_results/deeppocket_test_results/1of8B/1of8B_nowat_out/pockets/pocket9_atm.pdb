@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1041
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.8756
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5555
+HEADER 5  - Mean B-factor of pocket residues  : 0.1999
+HEADER 6  - Hydrophobicity Score              : 6.1111
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 2.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 117.4589
+HEADER 10 - Pocket volume (convex hull)       : 2.5755
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.1786
+ATOM    420  CD1 ILE B  78     183.053  37.718  -0.304  0.00  0.00           C 0
+ATOM    414   CA ILE B  78     183.002  34.722   0.487  0.00  0.00           C 0
+ATOM    421    N HIS B  79     184.336  32.804  -0.132  0.00  0.00           N 0
+ATOM    434    O ASP B  80     188.090  35.420  -1.827  0.00  0.00           O 0
+ATOM    419  CG2 ILE B  78     185.165  35.863   0.989  0.00  0.00           C 0
+ATOM   2228  ND2 ASN B 318     180.956  35.267  -6.140  0.83  6.56           N 0
+ATOM    410    O SER B  77     180.931  34.408  -1.356  0.60  2.14           O 0
+ATOM   2227  OD1 ASN B 318     182.451  36.712  -7.020  0.63  5.36           O 0
+ATOM    399   CG PRO B  75     181.104  38.149  -3.578  0.00  0.00           C 0
+ATOM    460   CB ALA B  83     188.002  35.535  -5.790  0.00  0.00           C 0
+ATOM    429  CE1 HIS B  79     184.022  30.898  -4.105  0.00  0.00           C 0
+ATOM    435   CB ASP B  80     188.153  32.711  -2.979  0.00  0.00           C 0
+ATOM    461    N ALA B  84     187.811  37.825  -3.517  0.77  1.09           N 0
+ATOM    465   CB ALA B  84     186.919  38.533  -1.394  0.00  0.00           C 0
+ATOM    462   CA ALA B  84     187.084  38.881  -2.836  0.00  0.00           C 0
+ATOM   2342   CA GLY B 337     185.061  34.168  -9.062  0.00  0.00           C 0
+ATOM    427  ND1 HIS B  79     183.681  31.041  -2.833  0.00  0.00           N 0
+ATOM    431    N ASP B  80     186.971  32.862  -0.861  0.65  1.09           N 0
+ATOM    458    C ALA B  83     188.011  37.874  -4.826  0.00  0.00           C 0
+TER
+END

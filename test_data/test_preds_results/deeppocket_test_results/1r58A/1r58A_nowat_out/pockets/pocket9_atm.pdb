@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0002
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0868
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6513
+HEADER 5  - Mean B-factor of pocket residues  : 0.0526
+HEADER 6  - Hydrophobicity Score              : -5.6250
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 251.7984
+HEADER 10 - Pocket volume (convex hull)       : 8.0314
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   2680   CA GLY A 452      29.668  27.978  37.698  0.00  0.00           C 0
+ATOM   2698  CE2 TYR A 454      32.221  23.689  34.421  0.00  0.00           C 0
+ATOM   2682    O GLY A 452      29.514  25.620  37.339  0.52  5.36           O 0
+ATOM   2681    C GLY A 452      29.008  26.724  37.141  0.00  0.00           C 0
+ATOM   2700   OH TYR A 454      33.230  23.487  36.580  0.00  9.64           O 0
+ATOM   1062    O ASP A 245      36.035  23.301  31.142  0.61  2.14           O 0
+ATOM    922  OD1 ASN A 226      33.426  26.150  30.250  0.61  1.07           O 0
+ATOM    923  ND2 ASN A 226      33.755  28.350  30.538  0.42  9.84           N 0
+ATOM   1074  OD2 ASP A 246      36.691  27.283  29.593  0.53  4.29           O 0
+ATOM   1063   CB ASP A 245      38.498  23.294  32.620  0.00  0.00           C 0
+ATOM   2686    O SER A 453      28.535  26.098  33.919  0.00  0.00           O 0
+ATOM   1288   OH TYR A 273      34.479  22.060  32.828  0.59  3.21           O 0
+ATOM    921   CG ASN A 226      32.997  27.260  30.560  0.00  0.00           C 0
+ATOM    920   CB ASN A 226      31.540  27.441  30.983  0.00  0.00           C 0
+ATOM   2679    N GLY A 452      29.141  29.223  37.165  0.00  0.00           N 0
+ATOM    930  OD1 ASN A 227      29.223  30.597  32.278  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1541
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9343
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6943
+HEADER 5  - Mean B-factor of pocket residues  : 0.5385
+HEADER 6  - Hydrophobicity Score              : 23.4286
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 228.6407
+HEADER 10 - Pocket volume (convex hull)       : 5.3900
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM    588    O PHE B  80       2.233  44.772  54.428  0.63  4.29           O 0
+ATOM    602   CD GLN B  81      -0.495  45.973  57.644  0.00  0.00           C 0
+ATOM    600   CB GLN B  81       1.639  47.215  57.177  0.00  0.00           C 0
+ATOM    603  OE1 GLN B  81      -0.598  45.421  56.541  0.70  3.21           O 0
+ATOM    624   CB GLN B  84       3.235  50.179  57.928  0.00  0.00           C 0
+ATOM    625   CG GLN B  84       2.119  49.885  58.878  0.00  0.00           C 0
+ATOM    627  OE1 GLN B  84       3.218  50.574  60.886  0.00  0.00           O 0
+ATOM    574    O VAL B  78       3.461  41.300  54.643  0.68  9.64           O 0
+ATOM    604  NE2 GLN B  81      -1.030  45.470  58.753  0.00  0.00           N 0
+ATOM    632    O PRO B  85       7.476  50.348  57.941  0.38  8.57           O 0
+ATOM    596    N GLN B  81       2.945  46.774  55.175  0.56  2.19           N 0
+ATOM    586   CA PHE B  80       4.553  45.294  54.175  0.00  0.00           C 0
+ATOM    581    O PRO B  79       6.721  44.203  55.494  0.00  0.00           O 0
+ATOM    640   CB PHE B  86       9.048  49.069  55.077  0.00  0.00           C 0
+ATOM    587    C PHE B  80       3.135  45.593  54.605  0.00  0.00           C 0
+ATOM    580    C PRO B  79       5.885  43.448  55.005  0.00  0.00           C 0
+ATOM    585    N PHE B  80       4.816  43.878  54.347  0.00  0.00           N 0
+TER
+END

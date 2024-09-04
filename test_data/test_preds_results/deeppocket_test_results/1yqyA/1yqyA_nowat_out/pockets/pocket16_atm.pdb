@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0686
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6802
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5161
+HEADER 5  - Mean B-factor of pocket residues  : 0.0622
+HEADER 6  - Hydrophobicity Score              : -3.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 180.7482
+HEADER 10 - Pocket volume (convex hull)       : 1.4922
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   1152   CG LYS A 410      25.769  18.170  -0.275  0.00  0.00           C 0
+ATOM   1154   CE LYS A 410      27.816  16.989  -0.882  0.00  0.00           C 0
+ATOM   1185   NZ LYS A 413      26.478  24.244   1.183  0.00  0.00           N 0
+ATOM   1119  CD1 LEU A 406      27.032  16.896   3.806  0.00  0.00           C 0
+ATOM   1142   CD ARG A 409      23.874  19.714   5.691  0.00  0.00           C 0
+ATOM   1141   CG ARG A 409      22.638  19.625   4.701  0.00  0.00           C 0
+ATOM   1140   CB ARG A 409      22.640  18.310   3.886  0.00  0.00           C 0
+ATOM   1077  OD2 ASP A 400      25.614  24.108   3.648  0.62  6.43           O 0
+ATOM   1145  NH1 ARG A 409      26.290  18.620   6.799  0.41  2.19           N 0
+ATOM   1138    C ARG A 409      22.060  18.961   1.485  0.00  0.00           C 0
+ATOM   1139    O ARG A 409      21.627  20.068   1.203  0.00  0.00           O 0
+ATOM   1147    N LYS A 410      22.901  18.285   0.689  0.00  0.00           N 0
+ATOM   1148   CA LYS A 410      23.396  18.856  -0.584  0.00  0.00           C 0
+TER
+END

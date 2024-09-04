@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1265
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5447
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4372
+HEADER 5  - Mean B-factor of pocket residues  : 0.0461
+HEADER 6  - Hydrophobicity Score              : 31.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 68.9986
+HEADER 10 - Pocket volume (convex hull)       : 0.5084
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM    934  CE1 PHE D 118      79.682   9.607 -20.401  0.00  0.00           C 0
+ATOM    734   CA GLY D  96      76.648   7.960 -22.406  0.00  0.00           C 0
+ATOM   2272    O TYR D 299      75.296   7.261 -15.690  0.73  2.14           O 0
+ATOM   2277  CE1 TYR D 299      76.624  10.695 -17.549  0.00  0.00           C 0
+ATOM    868  CE1 TYR D 110      72.608   6.066 -18.610  0.00  0.00           C 0
+ATOM    914  CD1 ILE D 116      76.660   4.335 -21.208  0.00  0.00           C 0
+ATOM    736    O GLY D  96      74.302   7.493 -22.273  0.00  0.00           O 0
+ATOM    725  OE2 GLU D  94      72.685   9.405 -18.772  0.00  0.00           O 0
+ATOM    932  CD1 PHE D 118      79.852   8.570 -21.319  0.00  0.00           C 0
+ATOM   2265   NE ARG D 298      80.983   7.059 -18.566  0.79  1.09           N 0
+ATOM    876   CB ASN D 111      76.384   4.475 -15.786  0.00  0.00           C 0
+ATOM   2262   CB ARG D 298      79.766   8.341 -15.835  0.00  0.00           C 0
+ATOM    873   CA ASN D 111      76.211   3.520 -16.974  0.00  0.00           C 0
+TER
+END

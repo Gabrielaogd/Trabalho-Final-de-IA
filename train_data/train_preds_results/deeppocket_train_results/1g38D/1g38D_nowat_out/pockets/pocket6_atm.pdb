@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.2208
+HEADER 1  - Drug Score                        : 0.0030
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 4.0665
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5789
+HEADER 5  - Mean B-factor of pocket residues  : 0.1485
+HEADER 6  - Hydrophobicity Score              : 21.3000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 526.0033
+HEADER 10 - Pocket volume (convex hull)       : 64.9977
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.5161
+ATOM   1628  CD1 PHE D 227      26.560  16.533  82.509  0.00  0.00           C 0
+ATOM   1580   CA GLN D 221      21.766  17.267  83.874  0.00  0.00           C 0
+ATOM   1588    N GLU D 222      23.307  19.099  83.496  0.66  1.09           N 0
+ATOM   1630  CE1 PHE D 227      26.993  16.984  81.266  0.00  0.00           C 0
+ATOM   1583   CB GLN D 221      20.581  17.851  84.660  0.00  0.00           C 0
+ATOM   1595  OE1 GLU D 222      23.264  21.874  80.174  0.29  9.64           O 0
+ATOM   1596  OE2 GLU D 222      25.333  21.787  79.430  0.00  0.00           O 0
+ATOM   1378  CG1 VAL D 195      27.770  15.417  77.253  0.00  0.00           C 0
+ATOM   1355    O LEU D 192      24.343  13.810  77.680  0.36  7.50           O 0
+ATOM   1367    O GLU D 194      27.087  16.503  73.322  0.00  0.00           O 0
+ATOM   1594   CD GLU D 222      24.429  21.416  80.205  0.00  0.00           C 0
+ATOM   1593   CG GLU D 222      24.752  20.367  81.246  0.00  0.00           C 0
+ATOM   1575    O THR D 220      20.800  14.939  82.635  0.14  2.14           O 0
+ATOM   1632   CZ PHE D 227      28.342  16.885  80.927  0.00  0.00           C 0
+ATOM   1376    O VAL D 195      31.253  16.824  75.182  0.61  9.64           O 0
+ATOM   1377   CB VAL D 195      29.155  15.364  76.605  0.00  0.00           C 0
+ATOM     53  CG2 VAL D  27      32.079  14.786  79.746  0.00  0.00           C 0
+ATOM     28   CB PRO D  24      34.476  17.653  78.004  0.00  0.00           C 0
+ATOM   1577  OG1 THR D 220      23.571  13.410  82.211  0.58  1.07           O 0
+ATOM     42   CB GLU D  26      32.030  19.213  82.284  0.00  0.00           C 0
+ATOM   1374   CA VAL D 195      29.063  15.833  75.138  0.00  0.00           C 0
+ATOM     45  OE1 GLU D  26      33.656  20.756  80.495  0.59  4.29           O 0
+ATOM     43   CG GLU D  26      32.046  20.752  82.271  0.00  0.00           C 0
+ATOM     44   CD GLU D  26      33.230  21.342  81.514  0.00  0.00           C 0
+TER
+END

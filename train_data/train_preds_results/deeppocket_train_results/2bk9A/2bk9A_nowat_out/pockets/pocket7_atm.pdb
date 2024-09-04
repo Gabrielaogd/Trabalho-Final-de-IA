@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0494
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8269
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7503
+HEADER 5  - Mean B-factor of pocket residues  : 0.3110
+HEADER 6  - Hydrophobicity Score              : -2.7143
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 170.6722
+HEADER 10 - Pocket volume (convex hull)       : 3.9380
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6500
+ATOM     67   CG GLU A   5     -12.724  11.377   0.549  0.00  0.00           C 0
+ATOM     54   CB ASP A   4     -17.254   9.767  -1.318  0.00  0.00           C 0
+ATOM     27  ND2 ASN A   2     -16.042  11.700   1.095  0.00  0.00           N 0
+ATOM     26  OD1 ASN A   2     -15.832  13.883   0.839  0.65  8.57           O 0
+ATOM     52    C ASP A   4     -15.572   8.372  -0.023  0.00  0.00           C 0
+ATOM     53    O ASP A   4     -15.120   7.386  -0.565  0.56  2.14           O 0
+ATOM     62    N GLU A   5     -14.825   9.170   0.704  0.00  0.00           N 0
+ATOM     63   CA GLU A   5     -13.406   8.972   0.861  0.00  0.00           C 0
+ATOM    116   CBALEU A   8     -12.397   6.059  -2.119  0.00  0.00           C 0
+ATOM   2055    C SER A 126      -7.623  11.198  -5.423  0.00  0.00           C 0
+ATOM   2072   CGAGLN A 127      -9.220   7.654  -6.676  0.00  0.00           C 0
+ATOM   2057   CB SER A 126      -8.957  12.543  -7.023  0.00  0.00           C 0
+ATOM   2064    N GLN A 127      -7.622   9.963  -5.911  0.00  0.00           N 0
+ATOM    118   CGALEU A   8     -11.415   6.150  -3.278  0.00  0.00           C 0
+ATOM   2056    O SER A 126      -7.702  11.441  -4.228  0.56  1.07           O 0
+ATOM   2117  OG1 THR A 130      -9.348  10.819  -1.581  0.57  6.43           O 0
+ATOM   2065   CA GLN A 127      -7.650   8.790  -5.029  0.00  0.00           C 0
+TER
+END

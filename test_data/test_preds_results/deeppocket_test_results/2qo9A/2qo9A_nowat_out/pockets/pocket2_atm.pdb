@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.1799
+HEADER 1  - Drug Score                        : 0.0623
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0077
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6259
+HEADER 5  - Mean B-factor of pocket residues  : 0.3406
+HEADER 6  - Hydrophobicity Score              : 23.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 366.3404
+HEADER 10 - Pocket volume (convex hull)       : 26.7347
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.5000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6316
+ATOM   2173   CBAARG A 883      19.679  11.383  39.294  0.00  0.00           C 0
+ATOM   2146    O LYS A 880      20.599  10.997  42.930  0.69  1.07           O 0
+ATOM   2191   CB ASN A 884      23.450   9.202  41.784  0.00  0.00           C 0
+ATOM   2179   NEAARG A 883      19.555  14.189  38.904  0.43  5.47           N 0
+ATOM   2211   OG SER A 887      24.485   8.605  45.204  0.00  0.00           O 0
+ATOM   2147   CB LYS A 880      20.607  14.018  44.174  0.00  0.00           C 0
+ATOM   2159  CD2 LEU A 881      20.924   9.521  47.661  0.00  0.00           C 0
+ATOM   2194  ND2 ASN A 884      25.513   9.058  43.057  0.00  0.00           N 0
+ATOM   2149   CD LYS A 880      21.929  16.104  44.434  0.00  0.00           C 0
+ATOM   2145    C LYS A 880      19.864  11.680  43.636  0.00  0.00           C 0
+ATOM   2148   CG LYS A 880      20.843  15.409  43.615  0.00  0.00           C 0
+ATOM   2144   CA LYS A 880      19.641  13.161  43.348  0.00  0.00           C 0
+ATOM   2125  CG2 ILE A 877      18.464  14.211  49.923  0.00  0.00           C 0
+ATOM   2122    O ILE A 877      18.290  13.259  46.871  0.63  2.14           O 0
+ATOM   2157   CG LEU A 881      19.502  10.082  47.541  0.00  0.00           C 0
+ATOM   2158  CD1 LEU A 881      18.736   9.844  48.844  0.00  0.00           C 0
+ATOM   1904   CB ALA A 852      21.896   9.059  51.364  0.00  0.00           C 0
+ATOM   2120   CA ILE A 877      17.956  15.476  47.801  0.00  0.00           C 0
+ATOM   2124  CG1 ILE A 877      18.704  16.702  49.938  0.00  0.00           C 0
+TER
+END

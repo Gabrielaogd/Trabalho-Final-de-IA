@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : -0.0617
+HEADER 1  - Drug Score                        : 0.0033
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8402
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5096
+HEADER 5  - Mean B-factor of pocket residues  : 0.4777
+HEADER 6  - Hydrophobicity Score              : 31.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.3739
+HEADER 10 - Pocket volume (convex hull)       : 2.2480
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM   4791  CD2 LEU A 633      -9.698   2.091  47.661  0.00  0.00           C 0
+ATOM   4712  CH2 TRP A 623     -13.626   4.512  41.645  0.00  0.00           C 0
+ATOM   4741   CB SER A 628     -11.900   6.552  48.811  0.00  0.00           C 0
+ATOM   4742   OG SER A 628     -10.771   5.687  48.751  0.59  3.21           O 0
+ATOM   4737    N SER A 628     -11.372   8.473  47.319  0.68  1.09           N 0
+ATOM   4710  CZ2 TRP A 623     -14.489   5.616  41.634  0.00  0.00           C 0
+ATOM   4735   CB SER A 627     -12.641  10.185  45.032  0.00  0.00           C 0
+ATOM   4731    N SER A 627     -10.426   9.095  44.702  0.00  0.00           N 0
+ATOM   4719   CA PRO A 625      -9.824   5.148  41.865  0.00  0.00           C 0
+ATOM   4721    O PRO A 625      -8.347   5.330  43.764  0.00  0.00           O 0
+ATOM   4789   CG LEU A 633      -8.803   1.579  46.544  0.00  0.00           C 0
+ATOM   4722   CB PRO A 625      -9.279   3.727  41.722  0.00  0.00           C 0
+ATOM   4720    C PRO A 625      -9.082   5.928  42.968  0.00  0.00           C 0
+ATOM   4725    N CYS A 626      -9.308   7.240  43.020  0.00  0.00           N 0
+TER
+END

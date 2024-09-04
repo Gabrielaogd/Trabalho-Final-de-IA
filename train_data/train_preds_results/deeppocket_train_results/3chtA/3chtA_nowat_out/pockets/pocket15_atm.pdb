@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.1085
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8043
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4614
+HEADER 5  - Mean B-factor of pocket residues  : 0.5034
+HEADER 6  - Hydrophobicity Score              : 2.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.5854
+HEADER 10 - Pocket volume (convex hull)       : 8.9746
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM    201    O GLU A  50      -5.124 -20.103  -7.623  0.00  5.36           O 0
+ATOM   1544   SD MET A 215      -6.422 -17.100  -5.471  0.00  0.00           S 0
+ATOM    232  OD1 ASP A  53      -8.471 -23.875  -5.520  0.00  0.00           O 0
+ATOM   1536   CG PRO A 214      -5.999 -18.940  -1.922  0.00  0.00           C 0
+ATOM    235   CA TYR A  54     -11.485 -20.037  -7.098  0.00  0.00           C 0
+ATOM    229    O ASP A  53     -11.021 -22.512  -5.780  0.29  7.50           O 0
+ATOM    250   CB ASP A  55     -13.133 -19.799  -2.657  0.00  0.00           C 0
+ATOM    246    N ASP A  55     -12.563 -19.395  -5.019  0.57  1.09           N 0
+ATOM    253  OD2 ASP A  55     -14.081 -20.862  -0.741  0.00  0.00           O 0
+ATOM    228    C ASP A  53     -10.831 -22.409  -6.996  0.00  0.00           C 0
+ATOM    234    N TYR A  54     -11.109 -21.314  -7.697  0.58  3.28           N 0
+ATOM   1537   CD PRO A 214      -6.821 -17.745  -1.492  0.00  0.00           C 0
+ATOM    275  CG2 VAL A  58     -12.362 -17.448   0.888  0.00  0.00           C 0
+ATOM   1530  NE2 GLN A 213      -9.450 -16.296  -3.600  0.00  0.00           N 0
+ATOM   1545   CE MET A 215      -7.910 -16.299  -6.003  0.00  0.00           C 0
+TER
+END

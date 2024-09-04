@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0482
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9205
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5276
+HEADER 5  - Mean B-factor of pocket residues  : 0.4428
+HEADER 6  - Hydrophobicity Score              : 5.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.3366
+HEADER 10 - Pocket volume (convex hull)       : 3.9031
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM   1980   CA ALA C 284      21.426  43.350  57.527  0.00  0.00           C 0
+ATOM   1982    O ALA C 284      21.258  45.712  57.926  0.57  1.07           O 0
+ATOM   2002  OE1 GLU C 287      17.924  42.881  59.850  0.57  5.36           O 0
+ATOM   1983   CB ALA C 284      22.734  42.749  58.032  0.00  0.00           C 0
+ATOM   1999   CB GLU C 287      17.709  45.745  59.201  0.00  0.00           C 0
+ATOM   2035  NH1 ARG C 291      20.216  48.262  63.067  0.00  0.00           N 0
+ATOM   2377    O GLU C 335      27.420  47.667  60.999  0.59  2.14           O 0
+ATOM   2402   CB GLU C 339      26.436  44.419  60.781  0.00  0.00           C 0
+ATOM   2036  NH2 ARG C 291      22.189  49.376  63.457  0.33  8.75           N 0
+ATOM   2011  CD1 ILE C 288      23.948  47.367  59.585  0.00  0.00           C 0
+ATOM   2404   CD GLU C 339      25.176  42.504  61.946  0.00  0.00           C 0
+ATOM   2009  CG1 ILE C 288      22.639  48.001  60.036  0.00  0.00           C 0
+ATOM   2406  OE2 GLU C 339      24.756  41.336  61.802  0.66  2.14           O 0
+ATOM   2403   CG GLU C 339      25.356  43.337  60.681  0.00  0.00           C 0
+ATOM   2405  OE1 GLU C 339      25.439  42.996  63.072  0.33  8.57           O 0
+TER
+END

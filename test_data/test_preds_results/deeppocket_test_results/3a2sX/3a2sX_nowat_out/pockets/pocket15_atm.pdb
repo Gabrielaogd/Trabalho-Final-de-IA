@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0001
+HEADER 1  - Drug Score                        : 0.0179
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9547
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6252
+HEADER 5  - Mean B-factor of pocket residues  : 0.0672
+HEADER 6  - Hydrophobicity Score              : 55.1111
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 307.1710
+HEADER 10 - Pocket volume (convex hull)       : 12.0927
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 13.7500
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.6154
+ATOM     61  CG2 ILE X   8      27.108  27.307   9.500  0.00  0.00           C 0
+ATOM   2567   CB HIS X 339      24.571  25.904   4.315  0.00  0.00           C 0
+ATOM     58    O ILE X   8      24.631  24.742   8.225  0.00  0.00           O 0
+ATOM   2551  CD2 LEU X 337      20.189  30.134   6.605  0.00  0.00           C 0
+ATOM   2547    O LEU X 337      21.027  25.922   9.439  0.00  0.00           O 0
+ATOM     59   CB ILE X   8      27.275  26.270   8.388  0.00  0.00           C 0
+ATOM   2549   CG LEU X 337      19.756  28.681   6.681  0.00  0.00           C 0
+ATOM    499  CD1 ILE X  67      26.094  29.783  12.770  0.00  0.00           C 0
+ATOM   2548   CB LEU X 337      19.419  28.331   8.139  0.00  0.00           C 0
+ATOM   2563    N HIS X 339      23.365  24.437   5.893  0.00  0.00           N 0
+ATOM     72    N ALA X  10      22.250  26.068  12.201  0.00  0.00           N 0
+ATOM     64   CA LYS X   9      23.612  24.664  10.794  0.00  0.00           C 0
+ATOM     76   CB ALA X  10      22.888  27.963  13.634  0.00  0.00           C 0
+ATOM     75    O ALA X  10      19.900  27.334  12.187  0.00  0.00           O 0
+ATOM     74    C ALA X  10      20.481  27.345  13.272  0.00  0.00           C 0
+ATOM     78   CA GLY X  11      18.578  28.354  14.372  0.00  0.00           C 0
+ATOM     77    N GLY X  11      19.920  27.798  14.384  0.00  0.00           N 0
+ATOM    262  CG2 ILE X  36      22.023  32.079  17.385  0.00  0.00           C 0
+ATOM     79    C GLY X  11      18.221  29.001  15.688  0.00  0.00           C 0
+ATOM     87  CG2 VAL X  12      16.677  32.355  16.204  0.00  0.00           C 0
+ATOM     80    O GLY X  11      19.079  29.159  16.564  0.00  0.00           O 0
+TER
+END

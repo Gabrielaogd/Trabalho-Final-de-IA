@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0763
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9526
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4999
+HEADER 5  - Mean B-factor of pocket residues  : 0.3917
+HEADER 6  - Hydrophobicity Score              : 53.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.6011
+HEADER 10 - Pocket volume (convex hull)       : 5.9815
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM   1876  CD1 ILE A 250      31.162  13.442  51.851  0.00  0.00           C 0
+ATOM   1544  CE2 PHE A 206      30.212  15.816  48.641  0.00  0.00           C 0
+ATOM   1214  OD1 ASN A 161      26.704  20.129  54.552  0.00  0.00           O 0
+ATOM   1533    O ALA A 205      32.651  18.585  49.219  0.56  3.21           O 0
+ATOM   1542  CD2 PHE A 206      31.572  15.628  48.785  0.00  0.00           C 0
+ATOM   1202  NH2 ARG A 159      24.664  14.212  49.601  0.00  0.00           N 0
+ATOM   1874  CG1 ILE A 250      30.564  12.800  50.601  0.00  0.00           C 0
+ATOM   1201  NH1 ARG A 159      24.908  16.302  48.672  0.57  3.28           N 0
+ATOM   1224  NE1 TRP A 162      25.386  19.031  48.703  0.59  1.09           N 0
+ATOM   1225  CE2 TRP A 162      26.402  19.456  47.885  0.00  0.00           C 0
+ATOM    823  CG2 VAL A 106      30.904  22.451  50.448  0.00  0.00           C 0
+ATOM    821   CB VAL A 106      29.802  23.086  49.661  0.00  0.00           C 0
+ATOM   1212   CB ASN A 161      26.490  21.880  52.982  0.00  0.00           C 0
+ATOM   1227  CZ2 TRP A 162      27.587  18.797  47.488  0.00  0.00           C 0
+TER
+END

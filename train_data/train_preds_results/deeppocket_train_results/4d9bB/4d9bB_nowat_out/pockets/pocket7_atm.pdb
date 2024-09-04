@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0022
+HEADER 1  - Drug Score                        : 0.1359
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.0446
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5975
+HEADER 5  - Mean B-factor of pocket residues  : 0.1439
+HEADER 6  - Hydrophobicity Score              : 32.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 338.7575
+HEADER 10 - Pocket volume (convex hull)       : 20.7887
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 19.0000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM   2023  CD1 LEU B 274      16.419  54.276  28.014  0.00  0.00           C 0
+ATOM   1995  OE2 GLU B 270      10.930  58.880  28.464  0.58  4.29           O 0
+ATOM   1991   CB GLU B 270      11.326  58.258  31.280  0.00  0.00           C 0
+ATOM    235   OH TYR B  30      19.478  57.928  28.250  0.65  6.43           O 0
+ATOM   1990    O GLU B 270      11.903  55.203  30.351  0.36  3.21           O 0
+ATOM   2158    O ALA B 293      15.686  56.027  38.746  0.81  2.14           O 0
+ATOM   2178  CG2 ILE B 296      18.462  56.287  35.067  0.00  0.00           C 0
+ATOM   2156   CA ALA B 293      13.672  55.058  37.775  0.00  0.00           C 0
+ATOM   1974   CB ALA B 267      11.588  59.464  36.869  0.00  0.00           C 0
+ATOM   2176   CB ILE B 296      17.804  55.111  35.971  0.00  0.00           C 0
+ATOM   2179  CD1 ILE B 296      16.275  54.061  34.163  0.00  0.00           C 0
+ATOM   2184   CB ASP B 297      17.791  58.490  40.179  0.00  0.00           C 0
+ATOM   2186  OD1 ASP B 297      18.706  60.702  39.817  0.00  0.00           O 0
+ATOM   1989    C GLU B 270      11.361  55.741  31.261  0.00  0.00           C 0
+ATOM   1996    N ALA B 271      11.344  55.197  32.489  0.00  0.00           N 0
+ATOM   2024  CD2 LEU B 274      16.720  53.799  30.583  0.00  0.00           C 0
+ATOM    233  CE2 TYR B  30      19.911  55.753  28.991  0.00  0.00           C 0
+ATOM   2180    N ASP B 297      18.478  56.668  38.625  0.00  0.00           N 0
+ATOM   2181   CA ASP B 297      18.914  57.870  39.363  0.00  0.00           C 0
+ATOM   2205   OG SER B 300      21.165  59.632  36.756  0.00  0.00           O 0
+ATOM   1973    O ALA B 267      11.078  56.904  34.804  0.69  3.21           O 0
+ATOM   1971   CA ALA B 267      10.724  59.177  35.576  0.00  0.00           C 0
+TER
+END

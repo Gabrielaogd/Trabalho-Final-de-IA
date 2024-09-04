@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.2049
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0563
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5335
+HEADER 5  - Mean B-factor of pocket residues  : 0.4229
+HEADER 6  - Hydrophobicity Score              : 32.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 315.2091
+HEADER 10 - Pocket volume (convex hull)       : 12.9857
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.6364
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5238
+ATOM   2668   CG ASP B 343     -11.523 -25.978  -0.665  0.00  0.00           C 0
+ATOM   2654   CB ALA B 341     -12.097 -20.088   1.113  0.00  0.00           C 0
+ATOM   2667   CB ASP B 343     -10.952 -24.760  -1.364  0.00  0.00           C 0
+ATOM   2670  OD2 ASP B 343     -12.615 -26.369  -1.137  0.57  6.43           O 0
+ATOM   2651   CA ALA B 341     -11.539 -20.482   2.473  0.00  0.00           C 0
+ATOM   2629   NZ LYS B 338     -17.086 -25.986   4.795  0.00  0.00           N 0
+ATOM   2641    C PHE B 340     -12.240 -19.389   4.553  0.00  0.00           C 0
+ATOM   2650    N ALA B 341     -11.703 -19.370   3.372  0.00  0.00           N 0
+ATOM   2624    O LYS B 338     -16.636 -18.773   6.001  0.00  0.00           O 0
+ATOM   2640   CA PHE B 340     -12.334 -18.091   5.335  0.00  0.00           C 0
+ATOM   2627   CD LYS B 338     -17.434 -23.659   5.588  0.00  0.00           C 0
+ATOM   2642    O PHE B 340     -12.628 -20.443   5.062  0.83  2.14           O 0
+ATOM   2625   CB LYS B 338     -17.748 -21.224   6.099  0.00  0.00           C 0
+ATOM   2605  CE1 PHE B 335     -11.272 -24.502   5.506  0.00  0.00           C 0
+ATOM   1633   CEAMET B 209      -9.852 -16.910   2.391  0.00  0.00           C 0
+ATOM   2633    O LYS B 339     -13.743 -16.111   6.618  0.35  7.50           O 0
+ATOM   1655   CEALYS B 212     -13.847 -11.435   0.120  0.00  0.00           C 0
+ATOM   2655    N LEU B 342      -9.849 -22.214   2.326  0.63  1.09           N 0
+ATOM   2669  OD1 ASP B 343     -10.950 -26.573   0.256  0.79  4.29           O 0
+ATOM   2607   CZ PHE B 335     -11.484 -25.853   5.774  0.00  0.00           C 0
+TER
+END

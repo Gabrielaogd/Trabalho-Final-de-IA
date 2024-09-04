@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0270
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.8772
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4932
+HEADER 5  - Mean B-factor of pocket residues  : 0.1711
+HEADER 6  - Hydrophobicity Score              : -7.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 264.6848
+HEADER 10 - Pocket volume (convex hull)       : 12.1365
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 9.8182
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4400
+ATOM   2195  CD2 PHE A 284       5.612  46.959  69.252  0.00  0.00           C 0
+ATOM   2238   CD ARG A 289       6.322  52.674  65.457  0.00  0.00           C 0
+ATOM   2237   CG ARG A 289       5.909  53.029  66.882  0.00  0.00           C 0
+ATOM   2239   NE ARG A 289       7.552  51.886  65.412  0.77  7.66           N 0
+ATOM   1870  NH2 ARG A 244       1.539  49.046  64.438  0.70  6.56           N 0
+ATOM   2186   CG PRO A 283       1.988  46.966  67.734  0.00  0.00           C 0
+ATOM   1772   CB PRO A 232      10.256  52.147  61.614  0.00  0.00           C 0
+ATOM   2807  ND1 HIS A 362      10.900  48.346  66.461  0.65  1.09           N 0
+ATOM   2806   CG HIS A 362      11.099  47.009  66.191  0.00  0.00           C 0
+ATOM   2808  CD2 HIS A 362      12.241  46.938  65.466  0.00  0.00           C 0
+ATOM   2187   CD PRO A 283       1.063  48.151  67.874  0.00  0.00           C 0
+ATOM   2212   OG SER A 286       4.759  52.358  70.279  0.59  4.29           O 0
+ATOM   2236   CB ARG A 289       4.474  53.549  66.943  0.00  0.00           C 0
+ATOM   2799   CG PRO A 361       8.562  50.437  69.140  0.00  0.00           C 0
+ATOM   2810  NE2 HIS A 362      12.707  48.221  65.317  0.74  5.47           N 0
+ATOM   2197  CE2 PHE A 284       5.827  45.836  68.476  0.00  0.00           C 0
+ATOM   2805   CB HIS A 362      10.189  45.940  66.707  0.00  0.00           C 0
+ATOM   1771    O PRO A 232       7.135  51.460  61.257  0.41  5.36           O 0
+ATOM   2242  NH2 ARG A 289       9.831  51.635  65.224  0.00  0.00           N 0
+ATOM   2809  CE1 HIS A 362      11.880  49.051  65.926  0.00  0.00           C 0
+TER
+END

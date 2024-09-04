@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0037
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7724
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5324
+HEADER 5  - Mean B-factor of pocket residues  : 0.1132
+HEADER 6  - Hydrophobicity Score              : 7.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.5239
+HEADER 10 - Pocket volume (convex hull)       : 10.3447
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM   2031   CA ARG A 254      46.132  11.893  22.141  0.00  0.00           C 0
+ATOM   2035   CG ARG A 254      46.338   9.415  22.631  0.00  0.00           C 0
+ATOM   2034   CB ARG A 254      45.867  10.474  21.642  0.00  0.00           C 0
+ATOM   2039  NH1 ARG A 254      48.960   7.357  22.801  0.00  0.00           N 0
+ATOM   2038   CZ ARG A 254      47.947   6.740  23.396  0.00  0.00           C 0
+ATOM   2024   CG ARG A 253      47.119  12.523  27.134  0.00  0.00           C 0
+ATOM   2040  NH2 ARG A 254      48.192   5.852  24.349  0.66  8.75           N 0
+ATOM   1999  OD2 ASP A 250      45.768   6.171  25.968  0.59  9.64           O 0
+ATOM   2023   CB ARG A 253      45.739  12.195  26.675  0.00  0.00           C 0
+ATOM   2026   NE ARG A 253      46.484  11.442  29.250  0.73  2.19           N 0
+ATOM   2022    O ARG A 253      46.925  13.653  24.082  0.50  1.07           O 0
+ATOM   2063  CG2 VAL A 257      49.070  14.890  21.605  0.00  0.00           C 0
+ATOM   2036   CD ARG A 254      46.306   8.010  22.052  0.00  0.00           C 0
+ATOM   2100    O LYS A 262      50.230  12.440  17.731  0.00  0.00           O 0
+ATOM   2122   CG MET A 264      45.225   9.922  18.144  0.00  0.00           C 0
+ATOM   2033    O ARG A 254      46.271  12.905  19.966  0.41  1.07           O 0
+TER
+END

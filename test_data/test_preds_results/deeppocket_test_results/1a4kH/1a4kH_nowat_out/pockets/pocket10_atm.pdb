@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0553
+HEADER 1  - Drug Score                        : 0.0042
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0786
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5676
+HEADER 5  - Mean B-factor of pocket residues  : 0.0383
+HEADER 6  - Hydrophobicity Score              : 93.4000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 6.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.1528
+HEADER 10 - Pocket volume (convex hull)       : 3.8250
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.8824
+ATOM    339   CB LEU H  45      56.001  69.454  11.927  0.00  0.00           C 0
+ATOM    352    N TRP H  47      59.852  65.398  11.015  0.84  7.66           N 0
+ATOM    356   CB TRP H  47      59.871  64.168   8.914  0.00  0.00           C 0
+ATOM    338    O LEU H  45      59.135  69.712  12.111  0.58  5.36           O 0
+ATOM    337    C LEU H  45      58.308  69.023  12.706  0.00  0.00           C 0
+ATOM    287  CG2 VAL H  37      55.161  65.759  12.220  0.00  0.00           C 0
+ATOM    285   CB VAL H  37      55.532  64.439  11.596  0.00  0.00           C 0
+ATOM    845  CE2 PHE H2100      55.477  65.433   5.088  0.00  0.00           C 0
+ATOM    358  CD1 TRP H  47      58.178  62.626   7.775  0.00  0.00           C 0
+ATOM    880  CH2 TRP H 103      52.299  67.047   9.280  0.00  0.00           C 0
+ATOM    341  CD1 LEU H  45      53.766  70.087  11.089  0.00  0.00           C 0
+ATOM    286  CG1 VAL H  37      54.411  63.876  10.793  0.00  0.00           C 0
+ATOM    843  CD2 PHE H2100      54.093  65.626   4.961  0.00  0.00           C 0
+ATOM    878  CZ2 TRP H 103      51.674  67.015   8.060  0.00  0.00           C 0
+TER
+END

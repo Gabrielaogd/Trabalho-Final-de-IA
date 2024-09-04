@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0049
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.1768
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4772
+HEADER 5  - Mean B-factor of pocket residues  : 0.3304
+HEADER 6  - Hydrophobicity Score              : 29.8750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 262.6020
+HEADER 10 - Pocket volume (convex hull)       : 3.6465
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2381
+ATOM   2138   CA ARG H 206     -55.542 -16.508  24.269  0.00  0.00           C 0
+ATOM   2141   CB ARG H 206     -55.232 -15.038  24.355  0.00  0.00           C 0
+ATOM   1184  NE2 HIS H 119     -48.428 -14.754  19.418  0.00  0.00           N 0
+ATOM   2129    O ASN H 205     -56.760 -17.435  22.040  0.00  0.00           O 0
+ATOM   2160  CD1 TRP H 207     -52.919 -19.776  24.138  0.00  0.00           C 0
+ATOM   2142   CG ARG H 206     -56.037 -14.124  23.459  0.00  0.00           C 0
+ATOM   2143   CD ARG H 206     -55.210 -12.891  23.527  0.00  0.00           C 0
+ATOM   1207   SG CYS H 122     -51.833 -12.883  26.125  0.00  0.00           S 0
+ATOM   1190    O PRO H 120     -47.470 -14.825  23.728  0.53  4.29           O 0
+ATOM   2146  NH1 ARG H 206     -53.894 -10.478  23.543  0.65  5.47           N 0
+ATOM   1182  CD2 HIS H 119     -47.846 -15.853  19.820  0.00  0.00           C 0
+ATOM    121  CZ3 TRP H  29     -48.830 -19.128  23.817  0.00  0.00           C 0
+ATOM   2154    N TRP H 207     -53.750 -17.242  25.746  0.73  3.28           N 0
+ATOM   2157    O TRP H 207     -52.097 -15.978  27.590  0.00  0.00           O 0
+ATOM   2158   CB TRP H 207     -52.083 -18.878  26.318  0.00  0.00           C 0
+ATOM   1195   CA VAL H 121     -47.718 -15.621  26.353  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0456
+HEADER 1  - Drug Score                        : 0.0256
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7862
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4157
+HEADER 5  - Mean B-factor of pocket residues  : 0.7383
+HEADER 6  - Hydrophobicity Score              : 39.6000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.3311
+HEADER 10 - Pocket volume (convex hull)       : 5.0103
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.8235
+ATOM   1884   CG ARG A 241      23.300  -4.218  -1.568  0.00  0.00           C 0
+ATOM   1885   CD ARG A 241      23.287  -4.893  -2.949  0.00  0.00           C 0
+ATOM   2052   NZ LYS A 262      29.551  -5.735  -0.178  0.82  4.37           N 0
+ATOM   2050   CD LYS A 262      29.195  -8.114   0.588  0.00  0.00           C 0
+ATOM   1888  NH1 ARG A 241      24.729  -2.695  -4.015  0.00  0.00           N 0
+ATOM   2035  CD1 LEU A 260      28.379  -2.220   2.156  0.00  0.00           C 0
+ATOM   1894   CB ALA A 242      24.528  -5.097   3.299  0.00  0.00           C 0
+ATOM   2047    O LYS A 262      24.723  -9.639   3.451  0.00  0.00           O 0
+ATOM   2048   CB LYS A 262      27.580  -8.766   2.421  0.00  0.00           C 0
+ATOM   1882    O ARG A 241      22.297  -5.438   1.264  0.54  2.14           O 0
+ATOM   1875   CB LEU A 240      24.367   0.000   1.147  0.00  0.00           C 0
+ATOM   1878  CD2 LEU A 240      25.652   1.837   0.022  0.00  0.00           C 0
+ATOM   1877  CD1 LEU A 240      26.598   0.663   2.025  0.00  0.00           C 0
+ATOM   2049   CG LYS A 262      28.441  -7.653   1.836  0.00  0.00           C 0
+TER
+END

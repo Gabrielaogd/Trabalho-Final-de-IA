@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0531
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.2992
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6790
+HEADER 5  - Mean B-factor of pocket residues  : 0.3140
+HEADER 6  - Hydrophobicity Score              : 18.2000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 255.3824
+HEADER 10 - Pocket volume (convex hull)       : 2.1608
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   1750   CA ALA A 244      -4.304  21.020   9.049  0.00  0.00           C 0
+ATOM   1752    O ALA A 244      -2.789  20.809   7.199  0.00  0.00           O 0
+ATOM   1883  OE1 GLN A 260      -1.527  14.806  11.347  0.00  0.00           O 0
+ATOM   1753   CB ALA A 244      -5.720  20.872   8.536  0.00  0.00           C 0
+ATOM   1777  CD1 LEU A 247      -1.748  18.816  12.233  0.00  0.00           C 0
+ATOM   1884  NE2 GLN A 260      -2.881  14.635  13.140  0.00  0.00           N 0
+ATOM   1780   CA LYS A 248       0.200  18.778   5.607  0.00  0.00           C 0
+ATOM   1779    N LYS A 248       0.110  19.284   6.962  0.00  0.00           N 0
+ATOM   1783   CB LYS A 248      -0.998  19.291   4.796  0.00  0.00           C 0
+ATOM   1775   CB LEU A 247      -0.559  18.767  10.011  0.00  0.00           C 0
+ATOM   1773    C LEU A 247       0.841  18.784   7.949  0.00  0.00           C 0
+ATOM   1843   CD ARG A 256       2.690  14.466   8.448  0.00  0.00           C 0
+ATOM   1774    O LEU A 247       1.644  17.870   7.779  0.53  1.07           O 0
+TER
+END

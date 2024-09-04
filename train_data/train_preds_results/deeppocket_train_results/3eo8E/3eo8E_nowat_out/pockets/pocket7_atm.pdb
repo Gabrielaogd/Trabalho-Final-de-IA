@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.2519
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9124
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7397
+HEADER 5  - Mean B-factor of pocket residues  : 0.2823
+HEADER 6  - Hydrophobicity Score              : 26.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 303.0914
+HEADER 10 - Pocket volume (convex hull)       : 10.6967
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.2000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1012   NZ LYS E 125      13.118 120.817  19.454  0.00  0.00           N 0
+ATOM   1067  CE2 PHE E 132      18.788 117.905  18.159  0.00  0.00           C 0
+ATOM    927  CE2 TYR E 115      15.862 116.391  16.027  0.00  0.00           C 0
+ATOM    929   OH TYR E 115      14.317 117.414  14.572  0.32  6.43           O 0
+ATOM   1069    N ILE E 133      22.953 119.103  23.496  0.00  0.00           N 0
+ATOM   1060    C PHE E 132      23.017 119.478  22.211  0.00  0.00           C 0
+ATOM   1075  CG2 ILE E 133      21.926 119.746  26.167  0.00  0.00           C 0
+ATOM   1061    O PHE E 132      23.782 120.371  21.832  0.00  0.00           O 0
+ATOM    899  OD1 ASN E 111      18.417 117.949  13.728  0.68  2.14           O 0
+ATOM   1068   CZ PHE E 132      19.420 118.085  16.960  0.00  0.00           C 0
+ATOM   1070   CA ILE E 133      23.807 119.754  24.493  0.00  0.00           C 0
+ATOM   1065  CD2 PHE E 132      19.343 118.432  19.318  0.00  0.00           C 0
+ATOM   1039  OD1 ASP E 129      15.197 120.073  21.909  0.52  5.36           O 0
+ATOM   1066  CE1 PHE E 132      20.605 118.745  16.910  0.00  0.00           C 0
+ATOM   1064  CD1 PHE E 132      21.177 119.270  18.068  0.00  0.00           C 0
+ATOM   1062   CB PHE E 132      21.143 119.653  20.548  0.00  0.00           C 0
+ATOM   1063   CG PHE E 132      20.545 119.118  19.286  0.00  0.00           C 0
+ATOM   1036    O ASP E 129      19.390 118.488  23.502  0.77  1.07           O 0
+ATOM   1038   CG ASP E 129      15.325 120.094  23.144  0.00  0.00           C 0
+ATOM   1037   CB ASP E 129      16.395 119.255  23.888  0.00  0.00           C 0
+TER
+END

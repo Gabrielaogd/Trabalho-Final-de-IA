@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0097
+HEADER 1  - Drug Score                        : 0.0119
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.0888
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6582
+HEADER 5  - Mean B-factor of pocket residues  : 0.1061
+HEADER 6  - Hydrophobicity Score              : 36.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 318.6884
+HEADER 10 - Pocket volume (convex hull)       : 15.8942
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM   1455  CG2 VAL A 191      22.849  -6.764 -18.820  0.00  0.00           C 0
+ATOM   1444   CD ARG A 190      17.443  -4.632 -19.758  0.00  0.00           C 0
+ATOM   1421  CG2 VAL A 187      21.942  -2.733 -21.702  0.00  0.00           C 0
+ATOM   1447  NH1 ARG A 190      16.624  -4.846 -22.419  0.00  0.00           N 0
+ATOM   1445   NE ARG A 190      16.251  -5.320 -20.200  0.00  0.00           N 0
+ATOM   1470   CB TRP A 194      18.260  -9.840 -16.109  0.00  0.00           C 0
+ATOM   1450   CA VAL A 191      21.552  -6.870 -16.679  0.00  0.00           C 0
+ATOM    357  OD1 ASP A  50      14.845  -7.391 -18.554  0.49  2.14           O 0
+ATOM   1443   CG ARG A 190      17.540  -4.643 -18.239  0.00  0.00           C 0
+ATOM   1473  CD2 TRP A 194      16.603 -11.488 -17.278  0.00  0.00           C 0
+ATOM   1476  CE3 TRP A 194      15.358 -10.839 -17.329  0.00  0.00           C 0
+ATOM   1448  NH2 ARG A 190      14.765  -6.068 -21.778  0.00  0.00           N 0
+ATOM   1446   CZ ARG A 190      15.883  -5.407 -21.468  0.00  0.00           C 0
+ATOM   1479  CH2 TRP A 194      14.446 -12.808 -18.481  0.00  0.00           C 0
+ATOM   1478  CZ3 TRP A 194      14.288 -11.502 -17.934  0.00  0.00           C 0
+ATOM   1475  CE2 TRP A 194      16.729 -12.782 -17.839  0.00  0.00           C 0
+ATOM    358  OD2 ASP A  50      12.983  -7.872 -19.596  0.50  5.36           O 0
+ATOM   1441    O ARG A 190      18.962  -6.283 -15.889  0.00  0.00           O 0
+ATOM   1471   CG TRP A 194      17.890 -11.126 -16.763  0.00  0.00           C 0
+ATOM   1472  CD1 TRP A 194      18.715 -12.181 -17.019  0.00  0.00           C 0
+ATOM   1454  CG1 VAL A 191      23.793  -8.055 -16.868  0.00  0.00           C 0
+ATOM   1452    O VAL A 191      21.316  -8.534 -14.931  0.56  3.21           O 0
+TER
+END

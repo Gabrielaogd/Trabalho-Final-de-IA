@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.1100
+HEADER 1  - Drug Score                        : 0.0030
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8815
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6230
+HEADER 5  - Mean B-factor of pocket residues  : 0.0973
+HEADER 6  - Hydrophobicity Score              : 32.9000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 232.1506
+HEADER 10 - Pocket volume (convex hull)       : 6.2368
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.6000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM   3191   CB VAL A 404      33.696 -15.380   6.490  0.00  0.00           C 0
+ATOM   3166   CB SER A 401      37.164 -16.778   8.625  0.00  0.00           C 0
+ATOM   3149  CG1 VAL A 399      36.059 -13.362   9.696  0.00  0.00           C 0
+ATOM   3167   OG SER A 401      36.441 -17.841   8.026  0.80  4.29           O 0
+ATOM   3150  CG2 VAL A 399      35.387 -10.908   9.341  0.00  0.00           C 0
+ATOM   1995   CDAARG A 261      27.494  -8.959   7.870  0.00  0.00           C 0
+ATOM   2012  ND2 ASN A 262      31.735 -10.917   5.261  0.78  1.09           N 0
+ATOM   1968   CB ASP A 258      28.702 -12.839   6.841  0.00  0.00           C 0
+ATOM   3192  CG1 VAL A 404      33.379 -13.797   6.400  0.00  0.00           C 0
+ATOM   1970  OD1 ASP A 258      29.383 -14.757   7.820  0.00  0.00           O 0
+ATOM   3193  CG2 VAL A 404      32.422 -16.304   6.603  0.00  0.00           C 0
+ATOM   2011  OD1 ASN A 262      32.333  -8.752   5.522  0.00  0.00           O 0
+ATOM   3212    O TYR A 407      33.389  -6.912   8.518  0.00  0.00           O 0
+ATOM   1993   CGAARG A 261      28.145  -8.042   6.796  0.00  0.00           C 0
+ATOM   1159  CD1 ILE A 157      27.433  -5.499  11.535  0.00  0.00           C 0
+ATOM   1118  CG1 VAL A 152      30.546  -4.380   9.403  0.00  0.00           C 0
+ATOM   3224    O ALA A 408      33.216  -4.828  11.867  0.27  3.21           O 0
+ATOM   3222   CA ALA A 408      34.495  -6.626  11.039  0.00  0.00           C 0
+TER
+END

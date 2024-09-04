@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0240
+HEADER 1  - Drug Score                        : 0.0906
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1326
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6830
+HEADER 5  - Mean B-factor of pocket residues  : 0.2044
+HEADER 6  - Hydrophobicity Score              : 9.8000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 6.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 298.6152
+HEADER 10 - Pocket volume (convex hull)       : 9.4750
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.9375
+ATOM   3109  CD1 TYR A 397      -8.606  -6.242 -18.343  0.00  0.00           C 0
+ATOM   3242   CB LYS A 412      -8.083 -11.172 -17.576  0.00  0.00           C 0
+ATOM   3241    O LYS A 412     -10.182 -10.156 -15.745  0.50  5.36           O 0
+ATOM   3108   CG TYR A 397      -9.854  -5.611 -18.334  0.00  0.00           C 0
+ATOM   3107   CB TYR A 397     -10.352  -4.855 -19.547  0.00  0.00           C 0
+ATOM   3226   OH TYR A 410      -4.782  -7.957 -21.899  0.65  8.57           O 0
+ATOM   3106    O TYR A 397      -8.895  -3.391 -21.995  0.41  5.36           O 0
+ATOM   3110  CD2 TYR A 397     -10.593  -5.634 -17.155  0.00  0.00           C 0
+ATOM   3074   CG LYS A 393     -13.245  -5.830 -14.822  0.00  0.00           C 0
+ATOM   3079   CA GLU A 394     -14.672  -3.221 -18.573  0.00  0.00           C 0
+ATOM   3076   CE LYS A 393     -13.123  -8.337 -15.021  0.00  0.00           C 0
+ATOM   3244   CD LYS A 412      -7.369 -11.829 -19.884  0.00  0.00           C 0
+ATOM   3243   CG LYS A 412      -7.087 -10.925 -18.694  0.00  0.00           C 0
+ATOM   3083   CG GLU A 394     -16.916  -4.422 -18.575  0.00  0.00           C 0
+ATOM   3075   CD LYS A 393     -13.869  -7.160 -14.419  0.00  0.00           C 0
+ATOM   3245   CE LYS A 412      -6.627 -11.370 -21.137  0.00  0.00           C 0
+TER
+END

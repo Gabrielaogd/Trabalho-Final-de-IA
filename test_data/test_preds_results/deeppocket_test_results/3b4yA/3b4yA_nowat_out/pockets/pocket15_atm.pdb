@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0033
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9274
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7489
+HEADER 5  - Mean B-factor of pocket residues  : 0.5925
+HEADER 6  - Hydrophobicity Score              : -6.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.5743
+HEADER 10 - Pocket volume (convex hull)       : 4.0851
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   2143   CB ASP A 291     -17.801  44.366  54.115  0.00  0.00           C 0
+ATOM   2173   CG GLU A 295     -16.309  39.492  56.147  0.00  0.00           C 0
+ATOM   2145  OD1 ASP A 291     -16.243  46.130  53.846  0.00  0.00           O 0
+ATOM   2175  OE1 GLU A 295     -17.788  40.940  57.364  0.00  0.00           O 0
+ATOM   2166  CG1 VAL A 294     -12.321  40.684  51.222  0.00  0.00           C 0
+ATOM   2471   CB ARG A 331     -11.714  44.603  50.600  0.00  0.00           C 0
+ATOM   2165   CB VAL A 294     -13.781  40.993  50.974  0.00  0.00           C 0
+ATOM   2473   CD ARG A 331     -14.120  45.486  50.675  0.00  0.00           C 0
+ATOM   2472   CG ARG A 331     -12.611  45.830  50.636  0.00  0.00           C 0
+ATOM   2142    O ASP A 291     -17.094  41.216  53.608  0.55  2.14           O 0
+ATOM   2140   CA ASP A 291     -17.421  43.485  52.933  0.00  0.00           C 0
+ATOM   2168    N GLU A 295     -15.372  38.906  53.124  0.00  0.00           N 0
+ATOM   2164    O VAL A 294     -13.380  38.209  52.361  0.46  4.29           O 0
+ATOM   2169   CA GLU A 295     -15.353  38.028  54.292  0.00  0.00           C 0
+ATOM   2163    C VAL A 294     -14.408  38.860  52.204  0.00  0.00           C 0
+TER
+END

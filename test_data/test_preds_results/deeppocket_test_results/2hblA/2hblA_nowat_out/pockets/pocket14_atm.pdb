@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0471
+HEADER 1  - Drug Score                        : 0.0036
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.7741
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4734
+HEADER 5  - Mean B-factor of pocket residues  : 0.4719
+HEADER 6  - Hydrophobicity Score              : 29.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.5934
+HEADER 10 - Pocket volume (convex hull)       : 7.1988
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5200
+ATOM   2890    O ALA A 474      34.127   5.619  16.041  0.00  0.00           O 0
+ATOM   2544    O ASN A 433      37.722   4.029  22.565  0.59  4.29           O 0
+ATOM   2547  OD1 ASN A 433      36.238   4.911  24.396  0.59  8.57           O 0
+ATOM   2562   CG PRO A 435      35.521   1.574  20.938  0.00  0.00           C 0
+ATOM   2891   CB ALA A 474      37.111   6.882  16.559  0.00  0.00           C 0
+ATOM   2563   CD PRO A 435      36.984   1.934  20.735  0.00  0.00           C 0
+ATOM   2865    O ALA A 470      40.032   5.986  14.909  0.57  2.14           O 0
+ATOM   2555  CG2 ILE A 434      41.578   2.441  19.792  0.00  0.00           C 0
+ATOM   2533   CB TYR A 432      41.660   7.580  20.149  0.00  0.00           C 0
+ATOM   2887    N ALA A 474      37.481   4.888  15.186  0.00  0.00           N 0
+ATOM   2589  NH1 ARG A 438      34.126   2.428  16.854  0.69  3.28           N 0
+ATOM   2590  NH2 ARG A 438      32.101   1.475  17.357  0.00  0.00           N 0
+ATOM   2550   CA ILE A 434      39.765   2.356  21.552  0.00  0.00           C 0
+ATOM   2888   CA ALA A 474      36.525   5.557  16.061  0.00  0.00           C 0
+ATOM   2885  CG1 VAL A 473      39.127   1.520  15.858  0.00  0.00           C 0
+ATOM   2532    O TYR A 432      39.307   7.097  21.588  0.75  8.57           O 0
+ATOM   2545   CB ASN A 433      38.130   6.341  24.039  0.00  0.00           C 0
+TER
+END

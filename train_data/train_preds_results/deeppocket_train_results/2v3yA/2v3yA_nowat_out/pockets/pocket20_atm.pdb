@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0711
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0520
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7150
+HEADER 5  - Mean B-factor of pocket residues  : 0.0357
+HEADER 6  - Hydrophobicity Score              : 16.0000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.4530
+HEADER 10 - Pocket volume (convex hull)       : 9.5137
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1523   CB SER A 177      70.584  65.105  35.505  0.00  0.00           C 0
+ATOM   1502    O PHE A 175      65.267  63.129  36.254  0.42  9.64           O 0
+ATOM   1520   CA SER A 177      70.153  63.683  35.205  0.00  0.00           C 0
+ATOM   1519    N SER A 177      69.110  63.236  36.132  0.00  0.00           N 0
+ATOM   1548  OE1 GLU A 180      68.186  64.527  38.601  0.47  1.07           O 0
+ATOM    467   OH TYR A  51      64.663  67.535  38.570  0.47  7.50           O 0
+ATOM   1513    O LYS A 176      68.492  61.472  34.835  0.32  6.43           O 0
+ATOM    126   CG ARG A  11      67.004  70.977  38.347  0.00  0.00           C 0
+ATOM    113    O ARG A  10      66.252  74.079  34.645  0.00  0.00           O 0
+ATOM    112    C ARG A  10      67.262  74.024  35.370  0.00  0.00           C 0
+ATOM    114   CB ARG A  10      69.477  73.420  34.391  0.00  0.00           C 0
+ATOM     80   CG GLU A   7      71.514  69.993  37.742  0.00  0.00           C 0
+ATOM    117   NE ARG A  10      71.792  71.655  33.558  0.70  8.75           N 0
+ATOM     83  OE2 GLU A   7      71.201  67.634  37.646  0.44  1.07           O 0
+ATOM    128   NE ARG A  11      68.325  69.300  39.559  0.66  1.09           N 0
+ATOM    121    N ARG A  11      67.232  73.477  36.581  0.00  0.00           N 0
+ATOM    122   CA ARG A  11      65.975  72.951  37.114  0.00  0.00           C 0
+ATOM    156   CB ALA A  14      63.323  72.496  33.654  0.00  0.00           C 0
+ATOM   1479   CE MET A 172      62.293  70.619  36.746  0.00  0.00           C 0
+TER
+END

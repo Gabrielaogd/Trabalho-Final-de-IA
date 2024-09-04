@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.1678
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.7454
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4464
+HEADER 5  - Mean B-factor of pocket residues  : 0.2199
+HEADER 6  - Hydrophobicity Score              : 17.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 306.2043
+HEADER 10 - Pocket volume (convex hull)       : 7.1471
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.4828
+ATOM   2501   CGALYS A 382       7.781 -20.756  13.435  0.00  0.00           C 0
+ATOM   2261   CBAGLU A 356       4.749 -26.794  10.462  0.00  0.00           C 0
+ATOM   2263   CGAGLU A 356       5.527 -28.069  10.803  0.00  0.00           C 0
+ATOM   2477    O ARG A 380       8.343 -25.163  16.481  0.00  0.00           O 0
+ATOM   2494    N LYS A 382       5.571 -22.035  15.094  0.00  0.00           N 0
+ATOM   2499   CBALYS A 382       6.284 -20.484  13.304  0.00  0.00           C 0
+ATOM   2024   OHATYR A 325       3.767 -23.585   8.730  0.47  5.36           O 0
+ATOM   2486   CAASER A 381       5.966 -23.764  16.774  0.00  0.00           C 0
+ATOM   2490   CBASER A 381       4.679 -24.236  17.438  0.00  0.00           C 0
+ATOM   2257    CAGLU A 356       2.429 -26.008  10.965  0.00  0.00           C 0
+ATOM   2271    NAVAL A 357       1.522 -26.512  11.786  0.00  0.00           N 0
+ATOM   2259    OAGLU A 356       2.603 -24.800  10.822  0.48  1.07           O 0
+ATOM   2277    OAVAL A 357       0.261 -27.552  13.934  0.00  0.00           O 0
+ATOM   2290   OG SER A 358       0.769 -26.252  18.402  0.46  3.21           O 0
+ATOM   2289   CB SER A 358       0.845 -25.472  17.241  0.00  0.00           C 0
+ATOM   2275    CAVAL A 357       0.343 -26.320  13.870  0.00  0.00           C 0
+ATOM   2273   CAAVAL A 357       0.656 -25.645  12.555  0.00  0.00           C 0
+ATOM   2285    N SER A 358       0.181 -25.513  14.913  0.00  0.00           N 0
+ATOM   2512    O VAL A 383       0.836 -22.667  14.697  0.00  0.00           O 0
+TER
+END

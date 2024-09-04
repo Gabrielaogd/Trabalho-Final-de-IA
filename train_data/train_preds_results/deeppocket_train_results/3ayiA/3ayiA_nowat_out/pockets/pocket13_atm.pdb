@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.1059
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9360
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5802
+HEADER 5  - Mean B-factor of pocket residues  : 0.3685
+HEADER 6  - Hydrophobicity Score              : 30.6667
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 266.3427
+HEADER 10 - Pocket volume (convex hull)       : 9.5369
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   4271   CG GLN A 587      90.018  42.847  61.115  0.00  0.00           C 0
+ATOM   4246   CB ALA A 583      88.219  50.014  59.459  0.00  0.00           C 0
+ATOM   4273  OE1 GLN A 587      88.173  43.398  59.435  0.64  5.36           O 0
+ATOM   4256    O ASN A 585      86.709  46.185  60.422  0.48  4.29           O 0
+ATOM   1226  NH2 ARG A 186      94.468  51.131  66.436  0.64  4.37           N 0
+ATOM   4230  CE2 TYR A 580      90.940  48.952  65.905  0.00  0.00           C 0
+ATOM   3556    O TRP A 492      98.422  46.473  65.585  0.00  0.00           O 0
+ATOM   4300   CB TRP A 590      95.928  45.462  67.378  0.00  0.00           C 0
+ATOM   4228  CD2 TYR A 580      90.332  49.595  64.738  0.00  0.00           C 0
+ATOM   4266    N GLN A 587      87.894  43.965  63.289  0.24  2.19           N 0
+ATOM   4270   CB GLN A 587      90.056  42.649  62.699  0.00  0.00           C 0
+ATOM   4208    O VAL A 578      87.704  47.118  65.414  0.24  3.21           O 0
+ATOM   4302  CD1 TRP A 590      94.966  47.716  68.171  0.00  0.00           C 0
+ATOM   4296    N TRP A 590      93.773  44.551  68.119  0.57  1.09           N 0
+ATOM   4269    O GLN A 587      88.752  43.477  65.659  0.45  3.21           O 0
+ATOM   4278    O PRO A 588      91.754  42.625  66.349  0.61  3.21           O 0
+TER
+END

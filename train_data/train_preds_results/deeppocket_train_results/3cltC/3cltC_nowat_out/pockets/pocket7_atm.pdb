@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0005
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8393
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5680
+HEADER 5  - Mean B-factor of pocket residues  : 0.2709
+HEADER 6  - Hydrophobicity Score              : 23.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.3413
+HEADER 10 - Pocket volume (convex hull)       : 2.8033
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM    421   CB SER C  52     101.186  50.886 -10.258  0.00  0.00           C 0
+ATOM   1169   CD PRO C 153     102.403  49.770  -3.818  0.00  0.00           C 0
+ATOM   1149    O TYR C 151     100.082  53.418  -4.332  0.51  9.64           O 0
+ATOM    398    O ILE C  49     100.114  47.952  -7.736  0.00  0.00           O 0
+ATOM    420    O SER C  52     104.101  50.037 -10.121  0.61  7.50           O 0
+ATOM   1162   CB LYS C 152     103.849  53.210  -3.514  0.00  0.00           C 0
+ATOM    419    C SER C  52     103.117  49.294 -10.113  0.00  0.00           C 0
+ATOM   1159   CA LYS C 152     102.481  52.632  -3.147  0.00  0.00           C 0
+ATOM    396   CA ILE C  49      97.965  49.013  -7.485  0.00  0.00           C 0
+ATOM    400  CG1 ILE C  49      96.909  50.448  -5.701  0.00  0.00           C 0
+ATOM    390   CB LYS C  48      95.075  50.451 -10.644  0.00  0.00           C 0
+ATOM    389    O LYS C  48      98.163  49.329 -10.228  0.62  1.07           O 0
+ATOM    395    N ILE C  49      96.842  49.035  -8.428  0.00  0.00           N 0
+ATOM    388    C LYS C  48      97.045  49.174  -9.738  0.00  0.00           C 0
+ATOM   1132    O LEU C 149      95.792  56.707  -5.538  0.29  9.64           O 0
+TER
+END

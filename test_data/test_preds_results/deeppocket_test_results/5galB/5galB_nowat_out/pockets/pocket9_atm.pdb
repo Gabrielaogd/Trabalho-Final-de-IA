@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1065
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9672
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4923
+HEADER 5  - Mean B-factor of pocket residues  : 0.5231
+HEADER 6  - Hydrophobicity Score              : 40.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 261.8131
+HEADER 10 - Pocket volume (convex hull)       : 6.9126
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM    390  CD1 LEU B  54       1.314  45.841  51.054  0.00  0.00           C 0
+ATOM    605    N ARG B  82       0.156  48.797  54.563  0.70  1.09           N 0
+ATOM    614  NH1 ARG B  82      -4.362  47.270  50.812  0.00  0.00           N 0
+ATOM    603  OE1 GLN B  81      -0.598  45.421  56.541  0.70  3.21           O 0
+ATOM    610   CG ARG B  82      -1.805  49.663  52.033  0.00  0.00           C 0
+ATOM    609   CB ARG B  82      -1.670  50.044  53.495  0.00  0.00           C 0
+ATOM    387    O LEU B  54      -2.416  44.125  49.114  0.40  5.36           O 0
+ATOM    588    O PHE B  80       2.233  44.772  54.428  0.63  4.29           O 0
+ATOM    575   CB VAL B  78       2.633  40.973  51.925  0.00  0.00           C 0
+ATOM    574    O VAL B  78       3.461  41.300  54.643  0.68  9.64           O 0
+ATOM    412   OG SER B  57      -2.744  40.396  50.383  0.00  0.00           O 0
+ATOM    576  CG1 VAL B  78       3.028  42.387  51.472  0.00  0.00           C 0
+TER
+END

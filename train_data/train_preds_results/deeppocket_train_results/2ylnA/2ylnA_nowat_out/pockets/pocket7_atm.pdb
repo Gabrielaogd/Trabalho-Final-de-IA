@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0793
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8413
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7059
+HEADER 5  - Mean B-factor of pocket residues  : 0.1431
+HEADER 6  - Hydrophobicity Score              : 8.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 261.1606
+HEADER 10 - Pocket volume (convex hull)       : 7.4791
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.3333
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM    860    O LYS A 129      17.291  11.475   6.753  0.00  0.00           O 0
+ATOM    854   CG ASP A 128      13.809  15.834   8.816  0.00  0.00           C 0
+ATOM   1920  CG1 VAL A 244      17.867  12.369  10.710  0.00  0.00           C 0
+ATOM    855  OD1 ASP A 128      13.804  16.506   7.765  0.00  0.00           O 0
+ATOM   1897  OD1AASP A 241      15.501  18.157  12.300  0.77  1.07           O 0
+ATOM    856  OD2 ASP A 128      13.794  16.341   9.931  0.69  2.14           O 0
+ATOM   1919   CB VAL A 244      17.189  12.665  12.042  0.00  0.00           C 0
+ATOM    853   CB ASP A 128      13.839  14.340   8.704  0.00  0.00           C 0
+ATOM    857    N LYS A 129      14.540  12.040   6.637  0.00  0.00           N 0
+ATOM    742  CD1 LEU A 118      13.138  13.490   3.090  0.00  0.00           C 0
+ATOM    861   CB LYS A 129      15.062  10.456   4.863  0.00  0.00           C 0
+ATOM    864   CE LYS A 129      16.896   9.671   2.368  0.00  0.00           C 0
+ATOM   1891    OAASP A 241      18.375  14.911  14.479  0.78  2.14           O 0
+ATOM   1887   CAAASP A 241      16.549  16.439  14.265  0.00  0.00           C 0
+ATOM   1895   CGAASP A 241      16.419  18.690  13.000  0.00  0.00           C 0
+ATOM   1893   CBAASP A 241      17.078  17.895  14.148  0.00  0.00           C 0
+TER
+END

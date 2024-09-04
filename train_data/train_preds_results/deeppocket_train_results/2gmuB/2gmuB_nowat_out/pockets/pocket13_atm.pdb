@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0584
+HEADER 1  - Drug Score                        : 0.0094
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.1283
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5262
+HEADER 5  - Mean B-factor of pocket residues  : 0.2665
+HEADER 6  - Hydrophobicity Score              : 24.8750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 330.5962
+HEADER 10 - Pocket volume (convex hull)       : 18.1148
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.7273
+ATOM   2895  CD2 TYR B 361      37.514   9.127  34.509  0.00  0.00           C 0
+ATOM    887  CG1 ILE B 109      38.485  11.119  30.080  0.00  0.00           C 0
+ATOM   2897  CE2 TYR B 361      37.783  10.031  35.539  0.00  0.00           C 0
+ATOM   2486   CG LYS B 310      42.181   9.970  36.797  0.00  0.00           C 0
+ATOM   2893   CG TYR B 361      37.894   7.789  34.609  0.00  0.00           C 0
+ATOM   2488   CE LYS B 310      42.935   7.603  37.354  0.00  0.00           C 0
+ATOM   2894  CD1 TYR B 361      38.509   7.357  35.782  0.00  0.00           C 0
+ATOM   2485   CB LYS B 310      42.639  11.059  37.748  0.00  0.00           C 0
+ATOM   2332  OD2 ASP B 291      39.736  16.263  34.037  0.00  0.00           O 0
+ATOM   2481    N LYS B 310      40.918  12.759  38.173  0.57  3.28           N 0
+ATOM    888  CG2 ILE B 109      40.585  11.970  29.021  0.00  0.00           C 0
+ATOM   2467    O ILE B 308      37.530  12.816  37.402  0.47  1.07           O 0
+ATOM   2462  CG2 ILE B 307      35.926  12.563  33.901  0.00  0.00           C 0
+ATOM   2872  OD1 ASN B 358      40.900   6.977  28.935  0.55  9.64           O 0
+ATOM   2892   CB TYR B 361      37.578   6.823  33.507  0.00  0.00           C 0
+ATOM   2862   CB ASP B 357      40.940   2.519  30.026  0.00  0.00           C 0
+ATOM   2860    C ASP B 357      38.755   3.785  30.115  0.00  0.00           C 0
+ATOM   2861    O ASP B 357      38.111   4.005  31.143  0.62  5.36           O 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.1185
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8992
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5664
+HEADER 5  - Mean B-factor of pocket residues  : 0.1071
+HEADER 6  - Hydrophobicity Score              : 20.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 271.5297
+HEADER 10 - Pocket volume (convex hull)       : 14.5210
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM    515  CD1 ILE C  69      19.845  44.417  82.479  0.00  0.00           C 0
+ATOM    713  CG2 VAL C  96      16.648  37.782  82.976  0.00  0.00           C 0
+ATOM    491   CG GLN C  66      15.066  42.471  82.876  0.00  0.00           C 0
+ATOM    493  OE1 GLN C  66      14.417  42.890  80.622  0.67  7.50           O 0
+ATOM    485    O GLY C  65      16.671  39.495  85.928  0.44  1.07           O 0
+ATOM    503   CB GLU C  68      20.858  40.715  87.344  0.00  0.00           C 0
+ATOM    506  OE1 GLU C  68      22.363  38.247  86.749  0.55  5.36           O 0
+ATOM    505   CD GLU C  68      22.999  39.275  87.054  0.00  0.00           C 0
+ATOM    513  CG1 ILE C  69      20.654  44.566  83.752  0.00  0.00           C 0
+ATOM    504   CG GLU C  68      22.352  40.539  87.528  0.00  0.00           C 0
+ATOM    507  OE2 GLU C  68      24.252  39.279  86.956  0.58  9.64           O 0
+ATOM    487   CA GLN C  66      16.075  42.097  85.211  0.00  0.00           C 0
+ATOM    508    N ILE C  69      20.156  43.769  86.718  0.00  0.00           N 0
+ATOM    707    N VAL C  96      17.662  36.272  85.504  0.58  1.09           N 0
+ATOM    711   CB VAL C  96      17.364  36.427  83.023  0.00  0.00           C 0
+ATOM    735  NE2 GLN C  99      21.024  33.923  85.551  0.40  6.56           N 0
+TER
+END

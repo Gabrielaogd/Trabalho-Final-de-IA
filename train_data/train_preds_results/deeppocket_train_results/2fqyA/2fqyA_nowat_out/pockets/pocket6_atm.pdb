@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0334
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6707
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5140
+HEADER 5  - Mean B-factor of pocket residues  : 0.2397
+HEADER 6  - Hydrophobicity Score              : 2.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 120.7236
+HEADER 10 - Pocket volume (convex hull)       : 1.2804
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM    463   CA MET A  78      58.108  64.374   7.425  0.00  0.00           C 0
+ATOM    448    O GLU A  76      60.057  66.162   4.287  0.00  0.00           O 0
+ATOM     30  CG2 VAL A  21      58.072  69.477  10.088  0.00  0.00           C 0
+ATOM    457    O ASN A  77      60.655  64.212   6.575  0.58  5.36           O 0
+ATOM    466   CB MET A  78      56.781  65.125   7.398  0.00  0.00           C 0
+ATOM    469   CE MET A  78      54.857  67.191   5.685  0.00  0.00           C 0
+ATOM    449   CB GLU A  76      57.862  67.242   2.696  0.00  0.00           C 0
+ATOM    452  OE1 GLU A  76      55.761  68.963   3.104  0.83  1.07           O 0
+ATOM     28   CB VAL A  21      56.993  68.371   9.963  0.00  0.00           C 0
+ATOM      8    O ASP A  19      61.088  68.568  11.459  0.45  9.64           O 0
+ATOM     29  CG1 VAL A  21      55.672  68.945   9.490  0.00  0.00           C 0
+ATOM    302   CE LYS A  56      53.850  70.557   5.417  0.00  0.00           C 0
+ATOM    303   NZ LYS A  56      54.676  71.381   4.466  0.59  5.47           N 0
+TER
+END

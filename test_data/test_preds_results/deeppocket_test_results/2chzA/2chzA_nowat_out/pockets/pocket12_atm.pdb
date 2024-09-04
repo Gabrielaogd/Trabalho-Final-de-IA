@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0561
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.6356
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4472
+HEADER 5  - Mean B-factor of pocket residues  : 0.7472
+HEADER 6  - Hydrophobicity Score              : 42.6250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 114.3157
+HEADER 10 - Pocket volume (convex hull)       : 3.1467
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM   4281  CG2 VAL A 763      48.593  18.804  50.062  0.00  0.00           C 0
+ATOM   4202   CB SER A 753      42.722  20.519  49.281  0.00  0.00           C 0
+ATOM   4192    C LEU A 752      43.050  18.359  51.499  0.00  0.00           C 0
+ATOM   4193    O LEU A 752      43.760  19.295  51.879  0.70  8.57           O 0
+ATOM   4280  CG1 VAL A 763      48.585  16.727  48.689  0.00  0.00           C 0
+ATOM   4592  CG1 VAL A 803      46.745  15.128  43.688  0.00  0.00           C 0
+ATOM   4173  CG2 ILE A 749      45.882  12.755  47.292  0.00  0.00           C 0
+ATOM   4170    O ILE A 749      43.971  14.430  49.273  0.44  3.21           O 0
+ATOM   4194   CB LEU A 752      44.681  16.482  52.035  0.00  0.00           C 0
+ATOM   4242    O ASP A 758      47.104  22.620  47.024  0.26  4.29           O 0
+ATOM   4639   NZ LYS A 809      42.426  19.812  45.503  0.00  0.00           N 0
+ATOM   4198    N SER A 753      42.103  18.485  50.568  0.00  0.00           N 0
+ATOM   4248   CA VAL A 759      48.987  21.001  45.844  0.00  0.00           C 0
+ATOM   4637   CD LYS A 809      42.821  17.427  44.805  0.00  0.00           C 0
+ATOM   4253  CG2 VAL A 759      48.110  19.596  43.938  0.00  0.00           C 0
+ATOM   4252  CG1 VAL A 759      49.689  18.594  45.599  0.00  0.00           C 0
+TER
+END

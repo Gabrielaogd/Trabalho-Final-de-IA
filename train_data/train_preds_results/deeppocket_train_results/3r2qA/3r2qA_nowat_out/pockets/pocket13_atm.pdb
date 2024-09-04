@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.1240
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9993
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4615
+HEADER 5  - Mean B-factor of pocket residues  : 0.3599
+HEADER 6  - Hydrophobicity Score              : 2.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 287.1609
+HEADER 10 - Pocket volume (convex hull)       : 11.8822
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   1750    N ALA A 202     -16.870  13.989  18.823  0.50  2.19           N 0
+ATOM   1451  NH1 ARG A 169     -21.257   7.303  16.165  0.00  0.00           N 0
+ATOM   1755  OXT ALA A 202     -15.264  11.715  18.252  0.64  9.64           O 0
+ATOM   1754   CB ALA A 202     -16.543  13.181  21.088  0.00  0.00           C 0
+ATOM   1742   CA LYS A 201     -17.731  14.825  16.711  0.00  0.00           C 0
+ATOM   1428  CE1 PHE A 167     -21.770  14.501  14.738  0.00  0.00           C 0
+ATOM   1737    O PRO A 200     -20.071  16.465  16.614  0.67  5.36           O 0
+ATOM   1423    O PHE A 167     -22.813  10.780  13.281  0.28  4.29           O 0
+ATOM   1440  NH1 ARG A 168     -25.763  13.512  17.224  0.00  0.00           N 0
+ATOM   1452  NH2 ARG A 169     -19.086   7.588  15.471  0.00  0.00           N 0
+ATOM   1746   CG LYS A 201     -17.882  13.906  14.351  0.00  0.00           C 0
+ATOM   1747   CD LYS A 201     -17.204  12.792  13.510  0.00  0.00           C 0
+ATOM   1415    O ASN A 166     -22.297   9.463  10.181  0.52  6.43           O 0
+ATOM   1449   NE ARG A 169     -20.540   6.369  14.216  0.34  3.28           N 0
+ATOM   1749   NZ LYS A 201     -17.090  11.959  11.158  0.48  5.47           N 0
+ATOM   1745   CB LYS A 201     -17.145  13.966  15.631  0.00  0.00           C 0
+TER
+END

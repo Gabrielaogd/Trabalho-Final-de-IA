@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0085
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6839
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4529
+HEADER 5  - Mean B-factor of pocket residues  : 0.1032
+HEADER 6  - Hydrophobicity Score              : 11.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 174.4760
+HEADER 10 - Pocket volume (convex hull)       : 2.8596
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1053
+ATOM   1084   CB HIS A 137      35.512  31.008  11.406  0.00  0.00           C 0
+ATOM   1673  CD2 LEU A 207      30.189  31.298   6.890  0.00  0.00           C 0
+ATOM   1665  NE2 GLN A 206      32.683  36.022  10.702  0.68  6.56           N 0
+ATOM   1086  ND1 HIS A 137      36.631  30.134   9.320  0.00  0.00           N 0
+ATOM   1083    O HIS A 137      33.385  32.282  12.628  0.45  2.14           O 0
+ATOM   1659    C GLN A 206      30.210  35.791   6.225  0.00  0.00           C 0
+ATOM   1661   CB GLN A 206      31.279  36.494   8.392  0.00  0.00           C 0
+ATOM   1660    O GLN A 206      30.898  35.759   5.192  0.00  0.00           O 0
+ATOM   1672  CD1 LEU A 207      28.064  30.991   8.169  0.00  0.00           C 0
+ATOM   1071    N GLN A 136      31.442  27.967  10.132  0.57  1.09           N 0
+ATOM   1671   CG LEU A 207      28.949  31.983   7.425  0.00  0.00           C 0
+ATOM   1080    N HIS A 137      33.599  29.504  11.109  0.59  2.19           N 0
+ATOM   1075   CB GLN A 136      33.149  28.232   8.403  0.00  0.00           C 0
+ATOM   1069  OE1 GLN A 135      28.923  30.583  13.281  0.00  0.00           O 0
+ATOM   1634    O SER A 203      28.528  34.637   9.410  0.00  0.00           O 0
+ATOM   1635   CB SER A 203      28.471  33.870  12.626  0.00  0.00           C 0
+TER
+END

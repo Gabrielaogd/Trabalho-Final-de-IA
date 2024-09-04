@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0383
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8744
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6617
+HEADER 5  - Mean B-factor of pocket residues  : 0.5316
+HEADER 6  - Hydrophobicity Score              : 8.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.6282
+HEADER 10 - Pocket volume (convex hull)       : 5.7666
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM   2421  OD1 ASN C 321      89.469 -34.215  73.656  0.00  0.00           O 0
+ATOM   2416   CA ASN C 321      89.379 -36.037  71.206  0.00  0.00           C 0
+ATOM   2441   CB ALA C 324      85.032 -37.453  71.050  0.00  0.00           C 0
+ATOM   2418    O ASN C 321      88.134 -35.900  69.198  0.61  1.07           O 0
+ATOM   1778    O GLU C 242      87.294 -31.050  69.375  0.00  0.00           O 0
+ATOM   2419   CB ASN C 321      90.044 -34.687  71.355  0.00  0.00           C 0
+ATOM   2442    N VAL C 325      85.543 -36.510  67.822  0.00  0.00           N 0
+ATOM   2448  CG2 VAL C 325      86.659 -33.567  66.886  0.00  0.00           C 0
+ATOM   1783  OE2 GLU C 242      83.763 -30.460  65.670  0.86  1.07           O 0
+ATOM   2468   CD ARG C 328      80.579 -33.191  67.395  0.00  0.00           C 0
+ATOM   1780   CG GLU C 242      84.850 -28.715  66.887  0.00  0.00           C 0
+ATOM   2471  NH1 ARG C 328      80.685 -30.220  66.515  0.37  3.28           N 0
+ATOM   1779   CB GLU C 242      86.072 -29.628  66.945  0.00  0.00           C 0
+ATOM   2439    C ALA C 324      84.609 -37.117  68.545  0.00  0.00           C 0
+ATOM   2440    O ALA C 324      83.404 -37.078  68.243  0.74  4.29           O 0
+ATOM   2443   CA VAL C 325      85.196 -35.603  66.717  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0759
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6962
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4918
+HEADER 5  - Mean B-factor of pocket residues  : 0.2513
+HEADER 6  - Hydrophobicity Score              : 2.4000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 150.4168
+HEADER 10 - Pocket volume (convex hull)       : 2.8254
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM   1319   CB ARG B 170      11.589  51.826  34.909  0.00  0.00           C 0
+ATOM   1318    O ARG B 170       9.424  53.483  33.584  0.72  9.64           O 0
+ATOM   1333   NE ARG B 171      10.123  50.605  28.836  0.00  0.00           N 0
+ATOM   1331   CG ARG B 171       8.934  51.203  30.920  0.00  0.00           C 0
+ATOM     49  CE1 TYR B   8      10.754  46.331  30.624  0.00  0.00           C 0
+ATOM   1305   CD GLU B 168      10.875  47.716  34.395  0.00  0.00           C 0
+ATOM     47  CD1 TYR B   8      10.417  46.654  29.314  0.00  0.00           C 0
+ATOM   1335  NH1 ARG B 171      11.515  50.066  27.073  0.56  6.56           N 0
+ATOM   1324  NH1 ARG B 170      15.752  49.734  33.859  0.43  5.47           N 0
+ATOM   1323   CZ ARG B 170      14.647  49.166  34.350  0.00  0.00           C 0
+ATOM   1325  NH2 ARG B 170      14.377  47.895  34.054  0.75  2.19           N 0
+ATOM   1306  OE1 GLU B 168      11.626  46.805  34.009  0.00  0.00           O 0
+ATOM    600  CD2 HIS B  80      15.523  46.709  29.139  0.00  0.00           C 0
+TER
+END

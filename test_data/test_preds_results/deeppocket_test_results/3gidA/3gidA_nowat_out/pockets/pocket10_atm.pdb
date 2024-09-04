@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0648
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8451
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5540
+HEADER 5  - Mean B-factor of pocket residues  : 0.4136
+HEADER 6  - Hydrophobicity Score              : 22.4444
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 157.2675
+HEADER 10 - Pocket volume (convex hull)       : 2.5031
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1429
+ATOM   3543   CB PHE A 746     -50.776 -23.686  39.463  0.00  0.00           C 0
+ATOM   3539    N PHE A 746     -52.727 -24.919  38.578  0.00  0.00           N 0
+ATOM   3498  CD1 LEU A 740     -51.354 -19.430  41.091  0.00  0.00           C 0
+ATOM   3538   OG SER A 745     -55.835 -23.696  36.651  0.60  3.21           O 0
+ATOM   3540   CA PHE A 746     -51.306 -24.624  38.378  0.00  0.00           C 0
+ATOM   3522  OG1 THR A 743     -53.637 -23.500  41.338  0.00  0.00           O 0
+ATOM   3537   CB SER A 745     -55.689 -24.276  37.934  0.00  0.00           C 0
+ATOM   3578    O ASP A 750     -54.118 -22.996  33.012  0.65  8.57           O 0
+ATOM   3536    O SER A 745     -52.981 -25.772  36.514  0.00  0.00           O 0
+ATOM   3575    N ASP A 750     -52.356 -25.267  33.009  0.57  1.09           N 0
+ATOM   1996    O SER A 522     -49.326 -18.811  35.611  0.61  7.50           O 0
+ATOM   3546  CD2 PHE A 746     -48.899 -22.402  38.398  0.00  0.00           C 0
+ATOM   2004  CG1 ILE A 523     -49.328 -18.004  38.072  0.00  0.00           C 0
+ATOM   3573  OD1 ASN A 749     -48.597 -24.264  33.121  0.66  2.14           O 0
+ATOM   1821  NH2 ARG A 499     -49.083 -21.977  31.935  0.58  3.28           N 0
+ATOM   3568   CA ASN A 749     -50.374 -26.187  34.084  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0033
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9175
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5864
+HEADER 5  - Mean B-factor of pocket residues  : 0.4956
+HEADER 6  - Hydrophobicity Score              : -8.8333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.4787
+HEADER 10 - Pocket volume (convex hull)       : 5.1658
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   1095   CG LYS A 193       1.599  27.027  27.297  0.00  0.00           C 0
+ATOM   3719   CG LYS A 515       1.532  30.529  29.305  0.00  0.00           C 0
+ATOM   3718   CB LYS A 515       1.828  31.971  28.922  0.00  0.00           C 0
+ATOM   3720   CD LYS A 515       0.028  30.315  29.519  0.00  0.00           C 0
+ATOM   1091   CA LYS A 193       3.814  27.773  26.249  0.00  0.00           C 0
+ATOM   1087    O SER A 192       4.833  29.417  24.303  0.54  2.14           O 0
+ATOM   1093    O LYS A 193       4.156  29.285  28.078  0.00  0.00           O 0
+ATOM   1096   CD LYS A 193       0.587  25.886  27.280  0.00  0.00           C 0
+ATOM   1094   CB LYS A 193       2.924  26.604  26.676  0.00  0.00           C 0
+ATOM   1066  OE1 GLN A 189       1.802  23.425  23.976  0.30  7.50           O 0
+ATOM   2223  CG2 THR A 332       2.201  30.138  21.022  0.00  0.00           C 0
+ATOM   2220    O THR A 332       0.175  31.390  19.653  0.42  7.50           O 0
+ATOM   3753   CB SER A 519       2.831  34.587  23.580  0.00  0.00           C 0
+ATOM   3754   OG SER A 519       2.002  35.130  22.568  0.37  5.36           O 0
+ATOM   3717    O LYS A 515       3.577  33.656  26.678  0.39  2.14           O 0
+ATOM   2222  OG1 THR A 332       1.962  27.858  20.621  0.46  6.43           O 0
+ATOM   1097   CE LYS A 193      -0.840  26.391  27.338  0.00  0.00           C 0
+ATOM   1089   OG SER A 192       4.118  26.378  22.487  0.00  0.00           O 0
+TER
+END

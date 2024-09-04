@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0044
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6199
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4366
+HEADER 5  - Mean B-factor of pocket residues  : 0.1255
+HEADER 6  - Hydrophobicity Score              : 30.2500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 157.6622
+HEADER 10 - Pocket volume (convex hull)       : 1.9963
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM    669    O VAL B 221      17.153  80.694  13.308  0.00  0.00           O 0
+ATOM    680    N ARG B 223      15.095  79.087  10.748  0.67  1.09           N 0
+ATOM    681   CA ARG B 223      13.759  79.247  10.178  0.00  0.00           C 0
+ATOM    684   CB ARG B 223      13.841  80.159   8.945  0.00  0.00           C 0
+ATOM   1259  ND1 HIS B 297      10.465  81.659  14.538  0.71  3.28           N 0
+ATOM   1232  ND1 HIS B 294      14.456  82.772  17.094  0.50  3.28           N 0
+ATOM    668    C VAL B 221      16.976  79.716  14.039  0.00  0.00           C 0
+ATOM    675    C THR B 222      15.398  78.167  11.656  0.00  0.00           C 0
+ATOM    676    O THR B 222      14.583  77.350  12.100  0.76  3.21           O 0
+ATOM   1234  CE1 HIS B 294      15.304  83.783  17.030  0.00  0.00           C 0
+ATOM   1261  CE1 HIS B 297      10.185  82.911  14.223  0.00  0.00           C 0
+ATOM    667   CA VAL B 221      16.920  79.869  15.556  0.00  0.00           C 0
+ATOM    658    O PHE B 220      15.058  78.409  16.938  0.44  3.21           O 0
+ATOM   1257   CB HIS B 297       9.264  79.511  15.095  0.00  0.00           C 0
+ATOM   1271  NE1 TRP B 298      12.986  76.407  17.209  0.63  1.09           N 0
+ATOM    704   CG PRO B 226      11.107  75.331  13.951  0.00  0.00           C 0
+TER
+END

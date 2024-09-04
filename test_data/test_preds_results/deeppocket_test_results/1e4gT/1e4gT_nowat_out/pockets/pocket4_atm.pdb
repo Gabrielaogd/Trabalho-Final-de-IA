@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0851
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7286
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4660
+HEADER 5  - Mean B-factor of pocket residues  : 0.1469
+HEADER 6  - Hydrophobicity Score              : 47.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 142.5828
+HEADER 10 - Pocket volume (convex hull)       : 3.5203
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4783
+ATOM   1203    O ILE T 156      56.419  -3.731  30.947  0.79  1.07           O 0
+ATOM    736   CG ARG T  97      54.791  -2.614  26.556  0.00  0.00           C 0
+ATOM    717    O ILE T  95      52.802  -3.874  32.177  0.61  2.14           O 0
+ATOM   1220  CD1 ILE T 158      53.630   1.528  32.896  0.00  0.00           C 0
+ATOM   1218  CG1 ILE T 158      53.961   0.316  33.714  0.00  0.00           C 0
+ATOM    720  CG2 ILE T  95      50.277  -3.186  29.561  0.00  0.00           C 0
+ATOM   1241   OH TYR T 160      50.108   1.476  32.199  0.63  1.07           O 0
+ATOM    843    O ILE T 110      52.728   3.069  26.825  0.58  3.21           O 0
+ATOM    871    N GLN T 115      48.499   2.385  29.478  0.48  5.47           N 0
+ATOM   1206  CG2 ILE T 156      57.780  -1.352  29.526  0.00  0.00           C 0
+ATOM    864    C GLU T 113      49.051   1.913  26.220  0.00  0.00           C 0
+ATOM    740  NH1 ARG T  97      51.708  -0.773  24.182  0.00  0.00           N 0
+ATOM    893  OE1 GLU T 117      49.648  -2.882  25.840  0.47  4.29           O 0
+ATOM    738   NE ARG T  97      52.803  -2.568  25.113  0.00  0.00           N 0
+ATOM    739   CZ ARG T  97      52.834  -1.408  24.468  0.00  0.00           C 0
+ATOM   1207  CD1 ILE T 156      57.231   0.782  31.509  0.00  0.00           C 0
+ATOM    854  CD1 LEU T 111      54.978   4.452  30.679  0.00  0.00           C 0
+ATOM    846  CG2 ILE T 110      55.764   2.131  26.073  0.00  0.00           C 0
+TER
+END

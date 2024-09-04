@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0410
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8033
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5991
+HEADER 5  - Mean B-factor of pocket residues  : 0.3514
+HEADER 6  - Hydrophobicity Score              : 26.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 147.0882
+HEADER 10 - Pocket volume (convex hull)       : 1.3812
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   3590   CEALYS B 434     -42.774  20.777  -3.696  0.00  0.00           C 0
+ATOM   1646    OALYS B 196     -45.641  15.522  -1.852  0.26  7.50           O 0
+ATOM   1680    O VAL B 199     -42.336  15.009   1.653  0.22  9.64           O 0
+ATOM   3592   NZALYS B 434     -42.912  22.009  -2.864  0.31  5.47           N 0
+ATOM   3561    O TYR B 432     -38.442  22.543   2.518  0.56  7.50           O 0
+ATOM   3586   CGALYS B 434     -40.259  20.760  -3.477  0.00  0.00           C 0
+ATOM   1888   CD PRO B 225     -38.728  18.205   0.397  0.00  0.00           C 0
+ATOM   3572    C GLU B 433     -37.401  22.354  -0.937  0.00  0.00           C 0
+ATOM   1866    O LEU B 223     -41.883  17.347  -3.514  0.50  2.14           O 0
+ATOM   1875   CB PHE B 224     -40.024  15.777  -1.370  0.00  0.00           C 0
+ATOM   1872   CA PHE B 224     -39.535  17.041  -2.138  0.00  0.00           C 0
+ATOM   3571   CA GLU B 433     -37.718  23.547  -0.005  0.00  0.00           C 0
+ATOM   3579    N LYS B 434     -37.995  22.337  -2.122  0.54  1.09           N 0
+TER
+END

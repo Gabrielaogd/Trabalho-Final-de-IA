@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0850
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7800
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5089
+HEADER 5  - Mean B-factor of pocket residues  : 0.3846
+HEADER 6  - Hydrophobicity Score              : 14.6250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 338.1377
+HEADER 10 - Pocket volume (convex hull)       : 18.0522
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1429
+ATOM    421  OG1 THR A  56      20.290   4.600 -11.320  0.00  0.00           O 0
+ATOM    266   CB MET A  35      23.303  10.697  -9.016  0.00  0.00           C 0
+ATOM    249    O VAL A  32      24.165   7.443  -7.212  0.56  3.21           O 0
+ATOM    251  CG1 VAL A  32      25.592   5.091  -9.077  0.00  0.00           C 0
+ATOM    278    O LYS A  37      14.869   7.157  -7.052  0.00  0.00           O 0
+ATOM    411   CA SER A  55      17.376   2.496  -7.682  0.00  0.00           C 0
+ATOM    298  ND2 ASN A  39      11.190   4.331  -7.893  0.36  8.75           N 0
+ATOM    422  CG2 THR A  56      18.533   3.553 -12.436  0.00  0.00           C 0
+ATOM    404    O GLU A  54      15.063   2.552  -6.096  0.52  2.14           O 0
+ATOM    416    N THR A  56      18.767   2.723  -9.656  0.75  2.19           N 0
+ATOM    269   CE MET A  35      26.193   9.735 -10.543  0.00  0.00           C 0
+ATOM    268   SD MET A  35      25.234  11.209 -10.928  0.00  0.00           S 0
+ATOM    275    N LYS A  37      17.792   8.515  -6.866  0.00  0.00           N 0
+ATOM    279   CB LYS A  37      15.760   9.842  -7.321  0.00  0.00           C 0
+ATOM    265    O MET A  35      20.385  10.423  -8.348  0.22  2.14           O 0
+ATOM    264    C MET A  35      21.331  10.110  -7.629  0.00  0.00           C 0
+ATOM    270    N ALA A  36      21.305   9.068  -6.800  0.00  0.00           N 0
+ATOM    414   CB SER A  55      18.021   3.586  -6.811  0.00  0.00           C 0
+ATOM    271   CA ALA A  36      20.171   8.146  -6.741  0.00  0.00           C 0
+TER
+END

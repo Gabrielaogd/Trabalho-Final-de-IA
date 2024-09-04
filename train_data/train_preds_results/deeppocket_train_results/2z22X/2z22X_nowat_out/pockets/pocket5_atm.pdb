@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1262
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.0929
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5962
+HEADER 5  - Mean B-factor of pocket residues  : 0.0824
+HEADER 6  - Hydrophobicity Score              : 16.4444
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.2370
+HEADER 10 - Pocket volume (convex hull)       : 6.0765
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2593
+ATOM    303  CG2 VAL X  42      15.109 -11.095  31.946  0.00  0.00           C 0
+ATOM    301   CB VAL X  42      15.670 -12.495  32.094  0.00  0.00           C 0
+ATOM    302  CG1 VAL X  42      16.247 -12.976  30.765  0.00  0.00           C 0
+ATOM    288   OG SER X  39      19.270  -8.985  36.441  0.76  7.50           O 0
+ATOM    284   CA SER X  39      17.424 -10.517  36.132  0.00  0.00           C 0
+ATOM   1210   OG SER X 164      19.380  -5.138  34.386  0.78  7.50           O 0
+ATOM    459   NZ LYS X  63      19.760 -12.964  28.441  0.00  0.00           N 0
+ATOM    398   OG SER X  55      14.028  -7.183  32.378  0.74  2.14           O 0
+ATOM    286    O SER X  39      17.146 -12.817  35.507  0.61  2.14           O 0
+ATOM    426  CD2 LEU X  59      16.323  -9.217  28.430  0.00  0.00           C 0
+ATOM    283    N SER X  39      16.411  -9.561  36.557  0.78  1.09           N 0
+ATOM    311   CE LYS X  43      20.783 -14.831  35.669  0.00  0.00           C 0
+ATOM    280    O SER X  38      14.861 -10.435  35.187  0.00  0.00           O 0
+ATOM    411   CB ALA X  57      16.545  -4.183  31.895  0.00  0.00           C 0
+ATOM    410    O ALA X  57      14.581  -5.699  30.176  0.00  0.00           O 0
+ATOM    279    C SER X  38      15.189  -9.603  36.037  0.00  0.00           C 0
+ATOM    309   CG LYS X  43      18.662 -15.708  34.661  0.00  0.00           C 0
+ATOM    281   CB SER X  38      14.445  -7.238  35.795  0.00  0.00           C 0
+ATOM    287   CB SER X  39      18.744 -10.238  36.852  0.00  0.00           C 0
+TER
+END

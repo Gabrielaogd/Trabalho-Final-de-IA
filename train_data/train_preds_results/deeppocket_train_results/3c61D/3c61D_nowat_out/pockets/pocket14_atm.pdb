@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0508
+HEADER 1  - Drug Score                        : 0.0988
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9153
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5709
+HEADER 5  - Mean B-factor of pocket residues  : 0.0539
+HEADER 6  - Hydrophobicity Score              : 60.1429
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.7691
+HEADER 10 - Pocket volume (convex hull)       : 5.9381
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM   1814    O LEU D 231     -35.159  87.613  -7.265  0.00  0.00           O 0
+ATOM   1815   CB LEU D 231     -31.924  87.535  -6.970  0.00  0.00           C 0
+ATOM   1813    C LEU D 231     -34.304  86.744  -7.049  0.00  0.00           C 0
+ATOM   1819    N ALA D 232     -34.345  85.534  -7.612  0.00  0.00           N 0
+ATOM   1820   CA ALA D 232     -35.432  85.115  -8.466  0.00  0.00           C 0
+ATOM   1843   CB ASN D 235     -37.306  89.525  -9.026  0.00  0.00           C 0
+ATOM   1845  OD1 ASN D 235     -37.961  89.934 -11.286  0.59  7.50           O 0
+ATOM   2416  CG1 VAL D 309     -35.204  93.587 -11.586  0.00  0.00           C 0
+ATOM   1844   CG ASN D 235     -37.746  90.418 -10.177  0.00  0.00           C 0
+ATOM   2417  CG2 VAL D 309     -32.821  93.279 -12.432  0.00  0.00           C 0
+ATOM   2034    O LEU D 260     -31.308  92.950  -6.071  0.69  2.14           O 0
+ATOM   1817  CD1 LEU D 231     -29.544  88.336  -7.198  0.00  0.00           C 0
+ATOM   2038  CD2 LEU D 260     -27.045  93.088  -8.060  0.00  0.00           C 0
+ATOM   2035   CB LEU D 260     -28.116  92.049  -6.042  0.00  0.00           C 0
+ATOM   2063  CD2 LEU D 263     -29.670  96.351  -9.378  0.00  0.00           C 0
+ATOM   2060   CB LEU D 263     -31.628  95.878  -7.964  0.00  0.00           C 0
+ATOM   2068   CB ALA D 264     -34.344  91.454  -6.771  0.00  0.00           C 0
+ATOM   2064    N ALA D 264     -33.910  93.865  -7.066  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0268
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9959
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6385
+HEADER 5  - Mean B-factor of pocket residues  : 0.2497
+HEADER 6  - Hydrophobicity Score              : 5.2500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 336.5649
+HEADER 10 - Pocket volume (convex hull)       : 17.9371
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   2460    O GLY C 326      -6.115 -42.294 -21.761  0.00  0.00           O 0
+ATOM   2474  OD1 ASP C 328      -4.073 -37.917 -26.079  0.00  0.00           O 0
+ATOM   2466  OG1 THR C 327      -7.469 -38.505 -24.146  0.00  0.00           O 0
+ATOM   2462   CA THR C 327      -6.169 -39.562 -22.368  0.00  0.00           C 0
+ATOM   2720  CD1 TYR C 358       2.815 -41.117 -25.199  0.00  0.00           C 0
+ATOM   2475  OD2 ASP C 328      -2.380 -36.766 -26.785  0.61  5.36           O 0
+ATOM   2722  CE1 TYR C 358       3.082 -42.102 -26.152  0.00  0.00           C 0
+ATOM   2718   CB TYR C 358       3.269 -39.968 -22.980  0.00  0.00           C 0
+ATOM   2719   CG TYR C 358       3.551 -41.043 -24.024  0.00  0.00           C 0
+ATOM   2696  OD1 ASN C 355      -1.960 -41.048 -19.869  0.54  5.36           O 0
+ATOM   2472   CB ASP C 328      -2.627 -37.070 -24.397  0.00  0.00           C 0
+ATOM   2693    O ASN C 355       0.503 -37.722 -22.546  0.00  0.00           O 0
+ATOM   2752    O HIS C 362       3.023 -38.242 -28.562  0.70  2.14           O 0
+ATOM   2760   CA GLY C 363       2.126 -38.431 -31.083  0.00  0.00           C 0
+ATOM   2468    N ASP C 328      -4.692 -37.948 -23.427  0.00  0.00           N 0
+ATOM   2473   CG ASP C 328      -3.034 -37.258 -25.834  0.00  0.00           C 0
+ATOM   2691   CA ASN C 355      -0.402 -38.692 -20.542  0.00  0.00           C 0
+ATOM   2694   CB ASN C 355      -1.919 -38.766 -20.476  0.00  0.00           C 0
+ATOM   2730   CB ALA C 359       0.712 -36.315 -25.722  0.00  0.00           C 0
+ATOM   2727   CA ALA C 359       2.121 -36.827 -25.867  0.00  0.00           C 0
+TER
+END

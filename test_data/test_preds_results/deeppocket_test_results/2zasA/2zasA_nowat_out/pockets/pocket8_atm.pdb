@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0441
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9575
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6114
+HEADER 5  - Mean B-factor of pocket residues  : 0.4259
+HEADER 6  - Hydrophobicity Score              : 3.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.1432
+HEADER 10 - Pocket volume (convex hull)       : 12.9436
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5417
+ATOM   1622    O LYS A 430      19.041  36.194  35.757  0.00  0.00           O 0
+ATOM   1660    N HIS A 434      17.352  38.137  37.381  0.83  1.09           N 0
+ATOM   1666  ND1 HIS A 434      13.916  36.857  34.606  0.55  4.37           N 0
+ATOM   1661   CA HIS A 434      15.951  37.855  37.051  0.00  0.00           C 0
+ATOM    899   CB ASP A 344      15.419  34.048  28.112  0.00  0.00           C 0
+ATOM    903    N LEU A 345      15.696  31.953  30.446  0.77  2.19           N 0
+ATOM    907   CB LEU A 345      15.951  31.855  32.892  0.00  0.00           C 0
+ATOM   1650   CBAGLN A 433      19.951  39.997  37.268  0.00  0.00           C 0
+ATOM   1652   CGAGLN A 433      19.580  41.479  37.026  0.00  0.00           C 0
+ATOM   1664   CB HIS A 434      15.820  36.574  36.235  0.00  0.00           C 0
+ATOM    910  CD2 LEU A 345      16.278  32.498  35.248  0.00  0.00           C 0
+ATOM   1627   CDALYS A 430      21.428  35.678  30.929  0.00  0.00           C 0
+ATOM    898    O ASP A 344      17.233  31.466  28.865  0.62  1.07           O 0
+ATOM   1631   NZALYS A 430      21.821  34.158  28.980  0.62  5.47           N 0
+ATOM    897    C ASP A 344      16.132  31.927  29.191  0.00  0.00           C 0
+ATOM   1619   CAALYS A 430      21.233  35.839  34.830  0.00  0.00           C 0
+ATOM   1625   CGALYS A 430      21.860  36.046  32.349  0.00  0.00           C 0
+ATOM   1623   CBALYS A 430      21.119  35.241  33.420  0.00  0.00           C 0
+ATOM    909  CD1 LEU A 345      18.274  31.668  33.948  0.00  0.00           C 0
+ATOM    904   CA LEU A 345      16.514  31.430  31.536  0.00  0.00           C 0
+TER
+END

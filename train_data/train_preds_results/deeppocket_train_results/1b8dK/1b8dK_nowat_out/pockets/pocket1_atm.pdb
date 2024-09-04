@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.1421
+HEADER 1  - Drug Score                        : 0.0121
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.7276
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4508
+HEADER 5  - Mean B-factor of pocket residues  : 0.2381
+HEADER 6  - Hydrophobicity Score              : 11.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 143.0982
+HEADER 10 - Pocket volume (convex hull)       : 1.5479
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 19.0000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.6452
+ATOM    802  OD1 ASP K  87      -1.721 -43.646 -15.169  0.00  0.00           O 0
+ATOM    433  ND1 HIS K  48       0.551 -45.786 -16.371  0.00  0.00           N 0
+ATOM    847   CD ARG K  91       1.225 -38.618 -17.151  0.00  0.00           C 0
+ATOM    845   CB ARG K  91       1.071 -39.087 -14.673  0.00  0.00           C 0
+ATOM    846   CG ARG K  91       1.952 -38.605 -15.801  0.00  0.00           C 0
+ATOM    432   CG HIS K  48       1.719 -46.083 -15.697  0.00  0.00           C 0
+ATOM    436  NE2 HIS K  48       2.088 -45.916 -17.854  0.75  4.37           N 0
+ATOM    434  CD2 HIS K  48       2.682 -46.170 -16.641  0.00  0.00           C 0
+ATOM    435  CE1 HIS K  48       0.801 -45.689 -17.663  0.00  0.00           C 0
+ATOM    803  OD2 ASP K  87      -2.638 -42.760 -16.927  0.25  3.21           O 0
+ATOM    397    O LEU K  44       4.655 -46.616 -13.241  0.00  0.00           O 0
+ATOM    403    N SER K  45       6.611 -45.567 -13.567  0.00  0.00           N 0
+ATOM    404   CA SER K  45       6.372 -45.479 -15.011  0.00  0.00           C 0
+ATOM    399   CG LEU K  44       4.368 -44.296 -10.503  0.00  0.00           C 0
+ATOM    880   CB ASN K  94       5.849 -40.417 -12.329  0.00  0.00           C 0
+ATOM    842   CA ARG K  91       1.825 -39.461 -13.388  0.00  0.00           C 0
+ATOM    881   CG ASN K  94       6.931 -40.418 -13.395  0.00  0.00           C 0
+ATOM    431   CB HIS K  48       1.786 -46.193 -14.202  0.00  0.00           C 0
+ATOM    835    O MET K  90       2.559 -40.740 -10.976  0.00  0.00           O 0
+ATOM    841    N ARG K  91       0.922 -40.080 -12.405  0.00  0.00           N 0
+ATOM    834    C MET K  90       1.361 -40.665 -11.282  0.00  0.00           C 0
+ATOM    396    C LEU K  44       5.694 -46.138 -12.786  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.1127
+HEADER 1  - Drug Score                        : 0.0101
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.9561
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4900
+HEADER 5  - Mean B-factor of pocket residues  : 0.5483
+HEADER 6  - Hydrophobicity Score              : 0.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 371.2188
+HEADER 10 - Pocket volume (convex hull)       : 25.8294
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5185
+ATOM   1440  ND2 ASN D 199      48.574 -27.176  24.414  0.48  5.47           N 0
+ATOM    852   CG LEU D 122      49.881 -26.697  30.188  0.00  0.00           C 0
+ATOM    853  CD1 LEU D 122      50.756 -25.511  30.551  0.00  0.00           C 0
+ATOM   1437   CB ASN D 199      46.501 -25.952  24.379  0.00  0.00           C 0
+ATOM   1429   CG LYS D 198      47.448 -20.369  24.778  0.00  0.00           C 0
+ATOM   1430   CD LYS D 198      47.900 -20.021  26.200  0.00  0.00           C 0
+ATOM   1431   CE LYS D 198      49.196 -19.195  26.190  0.00  0.00           C 0
+ATOM   1432   NZ LYS D 198      49.726 -18.917  27.581  0.00  0.00           N 0
+ATOM   1433    N ASN D 199      45.907 -23.773  23.455  0.00  0.00           N 0
+ATOM   1434   CA ASN D 199      46.638 -25.001  23.192  0.00  0.00           C 0
+ATOM   1427    O LYS D 198      47.276 -22.495  22.212  0.45  5.36           O 0
+ATOM   1415  OD1 ASP D 196      44.035 -23.699  26.176  0.65  4.29           O 0
+ATOM   1428   CB LYS D 198      45.996 -20.843  24.751  0.00  0.00           C 0
+ATOM   1416  OD2 ASP D 196      44.419 -25.454  27.422  0.00  0.00           O 0
+ATOM    846   CB ALA D 121      45.625 -28.774  27.390  0.00  0.00           C 0
+ATOM    838   CB ASN D 120      43.835 -25.029  30.765  0.00  0.00           C 0
+ATOM    839   CG ASN D 120      44.876 -25.153  31.890  0.00  0.00           C 0
+ATOM    847    N LEU D 122      46.991 -28.116  30.291  0.00  0.00           N 0
+ATOM    841  ND2 ASN D 120      45.030 -24.096  32.666  0.00  0.00           N 0
+TER
+END

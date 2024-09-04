@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1059
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.0246
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5275
+HEADER 5  - Mean B-factor of pocket residues  : 0.0555
+HEADER 6  - Hydrophobicity Score              : 20.1111
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 293.1772
+HEADER 10 - Pocket volume (convex hull)       : 6.9967
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   2788    O ILE A1205      14.822  -3.056  20.241  0.43  1.07           O 0
+ATOM   2750  NE2 GLN A1199      13.468  -6.384  19.761  0.44  4.37           N 0
+ATOM   2185  CD1 ILE A1130      19.093  -6.372  23.187  0.00  0.00           C 0
+ATOM   2181    O ILE A1130      16.978  -5.491  26.006  0.00  0.00           O 0
+ATOM   2749  OE1 GLN A1199      11.410  -5.835  20.444  0.00  0.00           O 0
+ATOM   2746   CB GLN A1199      11.770  -9.072  20.101  0.00  0.00           C 0
+ATOM   2806   OG SER A1207      17.582  -2.643  23.939  0.51  1.07           O 0
+ATOM   2789   CB ILE A1205      12.055  -2.426  21.593  0.00  0.00           C 0
+ATOM   2792  CD1 ILE A1205       9.948  -2.942  22.908  0.00  0.00           C 0
+ATOM   2183  CG1 ILE A1130      18.886  -7.237  24.353  0.00  0.00           C 0
+ATOM   2727   CB ASN A1196      17.136  -9.420  19.800  0.00  0.00           C 0
+ATOM   2791  CG2 ILE A1205      12.667  -1.455  22.637  0.00  0.00           C 0
+ATOM   2189    O ARG A1131      15.181  -3.127  29.395  0.00  0.00           O 0
+ATOM   3213   NZ LYS A1260       9.236  -1.170  26.640  0.00  0.00           N 0
+ATOM   2723    N ASN A1196      17.487  -7.155  18.906  0.00  0.00           N 0
+ATOM   2748   CD GLN A1199      12.162  -6.606  19.865  0.00  0.00           C 0
+ATOM   2200    O GLY A1132      16.213  -1.632  26.081  0.41  2.14           O 0
+ATOM   2208  CD2 TYR A1133      12.763   0.360  27.639  0.00  0.00           C 0
+ATOM   2205   CB TYR A1133      13.898   0.579  25.417  0.00  0.00           C 0
+TER
+END

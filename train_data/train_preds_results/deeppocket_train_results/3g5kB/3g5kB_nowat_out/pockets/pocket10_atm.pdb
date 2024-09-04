@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0013
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7123
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5622
+HEADER 5  - Mean B-factor of pocket residues  : 0.1077
+HEADER 6  - Hydrophobicity Score              : 17.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 208.1402
+HEADER 10 - Pocket volume (convex hull)       : 11.7615
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM    951    O PRO B 125      12.956  -9.756  15.203  0.44  5.36           O 0
+ATOM   1305   NZ LYS B 169      17.823 -13.579  13.667  0.69  7.66           N 0
+ATOM    964  NH1 ARG B 126      16.690 -12.355  17.137  0.32  1.09           N 0
+ATOM   1188  OE1 GLN B 155      12.683 -14.770  16.965  0.74  1.07           O 0
+ATOM    956   CA ARG B 126      11.320 -11.412  16.691  0.00  0.00           C 0
+ATOM    966    N PHE B 127      10.210 -13.502  16.257  0.00  0.00           N 0
+ATOM    974  CE1 PHE B 127      11.987 -16.319  12.903  0.00  0.00           C 0
+ATOM    976   CZ PHE B 127      11.244 -15.837  11.816  0.00  0.00           C 0
+ATOM   1304   CE LYS B 169      18.264 -12.369  12.870  0.00  0.00           C 0
+ATOM   1301   CB LYS B 169      18.111  -8.634  13.491  0.00  0.00           C 0
+ATOM    953   CG PRO B 125      12.306  -6.978  13.124  0.00  0.00           C 0
+ATOM   1302   CG LYS B 169      18.574  -9.895  12.814  0.00  0.00           C 0
+ATOM   1303   CD LYS B 169      18.061 -11.124  13.649  0.00  0.00           C 0
+ATOM    972  CD1 PHE B 127      11.390 -16.239  14.246  0.00  0.00           C 0
+ATOM   1300    O LYS B 169      16.450  -6.163  12.933  0.75  4.29           O 0
+ATOM   1298   CA LYS B 169      18.504  -7.404  12.674  0.00  0.00           C 0
+ATOM    828  CD2 LEU B 107       9.228 -11.505  12.715  0.00  0.00           C 0
+ATOM    952   CB PRO B 125      11.128  -7.699  13.839  0.00  0.00           C 0
+ATOM    827  CD1 LEU B 107       8.452  -9.811  10.914  0.00  0.00           C 0
+TER
+END

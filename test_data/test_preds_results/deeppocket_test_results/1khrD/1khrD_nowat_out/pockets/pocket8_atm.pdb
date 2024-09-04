@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0844
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7586
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4304
+HEADER 5  - Mean B-factor of pocket residues  : 0.5812
+HEADER 6  - Hydrophobicity Score              : 34.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 197.0216
+HEADER 10 - Pocket volume (convex hull)       : 3.1819
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6471
+ATOM    205   CD LYS D  26     -15.398 -24.907 -49.068  0.00  0.00           C 0
+ATOM    180  CG2 ILE D  23     -14.560 -26.503 -44.413  0.00  0.00           C 0
+ATOM    379  OD1 ASP D  47     -17.177 -24.995 -42.701  0.90  1.07           O 0
+ATOM    207   NZ LYS D  26     -16.661 -27.106 -49.130  0.00  0.00           N 0
+ATOM    360  OG1 THR D  45     -18.530 -27.060 -41.831  0.00  0.00           O 0
+ATOM    380  OD2 ASP D  47     -18.900 -23.756 -43.269  0.60  9.64           O 0
+ATOM    213   CG LEU D  27     -14.436 -19.417 -45.806  0.00  0.00           C 0
+ATOM    177    O ILE D  23     -12.891 -24.593 -46.807  0.58  1.07           O 0
+ATOM    377   CB ASP D  47     -16.939 -22.654 -42.546  0.00  0.00           C 0
+ATOM    361  CG2 THR D  45     -18.298 -29.468 -41.771  0.00  0.00           C 0
+ATOM     58   SD MET D   8     -14.491 -31.365 -46.538  0.00  0.00           S 0
+ATOM     59   CE MET D   8     -14.958 -31.888 -44.861  0.00  0.00           C 0
+ATOM    215  CD2 LEU D  27     -15.566 -19.064 -46.765  0.00  0.00           C 0
+ATOM    378   CG ASP D  47     -17.729 -23.888 -42.863  0.00  0.00           C 0
+ATOM    181  CD1 ILE D  23     -13.994 -29.042 -43.083  0.00  0.00           C 0
+TER
+END

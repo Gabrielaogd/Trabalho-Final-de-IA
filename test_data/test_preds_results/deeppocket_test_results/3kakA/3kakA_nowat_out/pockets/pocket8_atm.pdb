@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1008
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.9133
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5231
+HEADER 5  - Mean B-factor of pocket residues  : 0.3139
+HEADER 6  - Hydrophobicity Score              : 19.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 253.4513
+HEADER 10 - Pocket volume (convex hull)       : 14.8631
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1034
+ATOM   2243   CA ARG A 310     -11.404 -12.671  41.954  0.00  0.00           C 0
+ATOM    865   NZ LYS A 137     -13.979 -11.641  34.433  0.00  0.00           N 0
+ATOM   2247   CG ARG A 310     -13.594 -13.342  43.143  0.00  0.00           C 0
+ATOM   2275  CD1 LEU A 313     -14.138  -9.020  38.156  0.00  0.00           C 0
+ATOM   2207    O GLU A 306     -10.852 -16.498  41.947  0.00  0.00           O 0
+ATOM   2212  OE2 GLU A 306     -11.919 -18.047  38.569  0.67  3.21           O 0
+ATOM   2249   NE ARG A 310     -13.970 -15.706  43.677  0.00  0.00           N 0
+ATOM   2208   CB GLU A 306     -11.960 -19.229  41.218  0.00  0.00           C 0
+ATOM   2252  NH2 ARG A 310     -13.678 -17.996  43.796  0.00  0.00           N 0
+ATOM   2209   CG GLU A 306     -12.362 -19.921  39.930  0.00  0.00           C 0
+ATOM   2242    N ARG A 310     -10.423 -13.559  41.329  0.56  1.09           N 0
+ATOM    808  NH2 ARG A 130     -11.001 -16.785  36.185  0.00  0.00           N 0
+ATOM   2230    C TRP A 309      -9.690 -13.165  40.288  0.00  0.00           C 0
+ATOM   2232   CB TRP A 309      -9.157 -15.060  38.736  0.00  0.00           C 0
+ATOM    838  CG1 ILE A 134      -9.541  -9.864  35.181  0.00  0.00           C 0
+ATOM   2238  CE3 TRP A 309      -6.888 -13.914  36.624  0.00  0.00           C 0
+ATOM    801    O ARG A 130      -8.327 -12.365  32.669  0.00  0.00           O 0
+ATOM    805   NE ARG A 130     -10.115 -16.547  34.069  0.40  2.19           N 0
+ATOM   2231    O TRP A 309      -9.790 -12.042  39.781  0.00  0.00           O 0
+ATOM   2273   CB LEU A 313     -11.894  -9.173  39.105  0.00  0.00           C 0
+ATOM    829   CB ASP A 133     -11.599 -11.951  31.474  0.00  0.00           C 0
+TER
+END

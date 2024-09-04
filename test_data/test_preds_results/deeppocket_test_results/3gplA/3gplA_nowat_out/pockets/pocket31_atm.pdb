@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0136
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9411
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5519
+HEADER 5  - Mean B-factor of pocket residues  : 0.1426
+HEADER 6  - Hydrophobicity Score              : -10.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 268.7258
+HEADER 10 - Pocket volume (convex hull)       : 9.2731
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM   3366   CZAARG A 647      27.210  -3.734  24.297  0.00  0.00           C 0
+ATOM   3364   NEAARG A 647      25.940  -4.092  24.219  0.48  3.28           N 0
+ATOM   2654  NH1 ARG A 554      27.351   0.139  25.301  0.42  5.47           N 0
+ATOM   2655  NH2 ARG A 554      29.137   0.204  23.860  0.50  3.28           N 0
+ATOM   3360   CGAARG A 647      23.737  -4.495  25.229  0.00  0.00           C 0
+ATOM   1435   CB THR A 390      19.466  -5.565  23.634  0.00  0.00           C 0
+ATOM   1437  CG2 THR A 390      18.861  -4.725  24.737  0.00  0.00           C 0
+ATOM   3042  ND2 ASN A 604      22.688  -3.481  18.587  0.44  8.75           N 0
+ATOM   1438    N GLY A 391      20.353  -6.115  20.744  0.50  5.47           N 0
+ATOM   2950    O THR A 594      25.931  -2.026  17.522  0.42  4.29           O 0
+ATOM   3362   CDAARG A 647      24.885  -3.532  25.050  0.00  0.00           C 0
+ATOM   1432   CA THR A 390      18.649  -5.435  22.324  0.00  0.00           C 0
+ATOM   1427    O PRO A 389      16.719  -3.927  21.124  0.36  7.50           O 0
+ATOM   2951   CB THR A 594      28.567  -2.595  18.855  0.00  0.00           C 0
+ATOM   3041  OD1 ASN A 604      24.299  -4.999  19.005  0.19  3.21           O 0
+TER
+END

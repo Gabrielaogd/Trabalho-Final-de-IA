@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0482
+HEADER 1  - Drug Score                        : 0.0390
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9192
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5766
+HEADER 5  - Mean B-factor of pocket residues  : 0.1963
+HEADER 6  - Hydrophobicity Score              : 11.8889
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.2499
+HEADER 10 - Pocket volume (convex hull)       : 9.7888
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6364
+ATOM    760   CG ARG A 107      53.495  33.111   8.008  0.00  0.00           C 0
+ATOM    766    N TRP A 108      49.091  32.515   8.071  0.69  2.19           N 0
+ATOM    772  CD1 TRP A 108      47.069  34.066   5.609  0.00  0.00           C 0
+ATOM    759   CB ARG A 107      52.202  32.424   8.461  0.00  0.00           C 0
+ATOM    885  OD1 ASN A 122      51.190  28.662   5.903  0.69  3.21           O 0
+ATOM    770   CB TRP A 108      47.137  31.810   6.784  0.00  0.00           C 0
+ATOM    761   CD ARG A 107      54.444  32.093   7.402  0.00  0.00           C 0
+ATOM    756   CA ARG A 107      51.153  33.391   9.015  0.00  0.00           C 0
+ATOM    799   CB ALA A 111      49.134  28.468   2.271  0.00  0.00           C 0
+ATOM    791    O THR A 110      46.329  29.127   4.476  0.00  0.00           O 0
+ATOM    796   CA ALA A 111      47.643  28.203   2.300  0.00  0.00           C 0
+ATOM    336   CD PRO A  54      44.988  34.885   1.428  0.00  0.00           C 0
+ATOM    800    N HIS A 112      46.855  28.386   0.025  0.63  3.28           N 0
+ATOM    334   CB PRO A  54      44.580  33.927  -0.691  0.00  0.00           C 0
+ATOM    335   CG PRO A  54      45.314  35.023  -0.044  0.00  0.00           C 0
+ATOM    803    O HIS A 112      48.632  29.036  -2.111  0.67  7.50           O 0
+ATOM    337    N ALA A  55      43.189  31.575   0.796  0.00  0.00           N 0
+ATOM    328   CB SER A  53      43.802  33.181   4.319  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0295
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0417
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5637
+HEADER 5  - Mean B-factor of pocket residues  : 0.2443
+HEADER 6  - Hydrophobicity Score              : -8.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 348.7491
+HEADER 10 - Pocket volume (convex hull)       : 4.7922
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM    322   CD GLN A 252      14.040  22.290   1.747  0.00  0.00           C 0
+ATOM    333    O PRO A 254      11.400  28.745  -1.238  0.00  0.00           O 0
+ATOM    328    O ALA A 253      14.134  26.900  -1.610  0.56  4.29           O 0
+ATOM    324  NE2 GLN A 252      13.064  21.430   1.468  0.00  0.00           N 0
+ATOM    351  CG2 VAL A 256      12.539  25.409  -4.995  0.00  0.00           C 0
+ATOM    380  OE2 GLU A 260      14.639  22.449  -4.518  0.82  2.14           O 0
+ATOM    321   CG GLN A 252      15.179  22.399   0.710  0.00  0.00           C 0
+ATOM    290    O GLU A 248      16.121  24.751   4.150  0.62  2.14           O 0
+ATOM    331   CA PRO A 254      13.499  29.077  -0.072  0.00  0.00           C 0
+ATOM    334   CB PRO A 254      13.722  30.378   0.700  0.00  0.00           C 0
+ATOM    335   CG PRO A 254      15.217  30.273   1.202  0.00  0.00           C 0
+ATOM    291   CB GLU A 248      14.124  24.701   6.575  0.00  0.00           C 0
+ATOM    297   CA ASP A 249      18.260  26.273   5.050  0.00  0.00           C 0
+ATOM    296    N ASP A 249      17.289  25.589   5.881  0.00  0.00           N 0
+ATOM    300   CB ASP A 249      19.092  27.253   5.864  0.00  0.00           C 0
+ATOM    289    C GLU A 248      16.331  24.832   5.363  0.00  0.00           C 0
+ATOM    323  OE1 GLN A 252      14.043  22.999   2.767  0.00  0.00           O 0
+ATOM    320   CB GLN A 252      15.752  23.787   0.615  0.00  0.00           C 0
+TER
+END

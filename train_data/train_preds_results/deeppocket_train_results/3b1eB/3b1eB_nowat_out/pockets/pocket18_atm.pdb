@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0003
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0311
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5513
+HEADER 5  - Mean B-factor of pocket residues  : 0.3490
+HEADER 6  - Hydrophobicity Score              : 11.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 255.3306
+HEADER 10 - Pocket volume (convex hull)       : 7.8820
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   3063   CD LYS B 372      24.631  87.504  76.114  0.00  0.00           C 0
+ATOM   3061   CB LYS B 372      22.692  86.318  75.083  0.00  0.00           C 0
+ATOM   2457  OE2 GLU B 297      27.152  89.327  74.502  0.00  0.00           O 0
+ATOM   2456  OE1 GLU B 297      27.631  88.963  72.370  0.80  6.43           O 0
+ATOM     55  NE2 GLN B   7      21.371  90.506  68.755  0.00  0.00           N 0
+ATOM   2430  CG1 VAL B 294      24.401  84.949  69.166  0.00  0.00           C 0
+ATOM     50    O GLN B   7      16.574  87.950  71.595  0.50  5.36           O 0
+ATOM     48   CA GLN B   7      18.076  88.794  69.925  0.00  0.00           C 0
+ATOM     51   CB GLN B   7      17.896  90.317  69.851  0.00  0.00           C 0
+ATOM     52   CG GLN B   7      19.212  91.114  69.710  0.00  0.00           C 0
+ATOM     39    O PHE B   6      19.911  86.712  69.399  0.00  0.00           O 0
+ATOM   3070   CB SER B 373      17.658  86.633  77.219  0.00  0.00           C 0
+ATOM   3066    N SER B 373      19.741  85.701  76.258  0.66  3.28           N 0
+ATOM   3071   OG SER B 373      16.866  86.254  76.103  0.70  7.50           O 0
+ATOM   2465  ND2 ASN B 298      24.915  83.971  73.657  0.67  1.09           N 0
+ATOM   3057    N LYS B 372      20.980  85.117  73.819  0.44  5.47           N 0
+TER
+END

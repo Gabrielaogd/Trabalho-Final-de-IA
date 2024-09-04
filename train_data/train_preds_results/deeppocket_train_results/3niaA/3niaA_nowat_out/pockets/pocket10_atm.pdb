@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1249
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9294
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4545
+HEADER 5  - Mean B-factor of pocket residues  : 0.1306
+HEADER 6  - Hydrophobicity Score              : 31.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 202.6613
+HEADER 10 - Pocket volume (convex hull)       : 2.2070
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM   1574   NE ARG A 217      22.261 -10.612  -7.149  0.00  0.00           N 0
+ATOM   1611   CD LYS A 222      25.241  -2.587  -7.356  0.00  0.00           C 0
+ATOM   1608    O LYS A 222      28.819  -5.308  -6.468  0.00  0.00           O 0
+ATOM   1576  NH1 ARG A 217      23.999 -11.658  -8.243  0.30  8.75           N 0
+ATOM   1625    O TRP A 224      28.697  -8.858  -4.393  0.34  5.36           O 0
+ATOM   1591   CB PHE A 220      24.121  -6.687  -0.863  0.00  0.00           C 0
+ATOM   1570    O ARG A 217      21.767  -6.380  -3.902  0.23  2.14           O 0
+ATOM   1601    O PRO A 221      27.066  -5.069  -3.245  0.63  2.14           O 0
+ATOM   1652  CG2AVAL A 226      26.063 -10.422  -2.226  0.00  0.00           C 0
+ATOM   1571   CB ARG A 217      21.453  -9.407  -4.443  0.00  0.00           C 0
+ATOM   1648   CBAVAL A 226      25.376 -11.511  -3.033  0.00  0.00           C 0
+ATOM   1643    N VAL A 226      27.578 -12.081  -4.009  0.63  1.09           N 0
+ATOM   1606   CA LYS A 222      27.471  -3.561  -5.544  0.00  0.00           C 0
+ATOM   1590    O PHE A 220      24.099  -3.964  -2.653  0.38  3.21           O 0
+TER
+END

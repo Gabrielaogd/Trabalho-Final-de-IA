@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0029
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0009
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4566
+HEADER 5  - Mean B-factor of pocket residues  : 0.3593
+HEADER 6  - Hydrophobicity Score              : 48.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 204.8763
+HEADER 10 - Pocket volume (convex hull)       : 2.6988
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM    733   CA SER A  93       6.814   7.476  19.753  0.00  0.00           C 0
+ATOM    781    N ARG A 100       6.937  11.173  26.652  0.51  3.28           N 0
+ATOM    736   CB SER A  93       6.913   6.051  20.312  0.00  0.00           C 0
+ATOM    735    O SER A  93       9.127   8.042  19.455  0.00  0.00           O 0
+ATOM    766    O PHE A  98       7.451  12.500  22.809  0.32  7.50           O 0
+ATOM    813   CB LEU A 103       2.297   9.315  24.386  0.00  0.00           C 0
+ATOM    727    O LEU A  92       5.852   9.849  18.850  0.60  1.07           O 0
+ATOM    816  CD2 LEU A 103       2.727   6.949  23.739  0.00  0.00           C 0
+ATOM    770  CD2 PHE A  98       3.580  12.559  21.517  0.00  0.00           C 0
+ATOM    782   CA ARG A 100       6.208   9.997  27.106  0.00  0.00           C 0
+ATOM    785   CB ARG A 100       7.050   9.207  28.116  0.00  0.00           C 0
+ATOM    787   CD ARG A 100       5.831   6.993  27.926  0.00  0.00           C 0
+ATOM    777    O THR A  99       5.227  11.969  25.403  0.72  1.07           O 0
+TER
+END

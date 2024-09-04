@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.1071
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8935
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4575
+HEADER 5  - Mean B-factor of pocket residues  : 0.6337
+HEADER 6  - Hydrophobicity Score              : 9.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.5360
+HEADER 10 - Pocket volume (convex hull)       : 1.8224
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM    901  OE1 GLN A 115      39.225   6.787  19.737  0.00  0.00           O 0
+ATOM   1093   SG CYS A 143      40.076   4.679  23.426  0.00  0.00           S 0
+ATOM   1114   NZ LYS A 145      43.932   2.287  22.071  0.00  0.00           N 0
+ATOM   1092   CB CYS A 143      41.778   5.329  23.377  0.00  0.00           C 0
+ATOM    919  OE2 GLU A 117      39.440   4.584  16.817  0.84  6.43           O 0
+ATOM    899   CG GLN A 115      41.401   7.738  19.675  0.00  0.00           C 0
+ATOM    917   CD GLU A 117      38.823   3.567  16.408  0.00  0.00           C 0
+ATOM    916   CG GLU A 117      37.617   3.034  17.198  0.00  0.00           C 0
+ATOM   1113   CE LYS A 145      44.878   1.606  21.140  0.00  0.00           C 0
+ATOM    918  OE1 GLU A 117      39.182   2.935  15.387  0.00  0.00           O 0
+ATOM    915   CB GLU A 117      37.244   3.879  18.428  0.00  0.00           C 0
+ATOM    884   OH TYR A 113      45.428   5.100  18.562  0.00  0.00           O 0
+ATOM    898   CB GLN A 115      41.641   7.635  18.164  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0432
+HEADER 1  - Drug Score                        : 0.0056
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8750
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5079
+HEADER 5  - Mean B-factor of pocket residues  : 0.4797
+HEADER 6  - Hydrophobicity Score              : 24.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 274.6395
+HEADER 10 - Pocket volume (convex hull)       : 9.3399
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.9333
+ATOM   2734  CD1 TRP A 519      40.504  24.760  33.807  0.00  0.00           C 0
+ATOM   2705  CG2 VAL A 514      40.618  19.584  38.228  0.00  0.00           C 0
+ATOM   2747   CG GLN A 520      44.917  23.076  34.028  0.00  0.00           C 0
+ATOM   2736  NE1 TRP A 519      41.401  25.494  34.559  0.50  2.19           N 0
+ATOM   2704  CG1 VAL A 514      38.708  20.985  37.331  0.00  0.00           C 0
+ATOM   2746   CB GLN A 520      45.120  21.796  33.111  0.00  0.00           C 0
+ATOM   2726   CB SER A 518      41.248  18.677  33.632  0.00  0.00           C 0
+ATOM   2750  NE2 GLN A 520      46.752  22.526  35.570  0.54  7.66           N 0
+ATOM   2723   CA SER A 518      40.061  19.632  33.575  0.00  0.00           C 0
+ATOM   2728    N TRP A 519      40.492  21.679  32.352  0.00  0.00           N 0
+ATOM   2562   CB ALA A 492      41.571  14.004  32.393  0.00  0.00           C 0
+ATOM   2727   OG SER A 518      41.276  17.866  32.460  0.73  1.07           O 0
+ATOM   2755   CB ALA A 521      43.445  17.330  30.401  0.00  0.00           C 0
+ATOM   2559   CA ALA A 492      40.676  13.857  33.674  0.00  0.00           C 0
+ATOM   2682  CG2 THR A 511      44.258  12.976  38.504  0.00  0.00           C 0
+ATOM   2686    O ASP A 512      41.231  14.988  39.290  0.57  5.36           O 0
+ATOM   2561    O ALA A 492      39.253  15.725  33.901  0.38  1.07           O 0
+TER
+END

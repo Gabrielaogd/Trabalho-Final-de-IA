@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0948
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1805
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5709
+HEADER 5  - Mean B-factor of pocket residues  : 0.3745
+HEADER 6  - Hydrophobicity Score              : 33.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.7303
+HEADER 10 - Pocket volume (convex hull)       : 4.5579
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM     22  CD2 LEU A   4      33.653  39.278  28.855  0.00  0.00           C 0
+ATOM    672   CB LEU A  79      37.581  37.733  26.333  0.00  0.00           C 0
+ATOM    674  CD1 LEU A  79      36.136  39.688  25.707  0.00  0.00           C 0
+ATOM    711  ND2 ASN A  82      42.233  41.220  30.594  0.00  0.00           N 0
+ATOM     19   CB LEU A   4      34.439  36.859  29.142  0.00  0.00           C 0
+ATOM      4    O SER A   2      37.212  34.537  32.121  0.57  5.36           O 0
+ATOM    671    O LEU A  79      37.985  35.204  27.880  0.00  0.00           O 0
+ATOM    705   CA ASN A  82      42.694  40.106  28.095  0.00  0.00           C 0
+ATOM    675  CD2 LEU A  79      38.476  39.439  24.779  0.00  0.00           C 0
+ATOM    704    N ASN A  82      42.661  38.870  28.910  0.61  2.19           N 0
+ATOM    684    NAHIS A  81      42.327  36.016  29.568  0.68  5.47           N 0
+ATOM    670    C LEU A  79      38.713  35.631  26.982  0.00  0.00           C 0
+ATOM    686   CAAHIS A  81      43.480  36.853  29.953  0.00  0.00           C 0
+TER
+END

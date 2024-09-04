@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.1245
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9978
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5985
+HEADER 5  - Mean B-factor of pocket residues  : 0.1913
+HEADER 6  - Hydrophobicity Score              : 38.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 293.6319
+HEADER 10 - Pocket volume (convex hull)       : 12.1628
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    293   CB TYR 1  57      35.258  39.662  97.827  0.00  0.00           C 0
+ATOM    315  ND1 HIS 1  59      39.219  37.721  98.892  0.75  3.28           N 0
+ATOM    309    N HIS 1  59      36.444  36.506 100.805  0.62  4.37           N 0
+ATOM      1    N THR 1  17      32.241  35.354  96.610  0.00  0.00           N 0
+ATOM    337  ND2 ASN 1  61      34.922  30.069 101.633  0.00  0.00           N 0
+ATOM      6  OG1 THR 1  17      30.936  33.786  98.714  0.45  8.57           O 0
+ATOM    319    N PHE 1  60      36.756  34.273 102.527  0.57  1.09           N 0
+ATOM    322    O PHE 1  60      34.645  32.840 103.319  0.68  3.21           O 0
+ATOM    311    C HIS 1  59      37.788  34.923 102.116  0.00  0.00           C 0
+ATOM    336  OD1 ASN 1  61      36.768  28.734 101.855  0.52  7.50           O 0
+ATOM      5   CB THR 1  17      31.263  35.109  98.929  0.00  0.00           C 0
+ATOM    305   CB MET 1  58      33.519  36.738 102.016  0.00  0.00           C 0
+ATOM    312    O HIS 1  59      38.943  34.780 102.612  0.70  4.29           O 0
+ATOM    320   CA PHE 1  60      36.842  33.403 103.761  0.00  0.00           C 0
+ATOM    310   CA HIS 1  59      37.790  35.876 100.945  0.00  0.00           C 0
+TER
+END

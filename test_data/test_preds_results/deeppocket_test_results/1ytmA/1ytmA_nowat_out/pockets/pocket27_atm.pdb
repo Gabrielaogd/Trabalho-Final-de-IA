@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0632
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7300
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5006
+HEADER 5  - Mean B-factor of pocket residues  : 0.1611
+HEADER 6  - Hydrophobicity Score              : 13.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 130.2449
+HEADER 10 - Pocket volume (convex hull)       : 1.2420
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM    702   CD GLU A  93     104.263  11.714  29.952  0.00  0.00           C 0
+ATOM   1349    O GLU A 175     100.151  16.767  33.712  0.00  0.00           O 0
+ATOM    703  OE1 GLU A  93     104.708  11.511  31.101  0.35  8.57           O 0
+ATOM    704  OE2 GLU A  93     104.831  12.455  29.121  0.00  0.00           O 0
+ATOM    685  OG1 THR A  91     100.400  14.443  27.113  0.00  0.00           O 0
+ATOM    737  NE2 GLN A  97     100.477  10.406  32.345  0.79  2.19           N 0
+ATOM   1356   CA LEU A 176      97.741  15.806  32.814  0.00  0.00           C 0
+ATOM    709   CB ALA A  94      97.643  13.418  28.929  0.00  0.00           C 0
+ATOM   1358    O LEU A 176      97.109  16.544  30.615  0.59  8.57           O 0
+ATOM    701   CG GLU A  93     102.968  11.029  29.552  0.00  0.00           C 0
+ATOM   1362  CD2 LEU A 176      98.310  12.882  33.110  0.00  0.00           C 0
+ATOM    705    N ALA A  94      99.340  11.771  28.347  0.00  0.00           N 0
+ATOM    706   CA ALA A  94      98.162  12.002  29.158  0.00  0.00           C 0
+TER
+END

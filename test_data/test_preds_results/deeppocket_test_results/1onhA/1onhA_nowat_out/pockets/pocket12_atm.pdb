@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0862
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8055
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4852
+HEADER 5  - Mean B-factor of pocket residues  : 0.1418
+HEADER 6  - Hydrophobicity Score              : 19.8750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 285.7958
+HEADER 10 - Pocket volume (convex hull)       : 17.2948
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM   1991   CBAASP A 248      12.342  -8.034  11.834  0.00  0.00           C 0
+ATOM   1404   CB PRO A 181       9.493  -3.999  13.677  0.00  0.00           C 0
+ATOM   1987    N ASP A 248      13.634  -9.137  13.645  0.63  1.09           N 0
+ATOM   1980  CG1 VAL A 246      15.794  -5.819  14.482  0.00  0.00           C 0
+ATOM   1970    O ASN A 245      16.620  -7.658  19.328  0.00  0.00           O 0
+ATOM   1403    O PRO A 181       9.797  -3.968  16.871  0.00  0.00           O 0
+ATOM   1982    N ALA A 247      14.985  -8.693  16.128  0.00  0.00           N 0
+ATOM   1986   CB ALA A 247      13.432 -10.488  16.562  0.00  0.00           C 0
+ATOM   1976   CA VAL A 246      16.583  -6.903  16.566  0.00  0.00           C 0
+ATOM   2017  CD2 LEU A 251      13.198  -3.336  12.297  0.00  0.00           C 0
+ATOM   1414  CD2 LEU A 182      13.783  -2.174  16.131  0.00  0.00           C 0
+ATOM   1410    O LEU A 182      10.821  -0.345  19.204  0.00  0.00           O 0
+ATOM   1408   CA LEU A 182      10.969  -1.427  17.077  0.00  0.00           C 0
+ATOM   1981  CG2 VAL A 246      17.094  -4.480  16.184  0.00  0.00           C 0
+ATOM   1420   CG LYS A 183       7.735  -2.503  20.387  0.00  0.00           C 0
+ATOM   1421   CD LYS A 183       7.746  -3.264  21.702  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0042
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9711
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6417
+HEADER 5  - Mean B-factor of pocket residues  : 0.1646
+HEADER 6  - Hydrophobicity Score              : 26.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 260.6167
+HEADER 10 - Pocket volume (convex hull)       : 5.7403
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   1989   CA ALA A 262       6.486  21.042  58.804  0.00  0.00           C 0
+ATOM   1988    N ALA A 262       6.318  22.467  59.081  0.00  0.00           N 0
+ATOM    511  CG2 THR A  73       3.415  17.681  60.072  0.00  0.00           C 0
+ATOM   2016  OE1 GLN A 265       5.862  18.744  63.086  0.35  7.50           O 0
+ATOM   1958    O GLN A 258       3.740  23.806  57.856  0.69  1.07           O 0
+ATOM    518  CG2 VAL A  74       1.511  20.595  56.732  0.00  0.00           C 0
+ATOM    508    O THR A  73       0.263  17.782  60.026  0.48  4.29           O 0
+ATOM   1984   CB LEU A 261       5.490  24.751  61.064  0.00  0.00           C 0
+ATOM   1963  NE2 GLN A 258      -1.941  24.387  59.667  0.48  4.37           N 0
+ATOM   1959   CB GLN A 258       0.854  25.261  57.961  0.00  0.00           C 0
+ATOM    517  CG1 VAL A  74      -0.836  21.435  56.591  0.00  0.00           C 0
+ATOM    513   CA VAL A  74      -0.335  19.262  57.769  0.00  0.00           C 0
+ATOM    515    O VAL A  74      -2.717  19.619  57.870  0.56  5.36           O 0
+ATOM    525   CD LYS A  75      -4.035  16.605  61.036  0.00  0.00           C 0
+ATOM   1992   CB ALA A 262       5.484  20.587  57.750  0.00  0.00           C 0
+ATOM   1960   CG GLN A 258       0.007  25.712  59.144  0.00  0.00           C 0
+ATOM   1986  CD1 LEU A 261       3.923  26.199  62.355  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0766
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.5963
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4400
+HEADER 5  - Mean B-factor of pocket residues  : 0.2797
+HEADER 6  - Hydrophobicity Score              : 27.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 72.9098
+HEADER 10 - Pocket volume (convex hull)       : 0.3609
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM   3085   CZ PHE A 399      12.924  29.905   5.805  0.00  0.00           C 0
+ATOM   3121   CA ALA A 403       6.805  30.352   8.622  0.00  0.00           C 0
+ATOM   2976  ND1 HIS A 386      11.541  26.311   4.860  0.52  1.09           N 0
+ATOM   1894  CD1ATYR A 259       9.312  27.392  10.131  0.00  0.00           C 0
+ATOM   3124   CB ALA A 403       7.962  30.971   9.392  0.00  0.00           C 0
+ATOM   3120    N ALA A 403       6.570  31.060   7.369  0.00  0.00           N 0
+ATOM   3113   CB ARG A 402       6.777  31.042   4.169  0.00  0.00           C 0
+ATOM   3083  CE1 PHE A 399      12.503  30.116   4.495  0.00  0.00           C 0
+ATOM   2978  CE1 HIS A 386      11.263  26.467   3.578  0.00  0.00           C 0
+ATOM   3078    O PHE A 399       8.649  32.594   6.331  0.53  1.07           O 0
+ATOM   3084  CE2 PHE A 399      12.796  30.928   6.750  0.00  0.00           C 0
+ATOM   3147  OE2 GLU A 406       6.366  26.038   5.247  0.43  4.29           O 0
+ATOM   3112    O ARG A 402       5.327  29.403   6.494  0.00  0.00           O 0
+ATOM   3111    C ARG A 402       5.824  30.527   6.403  0.00  0.00           C 0
+TER
+END

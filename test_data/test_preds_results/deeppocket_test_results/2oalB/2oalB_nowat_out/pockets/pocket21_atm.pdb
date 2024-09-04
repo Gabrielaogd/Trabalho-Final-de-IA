@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0962
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.7530
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4274
+HEADER 5  - Mean B-factor of pocket residues  : 0.3784
+HEADER 6  - Hydrophobicity Score              : 16.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.0687
+HEADER 10 - Pocket volume (convex hull)       : 8.5415
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2414
+ATOM    548  ND2 ASN B  75     -24.059  13.609  31.319  0.68  7.66           N 0
+ATOM   2289  NH1 ARG B 291     -29.488  13.339  30.626  0.13  8.75           N 0
+ATOM   2290  NH2 ARG B 291     -30.144  14.857  32.220  0.00  0.00           N 0
+ATOM   2288   CZ ARG B 291     -30.186  14.415  30.972  0.00  0.00           C 0
+ATOM   1380  CD1 LEU B 175     -23.636  17.134  31.074  0.00  0.00           C 0
+ATOM   1355   CB ASP B 172     -26.250  20.005  28.828  0.00  0.00           C 0
+ATOM   1381  CD2 LEU B 175     -23.533  18.864  32.863  0.00  0.00           C 0
+ATOM    545   CB ASN B  75     -24.033  13.366  28.903  0.00  0.00           C 0
+ATOM    544    O ASN B  75     -24.708  14.039  26.368  0.44  1.07           O 0
+ATOM   1358  OD2 ASP B 172     -27.769  20.702  30.547  0.20  4.29           O 0
+ATOM   2266   SD MET B 288     -28.551  17.940  25.598  0.00  0.00           S 0
+ATOM   2286   CD ARG B 291     -31.029  14.678  28.669  0.00  0.00           C 0
+ATOM   2264   CB MET B 288     -29.041  15.217  25.016  0.00  0.00           C 0
+ATOM   1351    N ASP B 172     -25.350  19.510  26.572  0.00  0.00           N 0
+ATOM   2287   NE ARG B 291     -30.920  15.059  30.071  0.60  1.09           N 0
+ATOM    538    O CYS B  74     -22.577  16.114  27.570  0.00  0.00           O 0
+ATOM   2043  NE2 GLN B 259     -31.086  19.043  29.904  0.46  2.19           N 0
+TER
+END

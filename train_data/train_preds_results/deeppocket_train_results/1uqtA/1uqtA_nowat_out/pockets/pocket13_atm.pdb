@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0680
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7104
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3888
+HEADER 5  - Mean B-factor of pocket residues  : 0.6764
+HEADER 6  - Hydrophobicity Score              : 13.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 176.4726
+HEADER 10 - Pocket volume (convex hull)       : 4.4853
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   1826   CG GLU A 231      19.380  31.544   8.110  0.00  0.00           C 0
+ATOM   1800   CB GLU A 228      23.075  34.360   9.809  0.00  0.00           C 0
+ATOM   1837  CD1 ILE A 232      21.764  29.978  13.141  0.00  0.00           C 0
+ATOM   1803  OE1 GLU A 228      22.723  33.331   7.228  0.69  3.21           O 0
+ATOM   1829  OE2 GLU A 231      17.956  30.363   6.612  0.32  2.14           O 0
+ATOM   1827   CD GLU A 231      18.242  31.496   7.094  0.00  0.00           C 0
+ATOM    144  CG1 VAL A  25      25.474  30.480   5.946  0.00  0.00           C 0
+ATOM   2737   CE LYS A 342      18.641  24.916   6.143  0.00  0.00           C 0
+ATOM   1860  NE2 GLN A 235      18.988  27.770   8.251  0.53  3.28           N 0
+ATOM    117   CB ALA A  20      24.623  26.920   4.544  0.00  0.00           C 0
+ATOM   2738   NZ LYS A 342      17.619  25.632   5.303  0.00  0.00           N 0
+ATOM    113    N ALA A  20      24.159  24.611   5.219  0.65  3.28           N 0
+ATOM    116    O ALA A  20      24.835  26.568   7.474  0.44  1.07           O 0
+ATOM   2728  NH1 ARG A 341      24.695  28.123  10.047  0.62  8.75           N 0
+TER
+END

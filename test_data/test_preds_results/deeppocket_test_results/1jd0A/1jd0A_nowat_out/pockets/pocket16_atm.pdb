@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0921
+HEADER 1  - Drug Score                        : 0.0055
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0964
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4295
+HEADER 5  - Mean B-factor of pocket residues  : 0.3738
+HEADER 6  - Hydrophobicity Score              : 40.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 307.2389
+HEADER 10 - Pocket volume (convex hull)       : 4.8787
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM   1928  ND2 ASN A 243       7.248  -4.572  37.207  0.00  0.00           N 0
+ATOM     53   CZ PHE A   8       0.088  -0.125  37.952  0.00  0.00           C 0
+ATOM     52  CE2 PHE A   8       0.946   0.806  38.530  0.00  0.00           C 0
+ATOM     51  CE1 PHE A   8       0.394  -0.665  36.707  0.00  0.00           C 0
+ATOM     47   CB PHE A   8       3.642   1.123  35.872  0.00  0.00           C 0
+ATOM     49  CD1 PHE A   8       1.556  -0.270  36.044  0.00  0.00           C 0
+ATOM   1925   CB ASN A 243       8.426  -3.582  35.331  0.00  0.00           C 0
+ATOM     48   CG PHE A   8       2.418   0.662  36.612  0.00  0.00           C 0
+ATOM   1920  CD1 ILE A 242       8.202  -3.371  40.684  0.00  0.00           C 0
+ATOM     50  CD2 PHE A   8       2.104   1.193  37.859  0.00  0.00           C 0
+ATOM   1918  CG1 ILE A 242       9.060  -2.501  39.771  0.00  0.00           C 0
+ATOM   1899    O GLU A 240B      9.706   1.023  41.127  0.58  5.36           O 0
+ATOM     34    O TYR A   7       5.019   0.796  32.888  0.62  7.50           O 0
+ATOM   1924    O ASN A 243       9.121  -1.576  33.618  0.40  2.14           O 0
+ATOM   1916    O ILE A 242       9.741  -1.139  36.873  0.50  5.36           O 0
+TER
+END

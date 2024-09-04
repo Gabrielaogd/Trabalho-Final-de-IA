@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0793
+HEADER 1  - Drug Score                        : 0.0073
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8292
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6142
+HEADER 5  - Mean B-factor of pocket residues  : 0.4882
+HEADER 6  - Hydrophobicity Score              : -6.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 204.3450
+HEADER 10 - Pocket volume (convex hull)       : 4.2230
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM    564  CE1 HIS A  75       4.705   9.184  10.536  0.00  0.00           C 0
+ATOM    563  CD2 HIS A  75       3.912  10.084  12.312  0.00  0.00           C 0
+ATOM    582   CE LYS A  78       6.782  14.747  10.756  0.00  0.00           C 0
+ATOM    565  NE2 HIS A  75       3.593   9.322  11.245  0.75  2.19           N 0
+ATOM    292  NH1 ARG A  40       2.937  10.499   5.811  0.46  6.56           N 0
+ATOM    562  ND1 HIS A  75       5.697   9.826  11.120  0.00  0.00           N 0
+ATOM    583   NZ LYS A  78       7.516  14.318   9.537  0.81  7.66           N 0
+ATOM    300  OD1 ASP A  41       7.764  11.333   9.356  0.00  0.00           O 0
+ATOM    289   CD ARG A  40       4.995  12.220   4.240  0.00  0.00           C 0
+ATOM    287   CB ARG A  40       7.207  11.789   5.270  0.00  0.00           C 0
+ATOM    178  OE1 GLU A  24       1.295   9.162   8.412  0.46  4.29           O 0
+ATOM    561   CG HIS A  75       5.207  10.401  12.265  0.00  0.00           C 0
+ATOM    590  CG2 VAL A  79       1.961  12.745  14.627  0.00  0.00           C 0
+ATOM    579   CB LYS A  78       6.129  14.972  13.759  0.00  0.00           C 0
+TER
+END

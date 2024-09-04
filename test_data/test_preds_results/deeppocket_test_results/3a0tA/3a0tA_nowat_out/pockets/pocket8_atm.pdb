@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0396
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0518
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7348
+HEADER 5  - Mean B-factor of pocket residues  : 0.2933
+HEADER 6  - Hydrophobicity Score              : -7.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 388.7946
+HEADER 10 - Pocket volume (convex hull)       : 22.2581
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM    848   CA LYS A 701     -43.865   5.523  41.692  0.00  0.00           C 0
+ATOM    852   CG LYS A 701     -43.035   4.737  43.973  0.00  0.00           C 0
+ATOM    853   CD LYS A 701     -43.360   3.536  44.849  0.00  0.00           C 0
+ATOM    851   CB LYS A 701     -43.253   4.398  42.526  0.00  0.00           C 0
+ATOM    855   NZ LYS A 701     -43.632   5.056  46.830  0.78  7.66           N 0
+ATOM    880   OG SER A 704     -45.749   8.715  43.407  0.00  0.00           O 0
+ATOM    847    N LYS A 701     -44.490   4.946  40.509  0.70  2.19           N 0
+ATOM    815    O GLU A 697     -43.306   0.148  41.706  0.22  5.36           O 0
+ATOM    840    C GLU A 700     -45.084   5.663  39.560  0.00  0.00           C 0
+ATOM    842   CB GLU A 700     -47.080   4.362  38.772  0.00  0.00           C 0
+ATOM    841    O GLU A 700     -45.101   6.894  39.541  0.63  4.29           O 0
+ATOM   1013   CDAARG A 722     -48.345  12.814  37.220  0.00  0.00           C 0
+ATOM    868   CB PHE A 703     -44.543   9.967  38.013  0.00  0.00           C 0
+ATOM    845  OE1 GLU A 700     -48.199   5.956  36.780  0.55  9.64           O 0
+ATOM    867    O PHE A 703     -44.621  11.863  40.255  0.47  4.29           O 0
+ATOM   1015   NEAARG A 722     -48.609  14.024  37.996  0.62  4.37           N 0
+ATOM    887   CD PRO A 705     -45.499  13.094  43.945  0.00  0.00           C 0
+ATOM    876   CA SER A 704     -44.477  10.649  42.723  0.00  0.00           C 0
+ATOM    866    C PHE A 703     -44.017  10.787  40.335  0.00  0.00           C 0
+TER
+END

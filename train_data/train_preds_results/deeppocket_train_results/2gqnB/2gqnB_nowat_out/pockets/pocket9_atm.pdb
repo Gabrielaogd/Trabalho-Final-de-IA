@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0206
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0191
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5984
+HEADER 5  - Mean B-factor of pocket residues  : 0.1845
+HEADER 6  - Hydrophobicity Score              : 13.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 353.3717
+HEADER 10 - Pocket volume (convex hull)       : 17.8120
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   1900  NH1 ARG B 254       0.740  27.667  26.044  0.52  2.19           N 0
+ATOM   1931  CG2 THR B 258       1.777  28.795  19.162  0.00  0.00           C 0
+ATOM   1899   CZ ARG B 254       1.606  26.900  26.727  0.00  0.00           C 0
+ATOM   1901  NH2 ARG B 254       1.364  25.589  26.832  0.00  0.00           N 0
+ATOM   1896   CG ARG B 254       3.814  29.430  26.142  0.00  0.00           C 0
+ATOM   1894    O ARG B 254       3.917  31.236  23.236  0.48  4.29           O 0
+ATOM   1918   CB ARG B 257       6.000  30.122  20.844  0.00  0.00           C 0
+ATOM   1919   CG ARG B 257       6.772  30.410  22.072  0.00  0.00           C 0
+ATOM     64  CG1 VAL B  11      11.212  28.569  17.946  0.00  0.00           C 0
+ATOM   1920   CD ARG B 257       8.127  31.106  21.796  0.00  0.00           C 0
+ATOM    159  CG1 VAL B  24      11.193  25.061  24.062  0.00  0.00           C 0
+ATOM     62    O VAL B  11      11.396  30.562  20.412  0.00  0.00           O 0
+ATOM     92  NH1 ARG B  15      13.144  28.381  21.339  0.72  2.19           N 0
+ATOM     89   CD ARG B  15      12.174  29.890  23.578  0.00  0.00           C 0
+ATOM    167  OD1 ASN B  25       8.014  27.776  26.165  0.61  1.07           O 0
+ATOM   1921   NE ARG B 257       8.754  31.491  23.052  0.00  0.00           N 0
+ATOM    168  ND2 ASN B  25       8.240  25.801  27.182  0.00  0.00           N 0
+ATOM   1898   NE ARG B 254       2.718  27.403  27.293  0.16  1.09           N 0
+ATOM     90   NE ARG B  15      12.902  28.633  23.616  0.00  0.00           N 0
+TER
+END

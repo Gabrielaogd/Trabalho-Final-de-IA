@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0011
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9959
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5183
+HEADER 5  - Mean B-factor of pocket residues  : 0.2835
+HEADER 6  - Hydrophobicity Score              : 6.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 173.7389
+HEADER 10 - Pocket volume (convex hull)       : 1.9828
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM    609   CD LYS A  75      69.557  15.329  31.835  0.00  0.00           C 0
+ATOM    276   CD ARG A  34      67.883  18.229  28.416  0.00  0.00           C 0
+ATOM    274   CB ARG A  34      66.383  18.486  30.482  0.00  0.00           C 0
+ATOM    611   NZ LYS A  75      71.762  15.907  30.808  0.00  0.00           N 0
+ATOM    136  OG1 THR A  17      67.471  22.840  33.664  0.00  0.00           O 0
+ATOM    273    O ARG A  34      64.633  19.231  33.038  0.56  3.21           O 0
+ATOM    293   CG ARG A  36      68.790  16.881  36.418  0.00  0.00           C 0
+ATOM    294   CD ARG A  36      69.844  16.128  35.698  0.00  0.00           C 0
+ATOM    279  NH1 ARG A  34      69.938  16.358  27.868  0.67  2.19           N 0
+ATOM    155   CZ PHE A  19      69.865  22.886  28.940  0.00  0.00           C 0
+ATOM     55   CE LYS A   6      70.182  19.356  25.921  0.00  0.00           C 0
+ATOM    135   CB THR A  17      66.979  22.923  32.329  0.00  0.00           C 0
+ATOM    153  CE1 PHE A  19      68.593  22.336  28.997  0.00  0.00           C 0
+TER
+END

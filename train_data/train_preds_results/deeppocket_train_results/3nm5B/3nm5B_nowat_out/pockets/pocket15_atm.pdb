@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0196
+HEADER 1  - Drug Score                        : 0.0249
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1154
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7060
+HEADER 5  - Mean B-factor of pocket residues  : 0.1863
+HEADER 6  - Hydrophobicity Score              : 58.2500
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 412.2461
+HEADER 10 - Pocket volume (convex hull)       : 23.8676
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7647
+ATOM   1157   CZ PHE B 153      11.713  29.396  48.056  0.00  0.00           C 0
+ATOM   1155  CE1 PHE B 153      12.393  30.451  47.472  0.00  0.00           C 0
+ATOM   1547   CA GLY B 205       7.702  28.673  49.573  0.00  0.00           C 0
+ATOM   1571  CD2 PHE B 208      10.120  33.821  50.380  0.00  0.00           C 0
+ATOM   1156  CE2 PHE B 153      11.128  28.430  47.265  0.00  0.00           C 0
+ATOM   1153  CD1 PHE B 153      12.489  30.527  46.087  0.00  0.00           C 0
+ATOM   1573  CE2 PHE B 208      10.484  35.031  49.822  0.00  0.00           C 0
+ATOM   1154  CD2 PHE B 153      11.230  28.516  45.885  0.00  0.00           C 0
+ATOM   1152   CG PHE B 153      11.904  29.566  45.286  0.00  0.00           C 0
+ATOM   1328   CE MET B 174      14.794  33.009  40.827  0.00  0.00           C 0
+ATOM   1327   SD MET B 174      14.992  32.643  42.557  0.00  0.00           S 0
+ATOM    403  CG2 ILE B  52      14.335  36.448  41.917  0.00  0.00           C 0
+ATOM    404  CD1 ILE B  52      12.347  37.663  43.987  0.00  0.00           C 0
+ATOM     63   CE MET B  10      11.422  39.110  47.998  0.00  0.00           C 0
+ATOM   1574   CZ PHE B 208      11.805  35.289  49.538  0.00  0.00           C 0
+ATOM   1151   CB PHE B 153      12.008  29.650  43.791  0.00  0.00           C 0
+ATOM   1549    O GLY B 205       7.146  30.382  51.167  0.73  1.07           O 0
+ATOM   1581  OD1 ASP B 209       6.405  34.048  50.829  0.57  6.43           O 0
+ATOM   1582  OD2 ASP B 209       4.484  33.011  51.070  0.59  9.64           O 0
+ATOM   1548    C GLY B 205       7.081  29.191  50.860  0.00  0.00           C 0
+ATOM   1550    N MET B 206       6.480  28.284  51.620  0.00  0.00           N 0
+ATOM   1555   CG MET B 206       3.839  27.123  52.790  0.00  0.00           C 0
+TER
+END

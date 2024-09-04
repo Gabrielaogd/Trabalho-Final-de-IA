@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0063
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9987
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7260
+HEADER 5  - Mean B-factor of pocket residues  : 0.2009
+HEADER 6  - Hydrophobicity Score              : 72.3333
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 212.3301
+HEADER 10 - Pocket volume (convex hull)       : 3.4115
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.8889
+ATOM   1229  CG2 ILE M 152      24.798 -56.839  10.717  0.00  0.00           C 0
+ATOM   1211    O ALA M 149      24.501 -52.832  12.938  0.00  0.00           O 0
+ATOM   1231    N PHE M 153      23.008 -55.247  13.446  0.00  0.00           N 0
+ATOM   1266  CD1 LEU M 156      25.452 -59.349  14.165  0.00  0.00           C 0
+ATOM   1209   CA ALA M 149      25.765 -51.511  11.384  0.00  0.00           C 0
+ATOM   1212   CB ALA M 149      27.040 -50.906  12.053  0.00  0.00           C 0
+ATOM   1235   CB PHE M 153      23.543 -54.618  15.769  0.00  0.00           C 0
+ATOM   1237  CD1 PHE M 153      24.775 -55.973  17.477  0.00  0.00           C 0
+ATOM   1008   CA GLY M 125      28.967 -58.307   6.800  0.00  0.00           C 0
+ATOM   1035   CB TRP M 128      28.813 -54.142   6.608  0.00  0.00           C 0
+ATOM   1038  CD2 TRP M 128      30.352 -52.580   7.978  0.00  0.00           C 0
+ATOM   1041  CE3 TRP M 128      31.659 -53.039   7.806  0.00  0.00           C 0
+ATOM   1010    O GLY M 125      30.506 -56.880   5.641  0.55  3.21           O 0
+ATOM   1232   CA PHE M 153      23.056 -55.709  14.818  0.00  0.00           C 0
+ATOM   1230  CD1 ILE M 152      25.414 -55.013   8.332  0.00  0.00           C 0
+ATOM   1036   CG TRP M 128      29.085 -53.016   7.511  0.00  0.00           C 0
+ATOM   1037  CD1 TRP M 128      28.162 -52.130   8.016  0.00  0.00           C 0
+ATOM   1039  NE1 TRP M 128      28.788 -51.159   8.770  0.00  0.00           N 0
+TER
+END

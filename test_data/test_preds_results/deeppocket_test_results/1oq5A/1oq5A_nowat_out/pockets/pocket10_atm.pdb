@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0774
+HEADER 1  - Drug Score                        : 0.0136
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0726
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6710
+HEADER 5  - Mean B-factor of pocket residues  : 0.0833
+HEADER 6  - Hydrophobicity Score              : 0.6667
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 283.4467
+HEADER 10 - Pocket volume (convex hull)       : 8.3039
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM    637   CB PRO A  83       5.258   6.402  29.946  0.00  0.00           C 0
+ATOM    334  CD2 LEU A  44       2.984   4.610  32.601  0.00  0.00           C 0
+ATOM   2019   CG LYS A 257       7.239   1.531  35.405  0.00  0.00           C 0
+ATOM    313  OD2 ASP A  41       4.142   4.018  36.787  0.00  0.00           O 0
+ATOM   1502  CG2 THR A 193       6.323   2.457  30.703  0.00  0.00           C 0
+ATOM    634   CA PRO A  83       4.052   7.316  30.197  0.00  0.00           C 0
+ATOM    636    O PRO A  83       5.263   9.381  30.372  0.52  7.50           O 0
+ATOM   1515    N PRO A 195      12.877   3.811  30.080  0.00  0.00           N 0
+ATOM   1611  OG1 THR A 208      10.186   8.408  27.243  0.14  9.64           O 0
+ATOM   1612  CG2 THR A 208       8.731   6.509  27.347  0.00  0.00           C 0
+ATOM   1519   CB PRO A 195      14.186   5.682  30.555  0.00  0.00           C 0
+ATOM   1499    O THR A 193       8.958   0.759  31.222  0.00  0.00           O 0
+ATOM   1521   CD PRO A 195      13.058   3.786  31.527  0.00  0.00           C 0
+ATOM   2000    O GLN A 255      11.572   0.668  34.367  0.00  0.00           O 0
+ATOM   1501  OG1 THR A 193       7.440   3.414  28.871  0.72  1.07           O 0
+ATOM   1516   CA PRO A 195      13.727   4.766  29.409  0.00  0.00           C 0
+ATOM   1504   CA TYR A 194      11.194   2.020  30.182  0.00  0.00           C 0
+ATOM   1505    C TYR A 194      11.965   3.099  29.421  0.00  0.00           C 0
+TER
+END

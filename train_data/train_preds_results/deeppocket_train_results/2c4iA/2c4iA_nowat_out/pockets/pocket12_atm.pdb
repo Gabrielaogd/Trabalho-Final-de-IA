@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0128
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8744
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6661
+HEADER 5  - Mean B-factor of pocket residues  : 0.3160
+HEADER 6  - Hydrophobicity Score              : 35.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 168.7124
+HEADER 10 - Pocket volume (convex hull)       : 3.1533
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM   1599    C VAL A 237      27.476   4.405  -0.541  0.00  0.00           C 0
+ATOM   1610  CG2 THR A 238      28.722   3.013  -4.247  0.00  0.00           C 0
+ATOM   1595    O ALA A 236      24.827   7.402  -1.201  0.00  0.00           O 0
+ATOM   1604    N THR A 238      28.441   4.247  -1.430  0.52  6.56           N 0
+ATOM   1608   CB THR A 238      28.312   2.284  -2.986  0.00  0.00           C 0
+ATOM   1649    O ILE A 244      21.399  -0.487  -4.148  0.19  3.21           O 0
+ATOM   1646    N ILE A 244      23.808  -1.323  -5.260  0.24  2.19           N 0
+ATOM   1588    O THR A 235      22.510   4.073  -0.109  0.54  3.21           O 0
+ATOM   1600    O VAL A 237      26.983   3.458   0.063  0.91  4.29           O 0
+ATOM   1591  CG2 THR A 235      24.293   1.555   0.749  0.00  0.00           C 0
+ATOM   1632    O ASN A 242      26.869  -0.677  -6.902  0.00  0.00           O 0
+ATOM   1651  CG1 ILE A 244      25.670  -1.140  -2.907  0.00  0.00           C 0
+ATOM   1597    N VAL A 237      25.589   5.810   0.204  0.00  0.00           N 0
+ATOM   1594    C ALA A 236      24.646   6.651  -0.242  0.00  0.00           C 0
+ATOM   1650   CB ILE A 244      24.140  -1.211  -2.718  0.00  0.00           C 0
+TER
+END

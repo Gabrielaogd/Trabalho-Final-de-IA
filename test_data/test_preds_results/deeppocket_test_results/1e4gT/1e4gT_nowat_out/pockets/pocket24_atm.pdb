@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.1080
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9622
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4806
+HEADER 5  - Mean B-factor of pocket residues  : 0.4764
+HEADER 6  - Hydrophobicity Score              : 13.7000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 193.3855
+HEADER 10 - Pocket volume (convex hull)       : 3.0556
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4783
+ATOM   2722  CE1 TYR T 361      41.685  24.268  45.934  0.00  0.00           C 0
+ATOM   2727   CA ALA T 362      41.682  24.497  51.425  0.00  0.00           C 0
+ATOM   2772   CA SER T 368      45.206  27.733  46.051  0.00  0.00           C 0
+ATOM   2720  CD1 TYR T 361      40.693  24.070  46.883  0.00  0.00           C 0
+ATOM   2717    O TYR T 361      42.117  22.475  49.544  0.53  1.07           O 0
+ATOM   2729    O ALA T 362      43.976  24.138  52.032  0.00  0.00           O 0
+ATOM   2776   OG SER T 368      46.542  27.924  48.063  0.12  9.64           O 0
+ATOM   2756    O ARG T 366      46.344  23.514  46.685  0.36  4.29           O 0
+ATOM   2767    O PRO T 367      44.442  25.352  44.919  0.00  0.00           O 0
+ATOM   2834   CB ALA T 376      38.099  26.641  48.810  0.00  0.00           C 0
+ATOM   2780    O ILE T 369      41.886  30.224  45.506  0.00  0.00           O 0
+ATOM   2730   CB ALA T 362      41.018  25.506  52.363  0.00  0.00           C 0
+ATOM   2842  ND2 ASN T 377      38.587  27.164  52.972  0.89  1.09           N 0
+ATOM   2804    O ALA T 372      37.887  29.611  48.014  0.53  3.21           O 0
+ATOM   2812  OD1 ASP T 373      38.698  32.554  51.894  0.00  0.00           O 0
+ATOM   2775   CB SER T 368      46.018  28.650  46.967  0.00  0.00           C 0
+ATOM   2777    N ILE T 369      43.277  27.982  44.609  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0896
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6240
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4231
+HEADER 5  - Mean B-factor of pocket residues  : 0.0290
+HEADER 6  - Hydrophobicity Score              : 3.4000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 87.8523
+HEADER 10 - Pocket volume (convex hull)       : 0.6231
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM    763  CG1 VAL A  95      37.716  18.469  27.545  0.00  0.00           C 0
+ATOM   5562    O GLY A 714      41.235  21.027  26.521  0.61  1.07           O 0
+ATOM   5551    O ARG A 713      38.445  23.159  24.053  0.64  1.07           O 0
+ATOM   5032   CB PRO A 646      36.778  21.340  31.118  0.00  0.00           C 0
+ATOM    743   CB PRO A  92      35.557  21.311  22.735  0.00  0.00           C 0
+ATOM    771  OD1 ASP A  96      33.224  19.799  27.340  0.67  1.07           O 0
+ATOM   6109   NZ LYS A 785      32.345  22.361  25.220  0.00  0.00           N 0
+ATOM   6088  CZ2 TRP A 782      36.681  25.664  26.667  0.00  0.00           C 0
+ATOM   5050  CE1 PHE A 648      33.896  23.014  29.703  0.00  0.00           C 0
+ATOM   5575   CB ASP A 716      38.967  25.515  29.733  0.00  0.00           C 0
+ATOM   5571    N ASP A 716      40.721  24.728  28.129  0.00  0.00           N 0
+ATOM   6085  NE1 TRP A 782      36.114  24.972  24.298  0.00  0.00           N 0
+ATOM    740   CA PRO A  92      36.019  19.845  22.951  0.00  0.00           C 0
+ATOM    742    O PRO A  92      34.604  18.683  24.485  0.00  0.00           O 0
+TER
+END

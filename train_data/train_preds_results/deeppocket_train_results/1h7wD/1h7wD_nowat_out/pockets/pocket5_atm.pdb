@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1055
+HEADER 1  - Drug Score                        : 0.1865
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 3.6509
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4508
+HEADER 5  - Mean B-factor of pocket residues  : 0.0544
+HEADER 6  - Hydrophobicity Score              : 40.0769
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.4615
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.5569
+HEADER 10 - Pocket volume (convex hull)       : 15.3004
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 28.0000
+HEADER 13 - Number of apolar alpha sphere     :    29
+HEADER 14 - Proportion of apolar alpha sphere : 0.9062
+ATOM   7264   SG CYS D 953      67.001  72.778   6.714  0.00  0.00           S 0
+ATOM   7273    N ASN D 955      66.570  74.786   4.122  0.00  0.00           N 0
+ATOM   7286   SG CYS D 956      65.842  79.335   7.068  0.00  0.00           S 0
+ATOM   7281    N CYS D 956      67.427  77.566   4.806  0.00  0.00           N 0
+ATOM   7287    N GLY D 957      69.062  78.625   6.799  0.56  2.19           N 0
+ATOM   7300    N CYS D 959      68.300  79.331  11.649  0.65  1.09           N 0
+ATOM   7577   CA CYS D 996      62.490  78.520  11.929  0.00  0.00           C 0
+ATOM   7581   SG CYS D 996      62.485  75.862  11.053  0.00  0.00           S 0
+ATOM   7580   CB CYS D 996      62.618  77.067  12.394  0.00  0.00           C 0
+ATOM   7265    N ILE D 954      64.252  73.698   4.836  0.50  1.09           N 0
+ATOM   7594  CG1 ILE D 998      60.314  74.816   7.051  0.00  0.00           C 0
+ATOM   7270  CG1 ILE D 954      62.916  76.359   4.329  0.00  0.00           C 0
+ATOM   7618   SG CYS D1001      63.252  71.654  10.012  0.00  0.00           S 0
+ATOM   7305   SG CYS D 959      69.184  76.364  11.480  0.00  0.00           S 0
+ATOM   7473   CG PRO D 980      69.815  72.906   9.625  0.00  0.00           C 0
+ATOM   7588   CD PRO D 997      62.387  78.999   8.998  0.00  0.00           C 0
+ATOM   7260   CA CYS D 953      64.380  71.756   6.319  0.00  0.00           C 0
+ATOM   7626  CD1 ILE D1002      65.382  74.908  14.071  0.00  0.00           C 0
+ATOM   7624  CG1 ILE D1002      64.567  73.633  13.895  0.00  0.00           C 0
+ATOM   7223  CG2 ILE D 948      66.878  70.588  11.270  0.00  0.00           C 0
+ATOM   7224  CD1 ILE D 948      68.791  72.380  12.900  0.00  0.00           C 0
+ATOM   7587   CG PRO D 997      61.799  78.830   7.615  0.00  0.00           C 0
+ATOM   7304   CB CYS D 959      68.424  77.212  12.893  0.00  0.00           C 0
+TER
+END

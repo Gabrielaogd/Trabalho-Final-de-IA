@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0200
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0194
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5201
+HEADER 5  - Mean B-factor of pocket residues  : 0.5253
+HEADER 6  - Hydrophobicity Score              : 4.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 270.8955
+HEADER 10 - Pocket volume (convex hull)       : 7.1875
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   1012   NZ LYS A 161      34.982   7.565 -15.970  0.38  9.84           N 0
+ATOM   1011   CE LYS A 161      33.898   8.147 -15.143  0.00  0.00           C 0
+ATOM    269  CG2 VAL A  72      30.570   6.320 -13.786  0.00  0.00           C 0
+ATOM    133   NZ LYS A  54      37.088   4.257 -10.928  0.96  3.28           N 0
+ATOM    262    O GLY A  71      30.855   4.076 -16.931  0.00  0.00           O 0
+ATOM    264   CA VAL A  72      29.136   4.454 -14.745  0.00  0.00           C 0
+ATOM    268  CG1 VAL A  72      29.489   4.694 -12.237  0.00  0.00           C 0
+ATOM    121    O PRO A  53      33.270   5.580  -8.767  0.50  2.14           O 0
+ATOM    995    O LEU A 159      34.066   9.841 -10.891  0.68  1.07           O 0
+ATOM    116   CE LYS A  52      37.013   8.635 -12.185  0.00  0.00           C 0
+ATOM    128    O LYS A  54      31.299   1.281  -9.161  0.00  0.00           O 0
+ATOM    276    OALYS A  73      27.370   0.793 -12.182  0.60  6.43           O 0
+ATOM    270    NALYS A  73      27.911   2.331 -14.664  0.52  1.09           N 0
+ATOM    282   CDALYS A  73      28.644  -0.080 -16.870  0.00  0.00           C 0
+ATOM    130   CG LYS A  54      35.271   2.368  -9.555  0.00  0.00           C 0
+ATOM    126   CA LYS A  54      33.000   2.827  -8.452  0.00  0.00           C 0
+TER
+END

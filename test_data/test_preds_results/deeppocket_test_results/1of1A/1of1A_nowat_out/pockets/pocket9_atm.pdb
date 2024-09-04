@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0358
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0233
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7032
+HEADER 5  - Mean B-factor of pocket residues  : 0.1309
+HEADER 6  - Hydrophobicity Score              : 23.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 2.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.6368
+HEADER 10 - Pocket volume (convex hull)       : 5.4051
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5500
+ATOM    532   CA VAL A 119      34.453  23.010  -1.802  0.00  0.00           C 0
+ATOM    534    O VAL A 119      35.909  23.406   0.051  0.48  1.07           O 0
+ATOM    565   OG SER A 123      35.827  23.324   3.122  0.00  0.00           O 0
+ATOM    535   CB VAL A 119      33.820  21.601  -1.609  0.00  0.00           C 0
+ATOM    510   CA GLY A 115      32.391  21.562  -7.899  0.00  0.00           C 0
+ATOM    530   CB ALA A 118      33.754  25.383  -5.561  0.00  0.00           C 0
+ATOM    969  CG2 THR A 183      30.078  27.383  -6.213  0.00  0.00           C 0
+ATOM    512    O GLY A 115      33.293  21.615  -5.693  0.00  0.00           O 0
+ATOM    536  CG1 VAL A 119      32.493  21.529  -2.354  0.00  0.00           C 0
+ATOM    558  OG1 THR A 122      34.071  27.570  -1.241  0.74  3.21           O 0
+ATOM    557   CB THR A 122      34.463  27.147   0.071  0.00  0.00           C 0
+ATOM    559  CG2 THR A 122      33.567  27.855   1.092  0.00  0.00           C 0
+ATOM    968  OG1 THR A 183      29.807  29.032  -4.445  0.52  7.50           O 0
+ATOM    529    O ALA A 118      35.083  25.473  -2.599  0.72  1.07           O 0
+ATOM    531    N VAL A 119      34.609  23.373  -3.198  0.00  0.00           N 0
+ATOM    528    C ALA A 118      34.935  24.630  -3.486  0.00  0.00           C 0
+TER
+END

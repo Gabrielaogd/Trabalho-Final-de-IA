@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0576
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1086
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5225
+HEADER 5  - Mean B-factor of pocket residues  : 0.6666
+HEADER 6  - Hydrophobicity Score              : -15.5714
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 330.7216
+HEADER 10 - Pocket volume (convex hull)       : 21.7056
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3500
+ATOM   2358  OE1 GLU A 299     -36.985  16.351  -5.370  0.00  0.00           O 0
+ATOM    335  OE1 GLU A  45     -32.278  15.926   0.141  0.66  3.21           O 0
+ATOM   2327  CG2 VAL A 296     -36.748  16.060  -0.338  0.00  0.00           C 0
+ATOM   2326  CG1 VAL A 296     -35.082  14.171  -0.660  0.00  0.00           C 0
+ATOM    333   CG GLU A  45     -31.471  18.022   0.878  0.00  0.00           C 0
+ATOM   2973  NH1AARG A 376     -34.487  17.787  -7.669  0.00  0.00           N 0
+ATOM   2967   CDAARG A 376     -32.493  15.778  -7.977  0.00  0.00           C 0
+ATOM   2954   CB ASP A 375     -27.800  15.612  -5.338  0.00  0.00           C 0
+ATOM   2988  OE1AGLU A 377     -28.242  17.563  -8.783  0.00  0.00           O 0
+ATOM    334   CD GLU A  45     -31.256  16.607   0.384  0.00  0.00           C 0
+ATOM    336  OE2 GLU A  45     -30.080  16.178   0.224  0.64  4.29           O 0
+ATOM   2367   CE LYS A 300     -31.837  12.646  -2.363  0.00  0.00           C 0
+ATOM   2951   CA ASP A 375     -28.358  14.166  -5.349  0.00  0.00           C 0
+ATOM   2324    O VAL A 296     -36.239  12.552  -3.275  0.00  0.00           O 0
+ATOM   2365   CG LYS A 300     -33.085  11.538  -4.240  0.00  0.00           C 0
+ATOM   2965   CGAARG A 376     -31.406  15.852  -9.058  0.00  0.00           C 0
+TER
+END

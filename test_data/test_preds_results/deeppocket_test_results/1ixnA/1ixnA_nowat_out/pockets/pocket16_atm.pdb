@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0953
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1266
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6235
+HEADER 5  - Mean B-factor of pocket residues  : 0.2569
+HEADER 6  - Hydrophobicity Score              : 25.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 331.4974
+HEADER 10 - Pocket volume (convex hull)       : 15.5767
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM    174   OH TYR A  24       5.821  11.016  -4.377  0.00  0.00           O 0
+ATOM    144   CZ ARG A  20       0.548  10.867  -0.224  0.00  0.00           C 0
+ATOM    146  NH2 ARG A  20       1.311  11.243   0.795  0.00  0.00           N 0
+ATOM    143   NE ARG A  20       0.714  11.390  -1.422  0.63  3.28           N 0
+ATOM    140   CB ARG A  20       0.412   8.617  -3.238  0.00  0.00           C 0
+ATOM    145  NH1 ARG A  20      -0.399   9.956  -0.061  0.65  4.37           N 0
+ATOM    171  CE1 TYR A  24       6.981   9.006  -4.916  0.00  0.00           C 0
+ATOM    156  OG1 THR A  22       3.166   8.339  -6.414  0.00  0.00           O 0
+ATOM    141   CG ARG A  20       0.663  10.080  -3.513  0.00  0.00           C 0
+ATOM    111  CD2 LEU A  16       6.584   2.027  -1.268  0.00  0.00           C 0
+ATOM    181   CD PRO A  25       6.354   4.008  -5.532  0.00  0.00           C 0
+ATOM    169  CD1 TYR A  24       7.488   8.134  -5.863  0.00  0.00           C 0
+ATOM    109   CG LEU A  16       5.195   2.614  -1.541  0.00  0.00           C 0
+ATOM    180   CG PRO A  25       7.093   2.686  -5.680  0.00  0.00           C 0
+ATOM    179   CB PRO A  25       8.367   3.116  -6.326  0.00  0.00           C 0
+ATOM    107    O LEU A  16       2.274   4.109  -3.238  0.42  1.07           O 0
+ATOM    135   CB ALA A  19      -0.668   4.097  -1.432  0.00  0.00           C 0
+ATOM    166    O TYR A  24       5.170   6.330  -6.634  0.00  0.00           O 0
+ATOM    110  CD1 LEU A  16       4.388   2.705  -0.250  0.00  0.00           C 0
+TER
+END

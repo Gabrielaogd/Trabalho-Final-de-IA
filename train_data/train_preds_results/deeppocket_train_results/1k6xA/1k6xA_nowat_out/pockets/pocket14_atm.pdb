@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0153
+HEADER 1  - Drug Score                        : 0.0329
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.2134
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5367
+HEADER 5  - Mean B-factor of pocket residues  : 0.5186
+HEADER 6  - Hydrophobicity Score              : 12.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 464.1024
+HEADER 10 - Pocket volume (convex hull)       : 33.0462
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 18.0000
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.7308
+ATOM    936   CE MET A 127       2.840  70.134  45.037  0.00  0.00           C 0
+ATOM   1974   CB PRO A 255      -0.776  75.459  44.949  0.00  0.00           C 0
+ATOM   1975   CG PRO A 255      -0.741  75.941  43.525  0.00  0.00           C 0
+ATOM    612  NE2 GLN A  84      -1.112  68.574  41.188  0.56  4.37           N 0
+ATOM   1985   CA GLY A 257       1.631  72.369  48.443  0.00  0.00           C 0
+ATOM    603   OG SER A  83       0.411  67.293  44.434  0.63  2.14           O 0
+ATOM    607    O GLN A  84      -5.218  68.818  44.619  0.20  9.64           O 0
+ATOM   1984    N GLY A 257       0.984  73.654  48.605  0.88  3.28           N 0
+ATOM    601    O SER A  83      -2.986  66.930  45.355  0.65  7.50           O 0
+ATOM   1992   CB TYR A 258       3.675  74.328  44.474  0.00  0.00           C 0
+ATOM    605   CA GLN A  84      -3.702  68.141  42.880  0.00  0.00           C 0
+ATOM    608   CB GLN A  84      -4.139  68.112  41.405  0.00  0.00           C 0
+ATOM   1988    N TYR A 258       2.869  73.357  46.595  0.77  1.09           N 0
+ATOM   1976   CD PRO A 255       0.503  76.793  43.502  0.00  0.00           C 0
+ATOM   1993   CG TYR A 258       4.809  74.327  43.456  0.00  0.00           C 0
+ATOM   1994  CD1 TYR A 258       5.082  75.450  42.663  0.00  0.00           C 0
+ATOM   1998   CZ TYR A 258       6.939  74.316  41.616  0.00  0.00           C 0
+ATOM   1996  CE1 TYR A 258       6.146  75.449  41.742  0.00  0.00           C 0
+ATOM   1997  CE2 TYR A 258       6.685  73.191  42.388  0.00  0.00           C 0
+ATOM   1995  CD2 TYR A 258       5.625  73.203  43.301  0.00  0.00           C 0
+ATOM    935   SD MET A 127       4.175  69.147  44.285  0.00  0.00           S 0
+TER
+END

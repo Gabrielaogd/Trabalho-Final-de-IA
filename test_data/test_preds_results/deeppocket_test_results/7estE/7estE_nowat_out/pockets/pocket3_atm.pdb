@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2256
+HEADER 1  - Drug Score                        : 0.0256
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8778
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4208
+HEADER 5  - Mean B-factor of pocket residues  : 0.1064
+HEADER 6  - Hydrophobicity Score              : 40.1000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 141.5277
+HEADER 10 - Pocket volume (convex hull)       : 3.0768
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4762
+ATOM   1324    O MET E 180      13.960  53.033 -15.699  0.40  3.21           O 0
+ATOM    936    O LEU E 130      15.469  59.733 -20.245  0.61  3.21           O 0
+ATOM    931  CG2 ILE E 129      14.367  56.797 -21.711  0.00  0.00           C 0
+ATOM   1335  CG2 VAL E 181      11.749  56.352 -14.974  0.00  0.00           C 0
+ATOM    933    N LEU E 130      12.700  59.446 -20.303  0.68  4.37           N 0
+ATOM    937   CB LEU E 130      13.056  60.940 -18.371  0.00  0.00           C 0
+ATOM   1334  CG1 VAL E 181      13.175  57.661 -13.587  0.00  0.00           C 0
+ATOM   1701   CD ARG E 230      10.660  54.300 -18.285  0.00  0.00           C 0
+ATOM   1314  ND2 ASN E 178      14.940  51.946 -20.310  0.47  5.47           N 0
+ATOM   1193    N TYR E 165      19.073  54.669 -17.877  0.58  7.66           N 0
+ATOM   1175   CB THR E 162      15.930  60.964 -14.785  0.00  0.00           C 0
+ATOM   1186   CA ASP E 164      19.249  57.044 -17.281  0.00  0.00           C 0
+ATOM   1176  OG1 THR E 162      16.333  61.622 -15.972  0.83  1.07           O 0
+ATOM   1330   CA VAL E 181      13.626  55.145 -13.769  0.00  0.00           C 0
+ATOM   1181    O VAL E 163      18.577  57.063 -14.555  0.63  3.21           O 0
+TER
+END

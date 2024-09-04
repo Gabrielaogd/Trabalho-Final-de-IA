@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.1080
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.2109
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5897
+HEADER 5  - Mean B-factor of pocket residues  : 0.3148
+HEADER 6  - Hydrophobicity Score              : 9.3636
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3636
+HEADER 9  - Pocket volume (Monte Carlo)       : 351.3498
+HEADER 10 - Pocket volume (convex hull)       : 19.8629
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3182
+ATOM   2482   CA PRO A 324       6.493   0.692  17.880  0.00  0.00           C 0
+ATOM   2486   CG PRO A 324       8.527   1.689  18.331  0.00  0.00           C 0
+ATOM   2485   CB PRO A 324       7.431   1.841  17.518  0.00  0.00           C 0
+ATOM   2129  OD2 ASP A 277       7.325   3.774  25.608  0.55  4.29           O 0
+ATOM   2128  OD1 ASP A 277       8.117   5.768  25.206  0.69  3.21           O 0
+ATOM   2161   CD ARG A 282       3.454   7.184  24.743  0.00  0.00           C 0
+ATOM   2142   CB ASP A 279       7.121   9.332  24.763  0.00  0.00           C 0
+ATOM   2136  CG2 ILE A 278      10.150   7.730  22.173  0.00  0.00           C 0
+ATOM   2163   CZ ARG A 282       2.368   4.909  24.631  0.00  0.00           C 0
+ATOM   1969   CB CYS A 254       8.886   0.245  23.284  0.00  0.00           C 0
+ATOM   2479    O ALA A 323       5.834  -1.884  18.666  0.58  2.14           O 0
+ATOM   2475  OD2 ASP A 322       3.992  -3.269  24.287  0.61  2.14           O 0
+ATOM   2474  OD1 ASP A 322       4.354  -4.596  22.606  0.63  5.36           O 0
+ATOM   2473   CG ASP A 322       4.792  -3.882  23.540  0.00  0.00           C 0
+ATOM   1979    O ALA A 256       3.825   2.357  26.370  0.44  8.57           O 0
+ATOM   1968    O CYS A 254       7.035  -0.161  25.284  0.47  1.07           O 0
+ATOM   2471    O ASP A 322       7.152  -1.875  21.805  0.00  0.00           O 0
+ATOM   2892   SG CYS A 375       0.027  -2.584  18.630  0.00  0.00           S 0
+ATOM   2481    N PRO A 324       7.379  -0.301  18.477  0.00  0.00           N 0
+ATOM   2488    N CYS A 325       4.740   0.232  16.226  0.57  2.19           N 0
+ATOM   2491    O CYS A 325       2.495   0.999  15.023  0.48  6.43           O 0
+ATOM   2493   SG CYS A 325       2.538  -2.304  16.387  0.00  0.00           S 0
+TER
+END

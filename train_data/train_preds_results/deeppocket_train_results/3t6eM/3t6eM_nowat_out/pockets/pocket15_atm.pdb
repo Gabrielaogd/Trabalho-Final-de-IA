@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0395
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.1886
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6135
+HEADER 5  - Mean B-factor of pocket residues  : 0.0933
+HEADER 6  - Hydrophobicity Score              : 31.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 158.0727
+HEADER 10 - Pocket volume (convex hull)       : 2.3951
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5185
+ATOM   1534   CG ARG M 190       7.988 -66.936  24.775  0.00  0.00           C 0
+ATOM   1381  OE2 GLU M 171      12.254 -69.202  23.482  0.64  7.50           O 0
+ATOM   1533   CB ARG M 190       6.828 -66.530  23.906  0.00  0.00           C 0
+ATOM   1380  OE1 GLU M 171      12.680 -67.161  22.783  0.00  0.00           O 0
+ATOM   1503   CB ALA M 186       5.387 -67.431  17.901  0.00  0.00           C 0
+ATOM   1379   CD GLU M 171      12.880 -68.403  22.749  0.00  0.00           C 0
+ATOM   1370    O SER M 170      12.354 -71.096  18.072  0.00  0.00           O 0
+ATOM   1502    O ALA M 186       5.369 -65.928  20.926  0.66  1.07           O 0
+ATOM   1374   CA GLU M 171      13.611 -68.885  19.280  0.00  0.00           C 0
+ATOM   1510  CD1 PHE M 187      10.705 -64.184  19.992  0.00  0.00           C 0
+ATOM   1505   CA PHE M 187       7.384 -64.058  20.169  0.00  0.00           C 0
+ATOM   1501    C ALA M 186       5.535 -65.649  19.730  0.00  0.00           C 0
+ATOM   1504    N PHE M 187       6.443 -64.755  19.300  0.71  1.09           N 0
+ATOM   1478  NE1 TRP M 183      11.101 -65.382  16.641  0.00  0.00           N 0
+ATOM   1376    O GLU M 171      13.402 -66.918  17.976  0.67  1.07           O 0
+ATOM   1476  CD1 TRP M 183      10.199 -66.017  15.805  0.00  0.00           C 0
+TER
+END

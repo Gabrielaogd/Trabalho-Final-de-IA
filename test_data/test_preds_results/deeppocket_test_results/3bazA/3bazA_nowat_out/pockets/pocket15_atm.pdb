@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0992
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1871
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6679
+HEADER 5  - Mean B-factor of pocket residues  : 0.2267
+HEADER 6  - Hydrophobicity Score              : 21.4000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 167.0478
+HEADER 10 - Pocket volume (convex hull)       : 1.6814
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM    678    C GLY A  90      40.347  13.046 -37.775  0.00  0.00           C 0
+ATOM    679    O GLY A  90      39.898  14.093 -38.251  0.63  3.21           O 0
+ATOM    693   CD ARG A  92      40.109  18.356 -35.792  0.00  0.00           C 0
+ATOM    677   CA GLY A  90      41.483  12.291 -38.413  0.00  0.00           C 0
+ATOM    650   CA GLU A  87      43.357  10.902 -33.892  0.00  0.00           C 0
+ATOM   2374  CG1 VAL A 313      41.886  14.432 -31.541  0.00  0.00           C 0
+ATOM   2372    O VAL A 313      42.614  17.652 -32.090  0.30  5.36           O 0
+ATOM    652    O GLU A  87      44.085  10.539 -36.154  0.35  9.64           O 0
+ATOM    654   CG GLU A  87      45.866  11.282 -33.691  0.00  0.00           C 0
+ATOM    657  OE2 GLU A  87      47.490  12.665 -32.653  0.62  9.64           O 0
+ATOM    653   CB GLU A  87      44.536  11.113 -32.952  0.00  0.00           C 0
+ATOM    683    O VAL A  91      39.521  14.036 -34.110  0.74  3.21           O 0
+ATOM    680    N VAL A  91      39.812  12.563 -36.649  0.00  0.00           N 0
+TER
+END

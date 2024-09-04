@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0130
+HEADER 1  - Drug Score                        : 0.2649
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.0021
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4525
+HEADER 5  - Mean B-factor of pocket residues  : 0.2488
+HEADER 6  - Hydrophobicity Score              : 62.6250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 240.3963
+HEADER 10 - Pocket volume (convex hull)       : 7.4342
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 22.0000
+HEADER 13 - Number of apolar alpha sphere     :    23
+HEADER 14 - Proportion of apolar alpha sphere : 0.8846
+ATOM   2378   CB MET A 331     -19.961  28.151   1.666  0.00  0.00           C 0
+ATOM   1707   CG MET A 242     -23.632  27.089   7.445  0.00  0.00           C 0
+ATOM   2415  CD1 ILE A 335     -19.343  27.374   6.484  0.00  0.00           C 0
+ATOM   1931   CB TYR A 271     -21.504  31.057   5.492  0.00  0.00           C 0
+ATOM   2381   CE MET A 331     -23.119  28.936   1.177  0.00  0.00           C 0
+ATOM   2382    N HIS A 332     -18.520  25.414   2.006  0.56  2.19           N 0
+ATOM   1708   SD MET A 242     -24.779  25.708   7.163  0.00  0.00           S 0
+ATOM   2389  CD2 HIS A 332     -19.255  21.299   4.193  0.00  0.00           C 0
+ATOM   2383   CA HIS A 332     -18.125  24.273   2.834  0.00  0.00           C 0
+ATOM   2386   CB HIS A 332     -18.772  22.992   2.261  0.00  0.00           C 0
+ATOM   2359  CD2 LEU A 328     -25.193  26.061   0.438  0.00  0.00           C 0
+ATOM    711  CE1 PHE A 111     -27.552  27.704   5.263  0.00  0.00           C 0
+ATOM    713   CZ PHE A 111     -27.547  28.731   4.340  0.00  0.00           C 0
+ATOM   1706   CB MET A 242     -22.320  26.822   8.275  0.00  0.00           C 0
+ATOM   1705    O MET A 242     -20.609  24.590   9.282  0.48  6.43           O 0
+ATOM   2355    O LEU A 328     -20.704  24.685   0.088  0.57  3.21           O 0
+ATOM   2356   CB LEU A 328     -23.812  24.587  -0.965  0.00  0.00           C 0
+ATOM   1776  NH1 ARG A 250     -24.161  22.378   8.798  0.74  2.19           N 0
+TER
+END

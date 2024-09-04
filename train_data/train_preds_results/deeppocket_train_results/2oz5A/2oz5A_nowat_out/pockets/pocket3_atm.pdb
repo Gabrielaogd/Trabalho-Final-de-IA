@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0665
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7574
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4542
+HEADER 5  - Mean B-factor of pocket residues  : 0.5946
+HEADER 6  - Hydrophobicity Score              : 27.1429
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 174.2836
+HEADER 10 - Pocket volume (convex hull)       : 2.0352
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM    792   OG SER A 117      23.720  48.528   1.503  0.00  0.00           O 0
+ATOM    756   CB ASN A 104      17.120  50.673  -1.665  0.00  0.00           C 0
+ATOM    754    C ASN A 104      17.222  48.298  -2.389  0.00  0.00           C 0
+ATOM    791   CB SER A 117      22.497  48.828   2.144  0.00  0.00           C 0
+ATOM    794   CA ILE A 118      19.378  50.350   4.970  0.00  0.00           C 0
+ATOM    732    O LEU A 101      14.037  51.631   1.920  0.40  1.07           O 0
+ATOM    821   CB ALA A 121      17.948  53.440   1.692  0.00  0.00           C 0
+ATOM    790    O SER A 117      20.758  51.501   2.857  0.69  4.29           O 0
+ATOM   1649   CG ARG A 226      14.123  48.812   4.884  0.00  0.00           C 0
+ATOM   1651   NE ARG A 226      14.789  46.873   3.616  0.50  2.19           N 0
+ATOM    758   CA GLY A 112      20.406  45.552   0.269  0.00  0.00           C 0
+ATOM    798  CG1 ILE A 118      18.422  48.041   5.413  0.00  0.00           C 0
+ATOM    755    O ASN A 104      17.330  47.591  -1.383  0.55  4.29           O 0
+ATOM    760    O GLY A 112      19.276  46.056   2.346  0.47  2.14           O 0
+ATOM    752    N ASN A 104      15.066  49.293  -1.680  0.37  1.09           N 0
+TER
+END

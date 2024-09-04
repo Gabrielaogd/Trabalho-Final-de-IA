@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0021
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0464
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6870
+HEADER 5  - Mean B-factor of pocket residues  : 0.6727
+HEADER 6  - Hydrophobicity Score              : -5.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 265.4388
+HEADER 10 - Pocket volume (convex hull)       : 7.9866
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   1075    C VAL A 137      47.489  26.921  13.284  0.00  0.00           C 0
+ATOM   1068   CB GLU A 136      52.221  25.016  14.453  0.00  0.00           C 0
+ATOM   1066    C GLU A 136      49.812  25.383  15.235  0.00  0.00           C 0
+ATOM   1541   NZ LYS A 196      49.407  22.192  13.821  0.61  6.56           N 0
+ATOM   1088    N ALA A 139      47.452  28.872  10.440  0.00  0.00           N 0
+ATOM   1100   CE LYS A 140      48.148  28.384   5.022  0.00  0.00           C 0
+ATOM   1092   CB ALA A 139      48.891  30.682   9.621  0.00  0.00           C 0
+ATOM   1101   NZ LYS A 140      48.172  26.928   4.694  0.00  0.00           N 0
+ATOM   1076    O VAL A 137      48.028  28.005  13.027  0.60  2.14           O 0
+ATOM   1177   NZ LYS A 150      53.904  28.578  13.219  0.38  6.56           N 0
+ATOM   1176   CE LYS A 150      52.742  29.496  13.509  0.00  0.00           C 0
+ATOM   1086  OD1 ASP A 138      45.777  27.324   8.408  0.00  0.00           O 0
+ATOM   1081   CA ASP A 138      46.529  26.727  11.028  0.00  0.00           C 0
+ATOM   1085   CG ASP A 138      45.142  26.356   8.908  0.00  0.00           C 0
+ATOM   1080    N ASP A 138      46.753  26.236  12.405  0.26  1.09           N 0
+TER
+END

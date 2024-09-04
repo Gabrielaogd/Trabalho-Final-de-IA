@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1126
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8666
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4945
+HEADER 5  - Mean B-factor of pocket residues  : 0.2518
+HEADER 6  - Hydrophobicity Score              : 1.7143
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.6316
+HEADER 10 - Pocket volume (convex hull)       : 2.1483
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM    443   CE LYS C  64      27.314   5.812   4.585  0.00  0.00           C 0
+ATOM    444   NZ LYS C  64      25.954   5.257   4.810  0.00  0.00           N 0
+ATOM    442   CD LYS C  64      27.161   7.045   3.784  0.00  0.00           C 0
+ATOM    473   CB ALA C  69      28.354   5.113  -3.258  0.00  0.00           C 0
+ATOM    459    O SER C  67      23.142   7.840  -0.873  0.00  0.00           O 0
+ATOM    469    N ALA C  69      26.422   6.575  -3.555  0.54  4.37           N 0
+ATOM    440   CB LYS C  64      28.381   8.926   2.741  0.00  0.00           C 0
+ATOM    728  OE1 GLU C 101      30.947   4.233   2.866  0.00  0.00           O 0
+ATOM    441   CG LYS C  64      28.495   7.858   3.767  0.00  0.00           C 0
+ATOM    455    O GLY C  66      26.066   9.589  -0.366  0.68  3.21           O 0
+ATOM    448    O VAL C  65      29.869   9.424  -2.432  0.00  0.00           O 0
+ATOM    470   CA ALA C  69      27.881   6.507  -3.585  0.00  0.00           C 0
+ATOM    717    O PRO C 100      32.078   8.371   0.214  0.58  1.07           O 0
+ATOM    719   CG PRO C 100      31.858   6.504  -2.590  0.00  0.00           C 0
+TER
+END

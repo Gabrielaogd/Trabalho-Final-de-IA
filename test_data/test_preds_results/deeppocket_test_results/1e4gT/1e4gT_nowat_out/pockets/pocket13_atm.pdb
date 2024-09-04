@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0070
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9633
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5277
+HEADER 5  - Mean B-factor of pocket residues  : 0.4163
+HEADER 6  - Hydrophobicity Score              : -7.2857
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 360.7826
+HEADER 10 - Pocket volume (convex hull)       : 8.5075
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   2640   CA VAL T 351      36.545   6.126  68.469  0.00  0.00           C 0
+ATOM   2642    O VAL T 351      37.992   4.297  67.897  0.00  0.00           O 0
+ATOM   2633    O GLU T 350      38.164   6.442  70.653  0.60  9.64           O 0
+ATOM   2395   NZ LYS T 310      37.669   0.931  68.864  0.58  6.56           N 0
+ATOM   2348  NH2 ARG T 303      33.352   5.693  72.456  0.59  5.47           N 0
+ATOM   2644  CG1 VAL T 351      34.818   4.951  67.085  0.00  0.00           C 0
+ATOM   2664   CE LYS T 353      41.105   3.232  72.150  0.00  0.00           C 0
+ATOM   2345   NE ARG T 303      31.421   6.126  71.270  0.71  1.09           N 0
+ATOM   2371   OG SER T 307      31.657   0.579  67.376  0.00  0.00           O 0
+ATOM   2347  NH1 ARG T 303      31.380   4.711  73.083  0.62  9.84           N 0
+ATOM   2344   CD ARG T 303      29.995   5.976  70.976  0.00  0.00           C 0
+ATOM   2346   CZ ARG T 303      32.050   5.514  72.271  0.00  0.00           C 0
+ATOM   2370   CB SER T 307      31.305   1.750  66.667  0.00  0.00           C 0
+ATOM   2342   CB ARG T 303      28.632   6.128  68.859  0.00  0.00           C 0
+ATOM   2341    O ARG T 303      29.829   4.302  66.468  0.00  0.00           O 0
+ATOM   2350   CA GLU T 304      27.424   3.523  65.391  0.00  0.00           C 0
+TER
+END

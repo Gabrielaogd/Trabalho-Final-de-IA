@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0140
+HEADER 1  - Drug Score                        : 0.0034
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8696
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5750
+HEADER 5  - Mean B-factor of pocket residues  : 0.6943
+HEADER 6  - Hydrophobicity Score              : 47.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.9664
+HEADER 10 - Pocket volume (convex hull)       : 1.7435
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.8333
+ATOM   1807   CG PRO B 253      32.860  25.906  -2.293  0.00  0.00           C 0
+ATOM   1763  CD2 PHE B 248      28.188  21.621   0.077  0.00  0.00           C 0
+ATOM   1764  CE1 PHE B 248      29.337  21.346   2.592  0.00  0.00           C 0
+ATOM   1765  CE2 PHE B 248      27.710  22.380   1.146  0.00  0.00           C 0
+ATOM   1766   CZ PHE B 248      28.286  22.242   2.406  0.00  0.00           C 0
+ATOM   1762  CD1 PHE B 248      29.805  20.593   1.518  0.00  0.00           C 0
+ATOM   1755   CB ALA B 247      29.006  24.460  -3.423  0.00  0.00           C 0
+ATOM   1761   CG PHE B 248      29.233  20.716   0.253  0.00  0.00           C 0
+ATOM   1753    C ALA B 247      30.633  22.549  -3.350  0.00  0.00           C 0
+ATOM   1754    O ALA B 247      31.844  22.776  -3.234  0.00  0.00           O 0
+ATOM   1757   CA PHE B 248      30.739  20.680  -1.782  0.00  0.00           C 0
+ATOM   1779    O GLN B 250      35.314  22.251  -2.642  0.78  4.29           O 0
+ATOM   1759    O PHE B 248      32.573  19.129  -1.778  0.41  8.57           O 0
+ATOM   1808   CD PRO B 253      34.358  25.799  -2.317  0.00  0.00           C 0
+ATOM   1580  CE2 PHE B 225      27.481  26.161   1.438  0.00  0.00           C 0
+ATOM   1824  CD2 LEU B 255      30.589  29.570   1.194  0.00  0.00           C 0
+ATOM   1823  CD1 LEU B 255      30.382  28.474  -1.065  0.00  0.00           C 0
+TER
+END

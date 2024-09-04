@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0064
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7646
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5149
+HEADER 5  - Mean B-factor of pocket residues  : 0.2878
+HEADER 6  - Hydrophobicity Score              : 2.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.0172
+HEADER 10 - Pocket volume (convex hull)       : 7.4550
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM    143  CG2 THR A  15     -18.583  -0.878  41.447  0.00  0.00           C 0
+ATOM    179  OE2 GLU A  20     -18.330   4.762  41.739  0.00  0.00           O 0
+ATOM    158  OE1 GLN A  17     -23.211  -0.625  43.279  0.00  0.00           O 0
+ATOM    128  NH2 ARG A  13     -17.158   2.138  44.372  0.47  7.66           N 0
+ATOM    142  OG1 THR A  15     -20.826  -1.227  40.664  0.51  2.14           O 0
+ATOM    155   CB GLN A  17     -24.267  -0.329  40.205  0.00  0.00           C 0
+ATOM    176   CG GLU A  20     -18.079   3.631  39.659  0.00  0.00           C 0
+ATOM    177   CD GLU A  20     -17.699   3.885  41.111  0.00  0.00           C 0
+ATOM    315   CD PRO A  38     -23.289   4.134  35.738  0.00  0.00           C 0
+ATOM    163    O GLY A  18     -19.979  -0.810  37.902  0.63  1.07           O 0
+ATOM    314   CG PRO A  38     -23.682   2.712  35.528  0.00  0.00           C 0
+ATOM    154    O GLN A  17     -24.111  -0.636  37.231  0.00  0.00           O 0
+ATOM    313   CB PRO A  38     -22.527   1.965  34.956  0.00  0.00           C 0
+ATOM    310   CA PRO A  38     -21.529   3.019  34.460  0.00  0.00           C 0
+ATOM    167    O THR A  19     -18.744   1.648  35.395  0.65  1.07           O 0
+ATOM    299    O LEU A  36     -20.111   7.107  36.617  0.66  5.36           O 0
+TER
+END

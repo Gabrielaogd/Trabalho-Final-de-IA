@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : -0.1044
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0675
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6369
+HEADER 5  - Mean B-factor of pocket residues  : 0.5265
+HEADER 6  - Hydrophobicity Score              : 33.6250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 280.6697
+HEADER 10 - Pocket volume (convex hull)       : 10.3478
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM   1836    O GLY A 231      -3.081 -21.760  29.366  0.84  1.07           O 0
+ATOM   1926  CG1 VAL A 241      -3.436 -19.141  26.831  0.00  0.00           C 0
+ATOM   1931    O GLN A 242      -5.876 -17.920  29.603  0.00  0.00           O 0
+ATOM   2128  NE1 TRP A 266       0.872 -15.550  29.412  0.77  4.37           N 0
+ATOM   1940    O PRO A 243      -7.344 -16.328  31.934  0.50  8.57           O 0
+ATOM   1932   CB GLN A 242      -6.170 -20.553  31.102  0.00  0.00           C 0
+ATOM   1936  NE2 GLN A 242      -4.826 -21.464  33.289  0.00  0.00           N 0
+ATOM   1834   CA GLY A 231      -1.240 -22.408  30.755  0.00  0.00           C 0
+ATOM   2131  CZ2 TRP A 266       1.757 -17.838  28.855  0.00  0.00           C 0
+ATOM   2101   CD LYS A 263      -1.554 -11.357  34.625  0.00  0.00           C 0
+ATOM   2102   CE LYS A 263      -1.077 -11.757  36.031  0.00  0.00           C 0
+ATOM   2103   NZ LYS A 263      -2.187 -11.788  37.049  0.70  9.84           N 0
+ATOM   1950  CG2 ILE A 244      -3.849 -12.899  31.707  0.00  0.00           C 0
+ATOM   1949  CG1 ILE A 244      -4.173 -14.449  29.745  0.00  0.00           C 0
+ATOM   1945   CA ILE A 244      -6.053 -13.983  31.334  0.00  0.00           C 0
+ATOM   1952    N VAL A 245      -7.081 -12.801  33.174  0.00  0.00           N 0
+ATOM   1958  CG2 VAL A 245      -7.881 -12.892  35.975  0.00  0.00           C 0
+ATOM   1955    O VAL A 245      -5.983 -10.837  34.972  0.41  1.07           O 0
+TER
+END

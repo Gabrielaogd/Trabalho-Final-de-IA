@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0135
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7736
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5123
+HEADER 5  - Mean B-factor of pocket residues  : 0.6216
+HEADER 6  - Hydrophobicity Score              : 7.7778
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 240.9050
+HEADER 10 - Pocket volume (convex hull)       : 5.6428
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2686  CG2 THR A 345       7.695   2.743 -37.257  0.00  0.00           C 0
+ATOM   2688   CA ALA A 346       9.486   6.891 -38.670  0.00  0.00           C 0
+ATOM   2714  ND2 ASN A 349      10.991   2.565 -37.151  0.00  0.00           N 0
+ATOM   2753  OE1 GLN A 355      12.852   2.932 -39.399  0.67  2.14           O 0
+ATOM   2754  NE2 GLN A 355      13.962   1.733 -40.946  0.33  4.37           N 0
+ATOM   2815  OD2 ASP A 363      12.250   1.115 -43.356  0.50  6.43           O 0
+ATOM   2812   CB ASP A 363      10.411   2.455 -44.039  0.00  0.00           C 0
+ATOM   2846  NH1 ARG A 367       4.525  -0.017 -40.496  0.00  0.00           N 0
+ATOM   2811    O ASP A 363       7.528   3.119 -45.313  0.63  2.14           O 0
+ATOM   2843   CD ARG A 367       3.681   0.545 -43.132  0.00  0.00           C 0
+ATOM   2752   CD GLN A 355      13.881   2.365 -39.778  0.00  0.00           C 0
+ATOM   2789    O ALA A 360      10.761   5.924 -42.694  0.44  2.14           O 0
+ATOM   2844   NE ARG A 367       3.978   1.543 -42.104  0.67  1.09           N 0
+ATOM   2845   CZ ARG A 367       4.374   1.250 -40.867  0.00  0.00           C 0
+ATOM   2687    N ALA A 346       8.260   6.342 -38.116  0.77  1.09           N 0
+ATOM   2660    O ALA A 342       5.903   6.244 -39.942  0.50  2.14           O 0
+ATOM   2847  NH2 ARG A 367       4.607   2.224 -39.994  0.00  0.00           N 0
+ATOM   2810    C ASP A 363       8.521   3.766 -44.992  0.00  0.00           C 0
+ATOM   2816    N ALA A 364       8.436   4.945 -44.384  0.82  1.09           N 0
+ATOM   2817   CA ALA A 364       7.130   5.544 -44.119  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0176
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9429
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7058
+HEADER 5  - Mean B-factor of pocket residues  : 0.2261
+HEADER 6  - Hydrophobicity Score              : -4.8333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 252.8840
+HEADER 10 - Pocket volume (convex hull)       : 6.5868
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM    713  NH2 ARG A  98      63.500   9.998  26.835  0.51  8.75           N 0
+ATOM    383  CD1 TYR A  58      62.134   9.618  32.211  0.00  0.00           C 0
+ATOM    385  CE1 TYR A  58      63.024  10.126  33.186  0.00  0.00           C 0
+ATOM   2479  OE2 GLU A 328      62.565  11.971  28.757  0.72  3.21           O 0
+ATOM    698    O ASP A  97      64.175   1.891  25.889  0.45  8.57           O 0
+ATOM    712  NH1 ARG A  98      61.643   8.714  27.385  0.67  2.19           N 0
+ATOM    392    O TYR A  59      59.443   6.870  27.455  0.55  3.21           O 0
+ATOM    381   CB TYR A  58      60.666   7.792  31.278  0.00  0.00           C 0
+ATOM    709   CD ARG A  98      62.109   6.983  25.222  0.00  0.00           C 0
+ATOM    710   NE ARG A  98      62.941   8.150  25.564  0.00  0.00           N 0
+ATOM    382   CG TYR A  58      61.643   8.316  32.304  0.00  0.00           C 0
+ATOM    711   CZ ARG A  98      62.676   8.971  26.581  0.00  0.00           C 0
+ATOM    686  OD1 ASP A  95      66.304   7.241  24.206  0.00  0.00           O 0
+ATOM    697    C ASP A  97      64.525   2.452  24.813  0.00  0.00           C 0
+ATOM    699   CB ASP A  97      67.016   2.060  25.174  0.00  0.00           C 0
+ATOM    703    N ARG A  98      63.760   3.300  24.132  0.00  0.00           N 0
+ATOM    704   CA ARG A  98      62.479   3.817  24.623  0.00  0.00           C 0
+ATOM    706    O ARG A  98      60.281   3.139  25.126  0.56  4.29           O 0
+TER
+END

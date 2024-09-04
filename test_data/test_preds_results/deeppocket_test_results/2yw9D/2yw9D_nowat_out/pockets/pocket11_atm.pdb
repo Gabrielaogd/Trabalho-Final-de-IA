@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0400
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9969
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4912
+HEADER 5  - Mean B-factor of pocket residues  : 0.2126
+HEADER 6  - Hydrophobicity Score              : 33.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 189.2438
+HEADER 10 - Pocket volume (convex hull)       : 2.4745
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5909
+ATOM    910   CA ARG D 130      40.612 -25.820  97.834  0.00  0.00           C 0
+ATOM    944  OE2 GLU D 133      42.400 -24.602 102.298  0.00  0.00           O 0
+ATOM    907    O ALA D 129      43.304 -25.314  97.353  0.66  1.07           O 0
+ATOM   1283  CD2 LEU D 178      45.116 -21.748 100.315  0.00  0.00           C 0
+ATOM    909    N ARG D 130      41.183 -25.328  96.582  0.75  1.09           N 0
+ATOM   1275  OE2 GLU D 177      40.242 -17.900 100.538  0.68  6.43           O 0
+ATOM    890  CG1 VAL D 126      37.196 -21.304  95.071  0.00  0.00           C 0
+ATOM    914   CG ARG D 130      38.456 -26.072  99.169  0.00  0.00           C 0
+ATOM    915   CD ARG D 130      36.933 -25.973  99.183  0.00  0.00           C 0
+ATOM    913   CB ARG D 130      39.081 -25.694  97.836  0.00  0.00           C 0
+ATOM   1249  CD2 LEU D 174      41.467 -19.100  96.357  0.00  0.00           C 0
+ATOM    888    O VAL D 126      39.169 -23.834  94.804  0.00  0.00           O 0
+ATOM    906    C ALA D 129      42.490 -25.115  96.445  0.00  0.00           C 0
+ATOM    908   CB ALA D 129      42.934 -23.082  95.051  0.00  0.00           C 0
+TER
+END

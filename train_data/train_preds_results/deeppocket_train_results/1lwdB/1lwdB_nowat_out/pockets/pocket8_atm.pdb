@@ -1,0 +1,48 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1673
+HEADER 1  - Drug Score                        : 0.0160
+HEADER 2  - Number of alpha spheres           :    33
+HEADER 3  - Mean alpha-sphere radius          : 3.8920
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5107
+HEADER 5  - Mean B-factor of pocket residues  : 0.4979
+HEADER 6  - Hydrophobicity Score              : 5.4545
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.6364
+HEADER 9  - Pocket volume (Monte Carlo)       : 430.8650
+HEADER 10 - Pocket volume (convex hull)       : 33.5517
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.2727
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   2554  CE1 HIS B 319       3.477  14.732  72.258  0.00  0.00           C 0
+ATOM   2577    O GLY B 322       5.595  14.249  79.065  0.00  0.00           O 0
+ATOM   2575   CA GLY B 322       4.704  12.285  78.033  0.00  0.00           C 0
+ATOM   2576    C GLY B 322       5.794  13.306  78.297  0.00  0.00           C 0
+ATOM   2552  ND1 HIS B 319       4.780  14.571  72.407  0.65  5.47           N 0
+ATOM   2549    O HIS B 319       4.951  11.716  74.673  0.52  4.29           O 0
+ATOM   2581    O ARG B 323       7.985  14.692  75.521  0.74  2.14           O 0
+ATOM   2594   CG PRO B 324       9.455  18.183  78.011  0.00  0.00           C 0
+ATOM   3155  OD2 ASP B 397       9.872  25.376  76.891  0.00  0.00           O 0
+ATOM   3134  ND2 ASN B 394      11.742  21.443  77.114  0.00  0.00           N 0
+ATOM   2593   CB PRO B 324       8.799  18.599  76.736  0.00  0.00           C 0
+ATOM   2580    C ARG B 323       8.214  15.031  76.681  0.00  0.00           C 0
+ATOM   2589    N PRO B 324       8.586  16.282  76.993  0.00  0.00           N 0
+ATOM   2595   CD PRO B 324       8.754  16.880  78.330  0.00  0.00           C 0
+ATOM   2590   CA PRO B 324       8.753  17.294  75.947  0.00  0.00           C 0
+ATOM   3131   CB ASN B 394      11.134  22.035  74.843  0.00  0.00           C 0
+ATOM    146   CE MET B  19       7.368  15.965  69.191  0.00  0.00           C 0
+ATOM   2601  OG1 THR B 325      10.045  16.896  71.154  0.63  1.07           O 0
+ATOM    213  CE2 PHE B  26       4.388  19.944  70.415  0.00  0.00           C 0
+ATOM   3146   CB SER B 396       5.854  23.501  73.418  0.00  0.00           C 0
+ATOM   3154  OD1 ASP B 397       8.040  26.553  76.633  0.69  5.36           O 0
+ATOM    214   CZ PHE B  26       3.221  19.467  71.005  0.00  0.00           C 0
+ATOM   2596    N THR B 325      10.146  17.555  73.971  0.63  2.19           N 0
+ATOM   3139   CB THR B 395       9.092  21.308  70.010  0.00  0.00           C 0
+ATOM   3142    N SER B 396       7.778  23.230  71.930  0.55  1.09           N 0
+ATOM   2599    O THR B 325      11.131  19.671  72.595  0.00  0.00           O 0
+TER
+END

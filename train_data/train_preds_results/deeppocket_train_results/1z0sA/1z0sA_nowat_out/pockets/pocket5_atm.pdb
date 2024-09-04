@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0974
+HEADER 1  - Drug Score                        : 0.0034
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9905
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6845
+HEADER 5  - Mean B-factor of pocket residues  : 0.1119
+HEADER 6  - Hydrophobicity Score              : 35.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 255.4901
+HEADER 10 - Pocket volume (convex hull)       : 2.3907
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6111
+ATOM   1412  CD1 PHE A 182      10.022 -11.561   1.282  0.00  0.00           C 0
+ATOM   1417    N ARG A 183      10.458  -7.830  -1.107  0.64  2.19           N 0
+ATOM   1414  CE1 PHE A 182      10.558 -11.849   2.524  0.00  0.00           C 0
+ATOM   1408    C PHE A 182      10.807  -9.072  -1.403  0.00  0.00           C 0
+ATOM   1402    O PRO A 181       7.392  -8.504  -1.728  0.53  6.43           O 0
+ATOM   1420    O ARG A 183       9.657  -5.316  -0.166  0.00  0.00           O 0
+ATOM   1418   CA ARG A 183      11.411  -6.734  -1.010  0.00  0.00           C 0
+ATOM   1428    N PHE A 184      11.734  -4.969   0.615  0.69  4.37           N 0
+ATOM   1409    O PHE A 182      11.956  -9.415  -1.729  0.24  9.64           O 0
+ATOM   1416   CZ PHE A 182      11.828 -12.394   2.621  0.00  0.00           C 0
+ATOM   1415  CE2 PHE A 182      12.557 -12.659   1.468  0.00  0.00           C 0
+ATOM   1419    C ARG A 183      10.853  -5.607  -0.145  0.00  0.00           C 0
+ATOM   1429   CA PHE A 184      11.337  -3.892   1.518  0.00  0.00           C 0
+TER
+END

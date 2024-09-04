@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1006
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8215
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6220
+HEADER 5  - Mean B-factor of pocket residues  : 0.0298
+HEADER 6  - Hydrophobicity Score              : 12.6000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 263.1916
+HEADER 10 - Pocket volume (convex hull)       : 8.3199
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   1455    C GLY A 185      -9.711  -6.267   7.142  0.00  0.00           C 0
+ATOM   1457    N GLY A 186      -9.829  -5.405   8.155  0.00  0.00           N 0
+ATOM   1427  NH1 ARG A 181     -15.322  -7.810  10.490  0.00  0.00           N 0
+ATOM   1456    O GLY A 185      -9.073  -7.313   7.234  0.00  0.00           O 0
+ATOM   1454   CA GLY A 185     -10.444  -5.964   5.854  0.00  0.00           C 0
+ATOM   1421    O ARG A 181     -13.207  -4.282   7.304  0.00  0.00           O 0
+ATOM   1467  CD1 PHE A 187     -11.979  -5.198  15.368  0.00  0.00           C 0
+ATOM   1426   CZ ARG A 181     -16.370  -7.272  11.132  0.00  0.00           C 0
+ATOM   1469  CE1 PHE A 187     -12.795  -4.979  16.509  0.00  0.00           C 0
+ATOM   1425   NE ARG A 181     -16.364  -6.015  11.637  0.58  5.47           N 0
+ATOM   1424   CD ARG A 181     -15.191  -5.084  11.622  0.00  0.00           C 0
+ATOM   1460    O GLY A 186     -11.089  -4.557  10.342  0.00  0.00           O 0
+ATOM   1458   CA GLY A 186      -9.164  -5.636   9.435  0.00  0.00           C 0
+ATOM   1462   CA PHE A 187     -10.082  -4.475  12.972  0.00  0.00           C 0
+ATOM   1465   CB PHE A 187      -9.697  -5.279  14.233  0.00  0.00           C 0
+ATOM   1459    C GLY A 186      -9.957  -4.997  10.563  0.00  0.00           C 0
+ATOM   1430   CA LYS A 182     -15.509  -4.299   5.927  0.00  0.00           C 0
+ATOM   1432    O LYS A 182     -14.081  -4.622   4.038  0.00  0.00           O 0
+ATOM   1461    N PHE A 187      -9.404  -5.015  11.778  0.59  1.09           N 0
+TER
+END

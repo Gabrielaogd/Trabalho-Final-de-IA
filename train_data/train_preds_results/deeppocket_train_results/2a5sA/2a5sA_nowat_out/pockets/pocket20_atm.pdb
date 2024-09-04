@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0054
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8336
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6207
+HEADER 5  - Mean B-factor of pocket residues  : 0.2730
+HEADER 6  - Hydrophobicity Score              : 24.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.8022
+HEADER 10 - Pocket volume (convex hull)       : 3.4513
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   1712   CB ARG A 225      24.771   7.160  40.857  0.00  0.00           C 0
+ATOM   1716   CZ ARG A 225      21.389   7.251  43.371  0.00  0.00           C 0
+ATOM   1715   NE ARG A 225      22.289   7.771  42.541  0.00  0.00           N 0
+ATOM   1717  NH1 ARG A 225      20.441   6.449  42.910  0.00  0.00           N 0
+ATOM   2158  CG2 ILE A 283      28.267   4.985  43.309  0.00  0.00           C 0
+ATOM   2151    O GLY A 282      27.452   7.782  47.224  0.00  0.00           O 0
+ATOM   2156   CB ILE A 283      28.340   5.007  44.830  0.00  0.00           C 0
+ATOM   2157  CG1 ILE A 283      29.272   3.902  45.338  0.00  0.00           C 0
+ATOM   2159  CD1 ILE A 283      28.666   2.510  45.272  0.00  0.00           C 0
+ATOM   1718  NH2 ARG A 225      21.425   7.548  44.664  0.61  4.37           N 0
+ATOM   1714   CD ARG A 225      22.317   7.529  41.100  0.00  0.00           C 0
+ATOM   2146  OG1 THR A 281      22.901   7.537  48.560  0.00  0.00           O 0
+ATOM   2144    O THR A 281      23.495   9.040  45.848  0.71  2.14           O 0
+ATOM   2150    C GLY A 282      27.242   8.050  46.041  0.00  0.00           C 0
+ATOM   2152    N ILE A 283      27.864   7.430  45.045  0.50  1.09           N 0
+TER
+END

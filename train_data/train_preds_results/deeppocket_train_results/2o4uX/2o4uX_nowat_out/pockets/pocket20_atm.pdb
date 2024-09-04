@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.1132
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8750
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5460
+HEADER 5  - Mean B-factor of pocket residues  : 0.6591
+HEADER 6  - Hydrophobicity Score              : 17.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.2912
+HEADER 10 - Pocket volume (convex hull)       : 9.3034
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2308
+ATOM    328  OE2 GLU X1044      -8.010 -53.864 -15.739  0.00  0.00           O 0
+ATOM    300   CG ARG X1041      -5.271 -47.770 -16.498  0.00  0.00           C 0
+ATOM    304  NH1 ARG X1041      -5.635 -47.808 -13.289  0.00  0.00           N 0
+ATOM    327  OE1 GLU X1044      -6.923 -53.334 -17.584  0.71  3.21           O 0
+ATOM    326   CD GLU X1044      -7.985 -53.548 -16.952  0.00  0.00           C 0
+ATOM    298    O ARG X1041      -9.301 -48.654 -18.131  0.76  4.29           O 0
+ATOM    329    N PHE X1045     -11.792 -50.605 -18.257  0.00  0.00           N 0
+ATOM    325   CG GLU X1044      -9.303 -53.414 -17.693  0.00  0.00           C 0
+ATOM    333   CB PHE X1045     -12.710 -48.706 -17.020  0.00  0.00           C 0
+ATOM     67    O VAL X1010     -10.995 -47.028 -12.168  0.44  7.50           O 0
+ATOM     70  CG2 VAL X1010      -9.268 -45.900 -14.925  0.00  0.00           C 0
+ATOM     68   CB VAL X1010     -10.815 -45.979 -14.873  0.00  0.00           C 0
+ATOM    296   CA ARG X1041      -6.938 -48.360 -18.366  0.00  0.00           C 0
+ATOM    323    O GLU X1044     -12.600 -52.710 -18.508  0.79  5.36           O 0
+ATOM    330   CA PHE X1045     -12.962 -50.133 -17.526  0.00  0.00           C 0
+ATOM    360   CD LYS X1048     -14.499 -54.209 -13.810  0.00  0.00           C 0
+ATOM    335  CD1 PHE X1045     -13.548 -48.313 -14.676  0.00  0.00           C 0
+ATOM    362   NZ LYS X1048     -14.235 -53.712 -11.411  0.00  0.00           N 0
+ATOM    102   OGASER X1015     -14.193 -48.879 -10.725  0.56  3.21           O 0
+TER
+END

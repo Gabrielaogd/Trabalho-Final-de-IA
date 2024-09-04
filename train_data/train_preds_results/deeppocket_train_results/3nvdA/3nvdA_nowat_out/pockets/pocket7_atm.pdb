@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1251
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8476
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5992
+HEADER 5  - Mean B-factor of pocket residues  : 0.3051
+HEADER 6  - Hydrophobicity Score              : -5.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.6522
+HEADER 10 - Pocket volume (convex hull)       : 5.1345
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   7804    O VAL A 523      58.095  87.624  80.947  0.73  5.36           O 0
+ATOM   9340   CG PRO A 623      57.535  84.498  73.923  0.00  0.00           C 0
+ATOM   7831    N ASP A 525      57.393  90.531  77.593  0.65  6.56           N 0
+ATOM   7806  CG1 VAL A 523      59.750  85.254  79.826  0.00  0.00           C 0
+ATOM   7834    O ASP A 525      59.340  91.485  74.731  0.67  5.36           O 0
+ATOM   9302    O THR A 621      61.052  87.047  72.832  0.54  4.29           O 0
+ATOM   7833    C ASP A 525      58.827  90.640  75.481  0.00  0.00           C 0
+ATOM   7837  OD1 ASP A 525      56.145  91.930  74.102  0.45  7.50           O 0
+ATOM   9341   CD PRO A 623      58.368  85.040  72.802  0.00  0.00           C 0
+ATOM   7843    N GLY A 526      59.365  89.429  75.692  0.76  5.47           N 0
+ATOM   7832   CA ASP A 525      57.492  90.958  76.195  0.00  0.00           C 0
+ATOM   7807  CG2 VAL A 523      60.937  86.945  78.499  0.00  0.00           C 0
+ATOM   9314   CA LYS A 622      60.660  85.006  71.040  0.00  0.00           C 0
+ATOM   9318   CG LYS A 622      61.981  86.438  69.494  0.00  0.00           C 0
+TER
+END

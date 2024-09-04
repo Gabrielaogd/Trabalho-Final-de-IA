@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.0445
+HEADER 1  - Drug Score                        : 0.0087
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0387
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5160
+HEADER 5  - Mean B-factor of pocket residues  : 0.4387
+HEADER 6  - Hydrophobicity Score              : 64.7778
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 333.9573
+HEADER 10 - Pocket volume (convex hull)       : 26.1141
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.7333
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.8333
+ATOM    642   SD MET A  41      38.198  26.524  49.549  0.00  0.00           S 0
+ATOM    561    O ILE A  36      36.793  32.740  47.799  0.00  0.00           O 0
+ATOM   7002  CD2 LEU A 433      33.192  27.852  53.539  0.00  0.00           C 0
+ATOM    562   CB ILE A  36      39.641  32.142  48.771  0.00  0.00           C 0
+ATOM    597  CG2 VAL A  38      33.128  27.340  46.606  0.00  0.00           C 0
+ATOM   6936  CD2 LEU A 430      34.678  24.966  50.629  0.00  0.00           C 0
+ATOM   7019  CG1 VAL A 434      29.735  27.313  49.099  0.00  0.00           C 0
+ATOM   7000   CG LEU A 433      31.747  27.852  53.960  0.00  0.00           C 0
+ATOM   7064   CG LYS A 437      28.740  32.535  51.935  0.00  0.00           C 0
+ATOM   7063   CB LYS A 437      28.172  31.312  52.651  0.00  0.00           C 0
+ATOM   7015   CA VAL A 434      28.090  27.894  50.903  0.00  0.00           C 0
+ATOM   6864   SDAMET A 425      35.719  24.878  53.909  0.00  0.00           S 0
+ATOM   6866   CEAMET A 425      36.651  25.401  55.337  0.00  0.00           C 0
+ATOM    643   CE MET A  41      39.136  25.434  50.598  0.00  0.00           C 0
+ATOM   7069   NZALYS A 437      29.936  34.277  49.904  0.00  0.00           N 0
+ATOM    565  CD1 ILE A  36      41.395  32.202  50.638  0.00  0.00           C 0
+ATOM    564  CG2 ILE A  36      39.919  30.683  48.403  0.00  0.00           C 0
+ATOM   7065   CDALYS A 437      28.030  32.817  50.616  0.00  0.00           C 0
+ATOM    579    C THR A  37      36.640  29.560  45.630  0.00  0.00           C 0
+ATOM    591    N VAL A  38      35.487  28.899  45.578  0.61  1.09           N 0
+TER
+END

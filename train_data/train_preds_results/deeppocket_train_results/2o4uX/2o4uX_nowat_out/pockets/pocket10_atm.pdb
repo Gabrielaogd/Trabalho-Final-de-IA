@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0398
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    33
+HEADER 3  - Mean alpha-sphere radius          : 3.9379
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5253
+HEADER 5  - Mean B-factor of pocket residues  : 0.1127
+HEADER 6  - Hydrophobicity Score              : 27.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 245.6724
+HEADER 10 - Pocket volume (convex hull)       : 6.3954
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.4545
+ATOM   1645    N LEU X1216     -18.345 -23.823  15.701  0.00  0.00           N 0
+ATOM   1642   CG LEU X1215     -16.880 -24.726  19.650  0.00  0.00           C 0
+ATOM   1647    C LEU X1216     -19.970 -22.056  15.279  0.00  0.00           C 0
+ATOM   1709   CB HIS X1223     -22.757 -22.777  18.280  0.00  0.00           C 0
+ATOM   1641   CB LEU X1215     -16.279 -24.326  18.336  0.00  0.00           C 0
+ATOM   1644  CD2 LEU X1215     -16.299 -23.953  20.825  0.00  0.00           C 0
+ATOM   1496   NZ LYS X1196     -14.384 -16.508  20.128  0.00  0.00           N 0
+ATOM   1510   OG SER X1198     -13.441 -20.569  18.484  0.62  3.21           O 0
+ATOM   1494   CD LYS X1196     -15.725 -16.498  17.932  0.00  0.00           C 0
+ATOM   1660  OE1 GLN X1217     -21.676 -18.376  19.221  0.62  7.50           O 0
+ATOM   1710   CG HIS X1223     -22.952 -23.487  19.590  0.00  0.00           C 0
+ATOM   1711  ND1 HIS X1223     -23.699 -22.952  20.621  0.59  1.09           N 0
+ATOM   1712  CD2 HIS X1223     -22.464 -24.668  20.049  0.00  0.00           C 0
+ATOM   1714  NE2 HIS X1223     -22.939 -24.831  21.331  0.00  0.00           N 0
+ATOM   1713  CE1 HIS X1223     -23.695 -23.791  21.647  0.00  0.00           C 0
+ATOM   1657   CB GLN X1217     -20.378 -18.585  16.484  0.00  0.00           C 0
+ATOM   1653    N GLN X1217     -19.814 -20.738  15.430  0.00  0.00           N 0
+ATOM   1654   CA GLN X1217     -20.905 -19.902  15.885  0.00  0.00           C 0
+ATOM   1640    O LEU X1215     -16.198 -23.085  15.700  0.74  1.07           O 0
+ATOM   1639    C LEU X1215     -17.068 -23.887  16.078  0.00  0.00           C 0
+ATOM   1491    O LYS X1196     -17.487 -19.642  14.274  0.00  0.00           O 0
+ATOM   1493   CG LYS X1196     -15.594 -16.955  16.463  0.00  0.00           C 0
+TER
+END

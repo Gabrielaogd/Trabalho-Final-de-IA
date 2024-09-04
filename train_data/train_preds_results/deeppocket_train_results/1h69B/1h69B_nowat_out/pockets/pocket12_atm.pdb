@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0015
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0229
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5942
+HEADER 5  - Mean B-factor of pocket residues  : 0.0681
+HEADER 6  - Hydrophobicity Score              : 50.5000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 336.0319
+HEADER 10 - Pocket volume (convex hull)       : 21.9483
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7059
+ATOM    851    O VAL B 108     -39.090 -40.706 -30.218  0.55  8.57           O 0
+ATOM    845   CA GLY B 107     -37.208 -38.564 -33.379  0.00  0.00           C 0
+ATOM    889   CD LYS B 113     -41.466 -44.960 -33.526  0.00  0.00           C 0
+ATOM    848    N VAL B 108     -39.320 -39.057 -32.316  0.56  1.09           N 0
+ATOM   1345  CG1 ILE B 171     -40.855 -38.955 -37.236  0.00  0.00           C 0
+ATOM    854  CG2 VAL B 108     -41.525 -41.069 -32.149  0.00  0.00           C 0
+ATOM   1374  CD1 ILE B 175     -43.790 -42.474 -37.142  0.00  0.00           C 0
+ATOM   1347  CD1 ILE B 171     -40.323 -37.978 -36.226  0.00  0.00           C 0
+ATOM    836    O PHE B 106     -35.312 -37.965 -35.246  0.50  9.64           O 0
+ATOM   1306    O ILE B 167     -37.339 -36.906 -39.174  0.00  0.00           O 0
+ATOM    890   CE LYS B 113     -41.627 -45.970 -34.658  0.00  0.00           C 0
+ATOM   1337   CB PRO B 170     -38.466 -41.140 -41.053  0.00  0.00           C 0
+ATOM   1338   CG PRO B 170     -37.606 -39.977 -40.730  0.00  0.00           C 0
+ATOM   1336    O PRO B 170     -41.680 -41.484 -40.797  0.32  5.36           O 0
+ATOM   1372  CG1 ILE B 175     -44.333 -42.818 -38.510  0.00  0.00           C 0
+ATOM    891   NZ LYS B 113     -40.628 -47.073 -34.646  0.00  0.00           N 0
+ATOM   1335    C PRO B 170     -40.932 -40.516 -40.825  0.00  0.00           C 0
+TER
+END

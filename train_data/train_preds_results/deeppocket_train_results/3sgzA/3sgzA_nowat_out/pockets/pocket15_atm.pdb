@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0681
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8354
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6604
+HEADER 5  - Mean B-factor of pocket residues  : 0.1505
+HEADER 6  - Hydrophobicity Score              : 21.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 226.5288
+HEADER 10 - Pocket volume (convex hull)       : 8.5246
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM    247  CG2 ILE A  32       6.684 -11.874 -24.398  0.00  0.00           C 0
+ATOM    278   CB GLU A  36       1.778 -13.061 -25.494  0.00  0.00           C 0
+ATOM    280   CD GLU A  36       1.384 -11.468 -27.421  0.00  0.00           C 0
+ATOM    279   CG GLU A  36       1.316 -12.882 -26.928  0.00  0.00           C 0
+ATOM    282  OE2 GLU A  36       1.213 -10.553 -26.586  0.00  0.00           O 0
+ATOM    281  OE1 GLU A  36       1.600 -11.285 -28.652  0.00  8.57           O 0
+ATOM   1914   CA GLU A 254       9.027 -14.981 -26.777  0.00  0.00           C 0
+ATOM   1917   CB GLU A 254      10.320 -14.114 -26.691  0.00  0.00           C 0
+ATOM   1916    O GLU A 254       9.129 -14.849 -29.152  0.00  0.00           O 0
+ATOM   1925    O VAL A 255       5.543 -15.902 -28.672  0.55  4.29           O 0
+ATOM   1930   CA SER A 256       4.036 -16.283 -30.896  0.00  0.00           C 0
+ATOM   1934   OG SER A 256       4.219 -15.706 -33.222  0.50  4.29           O 0
+ATOM   1924    C VAL A 255       6.054 -16.543 -29.600  0.00  0.00           C 0
+ATOM   1929    N SER A 256       5.407 -16.775 -30.740  0.52  2.19           N 0
+ATOM   1915    C GLU A 254       8.745 -15.477 -28.158  0.00  0.00           C 0
+TER
+END

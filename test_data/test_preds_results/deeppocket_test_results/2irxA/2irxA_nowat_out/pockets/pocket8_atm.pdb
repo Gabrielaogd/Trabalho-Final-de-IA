@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0761
+HEADER 1  - Drug Score                        : 0.0159
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9957
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6540
+HEADER 5  - Mean B-factor of pocket residues  : 0.1673
+HEADER 6  - Hydrophobicity Score              : -5.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 254.4952
+HEADER 10 - Pocket volume (convex hull)       : 5.9006
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   2023   CA GLU A 275       6.684  28.124  12.740  0.00  0.00           C 0
+ATOM   2025    O GLU A 275       5.562  29.877  11.555  0.00  0.00           O 0
+ATOM   2050   CB THR A 278       2.434  28.091  11.366  0.00  0.00           C 0
+ATOM   2052  CG2 THR A 278       1.130  28.472  12.068  0.00  0.00           C 0
+ATOM   2026   CB GLU A 275       7.456  28.671  13.936  0.00  0.00           C 0
+ATOM   2058   CG ARG A 279       4.512  32.852  12.191  0.00  0.00           C 0
+ATOM   2017    O ASP A 274       5.686  26.419  10.758  0.56  3.21           O 0
+ATOM   2021  OD2 ASP A 274       7.388  23.879  14.094  0.48  5.36           O 0
+ATOM   2051  OG1 THR A 278       2.518  26.665  11.312  0.00  0.00           O 0
+ATOM   2059   CD ARG A 279       5.986  33.037  12.560  0.00  0.00           C 0
+ATOM   2030  OE2 GLU A 275       7.485  28.312  17.392  0.00  0.00           O 0
+ATOM   2062  NH1 ARG A 279       5.604  35.269  14.249  0.66  5.47           N 0
+ATOM   1995  CD2 LEU A 271       9.531  32.462  16.370  0.00  0.00           C 0
+ATOM   1887  NH1 ARG A 258       8.956  36.102  17.092  0.00  0.00           N 0
+ATOM   1923  OE2 GLU A 262       6.266  37.060  16.350  0.40  3.21           O 0
+ATOM   2027   CG GLU A 275       7.432  27.713  15.110  0.00  0.00           C 0
+TER
+END

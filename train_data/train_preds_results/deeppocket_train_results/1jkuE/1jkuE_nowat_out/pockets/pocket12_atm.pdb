@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0165
+HEADER 1  - Drug Score                        : 0.0063
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0177
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6206
+HEADER 5  - Mean B-factor of pocket residues  : 0.2768
+HEADER 6  - Hydrophobicity Score              : 16.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 170.9516
+HEADER 10 - Pocket volume (convex hull)       : 3.3502
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM    465  CD2 LEU E  58       5.712  29.576  35.853  0.00  0.00           C 0
+ATOM    423    O LYS E  54       7.074  30.868  40.138  0.42  4.29           O 0
+ATOM    425   CG LYS E  54       7.668  34.130  39.796  0.00  0.00           C 0
+ATOM    464  CD1 LEU E  58       3.425  29.575  36.742  0.00  0.00           C 0
+ATOM   1431   CA GLN E 184       3.329  31.659  31.592  0.00  0.00           C 0
+ATOM   1433    O GLN E 184       5.698  31.716  32.011  0.73  2.14           O 0
+ATOM   1463   CG LYS E 187       6.148  36.251  32.309  0.00  0.00           C 0
+ATOM   1434   CB GLN E 184       2.537  30.984  32.700  0.00  0.00           C 0
+ATOM    437  CE1 TYR E  55      10.339  33.001  36.732  0.00  0.00           C 0
+ATOM    426   CD LYS E  54       8.007  35.494  39.177  0.00  0.00           C 0
+ATOM   1471   CB ALA E 188       8.940  31.399  33.617  0.00  0.00           C 0
+ATOM    435  CD1 TYR E  55      10.052  31.696  37.194  0.00  0.00           C 0
+ATOM   1467    N ALA E 188       8.200  33.217  32.096  0.00  0.00           N 0
+ATOM   1468   CA ALA E 188       9.297  32.764  32.953  0.00  0.00           C 0
+ATOM   1497  OE1 GLU E 191       9.996  36.381  35.845  0.00  0.00           O 0
+ATOM   1498  OE2 GLU E 191       8.610  37.837  34.956  0.54  4.29           O 0
+TER
+END

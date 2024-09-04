@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1143
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7159
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5603
+HEADER 5  - Mean B-factor of pocket residues  : 0.0642
+HEADER 6  - Hydrophobicity Score              : -10.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.0493
+HEADER 10 - Pocket volume (convex hull)       : 13.6928
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM    379   CB PRO A 114      50.734  26.218 -11.993  0.00  0.00           C 0
+ATOM    424  NH2 ARG A 118      47.285  21.978 -12.752  0.61  3.28           N 0
+ATOM    688  OE2 GLU A 149      47.543  22.804 -16.687  0.71  1.07           O 0
+ATOM    380   CG PRO A 114      51.721  25.124 -11.748  0.00  0.00           C 0
+ATOM    692    O PRO A 150      54.395  18.365 -16.819  0.58  2.14           O 0
+ATOM    697   CA ASN A 151      55.919  19.743 -14.992  0.00  0.00           C 0
+ATOM    702  OD1 ASN A 151      57.925  21.615 -15.383  0.00  0.00           O 0
+ATOM    701   CG ASN A 151      56.996  21.988 -14.663  0.00  0.00           C 0
+ATOM    710   CD PRO A 152      57.985  19.146 -17.094  0.00  0.00           C 0
+ATOM    700   CB ASN A 151      55.901  21.033 -14.163  0.00  0.00           C 0
+ATOM    378    O PRO A 114      48.472  24.908 -11.218  0.00  0.00           O 0
+ATOM    403   CE LYS A 116      46.448  25.856 -15.262  0.00  0.00           C 0
+ATOM    404   NZ LYS A 116      46.609  25.507 -16.710  0.68  4.37           N 0
+ATOM    683    O GLU A 149      51.647  19.910 -15.616  0.77  3.21           O 0
+ATOM    703  ND2 ASN A 151      56.835  23.226 -14.247  0.62  9.84           N 0
+ATOM    558    O TRP A 135      53.301  19.002 -12.046  0.44  3.21           O 0
+ATOM    684   CB GLU A 149      49.484  20.602 -16.990  0.00  0.00           C 0
+ATOM    554   CB ALA A 134      50.012  21.779  -9.546  0.00  0.00           C 0
+ATOM    555    N TRP A 135      50.855  18.993 -10.771  0.00  0.00           N 0
+TER
+END

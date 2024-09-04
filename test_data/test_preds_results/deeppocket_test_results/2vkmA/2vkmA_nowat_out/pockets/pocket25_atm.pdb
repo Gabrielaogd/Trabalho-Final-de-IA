@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.1796
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8150
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4336
+HEADER 5  - Mean B-factor of pocket residues  : 0.5018
+HEADER 6  - Hydrophobicity Score              : -7.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 159.9542
+HEADER 10 - Pocket volume (convex hull)       : 0.4066
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1286   CB ASN A 162      18.289 -14.296  33.505  0.00  0.00           C 0
+ATOM   1288  OD1 ASN A 162      20.219 -15.150  34.627  0.00  0.00           O 0
+ATOM   2477  OE2 GLU A 310      21.031  -9.444  28.510  0.61  9.64           O 0
+ATOM   1313  OE2 GLU A 165      19.886 -11.729  35.754  0.00  0.00           O 0
+ATOM   1282    N ASN A 162      17.459 -12.180  34.480  0.00  0.00           N 0
+ATOM   1276    C LEU A 161      16.724 -11.095  34.245  0.00  0.00           C 0
+ATOM   2474   CG GLU A 310      19.134 -10.379  27.380  0.00  0.00           C 0
+ATOM   1277    O LEU A 161      15.722 -11.119  33.543  0.52  4.29           O 0
+ATOM   2473   CB GLU A 310      17.833  -9.572  27.512  0.00  0.00           C 0
+ATOM   1283   CA ASN A 162      17.062 -13.448  33.879  0.00  0.00           C 0
+ATOM   1271   CB PRO A 160      17.710  -7.438  30.904  0.00  0.00           C 0
+ATOM   1270    O PRO A 160      19.032  -8.064  33.787  0.67  7.50           O 0
+ATOM   1269    C PRO A 160      17.870  -7.989  33.397  0.00  0.00           C 0
+TER
+END

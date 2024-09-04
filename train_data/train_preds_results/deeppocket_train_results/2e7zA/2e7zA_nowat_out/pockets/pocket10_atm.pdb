@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0280
+HEADER 1  - Drug Score                        : 0.0039
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7685
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6536
+HEADER 5  - Mean B-factor of pocket residues  : 0.1969
+HEADER 6  - Hydrophobicity Score              : 9.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 262.8541
+HEADER 10 - Pocket volume (convex hull)       : 12.3127
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM   2743   CDAGLU A 252      35.091  40.903  12.871  0.00  0.00           C 0
+ATOM   2685   CAAGLY A 249      38.573  43.251  12.292  0.00  0.00           C 0
+ATOM   2747  OE2AGLU A 252      35.035  39.714  13.270  0.00  0.00           O 0
+ATOM   2745  OE1AGLU A 252      35.940  41.295  12.035  0.43  5.36           O 0
+ATOM   5923  CD1ATYR A 565      37.246  43.833  17.657  0.00  0.00           C 0
+ATOM   5921   CGATYR A 565      36.642  44.323  16.498  0.00  0.00           C 0
+ATOM   2683    NAGLY A 249      39.930  42.781  12.087  0.38  9.84           N 0
+ATOM   2679  CG1AVAL A 248      44.031  41.460  13.240  0.00  0.00           C 0
+ATOM   2681  CG2AVAL A 248      43.022  43.358  14.510  0.00  0.00           C 0
+ATOM   2677   CBAVAL A 248      42.786  42.279  13.440  0.00  0.00           C 0
+ATOM   5833   CBASER A 559      46.401  42.135  17.101  0.00  0.00           C 0
+ATOM   5927  CE1ATYR A 565      36.495  43.292  18.685  0.00  0.00           C 0
+ATOM   5931   CZATYR A 565      35.118  43.195  18.550  0.00  0.00           C 0
+ATOM   5919   CBATYR A 565      37.471  44.893  15.378  0.00  0.00           C 0
+ATOM   5917    OATYR A 565      39.934  45.758  16.789  0.74  1.07           O 0
+ATOM   5925  CD2ATYR A 565      35.258  44.209  16.374  0.00  0.00           C 0
+ATOM   5955   CBASER A 567      41.497  43.789  21.222  0.00  0.00           C 0
+ATOM   5891  OE1AGLU A 563      43.096  45.611  19.092  0.00  0.00           O 0
+ATOM   5889   CDAGLU A 563      44.063  45.347  18.350  0.00  0.00           C 0
+ATOM   5893  OE2AGLU A 563      44.941  44.511  18.661  0.79  1.07           O 0
+TER
+END

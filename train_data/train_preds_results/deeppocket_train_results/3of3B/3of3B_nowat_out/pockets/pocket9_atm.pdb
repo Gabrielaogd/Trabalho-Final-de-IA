@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0444
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9785
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6465
+HEADER 5  - Mean B-factor of pocket residues  : 0.8303
+HEADER 6  - Hydrophobicity Score              : 23.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.7669
+HEADER 10 - Pocket volume (convex hull)       : 4.6260
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM    622   CZ TYR B  94      27.282  71.627 169.988  0.00  0.00           C 0
+ATOM     60    NAMET B  23      23.624  74.967 169.182  0.61  4.37           N 0
+ATOM    607    O ASP B  93      24.245  70.416 166.391  0.87  2.14           O 0
+ATOM    623   OH TYR B  94      27.162  71.523 171.366  0.00  0.00           O 0
+ATOM      1    N ALA B  15      23.411  70.805 174.553  0.00  0.00           N 0
+ATOM     49    O ALA B  21      25.874  73.767 172.706  0.73  1.07           O 0
+ATOM     59  NE2 GLN B  22      22.499  75.966 173.602  0.73  3.28           N 0
+ATOM     68   CBAMET B  23      22.135  74.400 167.276  0.00  0.00           C 0
+ATOM    610  OD1 ASP B  93      24.241  65.908 167.650  0.00  0.00           O 0
+ATOM     12  CG2 THR B  16      26.822  67.627 171.690  0.00  0.00           C 0
+ATOM      4    O ALA B  15      24.282  68.175 174.955  0.00  0.00           O 0
+ATOM      3    C ALA B  15      25.129  68.998 174.644  0.00  0.00           C 0
+ATOM     52   CA GLN B  22      24.568  75.768 171.256  0.00  0.00           C 0
+ATOM    608   CB ASP B  93      25.542  67.882 167.562  0.00  0.00           C 0
+ATOM    609   CG ASP B  93      25.316  66.435 167.972  0.00  0.00           C 0
+ATOM    621  CE2 TYR B  94      26.851  72.773 169.347  0.00  0.00           C 0
+TER
+END

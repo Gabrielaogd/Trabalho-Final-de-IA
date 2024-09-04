@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.1243
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8008
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5521
+HEADER 5  - Mean B-factor of pocket residues  : 0.1248
+HEADER 6  - Hydrophobicity Score              : 14.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 187.3551
+HEADER 10 - Pocket volume (convex hull)       : 5.0099
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM   1581   CB LYS A 207      -4.514 -30.256  29.078  0.00  0.00           C 0
+ATOM   1560  CG2 VAL A 204      -3.393 -35.989  31.219  0.00  0.00           C 0
+ATOM   1559  CG1 VAL A 204      -3.383 -34.238  32.992  0.00  0.00           C 0
+ATOM   1239  CD1 ILE A 163      -7.983 -30.823  32.520  0.00  0.00           C 0
+ATOM   1207   CD PRO A 158      -6.584 -35.605  34.085  0.00  0.00           C 0
+ATOM   1526  NH2 ARG A 200      -5.442 -38.208  29.106  0.44  9.84           N 0
+ATOM   1174    O GLY A 154      -7.993 -41.158  33.068  0.31  3.21           O 0
+ATOM   1197    O THR A 157      -7.570 -38.183  33.846  0.42  2.14           O 0
+ATOM   1178    O GLU A 155     -10.650 -41.910  31.028  0.22  9.64           O 0
+ATOM   1204    O PRO A 158      -9.682 -34.351  32.898  0.00  0.00           O 0
+ATOM   1582   CG LYS A 207      -4.407 -30.973  27.739  0.00  0.00           C 0
+ATOM   1186    C HIS A 156     -11.360 -38.849  33.515  0.00  0.00           C 0
+ATOM   1551  CE2 TYR A 203      -4.728 -34.870  26.058  0.00  0.00           C 0
+ATOM   1196    C THR A 157      -8.308 -37.335  34.346  0.00  0.00           C 0
+ATOM   1555   CA VAL A 204      -2.285 -33.792  30.772  0.00  0.00           C 0
+ATOM   1549  CD2 TYR A 203      -3.581 -35.290  26.728  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : 0.0172
+HEADER 1  - Drug Score                        : 0.0053
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8609
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5357
+HEADER 5  - Mean B-factor of pocket residues  : 0.1077
+HEADER 6  - Hydrophobicity Score              : 47.4444
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 238.4674
+HEADER 10 - Pocket volume (convex hull)       : 7.9766
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.7273
+ATOM   5895   CE MET A 715       2.869  22.130 -51.264  0.00  0.00           C 0
+ATOM   5967   CE LYS A 724       4.494  28.157 -46.142  0.00  0.00           C 0
+ATOM   5985   NZ LYS A 726       5.237  20.078 -49.125  0.44  7.66           N 0
+ATOM   5982   CG LYS A 726       7.638  21.945 -49.436  0.00  0.00           C 0
+ATOM   5865  CG2 VAL A 712       7.931  25.327 -52.799  0.00  0.00           C 0
+ATOM   5938   OH TYR A 720       2.775  27.634 -50.391  0.52  6.43           O 0
+ATOM   5864  CG1 VAL A 712       5.951  26.506 -53.802  0.00  0.00           C 0
+ATOM   5894   SD MET A 715       2.700  23.175 -52.711  0.00  0.00           S 0
+ATOM   5863   CB VAL A 712       7.274  26.689 -53.053  0.00  0.00           C 0
+ATOM   5986    N ILE A 727      10.239  22.758 -46.823  0.46  2.19           N 0
+ATOM   5972    O LEU A 725       8.805  26.246 -47.045  0.38  9.64           O 0
+ATOM   6000   SD MET A 728       7.585  19.166 -46.493  0.00  0.00           S 0
+ATOM   5989    O ILE A 727       9.873  20.756 -44.763  0.50  1.07           O 0
+ATOM   6038  NE2 GLN A 733       9.308  21.911 -41.756  0.00  0.00           N 0
+ATOM   5981   CB LYS A 726       8.187  23.335 -49.717  0.00  0.00           C 0
+ATOM   5966   CD LYS A 724       4.796  28.718 -47.526  0.00  0.00           C 0
+ATOM   5963    O LYS A 724       8.717  28.166 -50.397  0.00  0.00           O 0
+ATOM   5983   CD LYS A 726       6.744  21.430 -50.551  0.00  0.00           C 0
+ATOM   5978   CA LYS A 726       8.983  23.921 -48.545  0.00  0.00           C 0
+TER
+END

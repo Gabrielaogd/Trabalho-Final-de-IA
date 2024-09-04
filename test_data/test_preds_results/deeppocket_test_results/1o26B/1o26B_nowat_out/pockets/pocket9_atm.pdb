@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0088
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0444
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5437
+HEADER 5  - Mean B-factor of pocket residues  : 0.4341
+HEADER 6  - Hydrophobicity Score              : 36.1429
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 260.4044
+HEADER 10 - Pocket volume (convex hull)       : 7.2136
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM    131    N VAL B  16      40.692  60.489 101.935  0.79  1.09           N 0
+ATOM    134    O VAL B  16      40.790  62.387 103.872  0.43  9.64           O 0
+ATOM   1656   NZ LYS B 197      46.830  63.151  98.609  0.00  0.00           N 0
+ATOM    129  OD1 ASP B  15      38.772  62.315 101.053  0.00  0.00           O 0
+ATOM    115  CD2 LEU B  13      44.764  59.094  98.409  0.00  0.00           C 0
+ATOM    119    O VAL B  14      38.886  60.302  97.271  0.71  3.21           O 0
+ATOM      7  ND1 HIS B   0      40.517  61.395  94.001  0.35  7.66           N 0
+ATOM    113   CG LEU B  13      43.612  58.150  98.067  0.00  0.00           C 0
+ATOM    137  CG2 VAL B  16      43.450  59.589 101.671  0.00  0.00           C 0
+ATOM    111    O LEU B  13      41.484  58.367  95.156  0.81  1.07           O 0
+ATOM    135   CB VAL B  16      42.999  60.407 102.866  0.00  0.00           C 0
+ATOM     11    N MET B   1      44.915  59.772  92.545  0.50  2.19           N 0
+ATOM     16   CG MET B   1      47.750  59.839  94.045  0.00  0.00           C 0
+ATOM      2   CA HIS B   0      42.852  60.866  91.881  0.00  0.00           C 0
+ATOM    124   CA ASP B  15      39.507  59.931  99.907  0.00  0.00           C 0
+TER
+END

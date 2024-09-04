@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.2389
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7126
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4505
+HEADER 5  - Mean B-factor of pocket residues  : 0.0449
+HEADER 6  - Hydrophobicity Score              : 11.8750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 216.0181
+HEADER 10 - Pocket volume (convex hull)       : 15.3890
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM    146    O GLY E  38       4.321  -9.253   8.819  0.00  0.00           O 0
+ATOM    145    C GLY E  38       5.231  -8.700   9.422  0.00  0.00           C 0
+ATOM    144   CA GLY E  38       6.556  -9.429   9.637  0.00  0.00           C 0
+ATOM    364  NH2 ARG E  66       9.968  -6.814   5.566  0.00  0.00           N 0
+ATOM    135  OD1 ASN E  34       8.523  -6.596   8.900  0.37  2.14           O 0
+ATOM    363  NH1 ARG E  66       8.473  -5.268   4.737  0.45  8.75           N 0
+ATOM    136  ND2 ASN E  34       7.101  -5.082   8.123  0.35  5.47           N 0
+ATOM    416  OD1 ASN E  74       1.253  -4.810   3.560  0.00  0.00           O 0
+ATOM    405    O ILE E  73       4.712  -3.221   3.089  0.42  7.50           O 0
+ATOM    406   CB ILE E  73       4.031  -0.666   4.470  0.00  0.00           C 0
+ATOM    360   CD ARG E  66       9.875  -3.212   6.186  0.00  0.00           C 0
+ATOM    120   OG SER E  32       6.975  -0.034   8.726  0.00  0.00           O 0
+ATOM    408  CG2 ILE E  73       4.865   0.506   4.955  0.00  0.00           C 0
+ATOM    411   CA ASN E  74       2.804  -3.915   1.257  0.00  0.00           C 0
+ATOM    413    O ASN E  74       3.301  -5.447  -0.500  0.00  0.00           O 0
+ATOM    409  CD1 ILE E  73       2.269  -0.926   6.230  0.00  0.00           C 0
+ATOM    159    N HIS E  40       3.967  -4.059   9.851  0.59  3.28           N 0
+ATOM    148   CA TYR E  39       4.015  -6.533   9.702  0.00  0.00           C 0
+TER
+END

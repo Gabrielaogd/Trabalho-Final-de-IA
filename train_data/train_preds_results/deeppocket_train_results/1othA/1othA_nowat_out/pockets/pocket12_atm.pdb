@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0665
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9989
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6766
+HEADER 5  - Mean B-factor of pocket residues  : 0.0383
+HEADER 6  - Hydrophobicity Score              : 9.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.4305
+HEADER 10 - Pocket volume (convex hull)       : 7.4048
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM    248   CB LYS A  64     -13.993  -6.787 -35.571  0.00  0.00           C 0
+ATOM    226    O ALA A  61     -13.569  -8.740 -38.780  0.00  0.00           O 0
+ATOM    249   CG LYS A  64     -14.628  -5.441 -35.230  0.00  0.00           C 0
+ATOM    250   CD LYS A  64     -13.676  -4.281 -35.549  0.00  0.00           C 0
+ATOM    300  NE2 GLN A  69     -18.761  -3.426 -36.955  0.00  0.00           N 0
+ATOM    257   CB PHE A  65     -16.858  -8.965 -39.536  0.00  0.00           C 0
+ATOM    297   CG GLN A  69     -19.633  -5.521 -37.820  0.00  0.00           C 0
+ATOM    259  CD1 PHE A  65     -18.799  -8.012 -40.891  0.00  0.00           C 0
+ATOM   1164  OE2 GLU A 181     -12.116  -2.164 -38.029  0.00  0.00           O 0
+ATOM    251   CE LYS A  64     -14.234  -2.922 -35.113  0.00  0.00           C 0
+ATOM    252   NZ LYS A  64     -13.273  -1.863 -35.361  0.36  6.56           N 0
+ATOM    224   CA ALA A  61     -11.290  -8.036 -38.749  0.00  0.00           C 0
+ATOM    227   CB ALA A  61     -10.807  -7.718 -40.170  0.00  0.00           C 0
+ATOM    253    N PHE A  65     -16.084  -8.481 -37.269  0.00  0.00           N 0
+ATOM    254   CA PHE A  65     -17.273  -8.576 -38.107  0.00  0.00           C 0
+ATOM    291   NZ LYS A  68     -17.440  -0.989 -33.245  0.67  7.66           N 0
+TER
+END

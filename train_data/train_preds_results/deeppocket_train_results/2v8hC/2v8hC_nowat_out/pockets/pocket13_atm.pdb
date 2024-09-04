@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0328
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0292
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6337
+HEADER 5  - Mean B-factor of pocket residues  : 0.1560
+HEADER 6  - Hydrophobicity Score              : 52.3333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 233.9001
+HEADER 10 - Pocket volume (convex hull)       : 4.2827
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1175   CB LEU C 180      41.109  62.896  32.262  0.00  0.00           C 0
+ATOM   1117  CG1 VAL C 173      37.631  64.767  33.631  0.00  0.00           C 0
+ATOM   1171    N LEU C 180      40.847  62.394  34.677  0.62  4.37           N 0
+ATOM   1418    O ALA C 212      38.339  68.369  32.920  0.56  5.36           O 0
+ATOM   1115    O VAL C 173      37.295  67.123  35.913  0.38  1.07           O 0
+ATOM   1160    O LEU C 178      38.464  63.583  37.312  0.70  1.07           O 0
+ATOM   1146  CD2 HIS C 176      39.291  69.801  37.322  0.00  0.00           C 0
+ATOM   1148  NE2 HIS C 176      40.162  70.645  36.681  0.00  0.00           N 0
+ATOM   1140   CA HIS C 176      38.285  67.698  39.323  0.00  0.00           C 0
+ATOM   1144   CG HIS C 176      39.745  69.643  38.588  0.00  0.00           C 0
+ATOM   1166   CA SER C 179      40.851  62.257  37.118  0.00  0.00           C 0
+ATOM   1165    N SER C 179      39.828  62.014  38.142  0.54  2.19           N 0
+ATOM   1142    O HIS C 176      38.922  66.523  41.332  0.00  0.00           O 0
+ATOM   1169   CB SER C 179      42.192  61.627  37.512  0.00  0.00           C 0
+ATOM   1143   CB HIS C 176      39.212  68.847  39.738  0.00  0.00           C 0
+ATOM   1145  ND1 HIS C 176      40.896  70.395  38.678  0.45  7.66           N 0
+TER
+END

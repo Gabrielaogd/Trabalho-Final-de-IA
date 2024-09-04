@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.3312
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8437
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6456
+HEADER 5  - Mean B-factor of pocket residues  : 0.4124
+HEADER 6  - Hydrophobicity Score              : -15.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 311.0133
+HEADER 10 - Pocket volume (convex hull)       : 15.6810
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2917
+ATOM    152   CD LYS B  20     -12.341  15.778  85.468  0.00  0.00           C 0
+ATOM    153   CE LYS B  20     -13.463  16.445  86.240  0.00  0.00           C 0
+ATOM   1491  ND1 HIS B 193     -12.307  15.489  80.555  0.00  0.00           N 0
+ATOM    154   NZ LYS B  20     -14.628  15.514  86.352  0.00  0.00           N 0
+ATOM   1493  CE1 HIS B 193     -12.805  14.392  80.013  0.00  0.00           C 0
+ATOM    150   CB LYS B  20     -10.994  13.670  85.257  0.00  0.00           C 0
+ATOM   1494  NE2 HIS B 193     -12.235  13.348  80.589  0.59  4.37           N 0
+ATOM    158    O LYS B  21     -11.469   9.347  82.462  0.12  5.36           O 0
+ATOM    147   CA LYS B  20     -10.558  12.349  85.896  0.00  0.00           C 0
+ATOM    151   CG LYS B  20     -11.947  14.470  86.128  0.00  0.00           C 0
+ATOM    143    O SER B  19     -10.975  11.207  88.378  0.48  3.21           O 0
+ATOM   1489   CB HIS B 193     -10.598  16.160  82.284  0.00  0.00           C 0
+ATOM   1492  CD2 HIS B 193     -11.341  13.791  81.534  0.00  0.00           C 0
+ATOM   1498    O HIS B 194      -9.972  20.013  84.398  0.61  4.29           O 0
+ATOM   1503  CE1 HIS B 194     -11.795  22.430  81.169  0.00  0.00           C 0
+ATOM   1501  ND1 HIS B 194     -10.720  21.689  80.971  0.00  0.00           N 0
+ATOM   1250  OD1 ASP B 160      -9.930  19.665  79.260  0.19  4.29           O 0
+TER
+END

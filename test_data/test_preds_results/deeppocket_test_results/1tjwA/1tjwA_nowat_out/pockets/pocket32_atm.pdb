@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0481
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1716
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5839
+HEADER 5  - Mean B-factor of pocket residues  : 0.2416
+HEADER 6  - Hydrophobicity Score              : 12.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 254.5184
+HEADER 10 - Pocket volume (convex hull)       : 2.6647
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM    859   CG LYS A 128      22.352   2.533  55.661  0.00  0.00           C 0
+ATOM    864   CA ASN A 129      21.441  -1.816  53.660  0.00  0.00           C 0
+ATOM    861   CE LYS A 128      22.843   3.003  58.064  0.00  0.00           C 0
+ATOM    870  ND2 ASN A 129      20.470  -4.076  55.976  0.00  0.00           N 0
+ATOM   1608  OE2 GLU A 223      21.085  -0.273  63.155  0.00  0.00           O 0
+ATOM    860   CD LYS A 128      21.792   3.013  56.982  0.00  0.00           C 0
+ATOM    834  CD2 LEU A 125      16.298   2.602  58.005  0.00  0.00           C 0
+ATOM    862   NZ LYS A 128      22.215   3.391  59.353  0.66  4.37           N 0
+ATOM    863    N ASN A 129      21.144  -0.399  53.538  0.00  0.00           N 0
+ATOM   1595    O LEU A 222      17.845   2.802  61.522  0.86  9.64           O 0
+ATOM    889   CB SER A 132      25.901  -2.512  54.127  0.00  0.00           C 0
+ATOM   1380   NZ LYS A 193      27.225   1.085  55.469  0.50  7.66           N 0
+ATOM    890   OG SER A 132      26.780  -3.262  54.943  0.00  0.00           O 0
+ATOM    857    O LYS A 128      23.315   0.176  53.327  0.00  0.00           O 0
+ATOM    830    O LEU A 125      18.135   0.559  54.120  0.71  3.21           O 0
+ATOM    867   CB ASN A 129      20.179  -2.615  54.039  0.00  0.00           C 0
+TER
+END

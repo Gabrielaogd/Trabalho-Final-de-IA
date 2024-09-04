@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0647
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.0617
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5408
+HEADER 5  - Mean B-factor of pocket residues  : 0.4757
+HEADER 6  - Hydrophobicity Score              : 0.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 406.2133
+HEADER 10 - Pocket volume (convex hull)       : 42.9962
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3600
+ATOM   2413    O MET A 321       3.255  19.705  14.152  0.00  0.00           O 0
+ATOM   2410    N MET A 321       4.753  18.829  11.889  0.00  0.00           N 0
+ATOM   3142    O GLU A 406       3.277  25.346  10.717  0.71  6.43           O 0
+ATOM   2414   CB MET A 321       6.263  20.288  13.098  0.00  0.00           C 0
+ATOM   2405   CB GLU A 320       2.040  17.930  10.396  0.00  0.00           C 0
+ATOM   3143   CB GLU A 406       4.334  26.017   8.221  0.00  0.00           C 0
+ATOM   2417   CE MET A 321       7.175  22.330  10.635  0.00  0.00           C 0
+ATOM   3144   CG GLU A 406       4.482  25.736   6.719  0.00  0.00           C 0
+ATOM   3146  OE1 GLU A 406       6.678  24.720   6.995  0.00  0.00           O 0
+ATOM   3140   CA GLU A 406       2.972  26.572   8.661  0.00  0.00           C 0
+ATOM   2400    O GLY A 319       5.863  16.254   9.418  0.41  7.50           O 0
+ATOM   2402   CA GLU A 320       3.515  17.541  10.248  0.00  0.00           C 0
+ATOM   2394    O SER A 318       3.593  14.599   6.947  0.00  0.00           O 0
+ATOM   2401    N GLU A 320       3.642  16.171   9.773  0.00  0.00           N 0
+ATOM   2408  OE1 GLU A 320      -0.774  19.228   8.472  0.00  0.00           O 0
+ATOM   3141    C GLU A 406       2.734  26.306  10.158  0.00  0.00           C 0
+ATOM   3136    O SER A 405       0.640  27.934   7.963  0.48  4.29           O 0
+ATOM   2406   CG GLU A 320       1.375  18.407   9.113  0.00  0.00           C 0
+ATOM   2407   CD GLU A 320      -0.143  18.434   9.206  0.00  0.00           C 0
+ATOM   2409  OE2 GLU A 320      -0.715  17.655  10.003  0.70  6.43           O 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.2331
+HEADER 1  - Drug Score                        : 0.1557
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.0202
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5543
+HEADER 5  - Mean B-factor of pocket residues  : 0.3778
+HEADER 6  - Hydrophobicity Score              : 8.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 332.6292
+HEADER 10 - Pocket volume (convex hull)       : 19.7878
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.4615
+ATOM    835   CB ALA A 110       3.517   3.324  25.397  0.00  0.00           C 0
+ATOM    639   CB ALA A  84       2.124   9.149  27.361  0.00  0.00           C 0
+ATOM    532  CH2 TRP A  69       3.025   6.402  23.391  0.00  0.00           C 0
+ATOM    634  OD2 ASP A  83      -3.210   6.876  26.486  0.00  0.00           O 0
+ATOM    630    O ASP A  83      -0.989   8.329  30.110  0.00  0.00           O 0
+ATOM    832   CA ALA A 110       3.866   2.258  26.454  0.00  0.00           C 0
+ATOM    831    N ALA A 110       5.197   2.516  26.974  0.00  0.00           N 0
+ATOM    348   CB PRO A  46       6.936   6.308  27.915  0.00  0.00           C 0
+ATOM    633  OD1 ASP A  83      -2.389   8.843  25.973  0.79  3.21           O 0
+ATOM    531  CZ3 TRP A  69       3.549   7.293  24.375  0.00  0.00           C 0
+ATOM    636   CA ALA A  84       1.265   8.961  28.605  0.00  0.00           C 0
+ATOM    640    N ALA A  85       2.934   9.233  30.385  0.00  0.00           N 0
+ATOM    644   CB ALA A  85       2.915   9.802  32.805  0.00  0.00           C 0
+ATOM    821  ND2 ASN A 108       5.629   6.351  34.144  0.00  0.00           N 0
+ATOM    818   CB ASN A 108       6.425   5.015  32.189  0.00  0.00           C 0
+ATOM    824    C LYS A 109       5.678   1.883  28.043  0.00  0.00           C 0
+ATOM    643    O ALA A  85       5.375   8.275  31.462  0.71  2.14           O 0
+ATOM    825    O LYS A 109       5.028   1.066  28.706  0.00  0.00           O 0
+TER
+END

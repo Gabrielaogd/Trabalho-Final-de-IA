@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2176
+HEADER 1  - Drug Score                        : 0.3856
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0429
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6007
+HEADER 5  - Mean B-factor of pocket residues  : 0.3716
+HEADER 6  - Hydrophobicity Score              : 28.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 399.5668
+HEADER 10 - Pocket volume (convex hull)       : 8.6018
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.8333
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM    832   CB MET A 110      20.691 -21.620  15.503  0.00  0.00           C 0
+ATOM    831    O MET A 110      18.241 -22.108  17.676  0.00  0.00           O 0
+ATOM    880  OE1 GLU A 115      15.357 -24.205  11.811  0.00  0.00           O 0
+ATOM    835   CE MET A 110      22.644 -23.570  14.748  0.00  0.00           C 0
+ATOM    861   CG GLN A 113      14.981 -23.472  19.259  0.00  0.00           C 0
+ATOM    860   CB GLN A 113      14.032 -22.783  18.189  0.00  0.00           C 0
+ATOM    857   CA GLN A 113      14.667 -21.722  17.248  0.00  0.00           C 0
+ATOM    809   SD MET A 106      23.341 -19.385   9.280  0.00  0.00           S 0
+ATOM    834   SD MET A 110      22.845 -22.095  13.704  0.00  0.00           S 0
+ATOM    933   CD ARG A 122      20.474 -23.111   6.502  0.00  0.00           C 0
+ATOM    936  NH1 ARG A 122      20.961 -25.974   6.558  0.00  0.00           N 0
+ATOM    833   CG MET A 110      21.149 -21.415  13.962  0.00  0.00           C 0
+ATOM    904  CG1 VAL A 118      18.625 -21.840  10.265  0.00  0.00           C 0
+ATOM    905  CG2 VAL A 118      17.817 -20.400  12.133  0.00  0.00           C 0
+ATOM    934   NE ARG A 122      21.052 -23.925   5.460  0.56  2.19           N 0
+ATOM    935   CZ ARG A 122      21.308 -25.238   5.492  0.00  0.00           C 0
+ATOM    932   CG ARG A 122      20.950 -21.696   6.195  0.00  0.00           C 0
+ATOM    829   CA MET A 110      19.266 -21.050  15.804  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1734
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8577
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5974
+HEADER 5  - Mean B-factor of pocket residues  : 0.6859
+HEADER 6  - Hydrophobicity Score              : 31.8889
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 266.2369
+HEADER 10 - Pocket volume (convex hull)       : 8.2815
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   1538   CA GLY X 205      44.019  18.730  24.072  0.00  0.00           C 0
+ATOM   1537    N GLY X 205      44.728  19.663  23.212  0.00  0.00           N 0
+ATOM   1536   OG SER X 204      46.799  21.920  23.300  0.00  0.00           O 0
+ATOM   1573  NE2 HIS X 209      49.957  15.756  24.992  0.41  6.56           N 0
+ATOM   1534    O SER X 204      45.992  18.072  22.251  0.66  2.14           O 0
+ATOM   1571  CD2 HIS X 209      49.304  14.734  25.641  0.00  0.00           C 0
+ATOM   1533    C SER X 204      45.669  19.257  22.364  0.00  0.00           C 0
+ATOM   1535   CB SER X 204      47.409  21.061  22.342  0.00  0.00           C 0
+ATOM   1749  CD1 ILE X 233      44.377   7.646  24.071  0.00  0.00           C 0
+ATOM   2014   OH TYR X 266      41.659   8.415  28.615  0.00  0.00           O 0
+ATOM   1611  ND2 ASN X 214      46.942   7.170  26.616  0.36  3.28           N 0
+ATOM   1567    O HIS X 209      47.890   9.422  25.164  0.55  5.36           O 0
+ATOM   1561   CB PRO X 208      44.199  11.214  22.876  0.00  0.00           C 0
+ATOM   1552    O ILE X 207      46.121  14.873  22.144  0.64  1.07           O 0
+ATOM   1540    O GLY X 205      42.818  16.667  23.920  0.70  7.50           O 0
+ATOM   2025  CE3 TRP X 267      40.519  11.412  24.453  0.00  0.00           C 0
+ATOM   1564    N HIS X 209      47.255  11.999  24.044  0.59  3.28           N 0
+ATOM   1558   CA PRO X 208      45.156  12.408  22.883  0.00  0.00           C 0
+ATOM   2027  CZ3 TRP X 267      40.962  12.665  24.803  0.00  0.00           C 0
+ATOM   2028  CH2 TRP X 267      41.183  13.657  23.842  0.00  0.00           C 0
+TER
+END

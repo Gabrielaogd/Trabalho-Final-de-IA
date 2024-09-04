@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0059
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7977
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6125
+HEADER 5  - Mean B-factor of pocket residues  : 0.2961
+HEADER 6  - Hydrophobicity Score              : 29.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 263.3977
+HEADER 10 - Pocket volume (convex hull)       : 5.6913
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM    948   CB LEU B 143      10.672  18.809  55.671  0.00  0.00           C 0
+ATOM    956   CB ASP B 144       6.987  22.554  55.302  0.00  0.00           C 0
+ATOM    959  OD2 ASP B 144       4.991  21.315  55.740  0.59  7.50           O 0
+ATOM    952    N ASP B 144       8.927  21.502  56.419  0.00  0.00           N 0
+ATOM    944    N LEU B 143       9.854  19.412  57.913  0.57  1.09           N 0
+ATOM    904  NE2 GLN B 137       8.292  13.611  55.217  0.00  0.00           N 0
+ATOM   1129  OE1 GLN B 166       8.264  22.769  51.807  0.00  0.00           O 0
+ATOM   1106  CD2 PHE B 163      12.247  19.583  52.220  0.00  0.00           C 0
+ATOM   1108  CE2 PHE B 163      11.917  18.480  51.431  0.00  0.00           C 0
+ATOM    957   CG ASP B 144       6.019  21.829  56.227  0.00  0.00           C 0
+ATOM    958  OD1 ASP B 144       6.278  21.782  57.446  0.00  0.00           O 0
+ATOM    949   CG LEU B 143      11.217  17.401  55.986  0.00  0.00           C 0
+ATOM    928    O ILE B 141      10.265  16.968  60.087  0.51  2.14           O 0
+ATOM    939   CD ARG B 142       5.985  19.788  59.963  0.00  0.00           C 0
+ATOM    901   CG GLN B 137       9.728  13.038  57.100  0.00  0.00           C 0
+TER
+END

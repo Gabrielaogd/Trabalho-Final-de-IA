@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0385
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0218
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7272
+HEADER 5  - Mean B-factor of pocket residues  : 0.2849
+HEADER 6  - Hydrophobicity Score              : 4.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 158.5233
+HEADER 10 - Pocket volume (convex hull)       : 1.3577
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   1891   CG GLN A 230     113.409  17.048  33.644  0.00  0.00           C 0
+ATOM     16   CA SER A   3     114.182  20.299  29.736  0.00  0.00           C 0
+ATOM   1963   CG ASP A 239     114.682  16.196  28.710  0.00  0.00           C 0
+ATOM   1962   CB ASP A 239     113.635  15.138  28.376  0.00  0.00           C 0
+ATOM     19   CB SER A   3     113.657  20.187  28.301  0.00  0.00           C 0
+ATOM   1892   CD GLN A 230     114.405  16.464  32.703  0.00  0.00           C 0
+ATOM     15    N SER A   3     113.655  21.495  30.385  0.67  2.19           N 0
+ATOM      7    N LEU A   2     111.762  22.765  33.097  0.63  4.37           N 0
+ATOM      5   CB SER A   1     109.573  20.895  34.535  0.00  0.00           C 0
+ATOM      9    C LEU A   2     113.481  21.553  31.709  0.00  0.00           C 0
+ATOM   1893  OE1 GLN A 230     114.321  15.301  32.305  0.53  2.14           O 0
+ATOM     10    O LEU A   2     113.764  20.611  32.491  0.71  1.07           O 0
+ATOM      6   OG SER A   1     110.119  19.642  34.899  0.39  8.57           O 0
+TER
+END

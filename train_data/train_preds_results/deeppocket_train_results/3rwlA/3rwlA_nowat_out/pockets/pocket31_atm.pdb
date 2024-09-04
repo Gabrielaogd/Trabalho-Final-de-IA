@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.1446
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0300
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6054
+HEADER 5  - Mean B-factor of pocket residues  : 0.1135
+HEADER 6  - Hydrophobicity Score              : 20.8000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 248.3501
+HEADER 10 - Pocket volume (convex hull)       : 5.0961
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM    322   CZ TYR A  45      46.822 -35.884   1.240  0.00  0.00           C 0
+ATOM    321  CE2 TYR A  45      48.152 -35.660   1.131  0.00  0.00           C 0
+ATOM    399  CZ2 TRP A  55      45.743 -35.688  -4.173  0.00  0.00           C 0
+ATOM    319  CD2 TYR A  45      48.649 -34.831   0.128  0.00  0.00           C 0
+ATOM   2496  OD2 ASP A 324      42.821 -37.948  -1.871  0.00  0.00           O 0
+ATOM   2470   CG ARG A 321      43.783 -41.640  -3.598  0.00  0.00           C 0
+ATOM   2453    O THR A 319      44.888 -38.464  -5.993  0.14  8.57           O 0
+ATOM   2495  OD1 ASP A 324      42.478 -38.719   0.193  0.62  5.36           O 0
+ATOM    323   OH TYR A  45      46.310 -36.749   2.198  0.67  3.21           O 0
+ATOM   2475  NH2 ARG A 321      46.498 -42.396  -4.504  0.00  0.00           N 0
+ATOM    401  CH2 TRP A  55      46.651 -34.998  -4.906  0.00  0.00           C 0
+ATOM    320  CE1 TYR A  45      45.925 -35.179   0.418  0.00  0.00           C 0
+ATOM    318  CD1 TYR A  45      46.396 -34.375  -0.564  0.00  0.00           C 0
+ATOM    317   CG TYR A  45      47.770 -34.141  -0.732  0.00  0.00           C 0
+ATOM    316   CB TYR A  45      48.308 -33.185  -1.833  0.00  0.00           C 0
+TER
+END

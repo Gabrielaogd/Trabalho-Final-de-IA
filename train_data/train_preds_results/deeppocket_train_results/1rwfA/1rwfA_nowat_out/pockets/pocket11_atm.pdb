@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0384
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9132
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6594
+HEADER 5  - Mean B-factor of pocket residues  : 0.2910
+HEADER 6  - Hydrophobicity Score              : 19.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 2.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 166.9626
+HEADER 10 - Pocket volume (convex hull)       : 1.9809
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   5071   CB SER A 682       4.054  62.688  38.145  0.00  0.00           C 0
+ATOM   5274    O THR A 711       1.264  61.008  36.899  0.76  1.07           O 0
+ATOM   5277  CG2 THR A 711      -0.043  64.001  35.487  0.00  0.00           C 0
+ATOM   5291  OG1 THR A 713       2.177  60.680  31.734  0.00  0.00           O 0
+ATOM   5067    N SER A 682       3.991  60.291  37.716  0.65  1.09           N 0
+ATOM   5068   CA SER A 682       4.881  61.399  38.061  0.00  0.00           C 0
+ATOM   5064    C ALA A 681       4.385  59.213  37.045  0.00  0.00           C 0
+ATOM   5031   SD MET A 675       4.860  56.990  30.231  0.00  0.00           S 0
+ATOM   5021    N GLY A 674       8.186  57.888  35.600  0.67  3.28           N 0
+ATOM   5022   CA GLY A 674       8.552  57.078  34.437  0.00  0.00           C 0
+ATOM   5065    O ALA A 681       5.583  58.990  36.753  0.81  2.14           O 0
+ATOM   5024    O GLY A 674       6.273  56.518  34.312  0.00  0.00           O 0
+ATOM   5059   CA GLY A 680       3.220  56.662  33.289  0.00  0.00           C 0
+ATOM   5062    N ALA A 681       3.642  57.465  35.509  0.00  0.00           N 0
+ATOM   5023    C GLY A 674       7.403  56.339  33.839  0.00  0.00           C 0
+ATOM   5030   CG MET A 675       6.554  56.505  30.165  0.00  0.00           C 0
+TER
+END

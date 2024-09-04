@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0236
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9366
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5873
+HEADER 5  - Mean B-factor of pocket residues  : 0.1637
+HEADER 6  - Hydrophobicity Score              : 18.1111
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 182.9342
+HEADER 10 - Pocket volume (convex hull)       : 3.1968
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM    298   CA VAL A  37      -0.428 -10.706  -0.848  0.00  0.00           C 0
+ATOM   1170    O ARG A 152      -2.693  -5.524  -0.537  0.00  0.00           O 0
+ATOM    302  CG1 VAL A  37      -1.637  -9.873  -2.915  0.00  0.00           C 0
+ATOM    300    O VAL A  37      -1.876 -12.562  -1.276  0.00  0.00           O 0
+ATOM    295  NH1 ARG A  36      -1.646 -11.457   3.817  0.00  0.00           N 0
+ATOM   1188  OG1 THR A 154      -0.416  -6.311   1.152  0.70  2.14           O 0
+ATOM   1182   CB ALA A 153      -4.896  -4.532   1.575  0.00  0.00           C 0
+ATOM    758  OE2 GLU A  98      -8.358  -6.080   1.517  0.00  0.00           O 0
+ATOM    303  CG2 VAL A  37      -0.306  -8.309  -1.528  0.00  0.00           C 0
+ATOM   1181    O ALA A 153      -2.649  -4.640   3.168  0.00  0.00           O 0
+ATOM     57   OG SER A   7      -4.559  -8.778   6.339  0.00  0.00           O 0
+ATOM    740    O LEU A  96      -5.573  -5.100   5.297  0.60  1.07           O 0
+ATOM     56   CB SER A   7      -5.852  -8.446   6.818  0.00  0.00           C 0
+ATOM    734   CA GLY A  95      -1.295  -6.834   5.523  0.00  0.00           C 0
+ATOM    296  NH2 ARG A  36      -2.343 -10.522   5.749  0.82  1.09           N 0
+TER
+END

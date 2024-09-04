@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0261
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8780
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5346
+HEADER 5  - Mean B-factor of pocket residues  : 0.3020
+HEADER 6  - Hydrophobicity Score              : -0.8571
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 253.2247
+HEADER 10 - Pocket volume (convex hull)       : 4.8564
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2066  OG1 THR A 278       5.144   9.468   6.343  0.00  0.00           O 0
+ATOM   2073   CG MET A 279       8.720   5.556   7.440  0.00  0.00           C 0
+ATOM    962  NE2 GLN A 129       8.818   7.735  11.340  0.00  0.00           N 0
+ATOM   1010  NE2 GLN A 134       7.609   3.956  10.413  0.00  0.00           N 0
+ATOM   1008   CD GLN A 134       6.503   3.616  11.060  0.00  0.00           C 0
+ATOM   1007   CG GLN A 134       6.381   4.100  12.488  0.00  0.00           C 0
+ATOM    995   CB ARG A 133       8.247   7.372  14.750  0.00  0.00           C 0
+ATOM    994    O ARG A 133       5.731   5.898  15.892  0.47  6.43           O 0
+ATOM   2067  CG2 THR A 278       5.383   7.406   5.143  0.00  0.00           C 0
+ATOM   1009  OE1 GLN A 134       5.616   2.936  10.545  0.18  8.57           O 0
+ATOM   2039    O ASN A 275       7.333   5.154   4.857  0.00  0.00           O 0
+ATOM   2043  ND2 ASN A 275       2.905   4.140   4.716  0.00  0.00           N 0
+ATOM   2040   CB ASN A 275       5.024   3.121   4.144  0.00  0.00           C 0
+ATOM   2096  OE1 GLU A 282       8.184  10.787  11.188  0.00  0.00           O 0
+ATOM    997   CD ARG A 133       9.003   9.562  15.705  0.00  0.00           C 0
+ATOM   1000  NH1 ARG A 133       7.298  10.804  17.591  0.00  0.00           N 0
+ATOM   2097  OE2 GLU A 282       9.522  11.382  12.827  0.00  0.00           O 0
+TER
+END

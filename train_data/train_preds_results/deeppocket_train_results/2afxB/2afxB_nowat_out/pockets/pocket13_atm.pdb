@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0666
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8657
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6213
+HEADER 5  - Mean B-factor of pocket residues  : 0.3308
+HEADER 6  - Hydrophobicity Score              : 1.2222
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.5664
+HEADER 10 - Pocket volume (convex hull)       : 14.5417
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    230  CG2 ILE B  62     -21.757 -25.038  79.886  0.00  0.00           C 0
+ATOM    224    N ILE B  62     -23.991 -24.371  77.978  0.00  0.00           N 0
+ATOM    232    N SER B  63     -23.229 -27.052  77.903  0.00  0.00           N 0
+ATOM    237   OG SER B  63     -24.994 -29.097  78.929  0.62  3.21           O 0
+ATOM    223   OG SER B  61     -26.780 -26.524  77.860  0.00  0.00           O 0
+ATOM    205  OE1 GLU B  58     -30.235 -20.615  85.453  0.00  0.00           O 0
+ATOM   2504   NZ LYS B 349     -23.898 -18.620  83.662  0.65  3.28           N 0
+ATOM    206  OE2 GLU B  58     -29.398 -18.580  85.749  0.44  7.50           O 0
+ATOM   1975   NZ LYS B 285     -23.471 -22.024  86.077  0.30  9.84           N 0
+ATOM    219   CA SER B  61     -26.398 -24.146  77.784  0.00  0.00           C 0
+ATOM    214    O THR B  60     -27.090 -21.964  79.293  0.45  6.43           O 0
+ATOM    222   CB SER B  61     -27.392 -25.280  77.536  0.00  0.00           C 0
+ATOM   2470  OD1 ASP B 345     -22.625 -21.081  79.972  0.00  0.00           O 0
+ATOM   2471  OD2 ASP B 345     -21.875 -21.444  82.026  0.81  2.14           O 0
+ATOM   1974   CE LYS B 285     -22.207 -22.790  86.209  0.00  0.00           C 0
+ATOM    196    O ALA B  57     -27.672 -18.961  81.727  0.53  4.29           O 0
+ATOM    201    O GLU B  58     -30.852 -21.208  80.828  0.00  0.00           O 0
+ATOM   2503   CE LYS B 349     -24.316 -18.309  82.246  0.00  0.00           C 0
+ATOM    199   CA GLU B  58     -30.311 -19.424  82.342  0.00  0.00           C 0
+TER
+END

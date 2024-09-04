@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0688
+HEADER 1  - Drug Score                        : 0.0072
+HEADER 2  - Number of alpha spheres           :    33
+HEADER 3  - Mean alpha-sphere radius          : 3.7698
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4766
+HEADER 5  - Mean B-factor of pocket residues  : 0.4521
+HEADER 6  - Hydrophobicity Score              : 0.4000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.2969
+HEADER 10 - Pocket volume (convex hull)       : 10.2442
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.2424
+ATOM   2028   CD PRO B 249     -26.281  85.283  21.125  0.00  0.00           C 0
+ATOM    855   NE ARG B 106     -27.391  83.235  16.755  0.00  0.00           N 0
+ATOM   2009    O ASN B 247     -28.982  82.503  22.271  0.46  1.07           O 0
+ATOM    901  OE1 GLN B 110     -33.494  83.254  19.259  0.88  9.64           O 0
+ATOM    902  NE2 GLN B 110     -32.277  81.396  19.043  0.69  1.09           N 0
+ATOM    852   CB ARG B 106     -30.074  82.447  15.673  0.00  0.00           C 0
+ATOM    859    N TYR B 107     -32.583  84.047  14.681  0.00  0.00           N 0
+ATOM    863   CB TYR B 107     -33.554  86.272  14.373  0.00  0.00           C 0
+ATOM    860   CA TYR B 107     -33.751  84.881  14.937  0.00  0.00           C 0
+ATOM   2840    N VAL B 351     -30.591  89.911  16.527  0.86  2.19           N 0
+ATOM    833    O ALA B 103     -30.191  85.693  13.622  0.45  2.14           O 0
+ATOM   2020  OD1 ASP B 248     -28.196  87.613  22.907  0.65  1.07           O 0
+ATOM   2839   NZ LYS B 350     -31.535  87.813  22.753  0.73  7.66           N 0
+ATOM    867  CE1 TYR B 107     -36.258  88.605  15.721  0.00  0.00           C 0
+ATOM    865  CD1 TYR B 107     -35.173  87.741  15.681  0.00  0.00           C 0
+ATOM   2843    O VAL B 351     -32.854  91.177  17.676  0.77  6.43           O 0
+ATOM   2838   CE LYS B 350     -31.927  88.736  21.649  0.00  0.00           C 0
+ATOM   2830    O GLY B 349     -27.119  87.106  17.042  0.57  1.07           O 0
+ATOM   2832   CA LYS B 350     -28.697  89.230  17.884  0.00  0.00           C 0
+ATOM   2015   CA ASP B 248     -27.912  84.808  23.453  0.00  0.00           C 0
+ATOM   2836   CG LYS B 350     -30.427  89.225  19.732  0.00  0.00           C 0
+ATOM   2835   CB LYS B 350     -28.962  89.441  19.379  0.00  0.00           C 0
+TER
+END

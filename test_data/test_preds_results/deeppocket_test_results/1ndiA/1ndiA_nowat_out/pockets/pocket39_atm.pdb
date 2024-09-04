@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    39:
+HEADER 0  - Pocket Score                      : -0.1001
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0819
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5816
+HEADER 5  - Mean B-factor of pocket residues  : 0.1362
+HEADER 6  - Hydrophobicity Score              : 12.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 220.9333
+HEADER 10 - Pocket volume (convex hull)       : 3.9828
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM    575   CD GLU A 100      27.615  39.043 108.990  0.00  0.00           C 0
+ATOM    620   CD LYS A 104      31.181  33.266 107.679  0.00  0.00           C 0
+ATOM    574   CG GLU A 100      27.778  38.341 107.656  0.00  0.00           C 0
+ATOM    576  OE1 GLU A 100      28.629  39.538 109.537  0.00  0.00           O 0
+ATOM    622   NZ LYS A 104      31.290  31.919 109.833  0.63  9.84           N 0
+ATOM    491  NH1 ARG A  90      22.670  34.000 110.875  0.53  4.37           N 0
+ATOM    492  NH2 ARG A  90      23.603  35.081 109.067  0.67  5.47           N 0
+ATOM    523   CE MET A  94      22.524  38.184 109.465  0.00  0.00           C 0
+ATOM    577  OE2 GLU A 100      26.469  39.101 109.488  0.48  7.50           O 0
+ATOM   4009  OE1 GLU A 529      24.342  32.113 114.200  0.17  9.64           O 0
+ATOM    586  NE1 TRP A 101      25.685  31.893 109.529  0.62  7.66           N 0
+ATOM    584  CD1 TRP A 101      26.127  32.418 108.339  0.00  0.00           C 0
+ATOM    573   CB GLU A 100      26.466  37.744 107.150  0.00  0.00           C 0
+ATOM    571    C GLU A 100      26.934  35.928 105.498  0.00  0.00           C 0
+TER
+END

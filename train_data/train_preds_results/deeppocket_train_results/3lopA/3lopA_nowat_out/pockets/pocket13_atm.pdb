@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0353
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6887
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4612
+HEADER 5  - Mean B-factor of pocket residues  : 0.2180
+HEADER 6  - Hydrophobicity Score              : 8.8750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 206.6893
+HEADER 10 - Pocket volume (convex hull)       : 10.4022
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM    491    O ALA A  99      40.948  53.666   0.886  0.61  5.36           O 0
+ATOM    492   CB ALA A  99      40.718  50.518   1.090  0.00  0.00           C 0
+ATOM    498   CG ARG A 100      41.534  52.410  -3.315  0.00  0.00           C 0
+ATOM    693   CB ALA A 128      44.088  49.294   1.860  0.00  0.00           C 0
+ATOM    500   NE ARG A 100      42.740  50.917  -4.839  0.62  7.66           N 0
+ATOM    685   CG GLU A 127      46.896  47.830  -2.508  0.00  0.00           C 0
+ATOM    503  NH2 ARG A 100      44.141  49.491  -5.969  0.52  3.28           N 0
+ATOM    688  OE2 GLU A 127      44.947  47.701  -3.850  0.65  2.14           O 0
+ATOM    690   CA ALA A 128      45.594  49.536   1.756  0.00  0.00           C 0
+ATOM    683    O GLU A 127      47.796  49.595   0.094  0.00  0.00           O 0
+ATOM   2220  NH1 ARG A 339      43.768  52.733   3.271  0.66  7.66           N 0
+ATOM    692    O ALA A 128      45.818  50.907   3.702  0.59  1.07           O 0
+ATOM    704  NH2 ARG A 129      49.150  54.621   3.754  0.00  0.00           N 0
+ATOM    472    O ARG A  96      39.580  49.966  -2.426  0.00  0.00           O 0
+ATOM    470   CA ARG A  96      39.641  47.580  -2.160  0.00  0.00           C 0
+ATOM    663    O VAL A 124      44.426  45.728   0.891  0.58  2.14           O 0
+TER
+END

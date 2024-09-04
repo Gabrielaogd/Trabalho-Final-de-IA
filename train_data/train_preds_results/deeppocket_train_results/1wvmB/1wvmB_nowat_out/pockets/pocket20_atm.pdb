@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0756
+HEADER 1  - Drug Score                        : 0.0674
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.9927
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5224
+HEADER 5  - Mean B-factor of pocket residues  : 0.1085
+HEADER 6  - Hydrophobicity Score              : 28.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 284.1231
+HEADER 10 - Pocket volume (convex hull)       : 11.3447
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 22.0000
+HEADER 13 - Number of apolar alpha sphere     :    23
+HEADER 14 - Proportion of apolar alpha sphere : 0.8519
+ATOM   2633    O ASN B 366      99.153   8.912   5.055  0.28  7.50           O 0
+ATOM   2639   CA GLY B 367     100.641  10.762   6.365  0.00  0.00           C 0
+ATOM   1356  CE1 PHE B 189     100.875  13.647   2.737  0.00  0.00           C 0
+ATOM   1354  CD1 PHE B 189      99.921  14.658   2.631  0.00  0.00           C 0
+ATOM   1358   CZ PHE B 189     101.435  13.346   3.980  0.00  0.00           C 0
+ATOM   1355  CD2 PHE B 189     100.079  15.062   4.989  0.00  0.00           C 0
+ATOM   2634   CB ASN B 366      99.969   9.709   2.157  0.00  0.00           C 0
+ATOM   2298  CE1 PHE B 321      93.704  11.835  -0.383  0.00  0.00           C 0
+ATOM   2636  OD1 ASN B 366      99.275   9.629  -0.112  0.55  8.57           O 0
+ATOM   2042  NE2 GLN B 285      96.722  14.341  -1.990  0.00  0.00           N 0
+ATOM   2300   CZ PHE B 321      93.123  10.670   0.104  0.00  0.00           C 0
+ATOM   1138   CB ASN B 159      97.073  14.768   7.355  0.00  0.00           C 0
+ATOM   1357  CE2 PHE B 189     101.035  14.057   5.107  0.00  0.00           C 0
+ATOM   1139   CG ASN B 159      97.894  13.656   7.960  0.00  0.00           C 0
+ATOM   1140  OD1 ASN B 159      97.355  12.623   8.367  0.00  0.00           O 0
+ATOM   1353   CG PHE B 189      99.514  15.374   3.752  0.00  0.00           C 0
+ATOM   1352   CB PHE B 189      98.495  16.477   3.630  0.00  0.00           C 0
+ATOM   1137    O ASN B 159      95.999  17.006   6.234  0.00  0.00           O 0
+ATOM   2070   OH TYR B 289      92.141  17.024  -1.047  0.00  0.00           O 0
+TER
+END

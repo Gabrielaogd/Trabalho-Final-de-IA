@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0050
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0271
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5581
+HEADER 5  - Mean B-factor of pocket residues  : 0.2360
+HEADER 6  - Hydrophobicity Score              : 24.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 321.6290
+HEADER 10 - Pocket volume (convex hull)       : 8.9197
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   1137   CB VAL A 155       2.086   4.132  27.405  0.00  0.00           C 0
+ATOM   1133    N VAL A 155      -0.337   4.285  27.924  0.65  3.28           N 0
+ATOM   1147  OD2 ASP A 156       1.095  -1.139  26.476  0.00  0.00           O 0
+ATOM   1018   CE MET A 140       3.854   4.181  32.895  0.00  0.00           C 0
+ATOM   1303    O THR A 176       7.194  -0.903  28.537  0.00  0.00           O 0
+ATOM   1304   CB THR A 176       5.526  -0.320  25.856  0.00  0.00           C 0
+ATOM   1306  CG2 THR A 176       6.084   1.073  25.580  0.00  0.00           C 0
+ATOM   1139  CG2 VAL A 155       2.491   5.040  28.556  0.00  0.00           C 0
+ATOM   1050  CG2 THR A 144      -1.064   5.228  34.050  0.00  0.00           C 0
+ATOM   1017   SD MET A 140       3.312   5.832  32.449  0.00  0.00           S 0
+ATOM   1300    N THR A 176       6.107  -2.615  26.577  0.62  1.09           N 0
+ATOM   1324  CG2 ILE A 178       6.665   4.689  29.566  0.00  0.00           C 0
+ATOM   1138  CG1 VAL A 155       3.105   4.237  26.261  0.00  0.00           C 0
+ATOM   1297   CB PRO A 175       6.542  -5.520  28.392  0.00  0.00           C 0
+ATOM   1294   CA PRO A 175       6.115  -4.978  27.030  0.00  0.00           C 0
+TER
+END

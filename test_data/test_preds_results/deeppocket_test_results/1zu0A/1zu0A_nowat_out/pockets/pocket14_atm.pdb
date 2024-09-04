@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0339
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0218
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5554
+HEADER 5  - Mean B-factor of pocket residues  : 0.3431
+HEADER 6  - Hydrophobicity Score              : 44.2000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 215.1483
+HEADER 10 - Pocket volume (convex hull)       : 3.5384
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   2940  ND2 ASN A 367      11.366 -43.636   8.478  0.00  0.00           N 0
+ATOM   2326   OH TYR A 287      14.280 -45.577  13.914  0.67  4.29           O 0
+ATOM   2294    O ILE A 284      10.843 -48.709  11.839  0.54  2.14           O 0
+ATOM   2297  CG2 ILE A 284      12.011 -50.580   9.308  0.00  0.00           C 0
+ATOM   2323  CE1 TYR A 287      11.903 -45.858  14.151  0.00  0.00           C 0
+ATOM   2959   CB GLN A 370      11.263 -46.511   1.327  0.00  0.00           C 0
+ATOM   2960   CG GLN A 370      12.554 -47.062   0.693  0.00  0.00           C 0
+ATOM   2936    O ASN A 367       9.300 -47.149   4.545  0.00  0.00           O 0
+ATOM   2971  CD2 LEU A 371      11.211 -51.113   4.945  0.00  0.00           C 0
+ATOM   2939  OD1 ASN A 367      12.394 -44.051   6.526  0.00  0.00           O 0
+ATOM   2938   CG ASN A 367      11.454 -44.238   7.297  0.00  0.00           C 0
+ATOM   2937   CB ASN A 367      10.332 -45.198   6.935  0.00  0.00           C 0
+ATOM   2969   CG LEU A 371       9.968 -50.244   5.104  0.00  0.00           C 0
+TER
+END

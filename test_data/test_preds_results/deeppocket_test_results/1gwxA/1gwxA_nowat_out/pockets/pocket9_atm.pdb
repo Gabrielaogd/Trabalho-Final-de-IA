@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0477
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8864
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5446
+HEADER 5  - Mean B-factor of pocket residues  : 0.4122
+HEADER 6  - Hydrophobicity Score              : 31.2000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.7092
+HEADER 10 - Pocket volume (convex hull)       : 2.0439
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM    794   CG PRO A 304      13.073  21.317  77.692  0.00  0.00           C 0
+ATOM    793   CB PRO A 304      13.984  21.760  78.777  0.00  0.00           C 0
+ATOM     56   CB PHE A 214      11.478  14.068  81.613  0.00  0.00           C 0
+ATOM     59  CD2 PHE A 214      13.922  14.541  81.249  0.00  0.00           C 0
+ATOM     83   CG HIS A 217      10.880  16.495  76.210  0.00  0.00           C 0
+ATOM     85  CD2 HIS A 217      10.368  17.710  75.915  0.00  0.00           C 0
+ATOM     82   CB HIS A 217      10.235  15.227  76.659  0.00  0.00           C 0
+ATOM     84  ND1 HIS A 217      12.240  16.588  76.003  0.69  3.28           N 0
+ATOM     87  NE2 HIS A 217      11.418  18.512  75.540  0.44  7.66           N 0
+ATOM     86  CE1 HIS A 217      12.535  17.812  75.600  0.00  0.00           C 0
+ATOM    795   CD PRO A 304      13.945  20.354  76.871  0.00  0.00           C 0
+ATOM    801   OG SER A 305      16.670  18.909  80.839  0.73  3.21           O 0
+ATOM    787  CG2 ILE A 303      17.359  17.688  77.373  0.00  0.00           C 0
+TER
+END

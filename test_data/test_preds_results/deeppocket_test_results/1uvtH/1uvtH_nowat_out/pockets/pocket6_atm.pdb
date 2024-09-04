@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0448
+HEADER 1  - Drug Score                        : 0.0030
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.2010
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7341
+HEADER 5  - Mean B-factor of pocket residues  : 0.2886
+HEADER 6  - Hydrophobicity Score              : 34.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 272.0706
+HEADER 10 - Pocket volume (convex hull)       : 8.5586
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM   1875  CD2 PHE H 232      34.801  75.912  40.396  0.00  0.00           C 0
+ATOM   1008    O ALA H 129      30.309  71.678  38.793  0.54  1.07           O 0
+ATOM   1009   CB ALA H 129      32.513  74.046  38.275  0.00  0.00           C 0
+ATOM   1038  CD1 LEU H 130      33.357  70.503  39.933  0.00  0.00           C 0
+ATOM   1860  NE2 HIS H 230      35.839  70.861  42.571  0.62  6.56           N 0
+ATOM   1859  CE1 HIS H 230      36.320  71.896  41.869  0.00  0.00           C 0
+ATOM   1007    C ALA H 129      30.345  72.789  38.262  0.00  0.00           C 0
+ATOM   1011   CA ALA H 129A     28.123  73.382  39.080  0.00  0.00           C 0
+ATOM   1010    N ALA H 129A     29.338  73.652  38.320  0.00  0.00           N 0
+ATOM   1877  CE2 PHE H 232      34.013  77.036  40.564  0.00  0.00           C 0
+ATOM   1014   CB ALA H 129A     27.334  74.665  39.265  0.00  0.00           C 0
+ATOM    991    O LYS H 126      29.667  76.448  37.946  0.51  3.21           O 0
+ATOM    992   CB LYS H 126      30.555  79.639  38.551  0.00  0.00           C 0
+ATOM    989   CA LYS H 126      31.090  78.368  37.886  0.00  0.00           C 0
+ATOM   1886   NE ARG H 233      35.943  72.979  45.964  0.63  6.56           N 0
+ATOM   1889  NH2 ARG H 233      34.702  73.421  47.857  0.00  8.75           N 0
+ATOM   1887   CZ ARG H 233      35.839  73.515  47.178  0.00  0.00           C 0
+ATOM   1884   CG ARG H 233      37.330  74.361  44.463  0.00  0.00           C 0
+TER
+END

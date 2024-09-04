@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0135
+HEADER 1  - Drug Score                        : 0.0117
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.0624
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5792
+HEADER 5  - Mean B-factor of pocket residues  : 0.3865
+HEADER 6  - Hydrophobicity Score              : 48.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5833
+HEADER 9  - Pocket volume (Monte Carlo)       : 496.6743
+HEADER 10 - Pocket volume (convex hull)       : 54.5723
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.1765
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.6800
+ATOM    700   CB ALA A  87      -5.670  22.557 -19.891  0.00  0.00           C 0
+ATOM    490  OE1AGLN A  60      -8.871  27.116 -22.487  0.00  0.00           O 0
+ATOM    508  CD2 LEU A  62      -9.022  24.423 -19.890  0.00  0.00           C 0
+ATOM    507  CD1 LEU A  62      -7.646  25.296 -17.974  0.00  0.00           C 0
+ATOM    722  CD1 LEU A  90      -1.899  24.217 -19.056  0.00  0.00           C 0
+ATOM    694    O ALA A  86      -3.412  22.520 -23.069  0.00  0.00           O 0
+ATOM    461  CD2 HIS A  57      -6.260  29.406 -18.079  0.00  0.00           C 0
+ATOM    695   CB ALA A  86      -5.481  21.982 -25.121  0.00  0.00           C 0
+ATOM    693    C ALA A  86      -4.269  21.632 -22.967  0.00  0.00           C 0
+ATOM     13   SDAMET A   1      -3.213  27.491 -16.480  0.00  0.00           S 0
+ATOM    463  NE2 HIS A  57      -5.243  30.317 -18.004  0.00  0.00           N 0
+ATOM     15   CEAMET A   1      -1.426  27.486 -16.376  0.00  0.00           C 0
+ATOM    683   CB ALA A  84      -9.153  20.498 -21.201  0.00  0.00           C 0
+ATOM    484   CBAGLN A  60     -11.229  27.368 -20.792  0.00  0.00           C 0
+ATOM    497    O VAL A  61     -12.583  23.209 -19.733  0.78  3.21           O 0
+ATOM    129  CG2 THR A  15     -15.308  21.917 -21.979  0.00  0.00           C 0
+ATOM    486   CGAGLN A  60     -10.875  28.276 -21.897  0.00  0.00           C 0
+ATOM    128  OG1 THR A  15     -17.352  22.687 -23.013  0.43  7.50           O 0
+ATOM    494    N VAL A  61     -13.632  25.841 -19.080  0.62  1.09           N 0
+ATOM    154  CE1 PHE A  19     -12.651  19.470 -20.914  0.00  0.00           C 0
+ATOM    478   CAAGLN A  60     -12.523  27.736 -20.073  0.00  0.00           C 0
+ATOM    475    O GLY A  59     -14.309  29.816 -20.512  0.00  0.00           O 0
+TER
+END

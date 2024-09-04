@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0148
+HEADER 1  - Drug Score                        : 0.0100
+HEADER 2  - Number of alpha spheres           :    36
+HEADER 3  - Mean alpha-sphere radius          : 3.8573
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4565
+HEADER 5  - Mean B-factor of pocket residues  : 0.2842
+HEADER 6  - Hydrophobicity Score              : 46.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 6.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 302.0855
+HEADER 10 - Pocket volume (convex hull)       : 19.7760
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.3611
+ATOM    949   CB ARG A 241      44.635  48.395  20.464  0.00  0.00           C 0
+ATOM    950   CG ARG A 241      43.247  48.215  19.851  0.00  0.00           C 0
+ATOM    946   CA ARG A 241      44.843  47.584  21.749  0.00  0.00           C 0
+ATOM    953   CZ ARG A 241      43.212  51.418  19.648  0.00  0.00           C 0
+ATOM   1167  CE2 TRP A 269      43.760  53.586  26.877  0.00  0.00           C 0
+ATOM    955  NH2 ARG A 241      42.642  52.566  19.990  0.00  0.00           N 0
+ATOM   1171  CH2 TRP A 269      41.757  52.323  26.994  0.00  0.00           C 0
+ATOM   1169  CZ2 TRP A 269      42.363  53.539  26.798  0.00  0.00           C 0
+ATOM   1166  NE1 TRP A 269      44.617  54.644  26.727  0.27  8.75           N 0
+ATOM    954  NH1 ARG A 241      44.509  51.238  19.870  0.00  0.00           N 0
+ATOM   1168  CE3 TRP A 269      43.899  51.212  27.343  0.00  0.00           C 0
+ATOM   1165  CD2 TRP A 269      44.543  52.443  27.146  0.00  0.00           C 0
+ATOM    943  OG1 THR A 240      47.813  50.632  23.792  0.00  0.00           O 0
+ATOM   1164  CD1 TRP A 269      45.908  54.202  26.892  0.00  0.00           C 0
+ATOM   1163   CG TRP A 269      45.916  52.861  27.150  0.00  0.00           C 0
+ATOM    984  NH1 ARG A 244      41.616  44.361  25.825  0.57  6.56           N 0
+ATOM   1170  CZ3 TRP A 269      42.507  51.164  27.266  0.00  0.00           C 0
+ATOM    985  NH2 ARG A 244      41.200  44.699  28.058  0.32  4.37           N 0
+ATOM    973  CE2 PHE A 243      45.293  45.314  26.037  0.00  0.00           C 0
+ATOM   1196  CG2 ILE A 272      44.422  47.046  30.447  0.00  0.00           C 0
+ATOM    948    O ARG A 241      43.360  45.752  22.174  0.64  5.36           O 0
+ATOM    952   NE ARG A 241      42.483  50.457  19.088  0.63  4.37           N 0
+ATOM    941    O THR A 240      45.553  48.160  24.324  0.56  6.43           O 0
+TER
+END

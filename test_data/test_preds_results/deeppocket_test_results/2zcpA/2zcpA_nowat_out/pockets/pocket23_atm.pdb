@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0872
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1654
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6363
+HEADER 5  - Mean B-factor of pocket residues  : 0.3196
+HEADER 6  - Hydrophobicity Score              : 3.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.6709
+HEADER 10 - Pocket volume (convex hull)       : 2.3364
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   2336   CG HIS A 278      77.149 -20.717  12.154  0.00  0.00           C 0
+ATOM   2338  CD2 HIS A 278      78.340 -21.026  12.716  0.00  0.00           C 0
+ATOM   2279  NH2 ARG A 271      78.497 -13.087   9.331  0.00  0.00           N 0
+ATOM   2309   CD LYS A 275      79.004 -14.646  15.244  0.00  0.00           C 0
+ATOM   2308   CG LYS A 275      77.694 -15.409  15.422  0.00  0.00           C 0
+ATOM   2277   CZ ARG A 271      77.335 -12.546   9.674  0.00  0.00           C 0
+ATOM   2302   CB ALA A 274      72.677 -14.772  10.671  0.00  0.00           C 0
+ATOM   2278  NH1 ARG A 271      76.697 -13.012  10.732  0.51  1.09           N 0
+ATOM   2304   CA LYS A 275      75.549 -15.805  14.016  0.00  0.00           C 0
+ATOM   2307   CB LYS A 275      76.520 -14.765  14.603  0.00  0.00           C 0
+ATOM   2335   CB HIS A 278      76.015 -19.878  12.656  0.00  0.00           C 0
+ATOM   2301    O ALA A 274      73.777 -17.175  12.541  0.46  8.57           O 0
+ATOM   2337  ND1 HIS A 278      77.051 -21.493  11.017  0.00  0.00           N 0
+TER
+END

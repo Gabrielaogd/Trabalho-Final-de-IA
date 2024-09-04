@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0206
+HEADER 1  - Drug Score                        : 0.0142
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.0099
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5217
+HEADER 5  - Mean B-factor of pocket residues  : 0.4586
+HEADER 6  - Hydrophobicity Score              : 38.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 243.9966
+HEADER 10 - Pocket volume (convex hull)       : 6.9089
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM   1552  OD1 ASN B 193      78.749  86.705  44.685  0.57  1.07           O 0
+ATOM   1542   NE ARG B 192      79.375  83.766  40.728  0.62  2.19           N 0
+ATOM   1543   CZ ARG B 192      79.191  82.725  41.539  0.00  0.00           C 0
+ATOM   1516  CD1 LEU B 189      73.768  85.363  45.537  0.00  0.00           C 0
+ATOM   1544  NH1 ARG B 192      79.445  82.836  42.838  0.33  3.28           N 0
+ATOM   1541   CD ARG B 192      79.844  85.084  41.175  0.00  0.00           C 0
+ATOM   1536   CA ARG B 192      77.981  87.659  40.313  0.00  0.00           C 0
+ATOM   1553  ND2 ASN B 193      77.419  88.537  44.632  0.53  9.84           N 0
+ATOM   1514   CB LEU B 189      72.499  87.388  44.897  0.00  0.00           C 0
+ATOM   1535    N ARG B 192      76.953  88.391  39.581  0.71  4.37           N 0
+ATOM   1527    C HIS B 191      76.367  89.478  40.089  0.00  0.00           C 0
+ATOM    889  CD1ALEU B 114      70.683  85.016  42.989  0.00  0.00           C 0
+ATOM   1545  NH2 ARG B 192      78.753  81.570  41.062  0.28  7.66           N 0
+ATOM   1539   CB ARG B 192      78.642  86.558  39.478  0.00  0.00           C 0
+ATOM   1521    O THR B 190      72.575  89.010  39.349  0.33  9.64           O 0
+ATOM   1520    C THR B 190      72.914  89.823  40.228  0.00  0.00           C 0
+ATOM   1518    N THR B 190      72.375  90.041  42.684  0.47  2.19           N 0
+ATOM    513   OH TYR B  62      75.094  80.094  43.626  0.00  0.00           O 0
+ATOM    511  CE2 TYR B  62      72.729  79.648  43.909  0.00  0.00           C 0
+ATOM    891  CD2ALEU B 114      69.359  82.968  42.261  0.00  0.00           C 0
+ATOM    735   CEAMET B  92      69.767  79.658  41.496  0.00  0.00           C 0
+TER
+END

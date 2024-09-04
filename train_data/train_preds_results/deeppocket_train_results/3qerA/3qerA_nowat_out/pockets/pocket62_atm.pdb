@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    62:
+HEADER 0  - Pocket Score                      : -0.1423
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9369
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5566
+HEADER 5  - Mean B-factor of pocket residues  : 0.1543
+HEADER 6  - Hydrophobicity Score              : -3.2500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.5033
+HEADER 10 - Pocket volume (convex hull)       : 1.5646
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   6265   CD GLU A 762      26.775  38.538 -45.664  0.00  0.00           C 0
+ATOM   6264   CG GLU A 762      27.565  37.533 -44.850  0.00  0.00           C 0
+ATOM   6307  OE1 GLU A 766      27.997  38.916 -39.160  0.38  9.64           O 0
+ATOM   6266  OE1 GLU A 762      25.527  38.431 -45.706  0.65  5.36           O 0
+ATOM   6267  OE2 GLU A 762      27.407  39.436 -46.257  0.00  0.00           O 0
+ATOM   6304   CB GLU A 766      26.910  36.137 -38.736  0.00  0.00           C 0
+ATOM   6262    O GLU A 762      27.960  35.253 -42.398  0.57  2.14           O 0
+ATOM   6179  NH2 ARG A 751      22.138  37.115 -44.336  0.00  0.00           N 0
+ATOM   6275  CD2 TYR A 763      22.638  34.623 -41.295  0.00  0.00           C 0
+ATOM   6269   CA TYR A 763      25.555  33.888 -42.479  0.00  0.00           C 0
+ATOM   6305   CG GLU A 766      26.654  37.395 -37.927  0.00  0.00           C 0
+ATOM   6277  CE2 TYR A 763      21.722  34.670 -40.246  0.00  0.00           C 0
+TER
+END

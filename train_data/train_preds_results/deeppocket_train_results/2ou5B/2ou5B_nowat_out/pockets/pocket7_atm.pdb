@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1960
+HEADER 1  - Drug Score                        : 0.3507
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9087
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6471
+HEADER 5  - Mean B-factor of pocket residues  : 0.0414
+HEADER 6  - Hydrophobicity Score              : 57.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.6728
+HEADER 10 - Pocket volume (convex hull)       : 2.8813
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.9474
+ATOM    645   CGATRP B  83      28.082  33.356  74.391  0.00  0.00           C 0
+ATOM    649  CD2ATRP B  83      27.571  33.157  75.730  0.00  0.00           C 0
+ATOM    712   CD GLN B  90      33.275  34.485  77.901  0.00  0.00           C 0
+ATOM    713  OE1 GLN B  90      33.754  35.138  76.980  0.84  9.64           O 0
+ATOM    629  NE2 HIS B  81      33.656  34.070  74.264  0.69  2.19           N 0
+ATOM    643   CBATRP B  83      29.396  32.834  73.803  0.00  0.00           C 0
+ATOM    628  CE1 HIS B  81      33.134  33.887  73.054  0.00  0.00           C 0
+ATOM    661  CH2ATRP B  83      26.056  33.144  78.070  0.00  0.00           C 0
+ATOM   1206  CD2 LEU B 153      26.908  35.381  81.598  0.00  0.00           C 0
+ATOM    659  CZ3ATRP B  83      27.266  32.485  78.029  0.00  0.00           C 0
+ATOM    653  CE2ATRP B  83      26.331  33.822  75.807  0.00  0.00           C 0
+ATOM   1188  CD2 LEU B 151      31.370  35.234  82.502  0.00  0.00           C 0
+ATOM   1205  CD1 LEU B 153      27.947  33.060  81.470  0.00  0.00           C 0
+ATOM    714  NE2 GLN B  90      33.199  34.926  79.130  0.76  7.66           N 0
+ATOM    647  CD1ATRP B  83      27.138  34.089  73.734  0.00  0.00           C 0
+ATOM    655  CE3ATRP B  83      28.041  32.481  76.864  0.00  0.00           C 0
+ATOM    657  CZ2ATRP B  83      25.562  33.828  76.980  0.00  0.00           C 0
+ATOM    710   CB GLN B  90      31.753  32.530  78.579  0.00  0.00           C 0
+TER
+END

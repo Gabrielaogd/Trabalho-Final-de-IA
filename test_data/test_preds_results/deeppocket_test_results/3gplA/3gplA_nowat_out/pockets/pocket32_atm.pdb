@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0160
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9944
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5727
+HEADER 5  - Mean B-factor of pocket residues  : 0.1913
+HEADER 6  - Hydrophobicity Score              : 5.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.8009
+HEADER 10 - Pocket volume (convex hull)       : 3.6200
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   2897  NH2 ARG A 586      46.554  -7.224  23.626  0.68  4.37           N 0
+ATOM   2768  NE2 GLN A 568      43.277  -5.043  23.997  0.39  3.28           N 0
+ATOM   2739  CE2 TYR A 565      45.324  -0.987  27.235  0.00  0.00           C 0
+ATOM   2896  NH1 ARG A 586      46.821  -5.518  22.128  0.59  9.84           N 0
+ATOM   2811    O GLY A 574      50.494  -5.954  21.592  0.00  0.00           O 0
+ATOM   2741   OH TYR A 565      47.442  -0.924  28.343  0.00  0.00           O 0
+ATOM   2808    N GLY A 574      49.940  -8.355  23.615  0.57  7.66           N 0
+ATOM   2770   CA ALA A 569      46.162  -7.282  28.155  0.00  0.00           C 0
+ATOM   2802   CA PRO A 573      48.999  -9.645  25.463  0.00  0.00           C 0
+ATOM   2740   CZ TYR A 565      46.094  -1.196  28.371  0.00  0.00           C 0
+ATOM   2773   CB ALA A 569      46.428  -6.025  28.956  0.00  0.00           C 0
+ATOM   2805   CB PRO A 573      50.029 -10.089  26.492  0.00  0.00           C 0
+ATOM   2772    O ALA A 569      47.775  -8.927  28.814  0.45  8.57           O 0
+TER
+END

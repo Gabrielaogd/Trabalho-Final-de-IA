@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : -0.0275
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7738
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4942
+HEADER 5  - Mean B-factor of pocket residues  : 0.3513
+HEADER 6  - Hydrophobicity Score              : 10.6250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 282.3035
+HEADER 10 - Pocket volume (convex hull)       : 13.4312
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    252  OD2AASP A  32      11.185  29.848   4.711  0.52  6.43           O 0
+ATOM    888   CD ARG A 116      11.478  26.486   4.155  0.00  0.00           C 0
+ATOM    892  NH2 ARG A 116      13.132  28.493   3.062  0.00  0.00           N 0
+ATOM    197   CB ALA A  24      15.201  30.316  10.464  0.00  0.00           C 0
+ATOM    272  NH2 ARG A  34      11.793  23.149   5.156  0.00  0.00           N 0
+ATOM    174    N THR A  22       8.708  25.661  10.635  0.46  2.19           N 0
+ATOM    245    O ASP A  32       6.877  27.096   6.863  0.00  0.00           O 0
+ATOM    890   CZ ARG A 116      13.514  27.221   2.982  0.00  0.00           C 0
+ATOM    891  NH1 ARG A 116      14.658  26.908   2.391  0.00  0.00           N 0
+ATOM    269   NE ARG A  34       9.580  22.662   4.784  0.00  0.00           N 0
+ATOM    162    O LEU A  20       8.237  22.522   9.511  0.47  2.14           O 0
+ATOM    168   CA PRO A  21       6.769  24.792   9.432  0.00  0.00           C 0
+ATOM    889   NE ARG A 116      12.749  26.262   3.484  0.41  2.19           N 0
+ATOM    246   CBAASP A  32       9.113  28.843   5.526  0.00  0.00           C 0
+ATOM    177    O THR A  22      10.310  27.889  10.654  0.17  5.36           O 0
+ATOM    179  OG1 THR A  22      10.424  23.669  11.120  0.74  6.43           O 0
+ATOM    178   CB THR A  22      10.747  24.837  11.882  0.00  0.00           C 0
+ATOM    193    N ALA A  24      13.344  29.576  11.854  0.18  1.09           N 0
+ATOM    194   CA ALA A  24      14.799  29.456  11.626  0.00  0.00           C 0
+ATOM    184    O TYR A  23      13.260  27.993  13.449  0.48  2.14           O 0
+TER
+END

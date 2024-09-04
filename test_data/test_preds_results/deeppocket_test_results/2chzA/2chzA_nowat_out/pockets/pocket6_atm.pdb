@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0793
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.5790
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3860
+HEADER 5  - Mean B-factor of pocket residues  : 0.5055
+HEADER 6  - Hydrophobicity Score              : 45.4000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 129.5716
+HEADER 10 - Pocket volume (convex hull)       : 3.3404
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM   6671   CB LYS A1078      31.772  31.144  17.352  0.00  0.00           C 0
+ATOM   6701    N VAL A1082      32.818  29.966  22.160  0.00  0.00           N 0
+ATOM   6707  CG2 VAL A1082      30.879  27.924  21.408  0.00  0.00           C 0
+ATOM   6679    O GLY A1079      36.615  29.235  18.706  0.59  6.43           O 0
+ATOM   6715  OE1 GLN A1083      37.079  25.099  22.814  0.77  3.21           O 0
+ATOM   5904  CG1 VAL A 983      32.027  24.011  19.991  0.00  0.00           C 0
+ATOM   6705   CB VAL A1082      31.943  27.646  22.455  0.00  0.00           C 0
+ATOM   6676    N GLY A1079      35.059  30.859  16.320  0.58  1.09           N 0
+ATOM   6645    O CYS A1075      35.002  28.299  14.762  0.54  1.07           O 0
+ATOM   5905  CG2 VAL A 983      32.170  24.912  17.656  0.00  0.00           C 0
+ATOM   5945  CG2 THR A 988      38.819  26.827  19.387  0.00  0.00           C 0
+ATOM   5916    O PHE A 985      34.418  22.392  17.428  0.73  2.14           O 0
+ATOM   5931    N LEU A 987      37.657  22.979  16.674  0.69  1.09           N 0
+ATOM   6713   CG GLN A1083      37.458  27.473  22.681  0.00  0.00           C 0
+ATOM   6708    N GLN A1083      34.751  28.725  23.632  0.30  1.09           N 0
+ATOM   5934    O LEU A 987      38.084  25.702  15.113  0.53  1.07           O 0
+ATOM   6646   CB CYS A1075      34.512  25.206  14.158  0.00  0.00           C 0
+ATOM   5925   CA VAL A 986      36.846  21.878  18.665  0.00  0.00           C 0
+TER
+END

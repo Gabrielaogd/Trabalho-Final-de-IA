@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0127
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8884
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4870
+HEADER 5  - Mean B-factor of pocket residues  : 0.2954
+HEADER 6  - Hydrophobicity Score              : 22.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 248.4198
+HEADER 10 - Pocket volume (convex hull)       : 9.4455
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   4283    N SER A 600      41.398  63.916  52.788  0.00  0.00           N 0
+ATOM   4240  OG1 THR A 594      44.937  60.567  52.936  0.00  0.00           O 0
+ATOM   4286    O SER A 600      41.528  66.654  53.585  0.69  3.21           O 0
+ATOM   4021    O TRP A 567      44.706  64.760  58.130  0.43  6.43           O 0
+ATOM   4282   CB ALA A 599      43.096  64.161  50.009  0.00  0.00           C 0
+ATOM   4054   CG PRO A 570      46.778  61.290  58.736  0.00  0.00           C 0
+ATOM   4055   CD PRO A 570      47.744  62.448  58.637  0.00  0.00           C 0
+ATOM   4213    O GLY A 590      45.593  58.182  54.867  0.52  4.29           O 0
+ATOM   4334  CE1 PHE A 606      42.430  60.549  59.118  0.00  0.00           C 0
+ATOM   4332  CD1 PHE A 606      41.573  61.501  58.585  0.00  0.00           C 0
+ATOM   4287   CB SER A 600      40.785  64.153  55.161  0.00  0.00           C 0
+ATOM   4035    O LYS A 568      48.083  66.144  57.640  0.00  0.00           O 0
+ATOM   4030  CZ3 TRP A 567      42.367  68.307  56.578  0.00  0.00           C 0
+ATOM   4033   CA LYS A 568      46.153  66.968  58.802  0.00  0.00           C 0
+ATOM   4037   CG LYS A 568      45.362  69.383  58.973  0.00  0.00           C 0
+ATOM   4288   OG SER A 600      40.541  62.762  55.340  0.52  2.14           O 0
+TER
+END

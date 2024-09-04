@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0812
+HEADER 1  - Drug Score                        : 0.2820
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.9525
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5168
+HEADER 5  - Mean B-factor of pocket residues  : 0.0612
+HEADER 6  - Hydrophobicity Score              : 3.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 373.0460
+HEADER 10 - Pocket volume (convex hull)       : 15.9716
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.5714
+ATOM    915   CG PRO Q 115      16.264   3.154  40.868  0.00  0.00           C 0
+ATOM   1316   CG PRO Q 168       9.499   1.881  42.762  0.00  0.00           C 0
+ATOM    945  NH2 ARG Q 118      12.032  -3.476  43.533  0.48  7.66           N 0
+ATOM    944  NH1 ARG Q 118      11.542  -1.830  44.971  0.64  2.19           N 0
+ATOM    920    O ARG Q 116      18.420   0.982  44.269  0.79  8.57           O 0
+ATOM    853   CG GLU Q 108      13.620   0.667  48.394  0.00  0.00           C 0
+ATOM    854   CD GLU Q 108      12.420   0.909  47.434  0.00  0.00           C 0
+ATOM    940   CG ARG Q 118      15.355  -2.208  46.520  0.00  0.00           C 0
+ATOM    914   CB PRO Q 115      16.296   3.118  42.440  0.00  0.00           C 0
+ATOM    943   CZ ARG Q 118      12.331  -2.824  44.622  0.00  0.00           C 0
+ATOM    939   CB ARG Q 118      16.373  -3.245  47.066  0.00  0.00           C 0
+ATOM    942   NE ARG Q 118      13.422  -3.229  45.317  0.71  5.47           N 0
+ATOM    935    N ARG Q 118      18.409  -2.324  46.063  0.00  0.00           N 0
+ATOM    933  CG1 VAL Q 117      21.930  -2.244  43.160  0.00  0.00           C 0
+ATOM    929   CA VAL Q 117      20.053  -1.245  44.620  0.00  0.00           C 0
+ATOM    932   CB VAL Q 117      21.238  -2.272  44.551  0.00  0.00           C 0
+ATOM    876  NE1 TRP Q 110      13.646   4.341  46.051  0.59  1.09           N 0
+ATOM    881  CH2 TRP Q 110      12.785   4.336  42.467  0.00  0.00           C 0
+ATOM   1315   CB PRO Q 168       9.434   3.060  41.900  0.00  0.00           C 0
+ATOM    879  CZ2 TRP Q 110      12.761   3.877  43.754  0.00  0.00           C 0
+ATOM    852   CB GLU Q 108      14.443   1.930  48.572  0.00  0.00           C 0
+TER
+END

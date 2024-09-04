@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0313
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8968
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4902
+HEADER 5  - Mean B-factor of pocket residues  : 0.1745
+HEADER 6  - Hydrophobicity Score              : 12.6250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 208.7317
+HEADER 10 - Pocket volume (convex hull)       : 8.6674
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM   2433  CD1 LEU A 389       9.700  18.592  36.893  0.00  0.00           C 0
+ATOM   2769  OE1 GLU A 432       5.750  20.051  43.657  0.00  0.00           O 0
+ATOM   2399   CD ARG A 385       8.637  14.558  42.320  0.00  0.00           C 0
+ATOM   2397   CB ARG A 385      10.539  16.052  41.608  0.00  0.00           C 0
+ATOM   2735   CB LYS A 428       6.102  21.069  37.078  0.00  0.00           C 0
+ATOM   2734    O LYS A 428       6.831  22.985  39.597  0.74  2.14           O 0
+ATOM   2737   CD LYS A 428       5.103  19.063  35.988  0.00  0.00           C 0
+ATOM   2761  OD2 ASP A 431       2.496  23.867  41.210  0.00  0.00           O 0
+ATOM   2736   CG LYS A 428       4.854  20.510  36.398  0.00  0.00           C 0
+ATOM   2409   CG MET A 386      11.530  21.304  41.809  0.00  0.00           C 0
+ATOM   2766   CB GLU A 432       7.497  22.628  42.985  0.00  0.00           C 0
+ATOM   2767   CG GLU A 432       7.491  21.662  44.105  0.00  0.00           C 0
+ATOM   2374    O LYS A 382      11.470  18.935  43.852  0.00  0.00           O 0
+ATOM   2404    N MET A 386      12.540  18.533  41.039  0.00  0.00           N 0
+ATOM   2732   CA LYS A 428       6.003  22.547  37.416  0.00  0.00           C 0
+ATOM   2741   CA VAL A 429       9.379  23.529  38.820  0.00  0.00           C 0
+TER
+END

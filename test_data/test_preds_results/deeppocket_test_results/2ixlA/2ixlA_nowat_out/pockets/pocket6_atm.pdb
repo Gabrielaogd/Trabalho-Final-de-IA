@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0973
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7266
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5071
+HEADER 5  - Mean B-factor of pocket residues  : 0.0919
+HEADER 6  - Hydrophobicity Score              : 27.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 206.7756
+HEADER 10 - Pocket volume (convex hull)       : 6.2923
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    245   CD ARG A  33      21.819 -11.219  13.616  0.00  0.00           C 0
+ATOM    246   NE ARG A  33      22.203 -10.546  12.369  0.00  0.00           N 0
+ATOM    243   CB ARG A  33      20.026 -12.651  12.469  0.00  0.00           C 0
+ATOM    248  NH1 ARG A  33      22.410  -8.432  13.302  0.00  0.00           N 0
+ATOM    247   CZ ARG A  33      22.472  -9.243  12.251  0.00  0.00           C 0
+ATOM    257    O TRP A  35      16.770  -8.701   7.951  0.00  0.00           O 0
+ATOM    249  NH2 ARG A  33      22.791  -8.737  11.065  0.00  0.00           N 0
+ATOM    274  CD1 PHE A  36      18.831  -4.179   8.355  0.00  0.00           C 0
+ATOM    242    O ARG A  33      17.189 -13.964  11.830  0.56  5.36           O 0
+ATOM    254    N TRP A  35      17.215 -11.471   7.704  0.00  0.00           N 0
+ATOM    272   CB PHE A  36      19.228  -6.137   6.819  0.00  0.00           C 0
+ATOM    229  OD1 ASP A  31      21.528 -12.540   9.396  0.49  1.07           O 0
+ATOM    212    O HIS A  29      20.150  -9.783   4.758  0.50  1.07           O 0
+ATOM    230  OD2 ASP A  31      23.338 -11.303   9.664  0.45  3.21           O 0
+ATOM    241    C ARG A  33      18.277 -13.946  11.229  0.00  0.00           C 0
+ATOM    256    C TRP A  35      17.427  -9.051   6.968  0.00  0.00           C 0
+ATOM    268    N PHE A  36      18.037  -8.202   6.142  0.00  0.00           N 0
+TER
+END

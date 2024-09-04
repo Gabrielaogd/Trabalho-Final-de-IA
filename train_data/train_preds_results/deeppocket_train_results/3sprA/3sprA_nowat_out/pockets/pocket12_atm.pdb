@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0436
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9655
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5689
+HEADER 5  - Mean B-factor of pocket residues  : 0.5038
+HEADER 6  - Hydrophobicity Score              : -23.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 269.3876
+HEADER 10 - Pocket volume (convex hull)       : 7.1910
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   1182    O GLY A 137      32.454 -11.537 -26.325  0.00  0.00           O 0
+ATOM   1184   CA ASP A 138      34.960 -12.675 -26.880  0.00  0.00           C 0
+ATOM   1219   CEALYS A 141      28.728 -17.505 -29.650  0.00  0.00           C 0
+ATOM   1189  OD1 ASP A 138      35.421 -11.155 -29.282  0.00  0.00           O 0
+ATOM   1221   NZALYS A 141      27.536 -16.795 -29.111  0.38  6.56           N 0
+ATOM   1215   CGALYS A 141      29.355 -17.622 -27.209  0.00  0.00           C 0
+ATOM   1186    O ASP A 138      34.845 -15.005 -26.312  0.48  6.43           O 0
+ATOM   1208    N LYS A 141      30.680 -16.078 -24.687  0.43  1.09           N 0
+ATOM   1187   CB ASP A 138      36.310 -12.635 -27.612  0.00  0.00           C 0
+ATOM   1217   CDALYS A 141      29.407 -18.348 -28.559  0.00  0.00           C 0
+ATOM   1203   CB LYS A 140      29.978 -13.048 -24.349  0.00  0.00           C 0
+ATOM   1205   CD LYS A 140      27.685 -12.368 -25.090  0.00  0.00           C 0
+ATOM   1213   CBALYS A 141      30.460 -18.037 -26.258  0.00  0.00           C 0
+ATOM   1233  NH2 ARG A 142      36.926 -17.761 -26.333  0.00  0.00           N 0
+ATOM   1232  NH1 ARG A 142      36.496 -20.043 -26.295  0.00  0.00           N 0
+TER
+END

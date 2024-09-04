@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0384
+HEADER 1  - Drug Score                        : 0.0083
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9040
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6281
+HEADER 5  - Mean B-factor of pocket residues  : 0.0534
+HEADER 6  - Hydrophobicity Score              : 15.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 2.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 117.4932
+HEADER 10 - Pocket volume (convex hull)       : 0.3101
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM   1224  CG2ATHR C 155     211.638  52.032 -73.122  0.00  0.00           C 0
+ATOM   1216   CAATHR C 155     209.430  51.474 -74.198  0.00  0.00           C 0
+ATOM   1261  CG2 VAL C 160     206.071  58.447 -73.693  0.00  0.00           C 0
+ATOM   1219    O THR C 155     210.507  52.580 -76.044  0.60  4.29           O 0
+ATOM   1244   CA GLY C 158     207.961  54.807 -77.510  0.00  0.00           C 0
+ATOM   1245    C GLY C 158     206.565  55.110 -77.003  0.00  0.00           C 0
+ATOM   1256   CA VAL C 160     204.767  56.459 -72.881  0.00  0.00           C 0
+ATOM   1255    N VAL C 160     204.584  55.966 -74.233  0.48  2.19           N 0
+ATOM   1249    C ASP C 159     204.585  54.667 -74.507  0.00  0.00           C 0
+ATOM   1222  OG1ATHR C 155     209.786  51.258 -71.801  0.62  6.43           O 0
+ATOM   1283   CB ALA C 163     205.926  52.467 -70.524  0.00  0.00           C 0
+ATOM   1250    O ASP C 159     204.646  53.797 -73.636  0.73  1.07           O 0
+ATOM   1247    N ASP C 159     205.856  54.089 -76.527  0.00  0.00           N 0
+TER
+END

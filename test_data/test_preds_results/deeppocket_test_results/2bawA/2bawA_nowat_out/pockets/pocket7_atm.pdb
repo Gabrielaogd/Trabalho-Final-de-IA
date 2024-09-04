@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0022
+HEADER 1  - Drug Score                        : 0.0031
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7830
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5959
+HEADER 5  - Mean B-factor of pocket residues  : 0.3762
+HEADER 6  - Hydrophobicity Score              : 36.4000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.4510
+HEADER 10 - Pocket volume (convex hull)       : 6.5031
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 18.0000
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.9048
+ATOM    379   CA GLY A 261       3.275 -40.853  55.281  0.00  0.00           C 0
+ATOM    264  CE1 PHE A 247       1.766 -47.807  53.712  0.00  0.00           C 0
+ATOM    351   CG GLN A 257      -0.600 -45.195  57.528  0.00  0.00           C 0
+ATOM    349    O GLN A 257       0.389 -42.446  55.118  0.56  2.14           O 0
+ATOM    382    N LEU A 262       3.623 -40.483  52.918  0.65  2.19           N 0
+ATOM    263  CD2 PHE A 247       1.268 -46.091  51.572  0.00  0.00           C 0
+ATOM    266   CZ PHE A 247       0.584 -47.071  53.678  0.00  0.00           C 0
+ATOM    261   CG PHE A 247       2.451 -46.821  51.598  0.00  0.00           C 0
+ATOM    389  CD2 LEU A 262       2.855 -43.072  49.902  0.00  0.00           C 0
+ATOM    380    C GLY A 261       4.115 -40.314  54.144  0.00  0.00           C 0
+ATOM    386   CB LEU A 262       4.227 -41.108  50.604  0.00  0.00           C 0
+ATOM    381    O GLY A 261       5.187 -39.756  54.375  0.79  4.29           O 0
+ATOM    262  CD1 PHE A 247       2.696 -47.678  52.678  0.00  0.00           C 0
+ATOM    265  CE2 PHE A 247       0.330 -46.215  52.609  0.00  0.00           C 0
+ATOM    260   CB PHE A 247       3.449 -46.686  50.493  0.00  0.00           C 0
+ATOM    957   OG SER A 345       6.090 -42.250  48.037  0.79  5.36           O 0
+TER
+END

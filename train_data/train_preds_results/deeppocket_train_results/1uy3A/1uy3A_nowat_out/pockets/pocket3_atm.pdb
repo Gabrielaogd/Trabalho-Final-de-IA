@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0189
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1053
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5886
+HEADER 5  - Mean B-factor of pocket residues  : 0.1588
+HEADER 6  - Hydrophobicity Score              : -13.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 197.1968
+HEADER 10 - Pocket volume (convex hull)       : 3.8203
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM    232    N ASN A  44       7.169  14.877   9.065  0.00  0.00           N 0
+ATOM    223  OG1 THR A  42       9.934  12.325   8.169  0.13  3.21           O 0
+ATOM    236   CB ASN A  44       6.749  15.914   6.813  0.00  0.00           C 0
+ATOM    239  ND2 ASN A  44       7.537  18.192   6.540  0.00  0.00           N 0
+ATOM    925  OD2 ASP A 137      13.293  13.028   5.568  0.00  0.00           O 0
+ATOM    702    O ASN A 108      12.747  17.603  13.040  0.33  5.36           O 0
+ATOM    714    N TYR A 110      15.432  18.577  10.896  0.00  0.00           N 0
+ATOM    718   CB TYR A 110      15.520  17.266   8.833  0.00  0.00           C 0
+ATOM    720  CD1 TYR A 110      14.360  15.677  10.400  0.00  0.00           C 0
+ATOM    229   CB PRO A  43       8.436  16.246  11.755  0.00  0.00           C 0
+ATOM    230   CG PRO A  43       9.743  15.860  12.370  0.00  0.00           C 0
+ATOM    719   CG TYR A 110      15.362  15.913   9.453  0.00  0.00           C 0
+ATOM    222   CB THR A  42      10.838  12.426   9.276  0.00  0.00           C 0
+ATOM    231   CD PRO A  43      10.250  14.740  11.574  0.00  0.00           C 0
+TER
+END

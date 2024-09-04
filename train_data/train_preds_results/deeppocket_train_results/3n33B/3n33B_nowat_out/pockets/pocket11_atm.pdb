@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.1701
+HEADER 1  - Drug Score                        : 0.0298
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7195
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3740
+HEADER 5  - Mean B-factor of pocket residues  : 0.2623
+HEADER 6  - Hydrophobicity Score              : 18.1111
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 232.5801
+HEADER 10 - Pocket volume (convex hull)       : 9.8464
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5238
+ATOM    801  CZ2 TRP B 113      43.372 -45.272  25.755  0.00  0.00           C 0
+ATOM    419   CD LYS B  60      41.893 -48.468  29.624  0.00  0.00           C 0
+ATOM    827   CD LYS B 117      45.385 -48.727  23.515  0.00  0.00           C 0
+ATOM    828   CE LYS B 117      46.426 -48.591  24.615  0.00  0.00           C 0
+ATOM    418   CG LYS B  60      40.562 -48.469  28.872  0.00  0.00           C 0
+ATOM    428  CG2 THR B  61      39.407 -51.628  26.634  0.00  0.00           C 0
+ATOM   1142  OD1 ASP B 157      46.319 -46.470  27.692  0.92  4.29           O 0
+ATOM    423   CA THR B  61      38.182 -49.862  25.328  0.00  0.00           C 0
+ATOM    824    O LYS B 117      42.729 -49.720  19.893  0.00  0.00           O 0
+ATOM    416    O LYS B  60      39.479 -47.495  25.514  0.50  2.14           O 0
+ATOM    825   CB LYS B 117      44.019 -47.561  21.772  0.00  0.00           C 0
+ATOM    836  CG2 VAL B 118      40.731 -46.156  18.914  0.00  0.00           C 0
+ATOM    802  CZ3 TRP B 113      42.039 -43.928  24.255  0.00  0.00           C 0
+ATOM    442  CD2 LEU B  63      37.557 -47.947  19.155  0.00  0.00           C 0
+ATOM    432    O SER B  62      36.032 -46.615  22.733  0.44  4.29           O 0
+ATOM    425    O THR B  61      36.863 -50.287  23.356  0.38  7.50           O 0
+ATOM    426   CB THR B  61      38.254 -51.354  25.676  0.00  0.00           C 0
+ATOM    902  NH2 ARG B 126      39.424 -43.002  21.764  0.62  2.19           N 0
+TER
+END

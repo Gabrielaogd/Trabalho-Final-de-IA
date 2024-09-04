@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0895
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9975
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5622
+HEADER 5  - Mean B-factor of pocket residues  : 0.4907
+HEADER 6  - Hydrophobicity Score              : 43.2222
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 236.1702
+HEADER 10 - Pocket volume (convex hull)       : 6.1415
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   1540   CB ILE A 320      67.279  63.197  10.873  0.00  0.00           C 0
+ATOM   1543  CD1 ILE A 320      69.282  61.731  11.473  0.00  0.00           C 0
+ATOM   1550  CG2 THR A 321      65.195  63.524   6.860  0.00  0.00           C 0
+ATOM   1542  CG2 ILE A 320      68.113  64.201  10.089  0.00  0.00           C 0
+ATOM   1525    O SER A 317      66.295  60.251  11.543  0.57  5.36           O 0
+ATOM   2015   CD ARG A 382      70.702  55.699  10.034  0.00  0.00           C 0
+ATOM   1527   OG SER A 317      67.512  56.826  11.980  0.00  0.00           O 0
+ATOM   1526   CB SER A 317      68.240  57.951  12.453  0.00  0.00           C 0
+ATOM   2014   CG ARG A 382      69.830  54.488   9.737  0.00  0.00           C 0
+ATOM   2208  CD2 TYR A 405      65.451  54.523   8.607  0.00  0.00           C 0
+ATOM   2365  CG1 VAL A 437      68.841  54.225   6.119  0.00  0.00           C 0
+ATOM   2347   OG SER A 435      65.010  57.701   5.586  0.00  0.00           O 0
+ATOM   1529   CA ILE A 318      63.842  58.960  11.751  0.00  0.00           C 0
+ATOM   1549  OG1 THR A 321      63.414  62.105   7.647  0.54  1.07           O 0
+ATOM   2351    O TYR A 436      68.622  56.626   3.513  0.42  9.64           O 0
+ATOM   2346   CB SER A 435      64.815  58.454   4.400  0.00  0.00           C 0
+TER
+END

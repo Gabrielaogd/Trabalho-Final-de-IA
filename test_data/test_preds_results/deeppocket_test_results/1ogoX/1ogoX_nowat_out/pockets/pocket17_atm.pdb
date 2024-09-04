@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0862
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.0272
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5159
+HEADER 5  - Mean B-factor of pocket residues  : 0.3612
+HEADER 6  - Hydrophobicity Score              : -7.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 335.2080
+HEADER 10 - Pocket volume (convex hull)       : 10.3776
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0400
+ATOM   1667   CD PRO X 222      42.284  -5.884   5.543  0.00  0.00           C 0
+ATOM   1653    O PRO X 220      45.850  -2.499   6.567  0.00  0.00           O 0
+ATOM   1658   CA GLY X 221      43.262  -3.152   5.745  0.00  0.00           C 0
+ATOM   1646    O THR X 219      44.650  -2.025   9.349  0.52  5.36           O 0
+ATOM   1649  CG2 THR X 219      47.980  -3.080   9.557  0.00  0.00           C 0
+ATOM   1664    O PRO X 222      40.996  -5.459   8.784  0.32  3.21           O 0
+ATOM   1647   CB THR X 219      47.131  -2.783  10.808  0.00  0.00           C 0
+ATOM   1703  OD2 ASP X 227      41.031  -6.950  12.350  0.73  8.57           O 0
+ATOM   1643    N THR X 219      45.693  -1.125  11.933  0.63  1.09           N 0
+ATOM   1699    O ASP X 227      41.740  -4.056  16.737  0.45  3.21           O 0
+ATOM   1648  OG1 THR X 219      48.062  -2.827  11.896  0.65  4.29           O 0
+ATOM   1631    O THR X 217      46.837  -0.659  15.751  0.42  8.57           O 0
+ATOM   1626  OE1 GLN X 216      43.558  -3.780  19.053  0.00  0.00           O 0
+ATOM   1701   CG ASP X 227      40.993  -6.895  13.605  0.00  0.00           C 0
+ATOM   1702  OD1 ASP X 227      41.284  -7.926  14.260  0.00  0.00           O 0
+ATOM   1700   CB ASP X 227      40.609  -5.623  14.351  0.00  0.00           C 0
+ATOM   1641   SD MET X 218      42.046  -1.128  15.071  0.00  0.00           S 0
+ATOM   1642   CE MET X 218      40.942  -1.642  13.841  0.00  0.00           C 0
+ATOM   1636   CA MET X 218      44.876   0.036  13.902  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0389
+HEADER 1  - Drug Score                        : 0.0044
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 4.0828
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5263
+HEADER 5  - Mean B-factor of pocket residues  : 0.1728
+HEADER 6  - Hydrophobicity Score              : 42.4444
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 305.1927
+HEADER 10 - Pocket volume (convex hull)       : 10.9102
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   2392  CD2 HIS H 230     -51.942 -17.303  42.908  0.00  0.00           C 0
+ATOM   1858   CB PHE H 181     -51.570 -22.450  43.308  0.00  0.00           C 0
+ATOM   1306   CB LEU H 130     -56.828 -18.908  39.794  0.00  0.00           C 0
+ATOM   1309  CD2 LEU H 130     -54.757 -19.830  38.727  0.00  0.00           C 0
+ATOM   1860  CD1 PHE H 181     -50.690 -20.750  41.719  0.00  0.00           C 0
+ATOM   1669  CD2 LEU H 162     -53.998 -23.951  39.064  0.00  0.00           C 0
+ATOM   1305    O LEU H 130     -59.119 -19.878  41.098  0.61  8.57           O 0
+ATOM   2394  NE2 HIS H 230     -52.896 -16.600  42.358  0.58  7.66           N 0
+ATOM   1859   CG PHE H 181     -51.080 -22.053  41.939  0.00  0.00           C 0
+ATOM   1304    C LEU H 130     -58.828 -20.409  40.021  0.00  0.00           C 0
+ATOM   1699  NH2 ARG H 165     -53.064 -20.712  47.005  0.61  2.19           N 0
+ATOM   1674    O VAL H 163     -55.427 -26.106  44.504  0.72  9.64           O 0
+ATOM   1696   NE ARG H 165     -54.664 -20.818  48.698  0.00  0.00           N 0
+ATOM   1308  CD1 LEU H 130     -54.868 -17.422  39.669  0.00  0.00           C 0
+ATOM   1666   CB LEU H 162     -55.753 -25.502  39.910  0.00  0.00           C 0
+ATOM   1668  CD1 LEU H 162     -56.367 -23.822  38.153  0.00  0.00           C 0
+ATOM   1689    N ARG H 165     -56.605 -25.151  47.964  0.00  0.00           N 0
+ATOM   1680   CA GLU H 164     -57.766 -26.483  46.197  0.00  0.00           C 0
+ATOM   1313    C HIS H 131     -59.889 -23.702  40.533  0.00  0.00           C 0
+ATOM   1324    N ALA H 132     -60.375 -24.403  41.565  0.48  3.28           N 0
+ATOM   1312   CA HIS H 131     -60.259 -22.257  40.680  0.00  0.00           C 0
+TER
+END

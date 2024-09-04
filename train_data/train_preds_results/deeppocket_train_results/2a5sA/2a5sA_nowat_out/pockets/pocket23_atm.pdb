@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.1004
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9211
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6362
+HEADER 5  - Mean B-factor of pocket residues  : 0.2669
+HEADER 6  - Hydrophobicity Score              : 1.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.2585
+HEADER 10 - Pocket volume (convex hull)       : 3.7048
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM    989    N THR A 134      21.252  24.527  46.357  0.00  0.00           N 0
+ATOM    987  OE1 GLU A 133      24.544  23.463  50.734  0.00  0.00           O 0
+ATOM    992    O THR A 134      22.582  26.640  45.320  0.63  3.21           O 0
+ATOM    984   CB GLU A 133      21.942  23.656  49.432  0.00  0.00           C 0
+ATOM   1836  OG1 THR A 242      24.398  29.198  47.485  0.64  8.57           O 0
+ATOM   1649   CB ALA A 216      24.644  22.995  42.327  0.00  0.00           C 0
+ATOM    985   CG GLU A 133      22.807  22.417  49.481  0.00  0.00           C 0
+ATOM    990   CA THR A 134      21.652  24.457  44.966  0.00  0.00           C 0
+ATOM    983    O GLU A 133      21.326  22.296  46.566  0.72  5.36           O 0
+ATOM   1677  ND2 ASN A 220      26.068  19.383  44.490  0.32  4.37           N 0
+ATOM    986   CD GLU A 133      23.802  22.461  50.627  0.00  0.00           C 0
+ATOM    988  OE2 GLU A 133      23.843  21.492  51.418  0.00  0.00           O 0
+ATOM    991    C THR A 134      22.305  25.751  44.512  0.00  0.00           C 0
+ATOM    982    C GLU A 133      21.137  23.409  47.059  0.00  0.00           C 0
+TER
+END

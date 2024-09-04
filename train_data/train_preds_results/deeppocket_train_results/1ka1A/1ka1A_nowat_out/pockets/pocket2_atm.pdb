@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.1100
+HEADER 1  - Drug Score                        : 0.2035
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.5617
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3962
+HEADER 5  - Mean B-factor of pocket residues  : 0.0660
+HEADER 6  - Hydrophobicity Score              : 38.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 102.1677
+HEADER 10 - Pocket volume (convex hull)       : 1.6166
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM    402  CG2 ILE A  55      -3.921  13.439 -13.474  0.00  0.00           C 0
+ATOM    117   CE LYS A  16      -6.848  11.133 -12.035  0.00  0.00           C 0
+ATOM    397   CA ILE A  55      -4.346  15.742 -14.475  0.00  0.00           C 0
+ATOM    401  CG1 ILE A  55      -5.439  13.714 -15.512  0.00  0.00           C 0
+ATOM    814   CB PHE A 108      -7.328  14.069  -8.533  0.00  0.00           C 0
+ATOM    399    O ILE A  55      -3.559  16.417 -12.287  0.00  0.00           O 0
+ATOM    118   NZ LYS A  16      -8.216  11.433 -11.139  0.51  2.19           N 0
+ATOM    660  CG2 ILE A  90      -9.566  13.885 -16.476  0.00  0.00           C 0
+ATOM    878  CD2 LEU A 115      -8.806  17.502 -14.183  0.00  0.00           C 0
+ATOM    691  OD2 ASP A  94     -11.619  11.975 -13.701  0.46  3.21           O 0
+ATOM    813    O PHE A 108      -7.151  17.128  -8.853  0.69  1.07           O 0
+ATOM    827  CG2 THR A 109     -10.274  16.870  -9.941  0.00  0.00           C 0
+ATOM    670   NZ LYS A  91     -14.011  13.463 -13.616  0.00  5.47           N 0
+ATOM    876   CG LEU A 115     -10.055  18.309 -14.531  0.00  0.00           C 0
+ATOM    875   CB LEU A 115     -10.730  18.920 -13.313  0.00  0.00           C 0
+TER
+END

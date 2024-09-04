@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.2191
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8775
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5205
+HEADER 5  - Mean B-factor of pocket residues  : 0.3804
+HEADER 6  - Hydrophobicity Score              : -17.1667
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 344.0855
+HEADER 10 - Pocket volume (convex hull)       : 17.9002
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM    551   CE LYS C  72       1.032  -6.856  24.713  0.00  0.00           C 0
+ATOM    537   CB ARG C  71       0.255  -1.452  25.915  0.00  0.00           C 0
+ATOM    538   CG ARG C  71       1.340  -0.457  26.315  0.00  0.00           C 0
+ATOM    552   NZ LYS C  72       1.330  -6.099  23.477  0.00  0.00           N 0
+ATOM    103   CG GLN C  13       3.006 -10.504  30.674  0.00  0.00           C 0
+ATOM    104   CD GLN C  13       4.319 -10.978  30.080  0.00  0.00           C 0
+ATOM    105  OE1 GLN C  13       5.057 -10.210  29.482  0.00  0.00           O 0
+ATOM    101    O GLN C  13       1.593  -6.244  31.552  0.00  0.00           O 0
+ATOM    533    N ARG C  71      -0.897  -1.818  28.032  0.66  4.37           N 0
+ATOM    550   CD LYS C  72      -0.454  -6.980  25.026  0.00  0.00           C 0
+ATOM     98    N GLN C  13       0.596  -8.836  31.167  0.61  1.09           N 0
+ATOM    102   CB GLN C  13       3.018  -9.021  31.058  0.00  0.00           C 0
+ATOM     94   CB ASN C  12      -2.199  -7.809  30.132  0.00  0.00           C 0
+ATOM    532   OG SER C  70      -2.067  -4.623  28.930  0.73  2.14           O 0
+ATOM     96  OD1 ASN C  12      -2.606  -8.494  27.915  0.56  9.64           O 0
+ATOM     84    O LYS C  11      -3.005 -11.600  30.662  0.00  0.00           O 0
+ATOM     91   CA ASN C  12      -1.784  -9.075  30.870  0.00  0.00           C 0
+ATOM    549   CG LYS C  72      -1.097  -5.639  25.130  0.00  0.00           C 0
+TER
+END

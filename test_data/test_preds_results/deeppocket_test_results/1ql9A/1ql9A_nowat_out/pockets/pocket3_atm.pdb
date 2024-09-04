@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1284
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8626
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5956
+HEADER 5  - Mean B-factor of pocket residues  : 0.1209
+HEADER 6  - Hydrophobicity Score              : 25.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.5240
+HEADER 10 - Pocket volume (convex hull)       : 2.8429
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM    328   CE LYS A  60       6.786  33.841  59.476  0.00  0.00           C 0
+ATOM    296    O HIS A  57      11.876  38.848  58.022  0.00  0.00           O 0
+ATOM    312    O TYR A  59      11.691  34.069  58.574  0.58  4.29           O 0
+ATOM    305    C CYS A  58      11.264  36.106  55.858  0.00  0.00           C 0
+ATOM    306    O CYS A  58      10.414  35.270  55.551  0.00  0.00           O 0
+ATOM    184  CD2 PHE A  41       6.343  36.029  56.171  0.00  0.00           C 0
+ATOM    193   SG CYS A  42       7.694  39.239  54.739  0.00  0.00           S 0
+ATOM    304   CA CYS A  58      10.981  37.601  55.712  0.00  0.00           C 0
+ATOM   1312    N GLY A 193       3.802  43.765  55.785  0.67  1.09           N 0
+ATOM   1304   CA GLN A 192       4.013  45.846  56.999  0.00  0.00           C 0
+ATOM   1307   CB GLN A 192       3.654  45.626  58.473  0.00  0.00           C 0
+ATOM   1329   OG SER A 195       8.370  44.265  54.985  0.71  4.29           O 0
+ATOM    302  NE2 HIS A  57      10.534  42.793  56.645  0.71  5.47           N 0
+ATOM    180    O PHE A  41       4.911  39.363  55.708  0.63  7.50           O 0
+ATOM   1328   CB SER A 195       8.401  43.074  54.234  0.00  0.00           C 0
+ATOM   1310  OE1 GLN A 192       2.859  43.831  60.436  0.00  0.00           O 0
+ATOM    300  CD2 HIS A  57      11.253  41.920  57.421  0.00  0.00           C 0
+TER
+END

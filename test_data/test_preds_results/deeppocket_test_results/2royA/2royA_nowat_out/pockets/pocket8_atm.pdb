@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1316
+HEADER 1  - Drug Score                        : 0.3694
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9379
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6562
+HEADER 5  - Mean B-factor of pocket residues  : 0.0683
+HEADER 6  - Hydrophobicity Score              : 18.4286
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 320.8191
+HEADER 10 - Pocket volume (convex hull)       : 3.2779
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6471
+ATOM    120    N SER A  23      32.798  43.818   5.950  0.00  0.00           N 0
+ATOM     83  CD1 LEU A  17      26.122  42.914   5.906  0.00  0.00           C 0
+ATOM     84  CD2 LEU A  17      27.798  41.843   4.429  0.00  0.00           C 0
+ATOM    123    O SER A  23      31.555  41.525   5.714  0.00  0.00           O 0
+ATOM    118    C GLY A  22      33.127  45.080   6.123  0.00  0.00           C 0
+ATOM     88    O ASP A  18      31.925  42.867   8.780  0.45  3.21           O 0
+ATOM    119    O GLY A  22      33.443  45.752   5.144  0.00  0.00           O 0
+ATOM     81   CB LEU A  17      27.525  41.059   6.751  0.00  0.00           C 0
+ATOM    807  CD1 LEU A 110      27.274  42.109  10.335  0.00  0.00           C 0
+ATOM     97   CB ALA A  19      30.055  42.813  12.577  0.00  0.00           C 0
+ATOM     94   CA ALA A  19      31.076  43.036  11.497  0.00  0.00           C 0
+ATOM    808  CD2 LEU A 110      25.666  43.082  12.051  0.00  0.00           C 0
+ATOM    117   CA GLY A  22      32.984  45.526   7.561  0.00  0.00           C 0
+ATOM    121   CA SER A  23      32.913  43.150   4.666  0.00  0.00           C 0
+ATOM    132   CD PRO A  24      32.334  42.037   2.202  0.00  0.00           C 0
+ATOM    126    N PRO A  24      31.813  41.436   3.459  0.00  0.00           N 0
+ATOM    122    C SER A  23      32.039  41.940   4.656  0.00  0.00           C 0
+TER
+END

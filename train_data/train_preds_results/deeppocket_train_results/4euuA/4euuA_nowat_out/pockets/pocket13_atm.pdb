@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0727
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9709
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5491
+HEADER 5  - Mean B-factor of pocket residues  : 0.2637
+HEADER 6  - Hydrophobicity Score              : -5.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 186.5255
+HEADER 10 - Pocket volume (convex hull)       : 2.0959
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   1708   OH TYR A 212      12.864 -20.933  29.139  0.59  5.36           O 0
+ATOM   2095    N PRO A 264      12.340 -20.211  33.606  0.00  0.00           N 0
+ATOM   2096   CA PRO A 264      13.396 -19.350  34.133  0.00  0.00           C 0
+ATOM   2099   CB PRO A 264      13.652 -18.351  33.016  0.00  0.00           C 0
+ATOM   1976   OG SER A 247      14.995 -24.220  29.185  0.33  5.36           O 0
+ATOM   2082    O ASP A 262      12.543 -24.007  33.033  0.00  0.00           O 0
+ATOM   1782  NH2 ARG A 222      17.597 -18.016  27.009  0.00  0.00           N 0
+ATOM   1987  CG2 VAL A 249      18.695 -21.172  26.570  0.00  0.00           C 0
+ATOM   2050    O ASP A 258      20.339 -25.382  28.328  0.38  1.07           O 0
+ATOM   2054  OD2 ASP A 258      21.423 -24.611  31.939  0.24  6.43           O 0
+ATOM   1985   CB VAL A 249      20.205 -21.509  26.585  0.00  0.00           C 0
+ATOM   2073   CB SER A 260      16.162 -25.443  32.201  0.00  0.00           C 0
+ATOM   2074   OG SER A 260      15.486 -25.406  33.451  0.54  4.29           O 0
+TER
+END

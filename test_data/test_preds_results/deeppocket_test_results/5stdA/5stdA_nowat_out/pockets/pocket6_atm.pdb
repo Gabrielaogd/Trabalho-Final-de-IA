@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0171
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0573
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5731
+HEADER 5  - Mean B-factor of pocket residues  : 0.2076
+HEADER 6  - Hydrophobicity Score              : 7.4286
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 226.4162
+HEADER 10 - Pocket volume (convex hull)       : 6.2214
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM    314    N ARG A  47      20.824  13.330  45.414  0.56  1.09           N 0
+ATOM   1062   NZ LYS A 136      16.915  18.383  49.740  0.00  0.00           N 0
+ATOM    305  CG2 THR A  45      21.304  14.806  50.671  0.00  0.00           C 0
+ATOM    302    O THR A  45      21.542  16.956  48.168  0.43  1.07           O 0
+ATOM    431    O GLU A  59      19.690  10.887  48.418  0.63  6.43           O 0
+ATOM    320   CD ARG A  47      16.767  10.702  44.199  0.00  0.00           C 0
+ATOM    747  OE1 GLU A  99      12.478  17.228  45.401  0.72  2.14           O 0
+ATOM   1033   CG TRP A 134      15.341  15.055  41.861  0.00  0.00           C 0
+ATOM   1034  CD1 TRP A 134      13.990  14.906  42.017  0.00  0.00           C 0
+ATOM   1036  NE1 TRP A 134      13.616  13.619  41.715  0.00  0.00           N 0
+ATOM    318   CB ARG A  47      18.838  11.986  44.825  0.00  0.00           C 0
+ATOM   1136    O ALA A 145      19.870  16.001  44.612  0.00  0.00           O 0
+ATOM   1032   CB TRP A 134      16.146  16.281  42.136  0.00  0.00           C 0
+ATOM    746   CD GLU A  99      11.642  17.558  46.274  0.00  0.00           C 0
+ATOM    748  OE2 GLU A  99      10.997  16.736  46.952  0.00  0.00           O 0
+ATOM   1137   CB ALA A 145      18.600  18.525  45.025  0.00  0.00           C 0
+ATOM   1059   CG LYS A 136      15.723  19.840  47.188  0.00  0.00           C 0
+ATOM   1060   CD LYS A 136      15.175  19.819  48.620  0.00  0.00           C 0
+TER
+END

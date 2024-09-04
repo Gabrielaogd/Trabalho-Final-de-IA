@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1111
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9541
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5979
+HEADER 5  - Mean B-factor of pocket residues  : 0.1170
+HEADER 6  - Hydrophobicity Score              : 0.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 375.0382
+HEADER 10 - Pocket volume (convex hull)       : 24.7800
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM   2465    O ARG A 311     -44.835 -18.781  -3.212  0.00  0.00           O 0
+ATOM   2462    N ARG A 311     -44.064 -18.034  -0.332  0.58  1.09           N 0
+ATOM   2461  OE2 GLU A 310     -40.117 -16.522  -1.952  0.52  5.36           O 0
+ATOM   2460  OE1 GLU A 310     -40.573 -15.039  -0.398  0.47  3.21           O 0
+ATOM   2798  OG1 THR A 354     -42.812 -11.666   0.283  0.30  4.29           O 0
+ATOM   2440   CD ARG A 308     -48.683 -11.029   0.866  0.00  0.00           C 0
+ATOM   2438   CB ARG A 308     -47.254 -12.004   2.618  0.00  0.00           C 0
+ATOM   2439   CG ARG A 308     -48.476 -11.181   2.337  0.00  0.00           C 0
+ATOM   2469   NE ARG A 311     -48.955 -18.265   1.811  0.00  0.00           N 0
+ATOM   2448    O LEU A 309     -45.293 -15.693   1.543  0.00  0.00           O 0
+ATOM   2468   CD ARG A 311     -48.387 -18.607   0.513  0.00  0.00           C 0
+ATOM   2443  NH1 ARG A 308     -49.544 -10.262  -1.681  0.00  0.00           N 0
+ATOM   2466   CB ARG A 311     -46.309 -18.960  -0.791  0.00  0.00           C 0
+ATOM   2445    N LEU A 309     -46.312 -14.760   3.915  0.41  2.19           N 0
+ATOM   2435   CA ARG A 308     -47.207 -12.517   4.039  0.00  0.00           C 0
+ATOM   2472  NH2 ARG A 311     -49.766 -18.741   3.907  0.00  0.00           N 0
+ATOM   2430    O PRO A 307     -47.191 -12.798   6.732  0.55  5.36           O 0
+ATOM   2450   CG LEU A 309     -46.398 -17.064   5.862  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : -0.1579
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1575
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7519
+HEADER 5  - Mean B-factor of pocket residues  : 0.5275
+HEADER 6  - Hydrophobicity Score              : -22.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 207.5328
+HEADER 10 - Pocket volume (convex hull)       : 2.8398
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   2161   CD GLU A 292       9.805  77.559  11.483  0.00  0.00           C 0
+ATOM   2159   CB GLU A 292      10.771  76.371  13.511  0.00  0.00           C 0
+ATOM   2168   CB LYS A 293      15.639  74.225  13.639  0.00  0.00           C 0
+ATOM   2162  OE1 GLU A 292       9.907  78.685  12.026  0.00  0.00           O 0
+ATOM    461  NH1 ARG A  62      11.985  78.390   6.606  0.59  2.19           N 0
+ATOM   2163  OE2 GLU A 292       9.718  77.398  10.242  0.69  2.14           O 0
+ATOM   2169   CG LYS A 293      15.716  74.989  14.946  0.00  0.00           C 0
+ATOM   2164    N LYS A 293      13.221  74.275  14.048  0.00  0.00           N 0
+ATOM   2165   CA LYS A 293      14.293  73.536  13.399  0.00  0.00           C 0
+ATOM   2157    C GLU A 292      11.997  74.220  13.535  0.00  0.00           C 0
+ATOM   2158    O GLU A 292      11.733  73.550  12.533  0.46  4.29           O 0
+ATOM    458   CD ARG A  62      10.273  76.120   6.489  0.00  0.00           C 0
+ATOM    456   CB ARG A  62       8.874  74.159   7.245  0.00  0.00           C 0
+TER
+END

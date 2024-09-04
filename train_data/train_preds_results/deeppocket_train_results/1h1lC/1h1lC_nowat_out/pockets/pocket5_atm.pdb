@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0562
+HEADER 1  - Drug Score                        : 0.0173
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 3.8131
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3780
+HEADER 5  - Mean B-factor of pocket residues  : 0.3352
+HEADER 6  - Hydrophobicity Score              : 44.4444
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 177.7404
+HEADER 10 - Pocket volume (convex hull)       : 3.9640
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM   3067   OG SER C 404      92.534 -28.144  24.055  0.76  3.21           O 0
+ATOM   3267  CE2 PHE C 429      88.455 -31.271  28.583  0.00  0.00           C 0
+ATOM   3268   CZ PHE C 429      88.640 -32.079  27.489  0.00  0.00           C 0
+ATOM   3093   CB LEU C 407      92.891 -32.562  27.673  0.00  0.00           C 0
+ATOM   3257  CD1 ILE C 428      88.936 -27.030  25.663  0.00  0.00           C 0
+ATOM   3225   CG GLU C 425      90.859 -28.071  31.003  0.00  0.00           C 0
+ATOM   3228  OE2 GLU C 425      92.356 -26.241  30.893  0.93  4.29           O 0
+ATOM   3095  CD1 LEU C 407      93.640 -30.781  29.280  0.00  0.00           C 0
+ATOM   3066   CB SER C 404      93.903 -28.107  24.365  0.00  0.00           C 0
+ATOM   3214    O LYS C 424      89.428 -24.492  28.601  0.59  7.50           O 0
+ATOM    389   SD MET C  56      94.075 -24.375  23.209  0.00  0.00           S 0
+ATOM    394    O THR C  57      97.853 -24.308  28.197  0.42  2.14           O 0
+ATOM   3218   CE LYS C 424      94.510 -22.334  30.993  0.00  0.00           C 0
+ATOM   3217   CD LYS C 424      93.416 -21.435  30.508  0.00  0.00           C 0
+ATOM    388   CG MET C  56      95.767 -24.247  23.714  0.00  0.00           C 0
+ATOM    404  CG2 VAL C  58      95.492 -27.230  30.223  0.00  0.00           C 0
+ATOM   3063   CA SER C 404      94.370 -29.453  24.957  0.00  0.00           C 0
+ATOM   3215   CB LYS C 424      91.510 -23.103  30.384  0.00  0.00           C 0
+ATOM    386    O MET C  56      97.151 -26.668  25.882  0.47  1.07           O 0
+TER
+END

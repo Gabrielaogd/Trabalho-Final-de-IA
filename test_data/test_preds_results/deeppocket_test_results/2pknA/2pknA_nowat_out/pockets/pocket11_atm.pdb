@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0031
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9108
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6703
+HEADER 5  - Mean B-factor of pocket residues  : 0.2998
+HEADER 6  - Hydrophobicity Score              : 2.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 2.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 304.0216
+HEADER 10 - Pocket volume (convex hull)       : 6.5667
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2269   CA SER A 305      19.645  83.656  -7.658  0.00  0.00           C 0
+ATOM   2297   CB ALA A 308      15.490  83.167  -9.099  0.00  0.00           C 0
+ATOM   2330  OE1 GLU A 313      14.583  86.202 -10.794  0.00  0.00           O 0
+ATOM   2331  OE2 GLU A 313      15.442  84.961 -12.375  0.00  0.00           O 0
+ATOM   2268    N SER A 305      19.442  84.494  -6.490  0.74  1.09           N 0
+ATOM   2267   CB ALA A 304      18.365  87.191  -5.241  0.00  0.00           C 0
+ATOM   2266    O ALA A 304      17.187  84.361  -6.508  0.00  0.00           O 0
+ATOM   2298    N GLY A 309      16.035  80.095  -8.947  0.00  0.00           N 0
+ATOM   2271    O SER A 305      18.632  81.585  -8.252  0.37  3.21           O 0
+ATOM   2299   CA GLY A 309      16.265  78.806  -9.579  0.00  0.00           C 0
+ATOM   2273   OG SER A 305      21.374  82.766  -9.130  0.00  0.00           O 0
+ATOM   2265    C ALA A 304      18.233  84.803  -6.025  0.00  0.00           C 0
+ATOM   2272   CB SER A 305      21.108  83.719  -8.114  0.00  0.00           C 0
+ATOM   2247    O GLU A 301      21.832  86.266  -5.790  0.73  1.07           O 0
+ATOM   2295    C ALA A 308      14.870  80.730  -9.018  0.00  0.00           C 0
+ATOM   2296    O ALA A 308      13.883  80.276  -9.607  0.25  5.36           O 0
+TER
+END

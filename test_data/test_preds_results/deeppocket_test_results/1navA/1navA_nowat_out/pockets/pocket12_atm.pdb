@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0900
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0858
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5432
+HEADER 5  - Mean B-factor of pocket residues  : 0.2843
+HEADER 6  - Hydrophobicity Score              : 55.4286
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 183.0048
+HEADER 10 - Pocket volume (convex hull)       : 2.6271
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM    722  OE1 GLN A 247      28.722  25.922  28.721  0.00  0.00           O 0
+ATOM    616   CG LYS A 234      29.354  21.262  23.404  0.00  0.00           C 0
+ATOM    617   CD LYS A 234      29.509  21.919  22.046  0.00  0.00           C 0
+ATOM    585  CG1 VAL A 230      33.231  22.815  22.728  0.00  0.00           C 0
+ATOM    618   CE LYS A 234      28.198  22.493  21.542  0.00  0.00           C 0
+ATOM    731  CD1 ILE A 248      34.299  28.755  27.741  0.00  0.00           C 0
+ATOM    755  CD2 LEU A 251      34.967  23.270  26.229  0.00  0.00           C 0
+ATOM    723  NE2 GLN A 247      28.058  23.795  28.507  0.75  6.56           N 0
+ATOM    721   CD GLN A 247      28.845  24.736  29.008  0.00  0.00           C 0
+ATOM    661  CE2 PHE A 239      30.563  21.229  27.765  0.00  0.00           C 0
+ATOM    719   CB GLN A 247      31.298  24.775  29.590  0.00  0.00           C 0
+ATOM    697   SG CYS A 244      30.081  29.963  27.948  0.00  0.00           S 0
+ATOM    662   CZ PHE A 239      31.594  21.710  28.553  0.00  0.00           C 0
+TER
+END

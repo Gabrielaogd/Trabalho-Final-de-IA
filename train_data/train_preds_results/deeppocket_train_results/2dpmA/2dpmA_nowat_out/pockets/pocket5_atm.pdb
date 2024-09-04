@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0182
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0190
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6682
+HEADER 5  - Mean B-factor of pocket residues  : 0.2535
+HEADER 6  - Hydrophobicity Score              : 21.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.9250
+HEADER 10 - Pocket volume (convex hull)       : 5.2089
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM      4    O THR A  10      10.222  19.956  69.399  0.00  0.00           O 0
+ATOM   1221   CB LEU A 158       8.431  16.402  64.612  0.00  0.00           C 0
+ATOM     21  OE1 GLN A  12      13.326  17.962  67.886  0.36  6.43           O 0
+ATOM   1201  OD1 ASP A 155       9.458  13.488  65.271  0.00  0.00           O 0
+ATOM   1223  CD1 LEU A 158       9.223  18.712  65.229  0.00  0.00           C 0
+ATOM      3    C THR A  10       9.786  20.894  70.070  0.00  0.00           C 0
+ATOM     13  CD2 LEU A  11       6.835  22.763  67.293  0.00  0.00           C 0
+ATOM      2   CA THR A  10       9.528  20.701  71.562  0.00  0.00           C 0
+ATOM      5   CB THR A  10       8.947  21.972  72.188  0.00  0.00           C 0
+ATOM   1243   CB ALA A 161       4.279  19.233  67.176  0.00  0.00           C 0
+ATOM   1217    N LEU A 158       6.361  15.268  65.374  0.00  0.00           N 0
+ATOM   1216   CB GLU A 157       4.968  13.346  67.524  0.00  0.00           C 0
+ATOM   1214    C GLU A 157       5.100  15.188  65.809  0.00  0.00           C 0
+ATOM   1215    O GLU A 157       4.371  16.176  65.923  0.55  3.21           O 0
+ATOM   1218   CA LEU A 158       6.973  16.569  65.056  0.00  0.00           C 0
+TER
+END

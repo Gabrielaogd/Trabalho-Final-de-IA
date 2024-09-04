@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0693
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0240
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5155
+HEADER 5  - Mean B-factor of pocket residues  : 0.1897
+HEADER 6  - Hydrophobicity Score              : 31.4444
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 322.5767
+HEADER 10 - Pocket volume (convex hull)       : 22.1800
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1304
+ATOM    352  CG2 VAL A  67      34.986  -4.284  36.381  0.00  0.00           C 0
+ATOM    351  CG1 VAL A  67      34.499  -2.099  37.461  0.00  0.00           C 0
+ATOM    347   CA VAL A  67      33.271  -2.835  35.354  0.00  0.00           C 0
+ATOM    345    O GLY A  66      31.829  -5.067  34.358  0.59  5.36           O 0
+ATOM    162  NH2 ARG A  42      30.006  -1.975  42.102  0.00  0.00           N 0
+ATOM    247  CG2 VAL A  52      28.861  -3.400  35.221  0.00  0.00           C 0
+ATOM    349    O VAL A  67      31.519  -1.250  35.621  0.74  8.57           O 0
+ATOM    161  NH1 ARG A  42      29.760   0.297  42.086  0.00  0.00           N 0
+ATOM    359  OD1 ASP A  68      34.697   2.464  36.402  0.00  0.00           O 0
+ATOM    233  CE2 PHE A  50      26.498   2.086  39.187  0.00  0.00           C 0
+ATOM    238    O SER A  51      25.667  -0.456  35.950  0.50  9.64           O 0
+ATOM    356    O ASP A  68      30.781   1.605  33.606  0.68  4.29           O 0
+ATOM    220  ND1 HIS A  49      26.465  -6.834  38.473  0.62  6.56           N 0
+ATOM    224    N PHE A  50      25.456  -3.674  40.687  0.00  0.00           N 0
+ATOM    209    O LEU A  48      26.538  -5.466  43.526  0.48  6.43           O 0
+ATOM    231  CD2 PHE A  50      26.790   0.787  39.648  0.00  0.00           C 0
+ATOM    354   CA ASP A  68      32.834   0.866  34.484  0.00  0.00           C 0
+ATOM    227    O PHE A  50      26.536  -2.866  38.064  0.60  4.29           O 0
+ATOM    222  CE1 HIS A  49      26.535  -6.554  37.185  0.00  0.00           C 0
+TER
+END

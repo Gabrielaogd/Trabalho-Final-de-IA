@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0875
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1624
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5316
+HEADER 5  - Mean B-factor of pocket residues  : 0.5007
+HEADER 6  - Hydrophobicity Score              : -11.0000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 199.6741
+HEADER 10 - Pocket volume (convex hull)       : 3.5176
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   2108    O ASN X1276     -18.772 -54.058  -4.417  0.00  0.00           O 0
+ATOM    134   CB ALA X1019     -21.454 -50.300 -10.167  0.00  0.00           C 0
+ATOM    362   NZ LYS X1048     -14.235 -53.712 -11.411  0.00  0.00           N 0
+ATOM    361   CE LYS X1048     -15.180 -54.211 -12.454  0.00  0.00           C 0
+ATOM    110  OD1 ASP X1016     -17.832 -48.970  -5.792  0.55  2.14           O 0
+ATOM   2114   CA CYS X1277     -19.369 -51.509  -3.786  0.00  0.00           C 0
+ATOM   2118   SG CYS X1277     -21.730 -50.197  -4.551  0.00  0.00           S 0
+ATOM   2099    O LYS X1275     -21.909 -54.898  -5.087  0.00  0.00           O 0
+ATOM   2126  ND2 ASN X1278     -14.803 -49.762  -6.317  0.86  2.19           N 0
+ATOM   2125  OD1 ASN X1278     -14.017 -51.314  -5.007  0.69  6.43           O 0
+ATOM    101   CB SER X1015     -15.354 -48.788  -9.920  0.00  0.00           C 0
+ATOM    371  CE1 HIS X1049     -17.612 -50.978 -13.011  0.00  0.00           C 0
+ATOM   2093   CB PRO X1274     -24.218 -52.292  -7.574  0.00  0.00           C 0
+ATOM    100    O SER X1015     -18.622 -48.410 -10.419  0.00  0.00           O 0
+ATOM     99    C SER X1015     -17.691 -47.885  -9.822  0.00  0.00           C 0
+TER
+END

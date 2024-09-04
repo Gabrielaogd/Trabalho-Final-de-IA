@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0653
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0672
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5639
+HEADER 5  - Mean B-factor of pocket residues  : 0.6731
+HEADER 6  - Hydrophobicity Score              : 4.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 283.8559
+HEADER 10 - Pocket volume (convex hull)       : 4.9335
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM    173   CA ASN A  41     -37.261 -38.774  -8.140  0.00  0.00           C 0
+ATOM    192   CB LEU A  43     -36.934 -41.033 -13.344  0.00  0.00           C 0
+ATOM    150   CA ALA A  38     -33.816 -41.054 -10.567  0.00  0.00           C 0
+ATOM    152    O ALA A  38     -34.260 -40.767  -8.230  0.67  7.50           O 0
+ATOM    196    N SER A  44     -40.105 -39.920 -13.524  0.74  1.09           N 0
+ATOM    188    N LEU A  43     -37.727 -38.875 -12.509  0.59  1.09           N 0
+ATOM    176   CB ASN A  41     -37.968 -38.807  -6.777  0.00  0.00           C 0
+ATOM    200   CB SER A  44     -42.418 -40.733 -13.061  0.00  0.00           C 0
+ATOM    175    O ASN A  41     -39.181 -37.516  -8.822  0.12  7.50           O 0
+ATOM    174    C ASN A  41     -38.057 -37.938  -9.118  0.00  0.00           C 0
+ATOM   1637   NZ LYS A 224     -37.420 -46.181 -11.636  0.00  0.00           N 0
+ATOM    153   CB ALA A  38     -33.185 -42.421 -10.847  0.00  0.00           C 0
+ATOM    178  OD1 ASN A  41     -36.647 -40.613  -5.952  0.00  0.00           O 0
+ATOM   1635   CD LYS A 224     -35.001 -46.651 -10.954  0.00  0.00           C 0
+ATOM   1604   CB PRO A 220     -32.202 -47.242  -6.019  0.00  0.00           C 0
+ATOM   1607    N SER A 221     -30.808 -45.852  -8.306  0.52  1.09           N 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.4000
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.0206
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6602
+HEADER 5  - Mean B-factor of pocket residues  : 0.2554
+HEADER 6  - Hydrophobicity Score              : 15.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 268.3806
+HEADER 10 - Pocket volume (convex hull)       : 8.1398
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0833
+ATOM   1574   CA ASN A 211       2.012  10.069   3.232  0.00  0.00           C 0
+ATOM   1580  ND2 ASN A 211       3.881   8.587   4.769  0.00  0.00           N 0
+ATOM   1577   CB ASN A 211       1.694   8.644   3.636  0.00  0.00           C 0
+ATOM   1576    O ASN A 211       0.756   9.656   1.215  0.00  0.00           O 0
+ATOM    414    N SER A  56       4.446  15.015   4.013  0.00  0.00           N 0
+ATOM    401   CA TRP A  55       4.759  15.251   1.643  0.00  0.00           C 0
+ATOM    262   OG SER A  36       9.327  14.948   4.971  0.57  4.29           O 0
+ATOM    402    C TRP A  55       3.990  14.660   2.811  0.00  0.00           C 0
+ATOM    419   OG SER A  56       4.015  12.426   5.369  0.00  0.00           O 0
+ATOM    396   CBASER A  54       5.766  12.503  -1.838  0.00  0.00           C 0
+ATOM   1584    O ALA A 212       2.752  12.482  -0.598  0.73  2.14           O 0
+ATOM   1590   CB LYS A 213       2.221  11.067  -3.666  0.00  0.00           C 0
+ATOM   1575    C ASN A 211       1.291  10.467   1.930  0.00  0.00           C 0
+ATOM    395    O SER A  54       6.573  15.290  -0.409  0.00  0.00           O 0
+ATOM    260    O SER A  36       7.072  16.675   3.524  0.00  0.00           O 0
+ATOM    272    N CYS A  38       9.291  16.358  -0.749  0.00  0.00           N 0
+ATOM    277   SG CYS A  38      11.886  14.629   0.010  0.00  0.00           S 0
+ATOM    400    N TRP A  55       4.645  14.469   0.449  0.00  0.00           N 0
+ATOM    403    O TRP A  55       3.048  13.887   2.637  0.55  1.07           O 0
+ATOM    398   OGASER A  54       7.137  12.522  -1.611  0.00  0.00           O 0
+TER
+END

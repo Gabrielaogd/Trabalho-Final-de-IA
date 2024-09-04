@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0533
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6522
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5057
+HEADER 5  - Mean B-factor of pocket residues  : 0.3485
+HEADER 6  - Hydrophobicity Score              : 1.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.7983
+HEADER 10 - Pocket volume (convex hull)       : 4.0431
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM    135   CB GLU B  19      17.165  50.789  59.464  0.00  0.00           C 0
+ATOM    145   CG LEU B  20      21.286  47.567  60.593  0.00  0.00           C 0
+ATOM    147  CD2 LEU B  20      21.381  47.537  62.126  0.00  0.00           C 0
+ATOM    138  OE1 GLU B  19      14.957  49.413  60.288  0.00  0.00           O 0
+ATOM    133    C GLU B  19      19.551  51.462  59.765  0.00  0.00           C 0
+ATOM    134    O GLU B  19      19.845  52.329  60.587  0.00  0.00           O 0
+ATOM   1646  ND1 HIS B 217      15.804  43.568  60.560  0.66  4.37           N 0
+ATOM   1675   CE LYS B 221      19.322  42.826  63.704  0.00  0.00           C 0
+ATOM    146  CD1 LEU B  20      21.771  46.250  59.990  0.00  0.00           C 0
+ATOM    111    O PRO B  16      19.349  48.001  58.262  0.73  1.07           O 0
+ATOM    140    N LEU B  20      20.278  50.364  59.582  0.00  0.00           N 0
+ATOM    112   CB PRO B  16      17.627  45.265  57.620  0.00  0.00           C 0
+ATOM    109   CA PRO B  16      17.466  46.776  57.413  0.00  0.00           C 0
+ATOM   1648  CE1 HIS B 217      14.850  44.346  60.081  0.00  0.00           C 0
+TER
+END

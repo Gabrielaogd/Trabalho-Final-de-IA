@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0027
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1019
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6778
+HEADER 5  - Mean B-factor of pocket residues  : 0.3732
+HEADER 6  - Hydrophobicity Score              : -21.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.7871
+HEADER 10 - Pocket volume (convex hull)       : 1.3483
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7647
+ATOM   4730   CB LYS A 610      32.466   2.658  -6.249  0.00  0.00           C 0
+ATOM   4735    N GLU A 611      34.965   4.257  -5.882  0.00  0.00           N 0
+ATOM   4736   CA GLU A 611      36.424   4.269  -5.823  0.00  0.00           C 0
+ATOM   4740   CG GLU A 611      37.278   3.618  -8.128  0.00  0.00           C 0
+ATOM   4731   CG LYS A 610      31.241   1.782  -6.021  0.00  0.00           C 0
+ATOM   4768   CG GLN A 614      37.214   0.387  -1.795  0.00  0.00           C 0
+ATOM   4771  NE2 GLN A 614      38.383  -1.289  -3.120  0.00  0.00           N 0
+ATOM   4729    O LYS A 610      34.612   3.435  -3.798  0.60  2.14           O 0
+ATOM   4767   CB GLN A 614      36.637   1.789  -2.040  0.00  0.00           C 0
+ATOM   4764   CA GLN A 614      35.947   2.452  -0.840  0.00  0.00           C 0
+ATOM   4728    C LYS A 610      34.190   3.801  -4.898  0.00  0.00           C 0
+ATOM   4769   CD GLN A 614      38.303   0.002  -2.797  0.00  0.00           C 0
+ATOM   4770  OE1 GLN A 614      39.073   0.851  -3.259  0.48  5.36           O 0
+TER
+END

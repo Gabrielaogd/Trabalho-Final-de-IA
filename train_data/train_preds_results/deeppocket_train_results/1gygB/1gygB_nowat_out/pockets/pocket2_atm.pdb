@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.1505
+HEADER 1  - Drug Score                        : 0.0609
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.6074
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4145
+HEADER 5  - Mean B-factor of pocket residues  : 0.0539
+HEADER 6  - Hydrophobicity Score              : 7.6000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 123.0036
+HEADER 10 - Pocket volume (convex hull)       : 3.9647
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.6538
+ATOM    766   CG GLU B  95     -13.869  86.316   7.996  0.00  0.00           C 0
+ATOM    579    O PRO B  72      -8.727  86.850   7.194  0.35  1.07           O 0
+ATOM    571    O ASP B  71      -8.877  88.131   3.776  0.67  3.21           O 0
+ATOM    598    N ASP B  75     -11.110  90.796   7.554  0.53  1.09           N 0
+ATOM    595   CB THR B  74     -10.361  91.095   4.589  0.00  0.00           C 0
+ATOM    754   CB THR B  93     -15.345  90.261   4.769  0.00  0.00           C 0
+ATOM    577   CA PRO B  72      -8.027  85.913   5.124  0.00  0.00           C 0
+ATOM   1613   CB ALA B 197      -9.888  81.848   5.636  0.00  0.00           C 0
+ATOM   1076  CG2 ILE B 131     -14.468  83.632   3.494  0.00  0.00           C 0
+ATOM    557    O TRP B  70      -9.458  86.142   0.883  0.61  6.43           O 0
+ATOM   1074   CB ILE B 131     -13.617  82.390   3.728  0.00  0.00           C 0
+ATOM   1077  CD1 ILE B 131     -14.275  82.267   6.173  0.00  0.00           C 0
+ATOM    558   CB TRP B  70     -11.899  88.111   1.274  0.00  0.00           C 0
+ATOM    757    N GLY B  94     -16.450  87.777   3.513  0.00  0.00           N 0
+ATOM    761    N GLU B  95     -16.252  86.634   6.095  0.00  0.00           N 0
+ATOM    769  OE2 GLU B  95     -12.722  84.495   9.014  0.37  1.07           O 0
+TER
+END

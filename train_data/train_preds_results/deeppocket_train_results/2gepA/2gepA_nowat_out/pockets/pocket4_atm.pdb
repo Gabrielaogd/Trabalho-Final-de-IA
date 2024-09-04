@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0215
+HEADER 1  - Drug Score                        : 0.0046
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.5888
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4697
+HEADER 5  - Mean B-factor of pocket residues  : 0.0270
+HEADER 6  - Hydrophobicity Score              : 74.8333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 76.6772
+HEADER 10 - Pocket volume (convex hull)       : 0.4661
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.8947
+ATOM   3702  CZ3 TRP A 569      -3.287  35.658  28.944  0.00  0.00           C 0
+ATOM   3687   CG LEU A 568      -3.383  41.263  31.796  0.00  0.00           C 0
+ATOM   3697  CD2 TRP A 569      -3.824  36.438  31.155  0.00  0.00           C 0
+ATOM   3699  CE2 TRP A 569      -2.443  36.619  31.383  0.00  0.00           C 0
+ATOM   3703  CH2 TRP A 569      -1.910  35.849  29.205  0.00  0.00           C 0
+ATOM   3700  CE3 TRP A 569      -4.250  35.949  29.912  0.00  0.00           C 0
+ATOM   3701  CZ2 TRP A 569      -1.472  36.328  30.416  0.00  0.00           C 0
+ATOM   3689  CD2 LEU A 568      -1.900  41.034  31.907  0.00  0.00           C 0
+ATOM   1266  CD1 ILE A 259       0.836  38.513  27.687  0.00  0.00           C 0
+ATOM   3185  CE1 HIS A 504      -2.851  41.205  25.415  0.00  0.00           C 0
+ATOM   3688  CD1 LEU A 568      -3.674  42.459  30.889  0.00  0.00           C 0
+ATOM   3060   CE MET A 487      -0.712  42.842  28.192  0.00  0.00           C 0
+ATOM   3282   CB MET A 517      -6.151  39.791  25.130  0.00  0.00           C 0
+ATOM   3685    O LEU A 568      -6.367  40.636  31.139  0.56  2.14           O 0
+ATOM   3278    N MET A 517      -6.541  41.946  26.246  0.48  1.09           N 0
+TER
+END

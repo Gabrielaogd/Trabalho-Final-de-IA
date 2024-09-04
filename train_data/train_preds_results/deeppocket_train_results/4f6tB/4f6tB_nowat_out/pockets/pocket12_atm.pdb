@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0316
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8703
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4889
+HEADER 5  - Mean B-factor of pocket residues  : 0.2719
+HEADER 6  - Hydrophobicity Score              : 5.4444
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 285.0819
+HEADER 10 - Pocket volume (convex hull)       : 15.1268
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM   1724  CE2 PHE B 228      42.830   3.853  27.500  0.00  0.00           C 0
+ATOM   1180   CB ALA B 159      43.204   5.524  32.539  0.00  0.00           C 0
+ATOM   1222   CA PRO B 166      45.304   8.190  28.690  0.00  0.00           C 0
+ATOM   1225   CB PRO B 166      43.846   8.055  29.137  0.00  0.00           C 0
+ATOM   1682  OD1 ASP B 223      44.558   1.126  24.410  0.60  4.29           O 0
+ATOM   1707   CA GLU B 227      45.588   4.997  22.085  0.00  0.00           C 0
+ATOM   1722  CD2 PHE B 228      42.827   3.370  26.148  0.00  0.00           C 0
+ATOM   1250  NH2 ARG B 168      49.649   5.137  25.256  0.45  8.75           N 0
+ATOM   1249  NH1 ARG B 168      48.610   6.269  27.053  0.61  4.37           N 0
+ATOM   1224    O PRO B 166      45.181   8.309  26.314  0.00  0.00           O 0
+ATOM   1710   CB GLU B 227      45.975   6.417  22.571  0.00  0.00           C 0
+ATOM   1210   CB ILE B 164      49.607   5.086  31.798  0.00  0.00           C 0
+ATOM   1189    O GLU B 161      44.444   3.034  34.726  0.00  0.00           O 0
+ATOM   1683  OD2 ASP B 223      45.166  -0.491  25.817  0.44  7.50           O 0
+ATOM    621  NH1 ARG B  83      52.562   3.272  27.669  0.00  0.00           N 0
+ATOM   1212  CG2 ILE B 164      50.170   5.592  30.434  0.00  0.00           C 0
+ATOM   1211  CG1 ILE B 164      50.522   4.011  32.434  0.00  0.00           C 0
+ATOM    622  NH2 ARG B  83      52.999   2.291  29.765  0.00  0.00           N 0
+ATOM   1209    O ILE B 164      47.297   7.060  32.041  0.65  1.07           O 0
+TER
+END

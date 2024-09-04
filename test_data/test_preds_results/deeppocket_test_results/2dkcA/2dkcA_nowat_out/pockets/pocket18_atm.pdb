@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0639
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0959
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6384
+HEADER 5  - Mean B-factor of pocket residues  : 0.3251
+HEADER 6  - Hydrophobicity Score              : 8.1429
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.9124
+HEADER 10 - Pocket volume (convex hull)       : 2.4116
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM    527   CB PRO A  69      -9.307  12.721  28.132  0.00  0.00           C 0
+ATOM   1934    O ASN A 260      -7.227  15.261  21.615  0.00  0.00           O 0
+ATOM    508    O HIS A  67      -6.816   9.736  23.843  0.28  9.64           O 0
+ATOM    529   CD PRO A  69      -9.394  10.447  27.612  0.00  0.00           C 0
+ATOM   1926    O LEU A 259      -5.047  15.475  24.753  0.48  2.14           O 0
+ATOM    536   CD PRO A  70      -6.765  14.850  28.332  0.00  0.00           C 0
+ATOM   1940   CA PHE A 261      -6.730  17.983  21.798  0.00  0.00           C 0
+ATOM   1910    O ASN A 257      -5.258  19.247  26.923  0.00  0.00           O 0
+ATOM   1943   CB PHE A 261      -6.246  19.275  22.484  0.00  0.00           C 0
+ATOM   1946  CD2 PHE A 261      -8.459  20.467  22.130  0.00  0.00           C 0
+ATOM    523    N PRO A  69      -8.028  10.926  27.341  0.00  0.00           N 0
+ATOM    524   CA PRO A  69      -7.878  12.323  27.752  0.00  0.00           C 0
+ATOM   1935   CB ASN A 260      -5.574  13.320  22.728  0.00  0.00           C 0
+TER
+END

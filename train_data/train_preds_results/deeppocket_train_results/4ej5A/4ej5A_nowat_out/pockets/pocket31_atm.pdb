@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0295
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1764
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5425
+HEADER 5  - Mean B-factor of pocket residues  : 0.3053
+HEADER 6  - Hydrophobicity Score              : -4.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.8996
+HEADER 10 - Pocket volume (convex hull)       : 2.4654
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   2808  OD1 ASP A 339      11.929  16.833  31.547  0.76  3.21           O 0
+ATOM   2809  OD2 ASP A 339      10.948  17.941  33.181  0.78  9.64           O 0
+ATOM   2320  OD1 ASN A 280      13.628  11.196  37.217  0.44  6.43           O 0
+ATOM   2772   CE LYS A 335      14.658  18.467  32.782  0.00  0.00           C 0
+ATOM   2348   CD ARG A 283      12.378  11.075  33.291  0.00  0.00           C 0
+ATOM   2351  NH1 ARG A 283       9.777  11.932  33.887  0.00  0.00           N 0
+ATOM   2317    O ASN A 280      17.157  10.742  34.543  0.56  2.14           O 0
+ATOM   2353    N LEU A 284      17.510  12.167  31.777  0.00  0.00           N 0
+ATOM   2773   NZ LYS A 335      15.392  17.604  31.805  0.87  2.19           N 0
+ATOM   2357   CB LEU A 284      19.575  12.833  32.916  0.00  0.00           C 0
+ATOM   2318   CB ASN A 280      15.740  10.111  37.381  0.00  0.00           C 0
+ATOM   2319   CG ASN A 280      14.486  10.715  37.957  0.00  0.00           C 0
+ATOM   2346   CB ARG A 283      14.449  11.681  32.010  0.00  0.00           C 0
+ATOM   2354   CA LEU A 284      18.685  13.021  31.687  0.00  0.00           C 0
+ATOM   2359  CD1 LEU A 284      20.662  15.069  32.749  0.00  0.00           C 0
+TER
+END

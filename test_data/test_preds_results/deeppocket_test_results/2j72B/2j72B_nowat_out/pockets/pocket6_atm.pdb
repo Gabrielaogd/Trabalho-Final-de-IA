@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0999
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0536
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6974
+HEADER 5  - Mean B-factor of pocket residues  : 0.0565
+HEADER 6  - Hydrophobicity Score              : 19.4444
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 239.4438
+HEADER 10 - Pocket volume (convex hull)       : 5.9279
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM    768   CG GLN B  97      44.008  14.612  17.177  0.00  0.00           C 0
+ATOM    771  NE2 GLN B  97      41.663  15.106  17.687  0.00  0.00           N 0
+ATOM    118   OH TYR B  17      39.668  12.261  17.148  0.00  0.00           O 0
+ATOM    773   CA GLY B  98      45.824  10.797  18.576  0.00  0.00           C 0
+ATOM    105  NH1 ARG B  16      44.627  18.057  19.070  0.00  0.00           N 0
+ATOM    604  OD1 ASP B  77      47.020  13.790  20.121  0.47  3.21           O 0
+ATOM    106  NH2 ARG B  16      42.343  18.077  19.116  0.46  4.37           N 0
+ATOM    592    O LYS B  76      46.338  15.078  25.051  0.59  5.36           O 0
+ATOM    599   CA ASP B  77      47.559  14.930  22.520  0.00  0.00           C 0
+ATOM    606    N VAL B  78      48.101  12.613  22.973  0.00  0.00           N 0
+ATOM    602   CB ASP B  77      47.565  15.800  21.277  0.00  0.00           C 0
+ATOM    603   CG ASP B  77      47.275  15.019  20.051  0.00  0.00           C 0
+ATOM    177  CH2 TRP B  24      45.727  18.778  22.917  0.00  0.00           C 0
+ATOM    175  CZ2 TRP B  24      44.817  19.447  22.175  0.00  0.00           C 0
+ATOM    588   CB ALA B  75      44.582  18.697  26.833  0.00  0.00           C 0
+TER
+END

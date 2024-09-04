@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0115
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.8999
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5692
+HEADER 5  - Mean B-factor of pocket residues  : 0.4570
+HEADER 6  - Hydrophobicity Score              : -23.6250
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 379.9901
+HEADER 10 - Pocket volume (convex hull)       : 40.2343
+HEADER 11 - Charge Score                      :    -6
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1034
+ATOM    829  OE2 GLU A 334      11.219  26.189  23.201  0.00  0.00           O 0
+ATOM    727  OD2 ASP A 322      13.573  19.114  22.871  0.00  0.00           O 0
+ATOM    827   CD GLU A 334       9.995  26.018  23.397  0.00  0.00           C 0
+ATOM    828  OE1 GLU A 334       9.178  25.766  22.482  0.00  0.00           O 0
+ATOM    724   CB ASP A 322      13.237  19.863  25.129  0.00  0.00           C 0
+ATOM    825   CB GLU A 334       9.246  24.790  25.485  0.00  0.00           C 0
+ATOM    925  OD1 ASN A 347      14.820  27.021  25.858  0.73  3.21           O 0
+ATOM    946  CD1 LEU A 350      15.294  23.683  27.782  0.00  0.00           C 0
+ATOM    836  OD1 ASP A 335       4.552  25.362  24.649  0.55  4.29           O 0
+ATOM    837  OD2 ASP A 335       3.390  23.585  25.201  0.00  0.00           O 0
+ATOM    835   CG ASP A 335       4.014  24.624  25.504  0.00  0.00           C 0
+ATOM    726  OD1 ASP A 322      15.331  19.822  23.979  0.65  8.57           O 0
+ATOM    820  OD2 ASP A 333       5.475  20.624  28.360  0.46  5.36           O 0
+ATOM    821    N GLU A 334       8.936  23.564  27.604  0.61  1.09           N 0
+ATOM    818   CG ASP A 333       6.333  21.443  28.758  0.00  0.00           C 0
+ATOM    817   CB ASP A 333       7.803  21.015  28.677  0.00  0.00           C 0
+ATOM    723    O ASP A 322      12.228  20.862  27.593  0.42  1.07           O 0
+ATOM    714    O GLU A 321      12.734  17.179  26.558  0.25  7.50           O 0
+ATOM    733   CG GLU A 323      10.709  17.890  29.305  0.00  0.00           C 0
+ATOM    736  OE2 GLU A 323       8.581  17.130  29.995  0.00  0.00           O 0
+ATOM    734   CD GLU A 323       9.763  16.806  29.786  0.00  0.00           C 0
+ATOM    725   CG ASP A 322      14.108  19.579  23.904  0.00  0.00           C 0
+ATOM    830    N ASP A 335       6.588  25.166  27.058  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : 0.0301
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9155
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5246
+HEADER 5  - Mean B-factor of pocket residues  : 0.2763
+HEADER 6  - Hydrophobicity Score              : 29.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 187.5821
+HEADER 10 - Pocket volume (convex hull)       : 2.0364
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1110   CD LYS A 174      48.784  18.584  -7.623  0.00  0.00           C 0
+ATOM    532   OH TYR A 100      52.162  24.469  -8.403  0.23  6.43           O 0
+ATOM   1103    O GLY A 173      52.051  20.250  -6.378  0.49  5.36           O 0
+ATOM   1112   NZ LYS A 174      48.911  18.035 -10.025  0.00  0.00           N 0
+ATOM   1299  OD1 ASN A 198      45.029  22.500  -9.446  0.67  5.36           O 0
+ATOM   1301    N VAL A 199      48.286  26.153  -9.502  0.59  2.19           N 0
+ATOM   1304    O VAL A 199      51.077  25.938 -10.461  0.62  4.29           O 0
+ATOM   1297   CB ASN A 198      45.237  24.705 -10.380  0.00  0.00           C 0
+ATOM   1375  OD1 ASN A 209      47.788  27.492 -13.607  0.00  0.00           O 0
+ATOM   1105   CA LYS A 174      49.676  19.971  -4.972  0.00  0.00           C 0
+ATOM   1113    N ILE A 175      48.963  22.086  -4.027  0.00  0.00           N 0
+ATOM   1289    O VAL A 197      46.898  24.807  -6.548  0.44  4.29           O 0
+ATOM   1294   CA ASN A 198      46.115  25.141  -9.200  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0630
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9912
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6633
+HEADER 5  - Mean B-factor of pocket residues  : 0.4015
+HEADER 6  - Hydrophobicity Score              : -1.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 299.5980
+HEADER 10 - Pocket volume (convex hull)       : 11.3811
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 3.6000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   1182  CD2 LEU D 165      30.033 -40.937  31.151  0.00  0.00           C 0
+ATOM   1178    O LEU D 165      32.151 -43.378  34.577  0.54  3.21           O 0
+ATOM   1356   CD LYS D 189      26.172 -41.456  31.003  0.00  0.00           C 0
+ATOM   1179   CB LEU D 165      31.187 -43.145  31.477  0.00  0.00           C 0
+ATOM    788   CG LYS D 113      33.294 -37.995  35.030  0.00  0.00           C 0
+ATOM    787   CB LYS D 113      33.416 -36.540  35.453  0.00  0.00           C 0
+ATOM   1362    O LYS D 190      29.436 -35.213  34.204  0.77  1.07           O 0
+ATOM    789   CD LYS D 113      33.458 -38.913  36.212  0.00  0.00           C 0
+ATOM    801    N GLY D 115      32.622 -33.084  37.889  0.46  5.47           N 0
+ATOM    792    N GLN D 114      31.795 -33.732  35.205  0.71  1.09           N 0
+ATOM   1363   CB LYS D 190      26.929 -35.534  35.349  0.00  0.00           C 0
+ATOM   1353    O LYS D 189      27.980 -37.938  33.390  0.26  8.57           O 0
+ATOM    790   CE LYS D 113      33.289 -40.355  35.765  0.00  0.00           C 0
+ATOM    791   NZ LYS D 113      33.053 -41.307  36.923  0.59  8.75           N 0
+ATOM    796   CB GLN D 114      30.006 -32.219  35.990  0.00  0.00           C 0
+ATOM   1365   CD LYS D 190      25.373 -35.704  37.311  0.00  0.00           C 0
+ATOM   1351   CA LYS D 189      25.978 -38.613  32.239  0.00  0.00           C 0
+ATOM   1345    O ASN D 188      23.971 -38.799  34.186  0.59  5.36           O 0
+TER
+END

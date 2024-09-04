@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0779
+HEADER 1  - Drug Score                        : 0.0030
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5878
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3926
+HEADER 5  - Mean B-factor of pocket residues  : 0.0481
+HEADER 6  - Hydrophobicity Score              : 33.7778
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 86.0126
+HEADER 10 - Pocket volume (convex hull)       : 1.0369
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM    482  CD2 LEU A  60      21.372  -2.950   4.816  0.00  0.00           C 0
+ATOM    465   CB SER A  58      15.259  -0.418   3.599  0.00  0.00           C 0
+ATOM    270   CB ALA A  33      21.800  -0.828   1.429  0.00  0.00           C 0
+ATOM    355  OD1 ASP A  43      16.041  -2.714   1.569  0.56  2.14           O 0
+ATOM    266    N ALA A  33      22.039   1.313   2.602  0.00  0.00           N 0
+ATOM    470    O MET A  59      18.145  -4.582   4.572  0.00  0.00           O 0
+ATOM    256   CB TRP A  32      20.697   3.426   4.655  0.00  0.00           C 0
+ATOM    235    O ASP A  29      18.377   3.256   2.257  0.66  2.14           O 0
+ATOM    219    O THR A  27      17.698   2.801   6.691  0.23  3.21           O 0
+ATOM    241   CA LEU A  30      18.385   2.353  -0.320  0.00  0.00           C 0
+ATOM    480   CG LEU A  60      20.766  -2.585   6.163  0.00  0.00           C 0
+ATOM    464    O SER A  58      15.403  -1.737   6.252  0.19  3.21           O 0
+ATOM    481  CD1 LEU A  60      21.521  -1.425   6.795  0.00  0.00           C 0
+TER
+END

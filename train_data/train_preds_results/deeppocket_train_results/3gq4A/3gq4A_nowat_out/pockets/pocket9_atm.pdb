@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0272
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7998
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4541
+HEADER 5  - Mean B-factor of pocket residues  : 0.1673
+HEADER 6  - Hydrophobicity Score              : 6.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 263.2394
+HEADER 10 - Pocket volume (convex hull)       : 21.1221
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM    219  NH1 ARG A  27     -25.549  77.094   8.849  0.00  0.00           N 0
+ATOM    218   CZ ARG A  27     -24.771  77.119   7.773  0.00  0.00           C 0
+ATOM    861  OE1 GLU A 105     -27.604  72.106   8.295  0.83  5.36           O 0
+ATOM    220  NH2 ARG A  27     -25.173  77.765   6.688  0.00  0.00           N 0
+ATOM    711   CB ALA A  86     -30.379  72.401   6.180  0.00  0.00           C 0
+ATOM    710    O ALA A  86     -31.576  73.828   8.598  0.00  0.00           O 0
+ATOM    199   CB ASP A  25     -21.827  74.767   3.985  0.00  0.00           C 0
+ATOM    191   CG GLU A  24     -24.065  74.246  -0.297  0.00  0.00           C 0
+ATOM    201  OD1 ASP A  25     -21.928  76.778   5.251  0.00  0.00           O 0
+ATOM    189    O GLU A  24     -21.121  74.663   0.746  0.64  4.29           O 0
+ATOM    817   SG CYS A  99     -24.414  72.704   6.269  0.00  0.00           S 0
+ATOM    194  OE2 GLU A  24     -26.344  74.652   0.194  0.00  0.00           O 0
+ATOM    821    O PHE A 100     -27.141  70.369   0.960  0.46  1.07           O 0
+ATOM    845   CA GLY A 103     -30.845  70.321   2.026  0.00  0.00           C 0
+ATOM    851    O SER A 104     -27.642  68.413   4.126  0.79  1.07           O 0
+ATOM    816   CB CYS A  99     -24.531  72.025   4.617  0.00  0.00           C 0
+TER
+END

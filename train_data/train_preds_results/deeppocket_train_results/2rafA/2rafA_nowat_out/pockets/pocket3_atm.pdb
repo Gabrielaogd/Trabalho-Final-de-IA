@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2515
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8796
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5570
+HEADER 5  - Mean B-factor of pocket residues  : 0.2501
+HEADER 6  - Hydrophobicity Score              : 5.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 337.6345
+HEADER 10 - Pocket volume (convex hull)       : 18.3073
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0909
+ATOM    726    O PRO A  99      35.667  79.718  34.957  0.00  0.00           O 0
+ATOM    724   CA PRO A  99      33.995  80.805  36.327  0.00  0.00           C 0
+ATOM    727   CB PRO A  99      32.801  81.120  35.387  0.00  0.00           C 0
+ATOM    705  NE2 GLN A  96      29.657  75.894  38.722  0.69  7.66           N 0
+ATOM    696  NE2 GLN A  95      35.635  77.984  39.072  0.73  2.19           N 0
+ATOM    695  OE1 GLN A  95      36.583  76.136  39.959  0.54  5.36           O 0
+ATOM    741    O SER A 101      38.264  78.745  38.223  0.83  7.50           O 0
+ATOM    691    O GLN A  95      32.867  79.173  39.394  0.67  2.14           O 0
+ATOM    693   CG GLN A  95      34.232  76.283  40.127  0.00  0.00           C 0
+ATOM    694   CD GLN A  95      35.590  76.786  39.712  0.00  0.00           C 0
+ATOM    991   CBAASP A 134      41.965  72.411  37.224  0.00  0.00           C 0
+ATOM    983    NAASP A 134      40.471  71.041  38.575  0.85  2.19           N 0
+ATOM    746   CAAGLN A 102      40.580  77.636  39.508  0.00  0.00           C 0
+ATOM    752   CBAGLN A 102      41.975  77.085  39.104  0.00  0.00           C 0
+ATOM    765    O VAL A 103      38.904  74.845  42.961  0.65  3.21           O 0
+ATOM    776  CD2 LEU A 104      42.178  73.558  43.310  0.00  0.00           C 0
+ATOM   1017   CB ALA A 137      44.324  74.257  39.798  0.00  0.00           C 0
+ATOM    762    N VAL A 103      39.121  77.222  41.416  0.00  0.00           N 0
+ATOM    754   CGAGLN A 102      42.158  76.673  37.571  0.00  0.00           C 0
+ATOM    760  NE2AGLN A 102      43.749  75.131  36.433  0.00  0.00           N 0
+ATOM    995  OD1AASP A 134      42.741  72.046  35.018  0.00  0.00           O 0
+ATOM    979   CB ASN A 133      37.213  70.958  38.687  0.00  0.00           C 0
+ATOM    975    N ASN A 133      38.589  70.881  40.746  0.00  0.00           N 0
+TER
+END

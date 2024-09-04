@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0258
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1407
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5954
+HEADER 5  - Mean B-factor of pocket residues  : 0.4036
+HEADER 6  - Hydrophobicity Score              : 5.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 228.1357
+HEADER 10 - Pocket volume (convex hull)       : 3.8463
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0526
+ATOM     64    O ALA B  19      -4.648   2.829  50.589  0.56  1.07           O 0
+ATOM     67   CA HIS B  20      -6.819   2.598  52.230  0.00  0.00           C 0
+ATOM    100  OD2 ASP B  23      -6.485   7.975  50.896  0.00  0.00           O 0
+ATOM    690  NH1 ARG B  93      -6.800   5.370  44.639  0.00  0.00           N 0
+ATOM    662  CD1 ILE B  90      -3.165   4.328  48.241  0.00  0.00           C 0
+ATOM     72  ND1 HIS B  20     -10.366   3.356  53.165  0.00  0.00           N 0
+ATOM     71   CG HIS B  20      -9.023   3.185  53.346  0.00  0.00           C 0
+ATOM     70   CB HIS B  20      -8.228   2.137  52.646  0.00  0.00           C 0
+ATOM     65   CB ALA B  19      -5.114   0.507  48.505  0.00  0.00           C 0
+ATOM     63    C ALA B  19      -5.160   1.745  50.682  0.00  0.00           C 0
+ATOM     66    N HIS B  20      -6.214   1.544  51.436  0.00  0.00           N 0
+ATOM    691  NH2 ARG B  93      -6.001   3.236  44.244  0.56  8.75           N 0
+ATOM     44   CG ASN B  16     -10.570  -2.055  47.235  0.00  0.00           C 0
+ATOM     45  OD1 ASN B  16      -9.729  -2.219  46.333  0.00  0.00           O 0
+ATOM     46  ND2 ASN B  16     -11.778  -1.515  47.017  0.00  0.00           N 0
+ATOM    194  NH1 ARG B  34      -5.863   9.140  47.414  0.46  3.28           N 0
+ATOM    661  CG2 ILE B  90      -3.542   6.661  46.563  0.00  0.00           C 0
+ATOM     42    O ASN B  16      -8.126  -0.771  50.395  0.00  0.00           O 0
+TER
+END

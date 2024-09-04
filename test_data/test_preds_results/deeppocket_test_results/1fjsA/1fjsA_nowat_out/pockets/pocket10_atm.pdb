@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0040
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9365
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5669
+HEADER 5  - Mean B-factor of pocket residues  : 0.5156
+HEADER 6  - Hydrophobicity Score              : 33.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 158.3291
+HEADER 10 - Pocket volume (convex hull)       : 1.9317
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.8235
+ATOM    340  CD2 TYR A  60       9.699  11.857   9.097  0.00  0.00           C 0
+ATOM    644   CB LYS A  96       8.922   5.549  10.740  0.00  0.00           C 0
+ATOM    645   CG LYS A  96       9.107   5.449   9.199  0.00  0.00           C 0
+ATOM    646   CD LYS A  96      10.178   6.430   8.687  0.00  0.00           C 0
+ATOM    676   OH TYR A  99       8.085   7.773  16.804  0.41  4.29           O 0
+ATOM    673  CE1 TYR A  99       9.098   5.809  15.915  0.00  0.00           C 0
+ATOM    632   CZ PHE A  94      12.549   7.313  13.056  0.00  0.00           C 0
+ATOM    313   CB HIS A  57      11.619   9.833  15.498  0.00  0.00           C 0
+ATOM    338   CG TYR A  60       9.927  12.227  10.419  0.00  0.00           C 0
+ATOM    631  CE2 PHE A  94      12.588   7.793  11.759  0.00  0.00           C 0
+ATOM    337   CB TYR A  60       8.888  13.029  11.198  0.00  0.00           C 0
+ATOM    339  CD1 TYR A  60      11.152  11.882  10.988  0.00  0.00           C 0
+ATOM    312    O HIS A  57      10.464  12.565  14.561  0.00  0.00           O 0
+ATOM    353  NE2 GLN A  61       7.727  12.896  15.323  0.00  0.00           N 0
+TER
+END

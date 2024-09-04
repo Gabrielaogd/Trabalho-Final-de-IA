@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0807
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9681
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6378
+HEADER 5  - Mean B-factor of pocket residues  : 0.2092
+HEADER 6  - Hydrophobicity Score              : 11.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 179.5389
+HEADER 10 - Pocket volume (convex hull)       : 1.9334
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM   1245    N SER A 207      28.744  17.136   4.152  0.53  2.19           N 0
+ATOM   1250   OG SER A 207      29.814  18.015   1.590  0.00  0.00           O 0
+ATOM   1050   OH TYR A 178      33.174  16.488   3.414  0.44  8.57           O 0
+ATOM   1355   NZ LYS A 221      29.748  10.991   3.971  0.64  8.75           N 0
+ATOM   1241   CA ALA A 206      28.546  15.269   5.678  0.00  0.00           C 0
+ATOM   1353   CD LYS A 221      27.332  11.256   4.552  0.00  0.00           C 0
+ATOM   1324   CB PRO A 217      22.805  15.471   0.419  0.00  0.00           C 0
+ATOM   1248    O SER A 207      26.716  18.509   2.814  0.56  6.43           O 0
+ATOM   1323    O PRO A 217      22.837  13.739   3.285  0.63  2.14           O 0
+ATOM   1322    C PRO A 217      22.622  14.882   2.883  0.00  0.00           C 0
+ATOM   1327    N ALA A 218      23.014  15.964   3.549  0.00  0.00           N 0
+ATOM   1244   CB ALA A 206      27.091  14.916   5.943  0.00  0.00           C 0
+ATOM   1328   CA ALA A 218      23.737  15.848   4.810  0.00  0.00           C 0
+TER
+END

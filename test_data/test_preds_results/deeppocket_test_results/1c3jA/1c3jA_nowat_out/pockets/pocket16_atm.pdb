@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0441
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8719
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5640
+HEADER 5  - Mean B-factor of pocket residues  : 0.1031
+HEADER 6  - Hydrophobicity Score              : 34.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 178.7387
+HEADER 10 - Pocket volume (convex hull)       : 2.7237
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM    357    O TYR A  47       1.615  -3.806   1.340  0.00  0.00           O 0
+ATOM    350    O VAL A  46      -1.570  -1.355   3.411  0.00  0.00           O 0
+ATOM    380   CE LYS A  49      -1.478  -2.391  -4.977  0.00  0.00           C 0
+ATOM    356    C TYR A  47       0.621  -4.071   1.999  0.00  0.00           C 0
+ATOM    369    O THR A  48      -2.211  -5.661  -0.331  0.54  2.14           O 0
+ATOM    346    O GLY A  45      -3.796  -4.086   2.061  0.00  0.00           O 0
+ATOM    368    C THR A  48      -1.045  -6.013  -0.559  0.00  0.00           C 0
+ATOM    378   CG LYS A  49      -1.487  -4.631  -3.965  0.00  0.00           C 0
+ATOM    366    N THR A  48      -0.224  -5.028   1.660  0.00  0.00           N 0
+ATOM    213   CZ PHE A  27       3.952  -0.194   0.646  0.00  0.00           C 0
+ATOM    294  OD1 ASP A  38       1.884  -0.711  -5.063  0.58  2.14           O 0
+ATOM    289   CA ASP A  38       3.838  -2.250  -3.748  0.00  0.00           C 0
+ATOM    292   CB ASP A  38       2.988  -2.839  -4.883  0.00  0.00           C 0
+ATOM    296    N ILE A  39       4.001  -4.143  -2.178  0.00  0.00           N 0
+TER
+END

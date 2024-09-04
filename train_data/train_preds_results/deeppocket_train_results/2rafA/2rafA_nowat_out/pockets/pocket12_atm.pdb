@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0523
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8644
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5841
+HEADER 5  - Mean B-factor of pocket residues  : 0.3981
+HEADER 6  - Hydrophobicity Score              : -9.7143
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 326.2196
+HEADER 10 - Pocket volume (convex hull)       : 28.5711
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3478
+ATOM   1030    O GLN A 139      51.306  71.358  42.443  0.56  1.07           O 0
+ATOM   1032   CG GLN A 139      49.372  68.198  39.795  0.00  0.00           C 0
+ATOM   1070   CG ARG A 143      54.594  71.043  42.357  0.00  0.00           C 0
+ATOM   1064  CG2 THR A 142      51.236  68.721  46.406  0.00  0.00           C 0
+ATOM   1062   CB THR A 142      50.456  69.770  45.637  0.00  0.00           C 0
+ATOM   1063  OG1 THR A 142      49.047  69.552  45.824  0.83  6.43           O 0
+ATOM   1028   CA GLN A 139      49.510  70.172  41.373  0.00  0.00           C 0
+ATOM   1143    N ASP A 154      45.465  64.995  47.704  0.00  0.00           N 0
+ATOM   1130    O VAL A 152      49.595  65.717  49.728  0.00  0.00           O 0
+ATOM   1147   CB ASP A 154      44.808  64.760  45.401  0.00  0.00           C 0
+ATOM   1004   CG ASP A 135      43.772  66.233  38.000  0.00  0.00           C 0
+ATOM   1150  OD2 ASP A 154      44.419  65.135  43.120  0.00  0.00           O 0
+ATOM   1006  OD2 ASP A 135      43.872  65.203  37.305  0.57  6.43           O 0
+ATOM   1035  NE2 GLN A 139      48.612  66.639  38.052  0.84  6.56           N 0
+ATOM   1002    O ASP A 135      46.569  69.517  39.299  0.00  0.00           O 0
+ATOM   1003   CB ASP A 135      44.808  67.340  37.686  0.00  0.00           C 0
+ATOM   1031   CB GLN A 139      49.876  69.604  39.998  0.00  0.00           C 0
+ATOM   1022   CB LYS A 138      45.188  69.860  42.665  0.00  0.00           C 0
+ATOM   1020    C LYS A 138      47.509  70.814  42.590  0.00  0.00           C 0
+ATOM   1027    N GLN A 139      48.072  70.418  41.442  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0555
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8643
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4074
+HEADER 5  - Mean B-factor of pocket residues  : 0.1867
+HEADER 6  - Hydrophobicity Score              : 59.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 186.7957
+HEADER 10 - Pocket volume (convex hull)       : 6.0424
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   1127   NZ LYS A 164      16.635  48.703  29.301  0.86  6.56           N 0
+ATOM    185  CG1 VAL A  34      15.991  42.576  28.776  0.00  0.00           C 0
+ATOM    938  CD2 LEU A 142      10.914  44.549  31.564  0.00  0.00           C 0
+ATOM    903  CG2 VAL A 137      12.996  44.874  27.147  0.00  0.00           C 0
+ATOM   1124   CG LYS A 164      19.398  48.778  30.509  0.00  0.00           C 0
+ATOM    889  CD2 LEU A 135      18.702  46.242  25.631  0.00  0.00           C 0
+ATOM   1096  CD2 TYR A 161      14.557  42.027  34.156  0.00  0.00           C 0
+ATOM    937  CD1 LEU A 142      11.694  42.292  30.789  0.00  0.00           C 0
+ATOM   1126   CE LYS A 164      16.947  49.348  30.609  0.00  0.00           C 0
+ATOM   1093   CB TYR A 161      16.939  42.366  34.938  0.00  0.00           C 0
+ATOM   1104    O PHE A 162      20.299  44.541  32.518  0.65  5.36           O 0
+ATOM    181   CA VAL A  34      18.249  41.471  28.531  0.00  0.00           C 0
+ATOM    175    O LEU A  33      20.964  41.808  27.958  0.58  1.07           O 0
+ATOM    183    O VAL A  34      18.022  41.466  30.913  0.62  1.07           O 0
+ATOM    888  CD1 LEU A 135      20.677  47.565  26.400  0.00  0.00           C 0
+ATOM   1115    O PRO A 163      22.628  45.645  30.612  0.59  2.14           O 0
+TER
+END

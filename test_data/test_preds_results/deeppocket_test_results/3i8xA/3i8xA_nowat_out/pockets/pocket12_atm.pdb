@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.1259
+HEADER 1  - Drug Score                        : 0.1575
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9721
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5460
+HEADER 5  - Mean B-factor of pocket residues  : 0.1089
+HEADER 6  - Hydrophobicity Score              : 27.8571
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.1355
+HEADER 10 - Pocket volume (convex hull)       : 3.5456
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.8500
+ATOM   1095   CB PRO A 144      28.709  -0.017  64.503  0.00  0.00           C 0
+ATOM   1229   CB ALA A 162      26.419   3.786  62.385  0.00  0.00           C 0
+ATOM   1255  NH1 ARG A 165      31.161   5.335  57.511  0.00  0.00           N 0
+ATOM   1252   CD ARG A 165      28.987   3.604  57.025  0.00  0.00           C 0
+ATOM   1226   CA ALA A 162      26.024   4.009  60.902  0.00  0.00           C 0
+ATOM   1222   CG LEU A 161      28.325   7.609  58.630  0.00  0.00           C 0
+ATOM   1250   CB ARG A 165      27.357   1.778  57.236  0.00  0.00           C 0
+ATOM   1228    O ALA A 162      24.865   2.012  60.227  0.84  2.14           O 0
+ATOM   1112  CD1 ILE A 146      28.874   4.433  65.160  0.00  0.00           C 0
+ATOM   1224  CD2 LEU A 161      29.577   8.442  58.891  0.00  0.00           C 0
+ATOM   1198    O ALA A 158      26.816   7.306  62.904  0.76  2.14           O 0
+ATOM   1199   CB ALA A 158      28.481   9.657  64.373  0.00  0.00           C 0
+ATOM   1225    N ALA A 162      25.903   5.451  60.615  0.00  0.00           N 0
+ATOM   1096   CG PRO A 144      28.320  -1.043  63.535  0.00  0.00           C 0
+ATOM   1277   NZ LYS A 167      29.515  -2.568  60.466  0.00  0.00           N 0
+ATOM   1249    O ARG A 165      26.487  -0.884  57.474  0.71  1.07           O 0
+TER
+END

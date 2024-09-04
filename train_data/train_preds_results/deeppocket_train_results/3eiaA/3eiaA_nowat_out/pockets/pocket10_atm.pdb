@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0038
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7936
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4902
+HEADER 5  - Mean B-factor of pocket residues  : 0.3335
+HEADER 6  - Hydrophobicity Score              : -0.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 192.9621
+HEADER 10 - Pocket volume (convex hull)       : 5.7282
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   2683  CE1 HIS A 368     -11.205  29.072  34.484  0.00  0.00           C 0
+ATOM   2937  CE1 PHE A 402     -14.352  30.510  32.248  0.00  0.00           C 0
+ATOM   1252  NH2 ARG A 182     -18.943  32.580  36.116  0.50  5.47           N 0
+ATOM   2919    O GLU A 400     -13.697  34.029  33.893  0.35  9.64           O 0
+ATOM   1263   CB THR A 184     -19.786  27.646  34.148  0.00  0.00           C 0
+ATOM   1272   CD PRO A 185     -16.752  26.668  32.723  0.00  0.00           C 0
+ATOM   1280  OE1 GLU A 186     -17.355  25.861  36.296  0.82  8.57           O 0
+ATOM   2684  NE2 HIS A 368     -11.312  27.802  34.836  0.00  0.00           N 0
+ATOM   2939   CZ PHE A 402     -14.131  29.214  31.890  0.00  0.00           C 0
+ATOM   1265  CG2 THR A 184     -20.596  28.823  34.682  0.00  0.00           C 0
+ATOM   1251  NH1 ARG A 182     -20.187  31.708  37.835  0.00  0.00           N 0
+ATOM   2911    O GLY A 398     -17.604  33.505  32.210  0.26  2.14           O 0
+ATOM   1260   CA THR A 184     -19.660  27.642  32.609  0.00  0.00           C 0
+TER
+END

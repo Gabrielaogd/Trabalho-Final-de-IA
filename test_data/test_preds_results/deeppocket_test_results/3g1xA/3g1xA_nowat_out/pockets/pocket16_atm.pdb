@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0261
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0616
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5323
+HEADER 5  - Mean B-factor of pocket residues  : 0.5438
+HEADER 6  - Hydrophobicity Score              : 26.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 143.0357
+HEADER 10 - Pocket volume (convex hull)       : 0.8247
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM     17   CA ASN A  13       1.224 -11.493  -7.389  0.00  0.00           C 0
+ATOM     30   CD ARG A  14      -2.456  -7.030  -8.400  0.00  0.00           C 0
+ATOM   1605    O LYS A 223      -7.068 -13.014  -7.050  0.00  0.00           O 0
+ATOM   1597    O ILE A 222      -6.061 -10.822  -4.963  0.39  6.43           O 0
+ATOM     31   NE ARG A  14      -3.204  -7.202  -9.646  0.61  8.75           N 0
+ATOM     19    O ASN A  13       0.521  -9.899  -5.745  0.42  3.21           O 0
+ATOM     22  OD1 ASN A  13       0.476 -14.303  -7.093  0.46  5.36           O 0
+ATOM   1603   CA LYS A 223      -6.582 -13.544  -4.780  0.00  0.00           C 0
+ATOM   1577  CG2 ILE A 219      -1.442 -14.578  -3.432  0.00  0.00           C 0
+ATOM   1599  CG1 ILE A 222      -3.662 -10.216  -2.826  0.00  0.00           C 0
+ATOM   1601  CD1 ILE A 222      -2.459  -9.333  -3.085  0.00  0.00           C 0
+ATOM     29   CG ARG A  14      -1.004  -7.477  -8.531  0.00  0.00           C 0
+ATOM     18    C ASN A  13       1.015 -10.077  -6.858  0.00  0.00           C 0
+TER
+END

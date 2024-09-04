@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0013
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.2069
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6739
+HEADER 5  - Mean B-factor of pocket residues  : 0.6049
+HEADER 6  - Hydrophobicity Score              : 19.4444
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 318.4781
+HEADER 10 - Pocket volume (convex hull)       : 11.0893
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   1703    N THR A 215      72.255  57.390  45.648  0.00  0.00           N 0
+ATOM   1708  OG1 THR A 215      74.818  57.973  44.569  0.00  9.64           O 0
+ATOM   1709  CG2 THR A 215      73.460  59.913  44.496  0.00  0.00           C 0
+ATOM   1694    O GLY A 213      70.800  60.045  48.170  0.00  0.00           O 0
+ATOM   1244   CG GLU A 157      78.933  57.475  50.200  0.00  0.00           C 0
+ATOM   1702  CD2 LEU A 214      72.250  55.303  50.159  0.00  0.00           C 0
+ATOM   1227    O PHE A 155      75.303  52.744  52.345  0.45  3.21           O 0
+ATOM   1239    N GLU A 157      76.625  54.433  50.034  0.47  1.09           N 0
+ATOM   1243   CB GLU A 157      78.382  56.087  50.588  0.00  0.00           C 0
+ATOM   1240   CA GLU A 157      77.576  55.377  49.478  0.00  0.00           C 0
+ATOM   1696   CA LEU A 214      71.005  57.337  47.752  0.00  0.00           C 0
+ATOM   1238    O GLY A 156      75.278  54.455  48.226  0.45  2.14           O 0
+ATOM   1208    O ASP A 153      75.370  53.134  55.922  0.00  0.00           O 0
+ATOM   1200    O MET A 152      72.729  52.726  53.302  0.47  2.14           O 0
+ATOM   1686   CB LYS A 212      68.589  56.831  52.576  0.00  0.00           C 0
+ATOM   1212  OD2 ASP A 153      70.654  54.135  56.658  0.50  5.36           O 0
+ATOM   1685    O LYS A 212      69.841  59.494  51.491  0.38  9.64           O 0
+ATOM   1688   CD LYS A 212      68.631  54.751  54.074  0.00  0.00           C 0
+ATOM   1206   CA ASP A 153      73.039  52.749  56.061  0.00  0.00           C 0
+ATOM   1209   CB ASP A 153      72.546  52.864  57.506  0.00  0.00           C 0
+TER
+END

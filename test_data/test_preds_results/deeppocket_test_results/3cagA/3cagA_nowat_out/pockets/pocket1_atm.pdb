@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.3305
+HEADER 1  - Drug Score                        : 0.4093
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.2364
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5935
+HEADER 5  - Mean B-factor of pocket residues  : 0.4201
+HEADER 6  - Hydrophobicity Score              : 30.7143
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 235.0503
+HEADER 10 - Pocket volume (convex hull)       : 4.0611
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM    522   CG MET A 165      -0.267 -15.137 -17.867  0.00  0.00           C 0
+ATOM    317   CB LEU A 136      -6.187 -14.581 -13.776  0.00  0.00           C 0
+ATOM    320  CD2 LEU A 136      -6.705 -15.754 -15.938  0.00  0.00           C 0
+ATOM    327   CD PRO A 137      -6.221 -17.950 -12.013  0.00  0.00           C 0
+ATOM    494    O GLN A 161       3.723 -13.068 -15.615  0.52  5.36           O 0
+ATOM    521   CB MET A 165       1.023 -14.353 -17.666  0.00  0.00           C 0
+ATOM    474  CG2 THR A 157       2.295 -13.626 -10.201  0.00  0.00           C 0
+ATOM    507  CD2 LEU A 162      -0.540 -12.017 -13.006  0.00  0.00           C 0
+ATOM    332   CB GLN A 138      -1.524 -15.222 -10.083  0.00  0.00           C 0
+ATOM    333   CG GLN A 138      -1.173 -16.674  -9.638  0.00  0.00           C 0
+ATOM    525   CEAMET A 165      -1.820 -13.107 -16.792  0.00  0.00           C 0
+ATOM    523   SDAMET A 165      -1.709 -14.127 -18.270  0.00  0.00           S 0
+ATOM    319  CD1 LEU A 136      -5.422 -13.595 -15.895  0.00  0.00           C 0
+ATOM    328    N GLN A 138      -3.983 -15.612 -10.087  0.00  0.00           N 0
+TER
+END

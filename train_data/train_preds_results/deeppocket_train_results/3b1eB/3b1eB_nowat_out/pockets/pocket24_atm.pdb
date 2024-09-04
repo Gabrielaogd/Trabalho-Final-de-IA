@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0204
+HEADER 1  - Drug Score                        : 0.0032
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8038
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6267
+HEADER 5  - Mean B-factor of pocket residues  : 0.2685
+HEADER 6  - Hydrophobicity Score              : 23.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 165.3278
+HEADER 10 - Pocket volume (convex hull)       : 4.5746
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   1566   CB HIS B 187      49.345  58.329  56.383  0.00  0.00           C 0
+ATOM   1601   CD LYS B 191      50.791  51.394  57.489  0.00  0.00           C 0
+ATOM   1564    C HIS B 187      47.761  56.348  56.368  0.00  0.00           C 0
+ATOM   1565    O HIS B 187      48.106  55.382  55.698  0.63  3.21           O 0
+ATOM   1228    O PHE B 149      47.539  54.643  66.028  0.71  3.21           O 0
+ATOM   1579  CD2 LEU B 188      47.885  53.831  60.689  0.00  0.00           C 0
+ATOM   1578  CD1 LEU B 188      46.270  55.420  61.918  0.00  0.00           C 0
+ATOM   1546  OE1AGLN B 184      50.446  59.208  63.821  0.00  0.00           O 0
+ATOM   1275  OE1 GLU B 153      50.345  51.985  62.979  0.41  9.64           O 0
+ATOM   1577   CG LEU B 188      47.053  55.142  60.607  0.00  0.00           C 0
+ATOM   1276  OE2 GLU B 153      49.917  51.011  61.050  0.62  1.07           O 0
+ATOM   1603   NZ LYS B 191      52.134  50.742  59.505  0.59  6.56           N 0
+ATOM   1542   CGAGLN B 184      49.048  59.847  61.984  0.00  0.00           C 0
+ATOM   1539    O GLN B 184      47.092  58.634  59.562  0.00  0.00           O 0
+ATOM   1229   CB PHE B 149      48.113  57.782  66.133  0.00  0.00           C 0
+ATOM   1572    N LEU B 188      47.144  56.224  57.537  0.00  0.00           N 0
+TER
+END

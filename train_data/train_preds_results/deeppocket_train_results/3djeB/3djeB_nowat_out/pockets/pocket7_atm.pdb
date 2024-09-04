@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.0104
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7781
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4980
+HEADER 5  - Mean B-factor of pocket residues  : 0.2215
+HEADER 6  - Hydrophobicity Score              : 19.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 151.1225
+HEADER 10 - Pocket volume (convex hull)       : 1.2401
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3163   CA ARG B 403      84.158   4.750  20.136  0.00  0.00           C 0
+ATOM   3167   CG ARG B 403      82.529   3.190  19.174  0.00  0.00           C 0
+ATOM   3173    N ASN B 404      82.969   6.283  18.703  0.00  0.00           N 0
+ATOM   3139    O ILE B 399      87.340   1.008  16.640  0.00  0.00           O 0
+ATOM   3152    O ALA B 401      87.939   4.056  19.768  0.44  6.43           O 0
+ATOM   3157    O ASN B 402      86.091   6.611  19.931  0.29  7.50           O 0
+ATOM   2687    O ALA B 341      83.066   1.384  12.784  0.60  7.50           O 0
+ATOM   3228  CD2 LEU B 409      80.210   2.732  11.958  0.00  0.00           C 0
+ATOM   3169   NE ARG B 403      81.125   1.647  18.048  0.00  0.00           N 0
+ATOM   3213  OD2 ASP B 407      81.923   5.871  12.732  0.45  7.50           O 0
+ATOM   3210   CB ASP B 407      79.919   6.276  13.955  0.00  0.00           C 0
+ATOM   3176    O ASN B 404      80.219   6.058  17.162  0.68  1.07           O 0
+ATOM   2688   CB ALA B 341      84.059   0.317  15.510  0.00  0.00           C 0
+TER
+END

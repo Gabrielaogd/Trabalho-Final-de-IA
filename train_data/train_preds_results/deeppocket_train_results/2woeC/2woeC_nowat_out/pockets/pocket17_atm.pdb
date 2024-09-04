@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0172
+HEADER 1  - Drug Score                        : 0.0032
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1326
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7138
+HEADER 5  - Mean B-factor of pocket residues  : 0.3540
+HEADER 6  - Hydrophobicity Score              : 14.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 212.5848
+HEADER 10 - Pocket volume (convex hull)       : 2.6771
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM   2018   CB LEU C 269     -37.237   4.157  22.950  0.00  0.00           C 0
+ATOM   1992   CBASER C 266     -37.477   0.433  26.963  0.00  0.00           C 0
+ATOM   2026   CB SER C 270     -33.255   0.888  23.317  0.00  0.00           C 0
+ATOM   1994   OGASER C 266     -38.003   1.295  27.958  0.00  9.64           O 0
+ATOM   1989    O SER C 266     -36.325   0.382  23.971  0.73  1.07           O 0
+ATOM   1990   CAASER C 266     -38.039   0.802  25.591  0.00  0.00           C 0
+ATOM   2022    N SER C 270     -34.947   2.241  22.163  0.00  0.00           N 0
+ATOM   2020  CD1 LEU C 269     -37.820   6.103  24.383  0.00  0.00           C 0
+ATOM   2023   CA SER C 270     -33.515   1.962  22.263  0.00  0.00           C 0
+ATOM   2085  OE2 GLU C 277     -33.021   8.449  23.553  0.00  0.00           O 0
+ATOM   2084  OE1 GLU C 277     -32.988   6.996  21.901  0.33  6.43           O 0
+ATOM   2016    C LEU C 269     -35.412   3.304  21.516  0.00  0.00           C 0
+TER
+END

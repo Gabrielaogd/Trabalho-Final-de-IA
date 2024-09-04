@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0087
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5905
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3430
+HEADER 5  - Mean B-factor of pocket residues  : 0.1690
+HEADER 6  - Hydrophobicity Score              : 67.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 112.4377
+HEADER 10 - Pocket volume (convex hull)       : 0.9094
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1729  CD2 LEU X 217      36.041   6.919  -0.929  0.00  0.00           C 0
+ATOM   1825  CG2 ILE X 229      35.486  12.965  -2.041  0.00  0.00           C 0
+ATOM   1891  CE2 PHE X 237      33.061   9.009   0.184  0.00  0.00           C 0
+ATOM   1857   OG SER X 233      36.591  10.688   0.023  0.00  0.00           O 0
+ATOM   1723   CA LEU X 217      34.195   6.189  -3.383  0.00  0.00           C 0
+ATOM   1717    O ILE X 216      31.583   7.086  -3.720  0.56  2.14           O 0
+ATOM   1824  CG1 ILE X 229      33.040  13.407  -2.440  0.00  0.00           C 0
+ATOM   1826  CD1 ILE X 229      33.073  13.799  -3.894  0.00  0.00           C 0
+ATOM   1784  CD1 ILE X 224      29.432  10.613  -2.382  0.00  0.00           C 0
+ATOM   1739    O TRP X 219      31.738   9.093  -8.014  0.39  8.57           O 0
+ATOM   1753    O PRO X 220      29.629  11.449  -8.670  0.38  1.07           O 0
+ATOM   1781   CB ILE X 224      29.130  13.090  -2.709  0.00  0.00           C 0
+ATOM   1725    O LEU X 217      34.862   7.074  -5.506  0.00  0.00           O 0
+TER
+END

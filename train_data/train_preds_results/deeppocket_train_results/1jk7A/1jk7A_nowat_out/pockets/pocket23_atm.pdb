@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0038
+HEADER 1  - Drug Score                        : 0.0066
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8603
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6385
+HEADER 5  - Mean B-factor of pocket residues  : 0.3170
+HEADER 6  - Hydrophobicity Score              : 9.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.0882
+HEADER 10 - Pocket volume (convex hull)       : 5.7695
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   1203   NZ LYS A 150      80.874  29.585  26.427  0.43  7.66           N 0
+ATOM   1202   CE LYS A 150      79.756  30.566  26.444  0.00  0.00           C 0
+ATOM   1034  NH2 ARG A 132      83.322  33.943  27.588  0.00  0.00           N 0
+ATOM   1033  NH1 ARG A 132      84.516  34.901  25.870  0.44  9.84           N 0
+ATOM   1193  CZ3 TRP A 149      80.158  35.118  25.654  0.00  0.00           C 0
+ATOM   1201   CD LYS A 150      78.713  30.284  25.372  0.00  0.00           C 0
+ATOM   1001   CB ALA A 128      82.343  36.576  21.132  0.00  0.00           C 0
+ATOM   1194  CH2 TRP A 149      80.848  36.201  25.077  0.00  0.00           C 0
+ATOM   1226   CB THR A 153      78.339  34.803  20.194  0.00  0.00           C 0
+ATOM   1200   CG LYS A 150      77.824  31.505  25.164  0.00  0.00           C 0
+ATOM   1196   CA LYS A 150      76.514  32.706  23.337  0.00  0.00           C 0
+ATOM   1199   CB LYS A 150      76.930  31.360  23.941  0.00  0.00           C 0
+ATOM   1227  OG1 THR A 153      78.588  35.710  21.274  0.00  0.00           O 0
+ATOM   1228  CG2 THR A 153      79.628  34.580  19.417  0.00  0.00           C 0
+ATOM   1198    O LYS A 150      76.166  32.438  20.973  0.84  1.07           O 0
+ATOM   1236  OD2 ASP A 154      76.141  29.614  18.925  0.00  0.00           O 0
+ATOM   1235  OD1 ASP A 154      77.897  30.350  17.832  0.00  0.00           O 0
+TER
+END

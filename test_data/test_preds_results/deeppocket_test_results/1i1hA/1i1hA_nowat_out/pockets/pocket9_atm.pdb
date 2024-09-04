@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0052
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9458
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5910
+HEADER 5  - Mean B-factor of pocket residues  : 0.5657
+HEADER 6  - Hydrophobicity Score              : -15.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 247.3575
+HEADER 10 - Pocket volume (convex hull)       : 16.0285
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM    228   CG ARG A  29      50.884   6.579 -17.015  0.00  0.00           C 0
+ATOM    222   OG SER A  28      54.768   3.399 -15.587  0.80  4.29           O 0
+ATOM    229   CD ARG A  29      49.447   6.169 -16.969  0.00  0.00           C 0
+ATOM    227   CB ARG A  29      51.568   5.876 -18.163  0.00  0.00           C 0
+ATOM    230   NE ARG A  29      48.855   6.398 -15.664  0.00  0.00           N 0
+ATOM    207  OD1 ASP A  26      54.945   3.511 -12.668  0.61  2.14           O 0
+ATOM    204    O ASP A  26      53.789   6.345 -11.384  0.56  7.50           O 0
+ATOM    206   CG ASP A  26      54.836   2.943 -11.549  0.00  0.00           C 0
+ATOM    205   CB ASP A  26      54.553   3.797 -10.318  0.00  0.00           C 0
+ATOM    405  NH1 ARG A  52      48.899   2.654  -7.517  0.00  0.00           N 0
+ATOM    208  OD2 ASP A  26      54.931   1.695 -11.388  0.55  6.43           O 0
+ATOM    397   CA ARG A  52      46.767   6.714 -10.032  0.00  0.00           C 0
+ATOM    233  NH2 ARG A  29      47.827   7.675 -14.050  0.44  4.37           N 0
+ATOM    399    O ARG A  52      45.080   6.774 -11.723  0.00  0.00           O 0
+ATOM    394  OG1 THR A  51      50.487   7.815  -8.816  0.48  3.21           O 0
+ATOM    392    O THR A  51      48.029   8.767 -11.567  0.00  0.00           O 0
+ATOM    396    N ARG A  52      47.682   7.739  -9.549  0.00  0.00           N 0
+ATOM    401   CG ARG A  52      47.219   5.020  -8.102  0.00  0.00           C 0
+TER
+END

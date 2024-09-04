@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0101
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6081
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3608
+HEADER 5  - Mean B-factor of pocket residues  : 0.1332
+HEADER 6  - Hydrophobicity Score              : 18.1111
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 99.2880
+HEADER 10 - Pocket volume (convex hull)       : 0.7985
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM   1629    N SER A 206       4.675   1.575  53.411  0.69  1.09           N 0
+ATOM   1656  CG1 ILE A 209       0.181   1.263  56.064  0.00  0.00           C 0
+ATOM   2394   CA GLU A 301       0.912  -3.029  57.637  0.00  0.00           C 0
+ATOM   1630   CA SER A 206       4.484   2.206  54.712  0.00  0.00           C 0
+ATOM   1624   CB LYS A 205       3.681  -0.610  51.305  0.00  0.00           C 0
+ATOM   1622    C LYS A 205       3.726   1.567  52.487  0.00  0.00           C 0
+ATOM   2399   CD GLU A 301       3.667  -4.672  56.060  0.00  0.00           C 0
+ATOM   2401  OE2 GLU A 301       4.880  -4.382  56.021  0.00  0.00           O 0
+ATOM   2400  OE1 GLU A 301       3.030  -5.063  55.060  0.52  8.57           O 0
+ATOM   2351    O PRO A 296       7.583   0.742  58.501  0.60  3.21           O 0
+ATOM   2377    O ARG A 299       4.320  -1.239  60.043  0.60  3.21           O 0
+ATOM   1633   CB SER A 206       5.751   2.041  55.545  0.00  0.00           C 0
+ATOM   1100  CE1 HIS A 139       0.050   0.304  51.358  0.00  0.00           C 0
+ATOM   1098  ND1 HIS A 139      -0.193  -0.979  51.167  0.00  0.00           N 0
+ATOM   2388    O ILE A 300       1.582  -0.601  58.865  0.80  1.07           O 0
+ATOM   2402    N VAL A 302      -1.031  -2.819  56.181  0.00  0.00           N 0
+TER
+END

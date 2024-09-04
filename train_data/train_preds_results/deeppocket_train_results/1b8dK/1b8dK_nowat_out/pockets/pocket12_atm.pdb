@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0381
+HEADER 1  - Drug Score                        : 0.0683
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 3.6737
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4788
+HEADER 5  - Mean B-factor of pocket residues  : 0.0790
+HEADER 6  - Hydrophobicity Score              : 19.8889
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 294.8727
+HEADER 10 - Pocket volume (convex hull)       : 21.7554
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 22.4167
+HEADER 13 - Number of apolar alpha sphere     :    24
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM     82  CG1 ILE K   9      18.703 -21.181  -8.262  0.00  0.00           C 0
+ATOM     74  CG2 THR K   8      19.220 -23.174  -4.574  0.00  0.00           C 0
+ATOM    165   CB PRO K  19      24.588 -19.484  -6.538  0.00  0.00           C 0
+ATOM    196   CB ASP K  23      22.798 -21.578  -3.179  0.00  0.00           C 0
+ATOM    166   CG PRO K  19      23.865 -18.876  -7.698  0.00  0.00           C 0
+ATOM    197   CG ASP K  23      22.249 -20.349  -2.531  0.00  0.00           C 0
+ATOM    199  OD2 ASP K  23      22.825 -19.267  -2.717  0.00  0.00           O 0
+ATOM    104   CB ALA K  12      19.798 -16.777  -4.411  0.00  0.00           C 0
+ATOM     83  CG2 ILE K   9      17.451 -19.116  -8.894  0.00  0.00           C 0
+ATOM     84  CD1 ILE K   9      18.794 -21.673  -9.664  0.00  0.00           C 0
+ATOM    135    O ARG K  17      21.911 -14.278  -5.898  0.60  8.57           O 0
+ATOM     80    O ILE K   9      16.830 -17.601  -6.297  0.00  0.00           O 0
+ATOM    167   CD PRO K  19      24.349 -17.445  -7.663  0.00  0.00           C 0
+ATOM    235  CD1 ILE K  27      21.546 -25.938  -6.585  0.00  0.00           C 0
+ATOM    208  CD2 LEU K  24      26.583 -23.438  -5.899  0.00  0.00           C 0
+ATOM    106    N ASP K  13      17.412 -15.064  -5.450  0.00  0.00           N 0
+ATOM    110   CB ASP K  13      16.026 -14.593  -7.440  0.00  0.00           C 0
+ATOM    107   CA ASP K  13      16.894 -14.012  -6.320  0.00  0.00           C 0
+ATOM    112  OD1 ASP K  13      16.547 -12.665  -8.739  0.00  0.00           O 0
+ATOM    111   CG ASP K  13      15.737 -13.579  -8.526  0.00  0.00           C 0
+ATOM     78   CA ILE K   9      17.463 -19.900  -6.516  0.00  0.00           C 0
+ATOM     71    O THR K   8      17.822 -19.840  -3.819  0.00  0.00           O 0
+TER
+END

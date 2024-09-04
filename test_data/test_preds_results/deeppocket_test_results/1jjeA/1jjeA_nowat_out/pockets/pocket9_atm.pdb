@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0911
+HEADER 1  - Drug Score                        : 0.0054
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.2334
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6196
+HEADER 5  - Mean B-factor of pocket residues  : 0.2535
+HEADER 6  - Hydrophobicity Score              : 46.4444
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 366.6299
+HEADER 10 - Pocket volume (convex hull)       : 10.1105
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.8333
+ATOM    538    N ILE A  70      36.249  32.542  17.750  0.00  0.00           N 0
+ATOM    726  CG1 ILE A  94      41.289  29.930  15.076  0.00  0.00           C 0
+ATOM    543  CG1 ILE A  70      37.603  30.066  18.557  0.00  0.00           C 0
+ATOM    492  CG2 VAL A  64      34.854  27.486  17.294  0.00  0.00           C 0
+ATOM    728  CD1 ILE A  94      41.126  28.888  16.142  0.00  0.00           C 0
+ATOM    707    O ARG A  92      41.088  28.929  11.332  0.59  4.29           O 0
+ATOM    718    O SER A  93      41.813  32.424  11.534  0.00  0.00           O 0
+ATOM    541    O ILE A  70      38.634  33.631  16.375  0.39  3.21           O 0
+ATOM    537   NZ LYS A  69      36.016  36.522  13.054  0.00  0.00           N 0
+ATOM    536   CE LYS A  69      34.875  35.690  13.527  0.00  0.00           C 0
+ATOM    459  OG1 THR A  61      36.541  21.799  18.070  0.74  9.64           O 0
+ATOM    681  CH2 TRP A  88      41.026  23.966  16.213  0.00  0.00           C 0
+ATOM    491  CG1 VAL A  64      32.998  25.950  16.573  0.00  0.00           C 0
+ATOM    708   CB ARG A  92      41.815  26.492  12.530  0.00  0.00           C 0
+ATOM    709   CG ARG A  92      41.361  25.049  12.528  0.00  0.00           C 0
+ATOM    452  CG1 VAL A  60      38.369  26.362  18.269  0.00  0.00           C 0
+ATOM    542   CB ILE A  70      38.398  31.339  18.252  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0129
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.6884
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5113
+HEADER 5  - Mean B-factor of pocket residues  : 0.1294
+HEADER 6  - Hydrophobicity Score              : -12.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 85.5700
+HEADER 10 - Pocket volume (convex hull)       : 1.1697
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0952
+ATOM   2945  OD2 ASP A 454       8.961  36.385  33.218  0.53  1.07           O 0
+ATOM   2910  NH2AARG A 450      11.275  38.350  36.331  0.59  1.09           N 0
+ATOM    414    O PRO A 119      11.222  42.554  34.968  0.58  2.14           O 0
+ATOM   2902   CDAARG A 450       8.935  39.859  36.753  0.00  0.00           C 0
+ATOM    444   CB ASP A 123       7.740  42.610  34.871  0.00  0.00           C 0
+ATOM   1769    N LYS A 303       5.558  40.535  30.093  0.66  1.09           N 0
+ATOM   1782   CB ALA A 304       9.568  43.142  29.171  0.00  0.00           C 0
+ATOM   1778    N ALA A 304       7.192  42.614  29.240  0.78  1.09           N 0
+ATOM    821   CA GLY A 173      10.411  38.814  28.519  0.00  0.00           C 0
+ATOM    441   CA ASP A 123       7.681  43.704  33.785  0.00  0.00           C 0
+ATOM    440    N ASP A 123       9.059  44.225  33.552  0.00  0.00           N 0
+ATOM    810  OD1 ASP A 171      12.769  39.516  30.971  0.46  4.29           O 0
+ATOM   2944  OD1 ASP A 454       6.948  37.118  32.669  0.47  3.21           O 0
+ATOM   1762   CA ILE A 302       6.322  38.315  29.498  0.00  0.00           C 0
+ATOM    820    N GLY A 173      10.990  37.765  29.351  0.50  1.09           N 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0894
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.4928
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3069
+HEADER 5  - Mean B-factor of pocket residues  : 0.2975
+HEADER 6  - Hydrophobicity Score              : -17.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 84.9435
+HEADER 10 - Pocket volume (convex hull)       : 0.4461
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   1149    O GLY A 146      11.588   1.901  40.183  0.72  1.07           O 0
+ATOM   1096    O ASP A 138      13.434  -3.771  43.532  0.65  8.57           O 0
+ATOM   1147   CA GLY A 146      11.434   0.070  38.663  0.00  0.00           C 0
+ATOM   1094   CA ASP A 138      14.968  -2.151  44.409  0.00  0.00           C 0
+ATOM   1118   CB CYS A 141      10.061  -0.898  43.336  0.00  0.00           C 0
+ATOM   1269   CG ARG A 161      13.808   3.824  41.920  0.00  0.00           C 0
+ATOM   1088    O ASN A 137      12.700  -1.528  45.809  0.53  1.07           O 0
+ATOM   1099  OD1 ASP A 138      16.687  -0.311  42.954  0.61  1.07           O 0
+ATOM   1273  NH1 ARG A 161      15.920   1.278  39.556  0.00  0.00           N 0
+ATOM   1314   CB ASP A 167      13.262   4.488  46.251  0.00  0.00           C 0
+ATOM   1310    N ASP A 167      15.530   4.908  45.492  0.46  3.28           N 0
+ATOM   1093    N ASP A 138      14.937  -1.454  45.686  0.00  0.00           N 0
+ATOM   1087    C ASN A 137      13.784  -1.190  46.282  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0085
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8951
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5401
+HEADER 5  - Mean B-factor of pocket residues  : 0.3504
+HEADER 6  - Hydrophobicity Score              : 31.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 262.1113
+HEADER 10 - Pocket volume (convex hull)       : 7.5089
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM    120  CG2 VAL A  17      -1.245  17.939   3.918  0.00  0.00           C 0
+ATOM    119  CG1 VAL A  17      -2.528  15.853   4.517  0.00  0.00           C 0
+ATOM    199   CB SER A  28      -3.253  19.676   6.675  0.00  0.00           C 0
+ATOM    200   OG SER A  28      -4.416  20.466   6.597  0.00  0.00           O 0
+ATOM    140   OH TYR A  19      -1.382  14.772   1.259  0.83  1.07           O 0
+ATOM   3233   CB GLN A 426      -2.500  19.295  -1.031  0.00  0.00           C 0
+ATOM    190    N ALA A  27      -5.767  15.371   8.712  0.00  0.00           N 0
+ATOM    191   CA ALA A  27      -5.449  16.669   9.282  0.00  0.00           C 0
+ATOM    192    C ALA A  27      -4.293  17.282   8.522  0.00  0.00           C 0
+ATOM   3218  OE1 GLU A 424      -5.328  18.493  -1.413  0.45  4.29           O 0
+ATOM   3234   CG GLN A 426      -3.145  20.528  -0.408  0.00  0.00           C 0
+ATOM    182   CB ALA A  25      -5.923  14.454   3.835  0.00  0.00           C 0
+ATOM   3217   CD GLU A 424      -5.770  17.353  -1.682  0.00  0.00           C 0
+ATOM   3219  OE2 GLU A 424      -6.773  16.852  -1.113  0.71  7.50           O 0
+ATOM    193    O ALA A  27      -3.558  16.585   7.839  0.00  0.00           O 0
+ATOM    181    O ALA A  25      -8.119  13.456   5.696  0.64  4.29           O 0
+ATOM    185    C VAL A  26      -6.917  14.754   8.967  0.00  0.00           C 0
+ATOM    186    O VAL A  26      -7.763  15.205   9.743  0.00  0.00           O 0
+TER
+END

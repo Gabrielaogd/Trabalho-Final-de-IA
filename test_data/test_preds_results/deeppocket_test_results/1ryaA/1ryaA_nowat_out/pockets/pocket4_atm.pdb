@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0399
+HEADER 1  - Drug Score                        : 0.0128
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8401
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5065
+HEADER 5  - Mean B-factor of pocket residues  : 0.1432
+HEADER 6  - Hydrophobicity Score              : 42.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 214.5983
+HEADER 10 - Pocket volume (convex hull)       : 3.1641
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM     35  CD2 LEU A   4      20.831  18.960  41.684  0.00  0.00           C 0
+ATOM    102  CG2 VAL A  12      24.665  19.938  37.784  0.00  0.00           C 0
+ATOM    443   CB LYS A  55      17.742  23.854  39.686  0.00  0.00           C 0
+ATOM     34  CD1 LEU A   4      23.070  20.044  41.359  0.00  0.00           C 0
+ATOM    445   CD LYS A  55      17.021  24.122  37.276  0.00  0.00           C 0
+ATOM     15   SD MET A   2      17.340  20.405  40.968  0.00  0.00           S 0
+ATOM    439    N LYS A  55      18.867  25.488  41.115  0.00  0.00           N 0
+ATOM     12    O MET A   2      19.673  22.284  44.413  0.41  1.07           O 0
+ATOM    422  NH2 ARG A  52      23.198  23.166  43.211  0.59  1.09           N 0
+ATOM    444   CG LYS A  55      16.689  23.528  38.639  0.00  0.00           C 0
+ATOM    447   NZ LYS A  55      15.527  22.610  35.980  0.00  0.00           N 0
+ATOM    421  NH1 ARG A  52      23.700  24.763  41.699  0.39  9.84           N 0
+ATOM    101  CG1 VAL A  12      26.198  21.879  38.192  0.00  0.00           C 0
+ATOM     33   CG LEU A   4      22.043  19.580  42.379  0.00  0.00           C 0
+TER
+END

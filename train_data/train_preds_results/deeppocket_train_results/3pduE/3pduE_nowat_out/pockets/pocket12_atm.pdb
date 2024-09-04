@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.1051
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9679
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5400
+HEADER 5  - Mean B-factor of pocket residues  : 0.4531
+HEADER 6  - Hydrophobicity Score              : 15.3750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 279.1797
+HEADER 10 - Pocket volume (convex hull)       : 11.9183
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5500
+ATOM    219  CH2 TRP E  30     -69.779  29.600 -76.206  0.00  0.00           C 0
+ATOM    233   CG ARG E  32     -72.978  26.736 -78.848  0.00  0.00           C 0
+ATOM    217  CZ2 TRP E  30     -70.879  30.410 -76.098  0.00  0.00           C 0
+ATOM    519  OE2 GLU E  73     -68.892  28.431 -83.537  0.00  0.00           O 0
+ATOM    234   CD ARG E  32     -72.214  25.988 -79.933  0.00  0.00           C 0
+ATOM    514    O GLU E  73     -65.009  31.885 -81.538  0.46  3.21           O 0
+ATOM    551    O ALA E  78     -68.942  35.839 -80.891  0.36  9.64           O 0
+ATOM    516   CG GLU E  73     -66.730  29.434 -83.393  0.00  0.00           C 0
+ATOM    521   CA VAL E  74     -64.762  30.799 -79.019  0.00  0.00           C 0
+ATOM    526  CG2 VAL E  74     -65.969  28.891 -77.922  0.00  0.00           C 0
+ATOM    562   CA GLY E  80     -65.673  35.844 -78.524  0.00  0.00           C 0
+ATOM    545   CA GLY E  77     -65.548  34.532 -83.299  0.00  0.00           C 0
+ATOM    523    O VAL E  74     -64.174  32.986 -78.170  0.00  0.00           O 0
+ATOM    368   CG PRO E  51     -67.847  32.965 -75.689  0.00  0.00           C 0
+ATOM    369   CD PRO E  51     -69.090  33.825 -75.658  0.00  0.00           C 0
+ATOM    548    N ALA E  78     -67.476  35.999 -83.285  0.52  5.47           N 0
+ATOM    552   CB ALA E  78     -69.596  37.188 -83.634  0.00  0.00           C 0
+TER
+END

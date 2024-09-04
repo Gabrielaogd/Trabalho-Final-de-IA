@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0664
+HEADER 1  - Drug Score                        : 0.0062
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9801
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6607
+HEADER 5  - Mean B-factor of pocket residues  : 0.3566
+HEADER 6  - Hydrophobicity Score              : -4.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 193.2231
+HEADER 10 - Pocket volume (convex hull)       : 3.3772
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM      4    O GLY E   0      57.594 121.900   7.426  0.21  6.43           O 0
+ATOM      5    N GLU E   2      55.831 119.673  11.064  0.58  2.19           N 0
+ATOM     35   CB ASP E   5      56.226 121.764  14.974  0.00  0.00           C 0
+ATOM     45  CG2 THR E   6      52.249 122.288  12.088  0.00  0.00           C 0
+ATOM      3    C GLY E   0      56.453 121.606   7.061  0.00  0.00           C 0
+ATOM   1215   CA GLU E 154      52.120 125.238   8.414  0.00  0.00           C 0
+ATOM   1219   CG GLU E 154      52.569 123.207   6.967  0.00  0.00           C 0
+ATOM   1217    O GLU E 154      53.749 126.147   6.828  0.00  0.00           O 0
+ATOM     33    C ASP E   5      53.974 122.677  15.721  0.00  0.00           C 0
+ATOM     74   CDALYS E   9      54.873 128.504  15.013  0.00  0.00           C 0
+ATOM     34    O ASP E   5      53.862 123.702  16.363  0.69  1.07           O 0
+ATOM     39    N THR E   6      53.088 122.316  14.790  0.00  0.00           N 0
+ATOM     38  OD2 ASP E   5      58.391 120.821  14.559  0.00  0.00           O 0
+ATOM   1209    O ILE E 153      52.482 127.686   9.477  0.53  2.14           O 0
+ATOM   1212  CG2 ILE E 153      51.647 127.180  12.574  0.00  0.00           C 0
+ATOM     40   CA THR E   6      51.948 123.167  14.430  0.00  0.00           C 0
+TER
+END

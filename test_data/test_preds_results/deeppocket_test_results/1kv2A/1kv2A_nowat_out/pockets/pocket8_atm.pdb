@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0642
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1337
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7197
+HEADER 5  - Mean B-factor of pocket residues  : 0.1442
+HEADER 6  - Hydrophobicity Score              : -4.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 263.3810
+HEADER 10 - Pocket volume (convex hull)       : 3.4950
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   2196  OE1 GLN A 301       7.828  39.463   6.620  0.69  7.50           O 0
+ATOM   2156    O ARG A 296       7.900  35.240   8.057  0.39  5.36           O 0
+ATOM   2139    O ASP A 294       5.110  31.880   4.980  0.00  0.00           O 0
+ATOM   2197  NE2 GLN A 301       8.020  39.666   4.409  0.27  9.84           N 0
+ATOM   2088   CD LYS A 287       3.377  40.704  12.919  0.00  0.00           C 0
+ATOM   2171  CD1 ILE A 297       7.411  40.994  11.072  0.00  0.00           C 0
+ATOM   2169  CG1 ILE A 297       8.068  39.997  10.184  0.00  0.00           C 0
+ATOM   2168   CB ILE A 297       8.011  38.594  10.757  0.00  0.00           C 0
+ATOM   2147    O LYS A 295       4.389  34.114   9.387  0.00  0.00           O 0
+ATOM   2086   CB LYS A 287       4.907  38.886  13.459  0.00  0.00           C 0
+ATOM   2164    N ILE A 297       7.739  36.237  10.089  0.00  0.00           N 0
+ATOM   2085    O LYS A 287       6.500  36.328  12.982  0.63  1.07           O 0
+ATOM   2155    C ARG A 296       7.620  35.204   9.264  0.00  0.00           C 0
+ATOM   2145   CA LYS A 295       4.450  32.592   7.539  0.00  0.00           C 0
+ATOM   2146    C LYS A 295       5.070  33.383   8.685  0.00  0.00           C 0
+ATOM   2165   CA ILE A 297       8.233  37.540   9.651  0.00  0.00           C 0
+TER
+END

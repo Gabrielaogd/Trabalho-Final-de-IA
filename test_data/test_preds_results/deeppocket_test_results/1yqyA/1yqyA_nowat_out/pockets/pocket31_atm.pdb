@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.1386
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8709
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6087
+HEADER 5  - Mean B-factor of pocket residues  : 0.4078
+HEADER 6  - Hydrophobicity Score              : -3.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 253.7157
+HEADER 10 - Pocket volume (convex hull)       : 9.3816
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM   2718   CB LEU A 601       7.289  37.886  28.824  0.00  0.00           C 0
+ATOM   3371   OG SER A 681       7.241  33.347  31.584  0.83  6.43           O 0
+ATOM   2751   CG GLU A 605       6.777  35.498  33.792  0.00  0.00           C 0
+ATOM   2720  CD1 LEU A 601       4.985  38.545  28.270  0.00  0.00           C 0
+ATOM   2752   CD GLU A 605       5.884  35.948  34.922  0.00  0.00           C 0
+ATOM   2754  OE2 GLU A 605       5.744  37.175  35.107  0.00  0.00           O 0
+ATOM   3357  ND2 ASN A 679       2.484  31.082  31.954  0.52  9.84           N 0
+ATOM   2753  OE1 GLU A 605       5.375  35.068  35.659  0.48  4.29           O 0
+ATOM   3354   CB ASN A 679       2.956  30.683  29.605  0.00  0.00           C 0
+ATOM   3355   CG ASN A 679       3.356  30.598  31.067  0.00  0.00           C 0
+ATOM   2717    O LEU A 601       8.623  36.972  31.577  0.75  1.07           O 0
+ATOM   2715   CA LEU A 601       8.503  38.340  29.610  0.00  0.00           C 0
+ATOM   2721  CD2 LEU A 601       6.812  40.322  28.508  0.00  0.00           C 0
+ATOM   2742   CB ASN A 604       9.977  39.553  33.505  0.00  0.00           C 0
+ATOM   2745  ND2 ASN A 604       9.829  41.745  32.468  0.00  0.00           N 0
+ATOM   2784  OD1 ASN A 608       8.192  39.819  38.001  0.46  9.64           O 0
+TER
+END

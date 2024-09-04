@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0087
+HEADER 1  - Drug Score                        : 0.0035
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1175
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5880
+HEADER 5  - Mean B-factor of pocket residues  : 0.1690
+HEADER 6  - Hydrophobicity Score              : 37.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.1291
+HEADER 10 - Pocket volume (convex hull)       : 4.1460
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.8750
+ATOM    871  CG2 VAL C 123       0.069  10.590  29.193  0.00  0.00           C 0
+ATOM    666   CG PHE C  98       3.556   7.841  32.739  0.00  0.00           C 0
+ATOM    665   CB PHE C  98       4.055   6.447  32.540  0.00  0.00           C 0
+ATOM    667  CD1 PHE C  98       3.576   8.757  31.696  0.00  0.00           C 0
+ATOM    870  CG1 VAL C 123      -1.864  10.448  30.780  0.00  0.00           C 0
+ATOM    856  CG2 THR C 121       0.137   6.169  25.305  0.00  0.00           C 0
+ATOM    778  CG2 THR C 111       4.223   7.406  26.115  0.00  0.00           C 0
+ATOM    678  CG2 THR C  99       4.683   2.534  30.940  0.00  0.00           C 0
+ATOM    777  OG1 THR C 111       2.608   9.107  26.667  0.53  1.07           O 0
+ATOM    714   OG SER C 104       4.504   9.527  28.500  0.00  0.00           O 0
+ATOM    849  CG2 VAL C 120       3.506   4.834  23.251  0.00  0.00           C 0
+ATOM    700  CG2 THR C 102       6.589   4.021  25.881  0.00  0.00           C 0
+ATOM    699  OG1 THR C 102       6.579   5.181  28.000  0.63  1.07           O 0
+ATOM    677  OG1 THR C  99       6.484   2.684  29.333  0.62  2.14           O 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1085
+HEADER 1  - Drug Score                        : 0.4724
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7955
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5682
+HEADER 5  - Mean B-factor of pocket residues  : 0.4119
+HEADER 6  - Hydrophobicity Score              : 18.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 194.9328
+HEADER 10 - Pocket volume (convex hull)       : 4.3551
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.9474
+ATOM   1255  CG2 ILE A 156      49.935  66.827   5.536  0.00  0.00           C 0
+ATOM   1288   CD LYS A 160      47.261  65.331  -1.145  0.00  0.00           C 0
+ATOM   1262   CG GLU A 157      51.866  63.496   3.783  0.00  0.00           C 0
+ATOM   1258   CA GLU A 157      49.392  63.004   3.885  0.00  0.00           C 0
+ATOM   1252    O ILE A 156      47.193  64.611   4.046  0.53  1.07           O 0
+ATOM   2437   CG LYS A 306      45.514  73.631   0.344  0.00  0.00           C 0
+ATOM   2448  CD2 LEU A 307      45.722  67.997   1.611  0.00  0.00           C 0
+ATOM   2471  OE1 GLU A 310      47.510  71.268  -1.256  0.74  1.07           O 0
+ATOM   2438   CD LYS A 306      46.627  74.428   1.016  0.00  0.00           C 0
+ATOM   2436   CB LYS A 306      44.383  73.360   1.320  0.00  0.00           C 0
+ATOM   2417    O ALA A 303      43.674  71.124   3.814  0.69  1.07           O 0
+ATOM   1256  CD1 ILE A 156      46.710  68.746   5.352  0.00  0.00           C 0
+ATOM   2415   CA ALA A 303      44.203  72.621   5.600  0.00  0.00           C 0
+ATOM   2418   CB ALA A 303      45.088  71.961   6.631  0.00  0.00           C 0
+ATOM   2439   CE LYS A 306      47.943  74.309   0.258  0.00  0.00           C 0
+ATOM   1254  CG1 ILE A 156      47.733  67.789   4.796  0.00  0.00           C 0
+ATOM   2472  OE2 GLU A 310      47.248  69.126  -1.612  0.00  0.00           O 0
+TER
+END

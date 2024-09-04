@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.1042
+HEADER 1  - Drug Score                        : 0.0034
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8306
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6932
+HEADER 5  - Mean B-factor of pocket residues  : 0.4131
+HEADER 6  - Hydrophobicity Score              : -10.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.7307
+HEADER 10 - Pocket volume (convex hull)       : 5.5852
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7222
+ATOM    141    N GLU B  29      29.695  36.159  35.306  0.00  0.00           N 0
+ATOM    145   CB GLU B  29      28.965  38.243  34.231  0.00  0.00           C 0
+ATOM    142   CA GLU B  29      28.525  36.935  34.897  0.00  0.00           C 0
+ATOM    138   CD GLN B  28      31.174  35.549  40.055  0.00  0.00           C 0
+ATOM    140  NE2 GLN B  28      32.420  35.999  39.918  0.00  0.00           N 0
+ATOM    136   CB GLN B  28      31.500  34.948  37.649  0.00  0.00           C 0
+ATOM    171  ND1 HIS B  32      23.081  35.594  37.897  0.67  3.28           N 0
+ATOM    169   CB HIS B  32      25.389  35.013  37.052  0.00  0.00           C 0
+ATOM    180   CG GLN B  33      24.020  36.851  32.577  0.00  0.00           C 0
+ATOM    144    O GLU B  29      26.474  35.943  34.120  0.00  0.00           O 0
+ATOM    172  CD2 HIS B  32      24.647  35.845  39.398  0.00  0.00           C 0
+ATOM    135    O GLN B  28      28.517  34.604  36.444  0.00  0.00           O 0
+ATOM    170   CG HIS B  32      24.437  35.472  38.112  0.00  0.00           C 0
+ATOM    146   CG GLU B  29      27.815  39.190  33.914  0.00  0.00           C 0
+ATOM    137   CG GLN B  28      30.575  34.873  38.849  0.00  0.00           C 0
+ATOM    139  OE1 GLN B  28      30.532  35.669  41.100  0.71  9.64           O 0
+TER
+END

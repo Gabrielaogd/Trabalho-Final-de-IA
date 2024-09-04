@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    45:
+HEADER 0  - Pocket Score                      : -0.1279
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9532
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5290
+HEADER 5  - Mean B-factor of pocket residues  : 0.1285
+HEADER 6  - Hydrophobicity Score              : -2.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 232.7337
+HEADER 10 - Pocket volume (convex hull)       : 10.8671
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2174
+ATOM    513   CD LYS A  93      18.330  38.115 115.727  0.00  0.00           C 0
+ATOM    475   CB ARG A  89      14.243  33.863 114.852  0.00  0.00           C 0
+ATOM    478   NE ARG A  89      14.499  32.440 117.042  0.77  5.47           N 0
+ATOM    477   CD ARG A  89      13.749  33.669 117.317  0.00  0.00           C 0
+ATOM    476   CG ARG A  89      13.560  34.496 116.064  0.00  0.00           C 0
+ATOM    453    O GLY A  86      15.926  31.919 112.869  0.55  2.14           O 0
+ATOM   3988  NE2 GLN A 526      19.726  29.218 114.431  0.31  4.37           N 0
+ATOM    481  NH2 ARG A  89      14.743  30.205 116.623  0.67  6.56           N 0
+ATOM    482    N ARG A  90      15.987  34.760 112.357  0.00  0.00           N 0
+ATOM    451   CA GLY A  86      15.771  29.727 113.770  0.00  0.00           C 0
+ATOM    486   CB ARG A  90      18.116  34.410 111.190  0.00  0.00           C 0
+ATOM    483   CA ARG A  90      17.164  35.426 111.826  0.00  0.00           C 0
+ATOM    487   CG ARG A  90      19.448  35.000 110.768  0.00  0.00           C 0
+ATOM   4010  OE2 GLU A 529      22.436  31.834 115.250  0.00  0.00           O 0
+ATOM   3987  OE1 GLN A 526      19.731  30.253 112.431  0.74  2.14           O 0
+ATOM    515   NZ LYS A  93      20.389  39.396 115.050  0.16  9.84           N 0
+ATOM    514   CE LYS A  93      19.420  39.113 116.141  0.00  0.00           C 0
+ATOM    491  NH1 ARG A  90      22.670  34.000 110.875  0.53  4.37           N 0
+ATOM   4009  OE1 GLU A 529      24.342  32.113 114.200  0.17  9.64           O 0
+ATOM    522   SD MET A  94      21.035  37.813 110.468  0.00  0.00           S 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0170
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0128
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5051
+HEADER 5  - Mean B-factor of pocket residues  : 0.2112
+HEADER 6  - Hydrophobicity Score              : 35.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.1467
+HEADER 10 - Pocket volume (convex hull)       : 5.2636
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM    879   CG MET A 107       4.777   6.845  12.750  0.00  0.00           C 0
+ATOM    892   OGASER A 108       1.961   2.344  11.294  0.00  0.00           O 0
+ATOM   2042  OD1 ASP A 248      -2.557   9.983  10.730  0.56  5.36           O 0
+ATOM   2069   NZ LYS A 251       4.284   7.675   8.466  0.00  0.00           N 0
+ATOM    888    OASER A 108       4.924   3.416  11.236  0.45  3.21           O 0
+ATOM    882    NASER A 108       3.345   3.880  13.415  0.58  2.19           N 0
+ATOM    875   CA MET A 107       3.478   5.834  14.797  0.00  0.00           C 0
+ATOM   2067   CD LYS A 251       4.291   9.917   9.568  0.00  0.00           C 0
+ATOM    866    O PHE A 106       2.095   7.918  15.886  0.00  0.00           O 0
+ATOM   2065   CB LYS A 251       2.582  11.820   9.702  0.00  0.00           C 0
+ATOM    881   CE MET A 107       5.652   9.543  12.845  0.00  0.00           C 0
+ATOM   2066   CG LYS A 251       3.218  10.728   8.841  0.00  0.00           C 0
+ATOM   2031    O LEU A 247       0.769  12.816  12.614  0.70  2.14           O 0
+ATOM   2032   CB LEU A 247      -0.387  11.477  15.373  0.00  0.00           C 0
+ATOM   2030    C LEU A 247      -0.299  12.781  13.198  0.00  0.00           C 0
+ATOM    327   OH TYR A  35       3.507  11.218  15.262  0.00  0.00           O 0
+TER
+END

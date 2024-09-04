@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1050
+HEADER 1  - Drug Score                        : 0.3818
+HEADER 2  - Number of alpha spheres           :    37
+HEADER 3  - Mean alpha-sphere radius          : 3.9200
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5039
+HEADER 5  - Mean B-factor of pocket residues  : 0.2163
+HEADER 6  - Hydrophobicity Score              : 26.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 278.7066
+HEADER 10 - Pocket volume (convex hull)       : 11.7033
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.6842
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.5135
+ATOM    607  CD1 LEU E  99       1.630   5.605  26.694  0.00  0.00           C 0
+ATOM   1399  CE3 TRP E 215      -2.753   9.345  26.822  0.00  0.00           C 0
+ATOM    589    O ASN E  97       0.531   4.572  32.801  0.00  0.00           O 0
+ATOM   1396  CD2 TRP E 215      -1.385   9.386  26.673  0.00  0.00           C 0
+ATOM   1393   CB TRP E 215      -0.601   7.719  24.829  0.00  0.00           C 0
+ATOM    597    O THR E  98       2.346   8.198  31.042  0.54  5.36           O 0
+ATOM   1401  CZ3 TRP E 215      -3.356  10.138  27.783  0.00  0.00           C 0
+ATOM   1136  NE2 GLN E 175      -4.922   9.969  31.349  0.00  0.00           N 0
+ATOM   1133   CG GLN E 175      -3.818  11.201  33.167  0.00  0.00           C 0
+ATOM   1132   CB GLN E 175      -2.671  11.950  32.471  0.00  0.00           C 0
+ATOM   1398  CE2 TRP E 215      -0.646  10.243  27.479  0.00  0.00           C 0
+ATOM   1402  CH2 TRP E 215      -2.621  10.987  28.586  0.00  0.00           C 0
+ATOM    606   CG LEU E  99       2.381   5.443  28.008  0.00  0.00           C 0
+ATOM    595   CA THR E  98       2.325   6.676  32.889  0.00  0.00           C 0
+ATOM    600  CG2 THR E  98       2.648   7.385  35.320  0.00  0.00           C 0
+ATOM   1129   CA GLN E 175      -1.673  12.697  33.337  0.00  0.00           C 0
+ATOM   1127    O GLY E 174      -1.641  12.762  35.981  0.00  0.00           O 0
+ATOM    598   CB THR E  98       3.062   7.601  33.861  0.00  0.00           C 0
+ATOM   1400  CZ2 TRP E 215      -1.240  11.043  28.452  0.00  0.00           C 0
+ATOM   1131    O GLN E 175      -0.020  12.479  31.655  0.57  4.29           O 0
+ATOM   1130    C GLN E 175      -0.585  13.244  32.435  0.00  0.00           C 0
+ATOM   1151  CG2 THR E 177       4.356  12.960  33.530  0.00  0.00           C 0
+TER
+END

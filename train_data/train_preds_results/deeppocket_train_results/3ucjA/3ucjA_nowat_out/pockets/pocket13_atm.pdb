@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0729
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.0802
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6344
+HEADER 5  - Mean B-factor of pocket residues  : 0.5078
+HEADER 6  - Hydrophobicity Score              : -4.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 335.8734
+HEADER 10 - Pocket volume (convex hull)       : 22.2989
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5417
+ATOM   1618   CD LYS A 217      55.648  30.117 127.560  0.00  0.00           C 0
+ATOM   1619   CE LYS A 217      54.461  29.812 128.524  0.00  0.00           C 0
+ATOM   1620   NZ LYS A 217      54.725  28.413 129.120  0.00  0.00           N 0
+ATOM   1602  OD1 ASP A 215      60.170  34.259 129.729  0.00  0.00           O 0
+ATOM   1678   CB GLU A 224      50.274  33.645 131.864  0.00  0.00           C 0
+ATOM   1677    O GLU A 224      51.416  34.190 134.839  0.50  4.29           O 0
+ATOM   1687   CB SER A 225      54.472  36.983 134.179  0.00  0.00           C 0
+ATOM   1683    N SER A 225      52.213  35.980 133.696  0.70  1.09           N 0
+ATOM   1622   CA GLN A 218      56.397  35.953 128.374  0.00  0.00           C 0
+ATOM   1676    C GLU A 224      51.352  34.971 133.862  0.00  0.00           C 0
+ATOM   1617   CG LYS A 217      55.553  31.570 126.981  0.00  0.00           C 0
+ATOM   1621    N GLN A 218      56.897  34.981 127.400  0.66  1.09           N 0
+ATOM   1603  OD2 ASP A 215      59.547  33.792 127.652  0.81  8.57           O 0
+ATOM   1684   CA SER A 225      53.157  36.389 134.768  0.00  0.00           C 0
+ATOM   1626   CG GLN A 218      57.041  37.334 130.397  0.00  0.00           C 0
+ATOM   1625   CB GLN A 218      57.511  36.367 129.348  0.00  0.00           C 0
+ATOM   1628  OE1 GLN A 218      58.250  36.920 132.381  0.66  7.50           O 0
+ATOM   1681  OE1 GLU A 224      49.478  31.604 129.635  0.00  0.00           O 0
+ATOM   1650   CB PHE A 221      51.436  34.330 127.368  0.00  0.00           C 0
+ATOM   1649    O PHE A 221      52.175  35.833 129.496  0.00  0.00           O 0
+TER
+END

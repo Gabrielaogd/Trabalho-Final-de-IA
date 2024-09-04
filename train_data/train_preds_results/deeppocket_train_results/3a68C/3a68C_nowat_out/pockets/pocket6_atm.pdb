@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1246
+HEADER 1  - Drug Score                        : 0.0902
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7299
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4537
+HEADER 5  - Mean B-factor of pocket residues  : 0.0569
+HEADER 6  - Hydrophobicity Score              : 44.2000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.6004
+HEADER 10 - Pocket volume (convex hull)       : 1.7870
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM    829   CB LEU C 111     189.891  36.029 -75.719  0.00  0.00           C 0
+ATOM    361  CD2 TYR C  57     191.143  35.886 -69.643  0.00  0.00           C 0
+ATOM    832  CD2 LEU C 111     190.425  37.461 -73.710  0.00  0.00           C 0
+ATOM    831  CD1 LEU C 111     188.050  36.775 -74.156  0.00  0.00           C 0
+ATOM    864  CD1 ILE C 114     191.664  31.030 -70.775  0.00  0.00           C 0
+ATOM    839    OAGLN C 112     192.287  32.127 -75.453  0.39  6.43           O 0
+ATOM    365   OH TYR C  57     187.638  35.312 -68.807  0.66  8.57           O 0
+ATOM    364   CZ TYR C  57     188.999  35.123 -68.915  0.00  0.00           C 0
+ATOM    336  OD1 ASN C  54     195.410  33.124 -73.773  0.00  0.00           O 0
+ATOM    358   CB TYR C  57     193.238  34.528 -69.270  0.00  0.00           C 0
+ATOM    331   CA ASN C  54     196.344  35.608 -72.214  0.00  0.00           C 0
+ATOM    833    NAGLN C 112     192.696  34.484 -76.615  0.71  1.09           N 0
+ATOM    359   CG TYR C  57     191.747  34.739 -69.140  0.00  0.00           C 0
+ATOM    363  CE2 TYR C  57     189.775  36.083 -69.527  0.00  0.00           C 0
+ATOM    362  CE1 TYR C  57     189.574  33.974 -68.414  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0534
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9521
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6935
+HEADER 5  - Mean B-factor of pocket residues  : 0.1612
+HEADER 6  - Hydrophobicity Score              : 3.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 254.6919
+HEADER 10 - Pocket volume (convex hull)       : 6.3625
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   1951  OE1 GLU B 292      19.099  29.467  63.806  0.53  9.64           O 0
+ATOM   2293   CBASER B 334      17.548  29.629  60.561  0.00  0.00           C 0
+ATOM   2287   CAASER B 334      18.930  29.917  59.977  0.00  0.00           C 0
+ATOM   1952  OE2 GLU B 292      17.090  28.628  63.587  0.00  0.00           O 0
+ATOM   2137   CG ARG B 316      15.704  30.674  53.723  0.00  0.00           C 0
+ATOM   2295   OGASER B 334      16.635  29.280  59.542  0.00  0.00           O 0
+ATOM   2138   CD ARG B 316      14.967  29.442  53.212  0.00  0.00           C 0
+ATOM   2136   CB ARG B 316      17.205  30.471  53.610  0.00  0.00           C 0
+ATOM   2150   CE LYS B 317      22.377  26.877  58.579  0.00  0.00           C 0
+ATOM   2285    NASER B 334      19.845  30.269  61.060  0.00  0.00           N 0
+ATOM   2148   CG LYS B 317      21.765  28.621  56.848  0.00  0.00           C 0
+ATOM   2291    OASER B 334      18.774  30.692  57.704  0.75  2.14           O 0
+ATOM   2143    N LYS B 317      20.157  30.661  55.120  0.00  0.00           N 0
+ATOM   2152    N ALA B 318      21.292  28.618  53.500  0.00  0.00           N 0
+ATOM   2151   NZ LYS B 317      23.367  26.518  59.643  0.00  0.00           N 0
+ATOM   2255    O PRO B 330      24.562  25.741  62.620  0.70  8.57           O 0
+ATOM   2273    O ILE B 332      23.253  28.761  61.165  0.41  2.14           O 0
+ATOM   2156   CB ALA B 318      20.802  26.491  52.416  0.00  0.00           C 0
+TER
+END

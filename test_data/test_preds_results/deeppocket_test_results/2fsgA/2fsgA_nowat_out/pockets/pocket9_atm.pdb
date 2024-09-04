@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0144
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9137
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5240
+HEADER 5  - Mean B-factor of pocket residues  : 0.2003
+HEADER 6  - Hydrophobicity Score              : 1.5556
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.3158
+HEADER 10 - Pocket volume (convex hull)       : 6.8655
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2009    N ARG A 420      31.046  19.178  51.910  0.19  1.09           N 0
+ATOM   2001    N ILE A 419      32.174  21.253  53.000  0.00  0.00           N 0
+ATOM   2012    O ARG A 420      29.616  17.249  53.424  0.21  5.36           O 0
+ATOM   2019  NH2 ARG A 420      34.031  13.832  53.436  0.22  9.84           N 0
+ATOM   2013   CB ARG A 420      31.678  16.946  51.165  0.00  0.00           C 0
+ATOM   2017   CZ ARG A 420      33.829  14.238  52.246  0.00  0.00           C 0
+ATOM   2018  NH1 ARG A 420      34.813  14.745  51.579  0.78  2.19           N 0
+ATOM    664  NH2 ARG A 103      39.373  17.076  50.721  0.53  1.09           N 0
+ATOM   3189    O GLY A 576      35.955  19.354  49.683  0.38  6.43           O 0
+ATOM    660   CD ARG A 103      39.077  16.604  53.486  0.00  0.00           C 0
+ATOM   1974  CG2 THR A 414      40.043  20.666  55.100  0.00  0.00           C 0
+ATOM   3201    N GLN A 578      39.041  21.051  48.752  0.45  1.09           N 0
+ATOM   3210    N GLY A 579      37.000  22.985  49.587  0.61  1.09           N 0
+ATOM   1997    O PRO A 417      34.520  23.956  52.816  0.48  1.07           O 0
+ATOM   1996    C PRO A 417      34.885  23.825  54.008  0.00  0.00           C 0
+ATOM   1973  OG1 THR A 414      38.611  22.620  55.630  0.55  8.57           O 0
+ATOM   1986    O ARG A 416      37.858  24.231  53.842  0.56  2.14           O 0
+ATOM    661   NE ARG A 103      38.204  16.010  52.406  0.70  2.19           N 0
+TER
+END

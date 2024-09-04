@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.1585
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1302
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5540
+HEADER 5  - Mean B-factor of pocket residues  : 0.7474
+HEADER 6  - Hydrophobicity Score              : -16.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 309.3069
+HEADER 10 - Pocket volume (convex hull)       : 10.7739
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   1895  CD2 LEU B 239      55.186 -40.781   1.903  0.00  0.00           C 0
+ATOM   1864   CG GLU B 235      60.482 -43.344   1.303  0.00  0.00           C 0
+ATOM   1894  CD1 LEU B 239      57.109 -39.854   0.612  0.00  0.00           C 0
+ATOM   1867  OE2 GLU B 235      61.146 -44.371   3.360  0.00  0.00           O 0
+ATOM   1887  OD2 ASP B 238      57.433 -47.740  -1.802  0.50  4.29           O 0
+ATOM   1866  OE1 GLU B 235      60.440 -45.701   1.755  0.00  0.00           O 0
+ATOM   1885   CG ASP B 238      56.235 -47.408  -1.671  0.00  0.00           C 0
+ATOM   2009  ND2AASN B 251      54.609 -50.558   0.607  0.53  9.84           N 0
+ATOM   1865   CD GLU B 235      60.707 -44.560   2.201  0.00  0.00           C 0
+ATOM   1862    O GLU B 235      57.974 -42.807  -1.007  0.00  0.00           O 0
+ATOM   1893   CG LEU B 239      55.992 -40.865   0.616  0.00  0.00           C 0
+ATOM   1982  OD1 ASN B 249      52.679 -46.892   5.584  0.00  0.00           O 0
+ATOM   2007  OD1AASN B 251      52.930 -49.137   1.064  0.72  3.21           O 0
+ATOM   1932  OD2AASP B 242      52.292 -43.725   1.375  0.55  8.57           O 0
+ATOM   1884   CB ASP B 238      55.909 -45.989  -1.211  0.00  0.00           C 0
+TER
+END

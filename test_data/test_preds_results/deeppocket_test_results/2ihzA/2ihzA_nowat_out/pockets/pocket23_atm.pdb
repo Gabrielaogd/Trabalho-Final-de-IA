@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0419
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9289
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5504
+HEADER 5  - Mean B-factor of pocket residues  : 0.3759
+HEADER 6  - Hydrophobicity Score              : 19.4444
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.9081
+HEADER 10 - Pocket volume (convex hull)       : 4.7800
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1846   CA GLY A 246       7.897 -15.015   9.545  0.00  0.00           C 0
+ATOM   2558  OD1 ASN A 334       5.335 -13.044   6.495  0.00  0.00           O 0
+ATOM    326    O LYS A  65       3.507 -11.905  14.518  0.00  0.00           O 0
+ATOM   1833    O LEU A 244       7.946 -11.908  13.091  0.61  2.14           O 0
+ATOM    323    N LYS A  65       3.051  -9.322  13.204  0.45  4.37           N 0
+ATOM    327   CB LYS A  65       0.956 -10.518  13.765  0.00  0.00           C 0
+ATOM   1841    O VAL A 245       9.085 -12.560   8.980  0.70  1.07           O 0
+ATOM   1840    C VAL A 245       9.209 -13.027  10.118  0.00  0.00           C 0
+ATOM   1845    N GLY A 246       8.715 -14.214  10.467  0.00  0.00           N 0
+ATOM    318  CD1 PHE A  64       7.706  -8.586  11.409  0.00  0.00           C 0
+ATOM    313   CA PHE A  64       4.536  -7.664  12.235  0.00  0.00           C 0
+ATOM    304    O ARG A  63       4.364  -7.375   9.484  0.33  6.43           O 0
+ATOM   1826    O THR A 243       7.809 -15.381  13.595  0.28  2.14           O 0
+ATOM    345   CG PRO A  67       4.763 -15.588  16.000  0.00  0.00           C 0
+ATOM   2555    O ASN A 334       7.880  -9.953   6.059  0.79  2.14           O 0
+ATOM   2556   CB ASN A 334       5.001 -10.876   5.475  0.00  0.00           C 0
+TER
+END

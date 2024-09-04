@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0870
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0734
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5290
+HEADER 5  - Mean B-factor of pocket residues  : 0.0882
+HEADER 6  - Hydrophobicity Score              : -26.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 313.1777
+HEADER 10 - Pocket volume (convex hull)       : 9.9268
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   1925  OD1 ASP A1237     -13.584   6.777 -29.725  0.44  3.21           O 0
+ATOM    710   CG PRO A1084      -7.024   6.624 -25.475  0.00  0.00           C 0
+ATOM   1926  OD2 ASP A1237     -14.919   8.298 -28.972  0.21  9.64           O 0
+ATOM   1924   CG ASP A1237     -14.592   7.125 -29.075  0.00  0.00           C 0
+ATOM    709   CB PRO A1084      -7.478   5.676 -24.465  0.00  0.00           C 0
+ATOM    703   OGASER A1083      -6.041   3.943 -29.119  0.00  0.00           O 0
+ATOM    722  NH2 ARG A1085     -10.589   1.596 -30.258  0.00  7.66           N 0
+ATOM   1917  CE1 HIS A1236     -12.304   6.508 -33.204  0.00  0.00           C 0
+ATOM   1923   CB ASP A1237     -15.456   6.101 -28.383  0.00  0.00           C 0
+ATOM   1922    O ASP A1237     -15.298   3.864 -26.609  0.67  8.57           O 0
+ATOM   1920   CA ASP A1237     -15.174   4.646 -28.819  0.00  0.00           C 0
+ATOM    721  NH1 ARG A1085     -12.409   1.827 -28.889  0.00  0.00           N 0
+ATOM    708    O PRO A1084      -8.666   3.528 -26.159  0.00  0.00           O 0
+ATOM    720   CZ ARG A1085     -11.200   1.346 -29.093  0.00  0.00           C 0
+ATOM    729   CD PRO A1086     -10.834   2.738 -22.534  0.00  0.00           C 0
+ATOM    718   CD ARG A1085     -11.166   0.242 -26.898  0.00  0.00           C 0
+TER
+END

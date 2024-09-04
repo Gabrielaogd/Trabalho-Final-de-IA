@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0216
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1571
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7025
+HEADER 5  - Mean B-factor of pocket residues  : 0.2111
+HEADER 6  - Hydrophobicity Score              : 27.1250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 254.8403
+HEADER 10 - Pocket volume (convex hull)       : 8.8731
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   3751  OE1AGLU A 469      25.541  39.366   6.170  0.00  0.00           O 0
+ATOM   3760   CG PRO A 470      27.315  40.429  11.874  0.00  0.00           C 0
+ATOM   1068   CZ ARG A 135      29.925  36.470   8.277  0.00  0.00           C 0
+ATOM   3761   CD PRO A 470      28.495  40.152  10.936  0.00  0.00           C 0
+ATOM   1027   CB ILE A 130      27.036  34.157   4.306  0.00  0.00           C 0
+ATOM   1028  CG1 ILE A 130      25.673  34.031   3.608  0.00  0.00           C 0
+ATOM   1023    N ILE A 130      26.428  32.322   5.857  0.00  0.00           N 0
+ATOM   3759   CB PRO A 470      26.404  41.390  11.132  0.00  0.00           C 0
+ATOM   1069  NH1 ARG A 135      30.118  37.487   9.117  0.56  4.37           N 0
+ATOM   1070  NH2 ARG A 135      29.995  35.226   8.723  0.92  3.28           N 0
+ATOM   3684  CE1 HIS A 460      28.478  36.534  14.751  0.00  0.00           C 0
+ATOM   1026    O ILE A 130      28.849  33.610   6.824  0.38  2.14           O 0
+ATOM   1014   CA VAL A 129      25.020  30.659   6.893  0.00  0.00           C 0
+ATOM   1017   CBAVAL A 129      25.255  30.348   8.385  0.00  0.00           C 0
+ATOM   1019  CG1AVAL A 129      23.918  30.154   9.097  0.00  0.00           C 0
+ATOM   1067   NE ARG A 135      29.668  36.699   6.991  0.00  0.00           N 0
+ATOM    811    O CYS A 101      28.985  32.849  10.718  0.37  4.29           O 0
+ATOM    824  CG2 VAL A 103      25.657  31.536  12.625  0.00  0.00           C 0
+ATOM   3685  NE2 HIS A 460      28.834  35.277  14.956  0.77  1.09           N 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0739
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9841
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4618
+HEADER 5  - Mean B-factor of pocket residues  : 0.5438
+HEADER 6  - Hydrophobicity Score              : 62.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 323.3443
+HEADER 10 - Pocket volume (convex hull)       : 15.9086
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM   1135    O HIS A1024       1.096  46.271  21.342  0.24  9.64           O 0
+ATOM   1294    O ASP A1044       2.644  42.819  16.858  0.66  9.64           O 0
+ATOM   1302    O PHE A1045      -0.971  42.403  16.561  0.00  0.00           O 0
+ATOM   1127    O ILE A1023       3.164  48.623  19.562  0.53  8.57           O 0
+ATOM   1123   SG CYS A1022       6.921  48.664  15.249  0.00  0.00           S 0
+ATOM    518  CG2 ILE A 886       3.372  46.182  11.363  0.00  0.00           C 0
+ATOM    519  CD1 ILE A 886       0.581  47.288  10.952  0.00  0.00           C 0
+ATOM    553  CD1 ILE A 890       6.451  45.437  13.278  0.00  0.00           C 0
+ATOM   1086  CD2 LEU A1017       8.820  44.801  16.718  0.00  0.00           C 0
+ATOM   1295   CB ASP A1044       5.660  41.560  16.278  0.00  0.00           C 0
+ATOM   1122   CB CYS A1022       6.668  48.980  16.975  0.00  0.00           C 0
+ATOM   1119   CA CYS A1022       6.640  50.450  17.380  0.00  0.00           C 0
+ATOM   1124    N ILE A1023       5.156  50.354  19.258  0.45  4.37           N 0
+ATOM   1085  CD1 LEU A1017       8.080  44.123  19.032  0.00  0.00           C 0
+ATOM   1139  CD2 HIS A1024       4.113  43.218  21.163  0.00  0.00           C 0
+ATOM   1133   CA HIS A1024       3.458  46.658  21.461  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0740
+HEADER 1  - Drug Score                        : 0.0057
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.7003
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4000
+HEADER 5  - Mean B-factor of pocket residues  : 0.1058
+HEADER 6  - Hydrophobicity Score              : 20.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 250.4300
+HEADER 10 - Pocket volume (convex hull)       : 12.4459
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.4800
+ATOM    336  CG2 ILE C  29       0.924  15.330 111.738  0.00  0.00           C 0
+ATOM    337  CD1 ILE C  29       0.625  12.721 109.967  0.00  0.00           C 0
+ATOM   1692  CG2 ILE C 184      -1.617  18.042 105.227  0.00  0.00           C 0
+ATOM    335  CG1 ILE C  29       1.514  13.924 109.745  0.00  0.00           C 0
+ATOM   2911   CB SER C 333      -2.712  12.318 104.761  0.00  0.00           C 0
+ATOM   2908   CA SER C 333      -2.080  11.025 105.294  0.00  0.00           C 0
+ATOM   2913    NATHR C 334      -3.891  10.269 106.686  0.00  0.00           N 0
+ATOM   2941  OE1AGLU C 335      -5.814  13.320 106.342  0.75  5.36           O 0
+ATOM   2923  OG1ATHR C 334      -4.890  10.173 109.382  0.55  3.21           O 0
+ATOM    317    O ASP C  27       0.197  19.747 110.967  0.52  5.36           O 0
+ATOM   1690   CB ILE C 184      -0.172  17.867 104.668  0.00  0.00           C 0
+ATOM    330    N ILE C  29       3.034  16.696 110.293  0.00  0.00           N 0
+ATOM   2902    O ILE C 332       0.581  11.801 105.068  0.79  4.29           O 0
+ATOM   1689    O ILE C 184       2.743  18.189 105.477  0.61  2.14           O 0
+ATOM   1687   CA ILE C 184       0.659  19.208 104.841  0.00  0.00           C 0
+ATOM    333    O ILE C  29       4.378  14.918 108.717  0.41  3.21           O 0
+ATOM   2906  CD1 ILE C 332       2.969  12.905 102.390  0.00  0.00           C 0
+ATOM   2904  CG1 ILE C 332       1.454  12.939 102.282  0.00  0.00           C 0
+ATOM    933    O ASP C  97       5.660  14.444 105.084  0.00  0.00           O 0
+ATOM   1693  CD1 ILE C 184      -0.725  16.001 103.113  0.00  0.00           C 0
+TER
+END

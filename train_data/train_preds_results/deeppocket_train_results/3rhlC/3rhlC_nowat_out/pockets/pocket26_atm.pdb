@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.0810
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1784
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6443
+HEADER 5  - Mean B-factor of pocket residues  : 0.3976
+HEADER 6  - Hydrophobicity Score              : 23.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 299.9117
+HEADER 10 - Pocket volume (convex hull)       : 2.3331
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   2867  CD2 LEU C 772      90.586   1.510  92.899  0.00  0.00           C 0
+ATOM   2825  CG2 VAL C 766      87.248   3.601  94.031  0.00  0.00           C 0
+ATOM   2797   CG GLN C 763      90.222   9.774  93.385  0.00  0.00           C 0
+ATOM   2793   CA GLN C 763      88.058   8.474  92.625  0.00  0.00           C 0
+ATOM   2896  ND2 ASN C 777      95.802   6.811  92.740  0.58  9.84           N 0
+ATOM   2888    O GLY C 776      92.978   5.480  89.771  0.64  3.21           O 0
+ATOM   2823   CB VAL C 766      86.384   4.483  94.953  0.00  0.00           C 0
+ATOM   2795    O GLN C 763      85.969   8.194  93.786  0.59  1.07           O 0
+ATOM   2792    N GLN C 763      88.383   7.997  91.272  0.75  1.09           N 0
+ATOM   2824  CG1 VAL C 766      86.442   3.958  96.409  0.00  0.00           C 0
+ATOM   2826    N LYS C 767      84.040   6.597  95.358  0.00  0.00           N 0
+ATOM   2830   CB LYS C 767      83.455   8.921  95.889  0.00  0.00           C 0
+ATOM   2827   CA LYS C 767      83.234   7.444  96.224  0.00  0.00           C 0
+ATOM   2789    O CYS C 762      87.292   6.056  91.507  0.00  0.00           O 0
+ATOM   2788    C CYS C 762      87.919   6.837  90.812  0.00  0.00           C 0
+ATOM   2790   CB CYS C 762      89.491   5.731  89.133  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0072
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8992
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5497
+HEADER 5  - Mean B-factor of pocket residues  : 0.1474
+HEADER 6  - Hydrophobicity Score              : 19.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 153.0411
+HEADER 10 - Pocket volume (convex hull)       : 2.4886
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3182
+ATOM   1444   CA THR A 208     -10.051  23.730  16.573  0.00  0.00           C 0
+ATOM   1477  CG2 VAL A 211      -7.677  26.898  13.798  0.00  0.00           C 0
+ATOM   1435    O ARG A 207     -10.552  25.154  14.293  0.00  0.00           O 0
+ATOM   1437   CG ARG A 207     -12.215  27.936  15.357  0.00  0.00           C 0
+ATOM   2020  OE2 GLU A 280      -8.460  30.608  14.657  0.61  4.29           O 0
+ATOM   2017   CG GLU A 280      -6.358  30.005  15.615  0.00  0.00           C 0
+ATOM   1448  OG1 THR A 208     -10.462  24.075  18.916  0.00  0.00           O 0
+ATOM   1443    N THR A 208     -11.313  24.360  16.246  0.00  0.00           N 0
+ATOM   1438   CD ARG A 207     -12.670  29.234  15.971  0.00  0.00           C 0
+ATOM   2015    O GLU A 280      -4.625  27.828  17.456  0.61  2.14           O 0
+ATOM   2035   CB ALA A 283      -5.378  28.066  21.098  0.00  0.00           C 0
+ATOM   2036    N ALA A 284      -4.806  25.398  19.461  0.00  0.00           N 0
+ATOM   2034    O ALA A 283      -5.222  24.834  21.585  0.55  2.14           O 0
+ATOM   2058  OG1 THR A 287      -7.598  23.569  22.959  0.00  0.00           O 0
+ATOM   1439   NE ARG A 207     -11.784  30.331  15.577  0.00  0.00           N 0
+ATOM   2040   CB ALA A 284      -5.410  24.246  17.379  0.00  0.00           C 0
+ATOM   2037   CA ALA A 284      -5.330  24.160  18.908  0.00  0.00           C 0
+ATOM   2033    C ALA A 283      -4.823  25.640  20.768  0.00  0.00           C 0
+TER
+END

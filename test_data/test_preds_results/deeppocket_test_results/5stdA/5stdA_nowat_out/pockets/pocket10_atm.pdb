@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0754
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0137
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7254
+HEADER 5  - Mean B-factor of pocket residues  : 0.1852
+HEADER 6  - Hydrophobicity Score              : 30.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.4684
+HEADER 10 - Pocket volume (convex hull)       : 2.5048
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM    957   CB LYS A 124      35.549  10.833  19.364  0.00  0.00           C 0
+ATOM   1226  CD1 PHE A 156      33.015   8.777  15.669  0.00  0.00           C 0
+ATOM    959   CD LYS A 124      36.446  12.035  17.340  0.00  0.00           C 0
+ATOM   1238  OD2 ASP A 157      35.817   4.418  18.991  0.27  9.64           O 0
+ATOM   1224   CB PHE A 156      32.640   8.262  18.103  0.00  0.00           C 0
+ATOM    936  CG1 VAL A 121      40.391  12.598  19.148  0.00  0.00           C 0
+ATOM    941    O THR A 122      41.558   7.540  20.672  0.63  8.57           O 0
+ATOM    934    O VAL A 121      43.409  10.890  18.492  0.52  7.50           O 0
+ATOM    940    C THR A 122      41.629   8.736  20.948  0.00  0.00           C 0
+ATOM    946   CA MET A 123      39.260   8.831  21.471  0.00  0.00           C 0
+ATOM    956    O LYS A 124      34.487   8.339  20.974  0.00  0.00           O 0
+ATOM    958   CG LYS A 124      36.553  11.831  18.861  0.00  0.00           C 0
+ATOM    947    C MET A 123      38.130   9.884  21.404  0.00  0.00           C 0
+ATOM    945    N MET A 123      40.572   9.450  21.322  0.00  0.00           N 0
+ATOM    953    N LYS A 124      36.964   9.480  20.898  0.64  2.19           N 0
+TER
+END

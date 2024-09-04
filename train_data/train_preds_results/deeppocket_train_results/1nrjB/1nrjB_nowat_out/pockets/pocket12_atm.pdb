@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0264
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7461
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4984
+HEADER 5  - Mean B-factor of pocket residues  : 0.1191
+HEADER 6  - Hydrophobicity Score              : 22.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 157.7937
+HEADER 10 - Pocket volume (convex hull)       : 1.9745
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM    336  OD2 ASP B  79      19.862  32.244   6.937  0.00  0.00           O 0
+ATOM    328   OH TYR B  78      20.190  34.571   9.992  0.41  2.14           O 0
+ATOM   1464  OD1 ASP B 241      19.449  27.796  10.662  0.00  0.00           O 0
+ATOM   1425  NH1 ARG B 237      24.060  32.939  12.285  0.35  5.47           N 0
+ATOM   1465  OD2 ASP B 241      21.131  26.589  10.981  0.00  0.00           O 0
+ATOM   1420   CB ARG B 237      22.996  29.183  14.744  0.00  0.00           C 0
+ATOM   1422   CD ARG B 237      24.809  30.696  13.955  0.00  0.00           C 0
+ATOM   1417   CA ARG B 237      21.635  29.006  15.518  0.00  0.00           C 0
+ATOM   1419    O ARG B 237      20.262  27.498  14.200  0.00  0.00           O 0
+ATOM   1456  CG2 ILE B 240      16.716  30.475  13.391  0.00  0.00           C 0
+ATOM   1454   CB ILE B 240      17.342  29.860  14.702  0.00  0.00           C 0
+ATOM   1457  CD1 ILE B 240      18.232  31.974  15.883  0.00  0.00           C 0
+ATOM    172  CD2 LEU B  58      21.182  34.725  14.070  0.00  0.00           C 0
+ATOM    326  CE2 TYR B  78      18.052  33.685   9.538  0.00  0.00           C 0
+ATOM   1421   CG ARG B 237      23.507  30.595  14.733  0.00  0.00           C 0
+TER
+END

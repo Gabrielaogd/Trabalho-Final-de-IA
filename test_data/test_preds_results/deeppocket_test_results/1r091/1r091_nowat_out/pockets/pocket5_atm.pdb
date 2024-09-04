@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0713
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7798
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5774
+HEADER 5  - Mean B-factor of pocket residues  : 0.2659
+HEADER 6  - Hydrophobicity Score              : -7.1111
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 183.4540
+HEADER 10 - Pocket volume (convex hull)       : 3.9631
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1064    O VAL 1 153      34.574  -1.706 132.537  0.30  1.07           O 0
+ATOM   1616   OG SER 1 223      35.315   1.131 135.630  0.55  1.07           O 0
+ATOM   1076   CA PRO 1 155      30.025  -2.367 132.760  0.00  0.00           C 0
+ATOM   1104  OD1 ASN 1 159      34.348  -3.453 137.927  0.00  0.00           O 0
+ATOM   1071    O PRO 1 154      32.479  -3.550 132.194  0.36  1.07           O 0
+ATOM   1082    N GLY 1 156      29.702  -4.540 133.664  0.67  8.75           N 0
+ATOM   1608   CA GLY 1 222      32.404   1.555 132.762  0.00  0.00           C 0
+ATOM   1079   CB PRO 1 155      28.829  -1.404 132.647  0.00  0.00           C 0
+ATOM   1597  CE1 HIS 1 220      26.499   1.155 135.713  0.00  0.00           C 0
+ATOM    667   NZ LYS 1 103      29.623   4.912 137.420  0.71  6.56           N 0
+ATOM   1595  ND1 HIS 1 220      26.576   2.415 135.315  0.81  5.47           N 0
+ATOM    665   CD LYS 1 103      32.104   5.130 137.198  0.00  0.00           C 0
+ATOM    666   CE LYS 1 103      30.731   5.367 136.568  0.00  0.00           C 0
+ATOM   1610    O GLY 1 222      33.373   3.536 133.722  0.00  0.00           O 0
+ATOM   1607    N GLY 1 222      31.440   2.405 132.063  0.00  0.00           N 0
+ATOM   1609    C GLY 1 222      33.565   2.393 133.286  0.00  0.00           C 0
+TER
+END

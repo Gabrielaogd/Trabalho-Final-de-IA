@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1157
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.6517
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4051
+HEADER 5  - Mean B-factor of pocket residues  : 0.1273
+HEADER 6  - Hydrophobicity Score              : 3.0000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.4545
+HEADER 9  - Pocket volume (Monte Carlo)       : 133.9006
+HEADER 10 - Pocket volume (convex hull)       : 3.7636
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0833
+ATOM    988   CA ASP A 131     -11.979  47.799  55.385  0.00  0.00           C 0
+ATOM    995    N ILE A 132     -10.712  48.633  53.476  0.60  2.19           N 0
+ATOM    979    O ARG A 130     -10.263  46.933  57.271  0.24  6.43           O 0
+ATOM    998    O ILE A 132     -10.339  46.924  51.152  0.52  6.43           O 0
+ATOM    978    C ARG A 130     -10.333  48.136  57.122  0.00  0.00           C 0
+ATOM   1587   CB ALA A 203      -5.863  47.832  51.875  0.00  0.00           C 0
+ATOM   1564  OD1 ASP A 200      -6.972  51.319  56.391  0.00  0.00           O 0
+ATOM   1000  CG1 ILE A 132      -8.649  50.655  52.661  0.00  0.00           C 0
+ATOM   1402    O THR A 181      -9.229  41.553  52.549  0.50  3.21           O 0
+ATOM   1438   CB MET A 185      -5.890  42.710  54.260  0.00  0.00           C 0
+ATOM   1434    N MET A 185      -6.153  43.088  51.803  0.00  0.00           N 0
+ATOM   1399    N THR A 181     -11.674  41.916  54.207  0.56  1.09           N 0
+ATOM   1435   CA MET A 185      -5.411  43.469  53.005  0.00  0.00           C 0
+ATOM   1521  NE2 GLN A 195      -6.144  46.857  58.466  0.42  5.47           N 0
+ATOM   1442    N SER A 186      -3.317  44.408  53.730  0.62  1.09           N 0
+ATOM   1553    O ASP A 199      -3.676  49.081  54.273  0.53  2.14           O 0
+ATOM    977   CA ARG A 130      -9.437  49.051  57.960  0.00  0.00           C 0
+ATOM   1396   CA GLY A 180     -11.573  42.529  56.517  0.00  0.00           C 0
+TER
+END

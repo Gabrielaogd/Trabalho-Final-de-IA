@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : 0.0203
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8466
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5278
+HEADER 5  - Mean B-factor of pocket residues  : 0.2840
+HEADER 6  - Hydrophobicity Score              : 19.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 272.0060
+HEADER 10 - Pocket volume (convex hull)       : 11.1226
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM    235  OE1 GLN A 201     -15.682  31.012  53.080  0.00  0.00           O 0
+ATOM    454   CA LYS A 232     -15.434  30.791  58.270  0.00  0.00           C 0
+ATOM    457   CB LYS A 232     -15.354  29.327  58.714  0.00  0.00           C 0
+ATOM    453    N LYS A 232     -14.132  31.438  58.404  0.56  1.09           N 0
+ATOM    234   CD GLN A 201     -15.575  31.672  52.046  0.00  0.00           C 0
+ATOM    329   CA GLY A 214     -10.738  27.594  47.401  0.00  0.00           C 0
+ATOM    236  NE2 GLN A 201     -16.457  31.599  51.056  0.63  8.75           N 0
+ATOM    211    O ASP A 199      -9.883  28.507  55.774  0.00  0.00           O 0
+ATOM    331    O GLY A 214      -9.835  29.756  47.889  0.00  0.00           O 0
+ATOM    233   CG GLN A 201     -14.410  32.621  51.844  0.00  0.00           C 0
+ATOM    240    O TYR A 202     -12.351  34.320  47.980  0.58  6.43           O 0
+ATOM    228    N GLN A 201     -10.981  31.824  53.351  0.00  0.00           N 0
+ATOM    218    C TYR A 200     -10.059  30.878  53.198  0.00  0.00           C 0
+ATOM    232   CB GLN A 201     -13.317  32.436  52.884  0.00  0.00           C 0
+ATOM    229   CA GLN A 201     -11.934  32.144  52.295  0.00  0.00           C 0
+ATOM    219    O TYR A 200      -9.979  30.174  52.191  0.44  8.57           O 0
+ATOM    237    N TYR A 202     -11.201  33.381  50.318  0.00  0.00           N 0
+ATOM    328    N GLY A 214     -11.429  28.005  46.196  0.00  0.00           N 0
+ATOM    319  CG2 ILE A 212     -10.545  32.076  45.545  0.00  0.00           C 0
+ATOM    316    O ILE A 212     -12.929  30.818  43.542  0.00  0.00           O 0
+TER
+END

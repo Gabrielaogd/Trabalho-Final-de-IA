@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : -0.0190
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1619
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6973
+HEADER 5  - Mean B-factor of pocket residues  : 0.0581
+HEADER 6  - Hydrophobicity Score              : 11.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 2.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 192.4018
+HEADER 10 - Pocket volume (convex hull)       : 1.6141
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   3012   CG PRO A 361      -8.465   6.296 -35.926  0.00  0.00           C 0
+ATOM   3013   CD PRO A 361      -8.860   6.091 -34.495  0.00  0.00           C 0
+ATOM   3021  CD1 ILE A 362      -8.673  -0.526 -35.228  0.00  0.00           C 0
+ATOM   4705  ND2 ASN A 572      -4.939  -1.535 -34.957  0.42  6.56           N 0
+ATOM   4702   CB ASN A 572      -5.752  -2.178 -37.156  0.00  0.00           C 0
+ATOM   4679    C GLY A 568      -5.604   0.661 -41.477  0.00  0.00           C 0
+ATOM   4681    N ALA A 569      -6.866   0.924 -41.136  0.72  1.09           N 0
+ATOM   4680    O GLY A 568      -4.998  -0.350 -41.089  0.00  0.00           O 0
+ATOM   4682   CA ALA A 569      -7.631   0.053 -40.227  0.00  0.00           C 0
+ATOM   4663    O GLY A 565      -7.849   3.510 -40.952  0.00  0.00           O 0
+ATOM   3019  CG1 ILE A 362      -9.613   0.562 -35.710  0.00  0.00           C 0
+ATOM   3011   CB PRO A 361      -9.532   5.741 -36.793  0.00  0.00           C 0
+ATOM   4685   CB ALA A 569      -8.980   0.674 -39.888  0.00  0.00           C 0
+TER
+END

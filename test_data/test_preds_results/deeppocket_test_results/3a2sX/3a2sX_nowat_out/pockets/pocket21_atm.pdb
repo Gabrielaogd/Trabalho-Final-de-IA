@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0374
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9062
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7350
+HEADER 5  - Mean B-factor of pocket residues  : 0.2587
+HEADER 6  - Hydrophobicity Score              : 55.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.0912
+HEADER 10 - Pocket volume (convex hull)       : 5.6043
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   1066  CE1 PHE X 144      20.215 -10.118   4.635  0.00  0.00           C 0
+ATOM   1320   CG LEU X 176      23.028  -8.456   8.746  0.00  0.00           C 0
+ATOM   1336   CB TYR X 178      18.714  -6.686   4.422  0.00  0.00           C 0
+ATOM   1322  CD2 LEU X 176      22.370  -9.743   9.234  0.00  0.00           C 0
+ATOM   1398    C GLN X 186      18.961  -3.721  11.517  0.00  0.00           C 0
+ATOM   1405    N TYR X 187      19.944  -4.529  11.893  0.75  2.19           N 0
+ATOM   1399    O GLN X 186      18.053  -3.332  12.255  0.00  0.00           O 0
+ATOM   1685  CG1 VAL X 222      14.925  -4.722  13.768  0.00  0.00           C 0
+ATOM   1396    N GLN X 186      17.670  -3.188   9.490  0.51  1.09           N 0
+ATOM   1409   CB TYR X 187      20.415  -6.304  13.574  0.00  0.00           C 0
+ATOM   1395    O GLY X 185      18.361  -3.819   7.448  0.58  2.14           O 0
+ATOM   1394    C GLY X 185      17.450  -3.543   8.230  0.00  0.00           C 0
+ATOM   1393   CA GLY X 185      16.012  -3.541   7.757  0.00  0.00           C 0
+ATOM   1397   CA GLN X 186      18.994  -3.341  10.050  0.00  0.00           C 0
+ATOM   1318    O LEU X 176      21.755  -5.049   9.715  0.53  3.21           O 0
+ATOM   1332    N TYR X 178      20.085  -4.915   5.448  0.00  0.00           N 0
+TER
+END

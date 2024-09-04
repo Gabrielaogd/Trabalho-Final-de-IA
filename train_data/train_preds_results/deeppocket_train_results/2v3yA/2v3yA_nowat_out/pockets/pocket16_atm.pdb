@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.1019
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9417
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5601
+HEADER 5  - Mean B-factor of pocket residues  : 0.2658
+HEADER 6  - Hydrophobicity Score              : 18.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 191.1558
+HEADER 10 - Pocket volume (convex hull)       : 4.2382
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM    532  OE1 GLU A  59      64.382  82.698  60.556  0.00  0.00           O 0
+ATOM    971   CB SER A 111      62.581  89.838  58.868  0.00  0.00           C 0
+ATOM    963  CD2 PHE A 110      61.562  84.364  57.523  0.00  0.00           C 0
+ATOM    533  OE2 GLU A  59      62.412  82.059  61.309  0.58  9.64           O 0
+ATOM    967    N SER A 111      62.454  88.177  57.050  0.60  1.09           N 0
+ATOM    968   CA SER A 111      61.660  89.028  57.951  0.00  0.00           C 0
+ATOM    700   CGAARG A  79      67.156  83.237  58.376  0.00  0.00           C 0
+ATOM    694   CAAARG A  79      67.744  85.084  56.741  0.00  0.00           C 0
+ATOM    828  NH1 ARG A  92      69.662  85.856  60.886  0.00  0.00           N 0
+ATOM    698   CBAARG A  79      68.245  84.108  57.790  0.00  0.00           C 0
+ATOM    960   CB PHE A 110      63.205  85.244  55.842  0.00  0.00           C 0
+ATOM    712    N VAL A  80      68.612  87.311  57.121  0.46  2.19           N 0
+ATOM    719  CG1AVAL A  80      68.895  89.592  59.204  0.00  0.00           C 0
+ATOM    972   OG SER A 111      63.304  90.800  58.118  0.63  3.21           O 0
+TER
+END

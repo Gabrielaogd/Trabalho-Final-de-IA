@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0802
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9146
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4971
+HEADER 5  - Mean B-factor of pocket residues  : 0.2968
+HEADER 6  - Hydrophobicity Score              : 17.8750
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.9135
+HEADER 10 - Pocket volume (convex hull)       : 3.5667
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM    545  NE2 GLN A  78      -9.631  19.278   8.214  0.00  0.00           N 0
+ATOM    695  CE1 HIS A  97      -3.134  17.826   7.549  0.00  0.00           C 0
+ATOM      5   CB LYS A  14     -10.414  13.996   6.641  0.00  0.00           C 0
+ATOM    273  OE1 GLN A  47      -5.721  18.324   5.353  0.08  7.50           O 0
+ATOM    696  NE2 HIS A  97      -3.494  18.666   8.503  0.34  1.09           N 0
+ATOM    544  OE1 GLN A  78      -9.628  20.293  10.215  0.00  0.00           O 0
+ATOM    681   CB HIS A  96      -3.689  17.172  13.328  0.00  0.00           C 0
+ATOM    652  CD2 HIS A  92      -6.876  21.927  13.666  0.00  0.00           C 0
+ATOM    656   CA ILE A  93      -2.566  22.343  11.835  0.00  0.00           C 0
+ATOM    648    O HIS A  92      -3.301  20.910  14.101  0.00  0.00           O 0
+ATOM    527   OH TYR A  76      -7.917  22.303   9.989  0.36  2.14           O 0
+ATOM    694  CD2 HIS A  97      -2.421  18.885   9.332  0.00  0.00           C 0
+ATOM    654  NE2 HIS A  92      -7.607  20.775  13.850  0.56  1.09           N 0
+ATOM    682   CG HIS A  96      -4.312  17.161  14.687  0.00  0.00           C 0
+ATOM    653  CE1 HIS A  92      -7.439  20.353  15.088  0.00  0.00           C 0
+ATOM    684  CD2 HIS A  96      -4.620  16.135  15.513  0.00  0.00           C 0
+TER
+END

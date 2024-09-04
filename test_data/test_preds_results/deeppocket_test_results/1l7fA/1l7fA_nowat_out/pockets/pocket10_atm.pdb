@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0733
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1229
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6618
+HEADER 5  - Mean B-factor of pocket residues  : 0.1615
+HEADER 6  - Hydrophobicity Score              : -32.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 262.0362
+HEADER 10 - Pocket volume (convex hull)       : 5.8830
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM    236   CA ASP A 111       0.601   7.614  71.581  0.00  0.00           C 0
+ATOM    479   CG ARG A 141       5.390   7.032  73.570  0.00  0.00           C 0
+ATOM    229    O GLU A 110       2.367   8.654  73.449  0.37  2.14           O 0
+ATOM    242  OD2 ASP A 111      -1.328   5.821  72.954  0.00  0.00           O 0
+ATOM    478   CB ARG A 141       6.343   5.846  73.392  0.00  0.00           C 0
+ATOM    481   NE ARG A 141       4.498   8.485  75.407  0.00  0.00           N 0
+ATOM    243    N SER A 112       1.512   6.705  69.498  0.00  0.00           N 0
+ATOM    246    O SER A 112       3.813   6.209  68.505  0.33  2.14           O 0
+ATOM    256  OD2 ASP A 113       3.817   2.319  68.673  0.42  4.29           O 0
+ATOM    483  NH1 ARG A 141       3.455   9.814  77.011  0.00  0.00           N 0
+ATOM    234  OE2 GLU A 110       1.090  10.469  75.820  0.34  5.36           O 0
+ATOM    237    C ASP A 111       0.441   6.845  70.277  0.00  0.00           C 0
+ATOM    238    O ASP A 111      -0.658   6.419  69.894  0.00  0.00           O 0
+ATOM    244   CA SER A 112       1.464   5.913  68.260  0.00  0.00           C 0
+TER
+END

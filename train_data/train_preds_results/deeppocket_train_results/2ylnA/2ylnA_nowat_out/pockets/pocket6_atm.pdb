@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0908
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8059
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5876
+HEADER 5  - Mean B-factor of pocket residues  : 0.0980
+HEADER 6  - Hydrophobicity Score              : 0.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.9975
+HEADER 10 - Pocket volume (convex hull)       : 5.5835
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM    555  NE2AGLN A  96      -3.269  -3.661   3.425  0.00  0.00           N 0
+ATOM   1332   CAAASP A 182      -2.212  -3.913  -1.363  0.00  0.00           C 0
+ATOM   1322    OAVAL A 181      -2.728  -1.834  -3.078  0.79  1.07           O 0
+ATOM    578  OD2 ASP A  98      -3.125   2.114  -1.229  0.43  3.21           O 0
+ATOM   1313   CB PRO A 180      -6.808   0.461  -5.499  0.00  0.00           C 0
+ATOM   1311    C PRO A 180      -5.581  -1.637  -5.848  0.00  0.00           C 0
+ATOM   1316    NAVAL A 181      -4.426  -1.901  -5.228  0.00  0.00           N 0
+ATOM   1312    O PRO A 180      -6.498  -2.450  -5.898  0.37  5.36           O 0
+ATOM   1318   CAAVAL A 181      -4.146  -3.132  -4.543  0.00  0.00           C 0
+ATOM    571    N ASP A  98      -1.077   1.965   2.175  0.61  2.19           N 0
+ATOM    575   CB ASP A  98      -2.943   2.986   0.976  0.00  0.00           C 0
+ATOM    547   CBAGLN A  96      -2.672  -1.103   4.873  0.00  0.00           C 0
+ATOM    557    N TRP A  97       0.136  -0.371   3.348  0.59  2.19           N 0
+ATOM    561   CB TRP A  97       1.501   0.283   1.321  0.00  0.00           C 0
+ATOM   1150   CBASER A 162       0.139   0.446  -2.878  0.00  0.00           C 0
+ATOM   1336    OAASP A 182      -0.156  -4.061  -0.314  0.00  0.00           O 0
+ATOM   1320    CAVAL A 181      -3.249  -2.910  -3.312  0.00  0.00           C 0
+ATOM   1330    NAASP A 182      -2.977  -4.003  -2.608  0.66  2.19           N 0
+ATOM   1338   CBAASP A 182      -2.646  -4.910  -0.283  0.00  0.00           C 0
+TER
+END

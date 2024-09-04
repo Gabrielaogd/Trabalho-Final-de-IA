@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0919
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8055
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4508
+HEADER 5  - Mean B-factor of pocket residues  : 0.6377
+HEADER 6  - Hydrophobicity Score              : 2.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 290.4101
+HEADER 10 - Pocket volume (convex hull)       : 33.6492
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2221   CD LYS B 302      29.955  58.692  42.038  0.00  0.00           C 0
+ATOM   2268  OD1 ASP B 307      31.161  53.862  40.149  0.00  0.00           O 0
+ATOM   2222   CE LYS B 302      30.830  58.438  40.830  0.00  0.00           C 0
+ATOM   2269  OD2 ASP B 307      32.970  52.746  40.892  0.00  0.00           O 0
+ATOM    257  NH1 ARG B  33      27.051  52.746  38.583  0.52  6.56           N 0
+ATOM   2216   CA LYS B 302      26.391  57.680  42.620  0.00  0.00           C 0
+ATOM   2220   CG LYS B 302      28.457  58.694  41.628  0.00  0.00           C 0
+ATOM   2249    O ASN B 305      30.177  52.049  47.114  0.00  0.00           O 0
+ATOM   2255   CA ASP B 306      30.190  50.974  44.588  0.00  0.00           C 0
+ATOM   2238    O PHE B 304      27.321  53.622  45.885  0.55  5.36           O 0
+ATOM   2218    O LYS B 302      26.610  57.333  45.012  0.00  0.00           O 0
+ATOM   2256    C ASP B 306      29.588  50.809  43.207  0.00  0.00           C 0
+ATOM   2219   CB LYS B 302      27.687  58.460  42.844  0.00  0.00           C 0
+ATOM   2195    O ILE B 299      25.235  57.378  39.167  0.00  0.00           O 0
+ATOM   2203    O SER B 300      24.775  60.851  39.204  0.00  0.00           O 0
+ATOM   2223   NZ LYS B 302      30.744  59.693  40.062  0.00  0.00           N 0
+ATOM    258  NH2 ARG B  33      26.338  51.760  40.498  0.42  3.28           N 0
+ATOM   2235    N PHE B 304      24.753  54.165  45.023  0.00  0.00           N 0
+ATOM   2257    O ASP B 306      28.399  50.501  43.124  0.00  0.00           O 0
+TER
+END

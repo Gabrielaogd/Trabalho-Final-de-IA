@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0166
+HEADER 1  - Drug Score                        : 0.0376
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0718
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5248
+HEADER 5  - Mean B-factor of pocket residues  : 0.5904
+HEADER 6  - Hydrophobicity Score              : 47.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 369.5754
+HEADER 10 - Pocket volume (convex hull)       : 29.5607
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 12.4000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7143
+ATOM   1351   CB ASP A 187      12.260  55.669  -2.099  0.00  0.00           C 0
+ATOM   1359   CB GLU A 188      16.086  57.797  -4.585  0.00  0.00           C 0
+ATOM   1363  OE2 GLU A 188      16.586  60.445  -3.924  0.57  5.36           O 0
+ATOM   1360   CG GLU A 188      16.681  58.156  -3.213  0.00  0.00           C 0
+ATOM   1354  OD2 ASP A 187      10.980  55.971  -0.110  0.59  9.64           O 0
+ATOM   1361   CD GLU A 188      17.023  59.634  -3.073  0.00  0.00           C 0
+ATOM   1362  OE1 GLU A 188      17.737  59.985  -2.105  0.00  0.00           O 0
+ATOM   1431  CD2 LEU A 198      21.255  56.183   4.127  0.00  0.00           C 0
+ATOM   1210  CD1 LEU A 168      16.797  55.662   4.954  0.00  0.00           C 0
+ATOM   1346  CD2 LEU A 186      18.189  53.596   1.223  0.00  0.00           C 0
+ATOM   1211  CD2 LEU A 168      14.802  55.800   3.443  0.00  0.00           C 0
+ATOM   1377  CG2 VAL A 190      20.605  55.770  -2.129  0.00  0.00           C 0
+ATOM   1198  CG2 ILE A 166      16.786  59.917   5.582  0.00  0.00           C 0
+ATOM   1195    O ILE A 166      13.972  60.115   5.329  0.00  0.00           O 0
+ATOM   1203    O GLY A 167      11.046  57.289   5.040  0.59  7.50           O 0
+ATOM   1349    C ASP A 187      13.881  55.023  -3.897  0.00  0.00           C 0
+ATOM   1350    O ASP A 187      13.480  54.699  -5.019  0.52  5.36           O 0
+ATOM   1355    N GLU A 188      14.939  55.808  -3.692  0.00  0.00           N 0
+ATOM   1347    N ASP A 187      14.084  54.097  -1.615  0.71  2.19           N 0
+TER
+END

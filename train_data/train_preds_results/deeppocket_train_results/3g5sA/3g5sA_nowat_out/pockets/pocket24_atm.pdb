@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.1278
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.3473
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6137
+HEADER 5  - Mean B-factor of pocket residues  : 0.4875
+HEADER 6  - Hydrophobicity Score              : 14.7778
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 542.5009
+HEADER 10 - Pocket volume (convex hull)       : 23.5507
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM   1560  CD2 HIS A 209      24.070  61.748  24.885  0.00  0.00           C 0
+ATOM   1562  NE2 HIS A 209      24.420  62.674  25.837  0.00  0.00           N 0
+ATOM   2259  CG1 VAL A 306      19.593  58.686  28.407  0.00  0.00           C 0
+ATOM   2268  CD2 HIS A 308      22.145  54.747  27.969  0.00  0.00           C 0
+ATOM   2270  NE2 HIS A 308      21.537  54.774  29.201  0.00  0.00           N 0
+ATOM   2081  CZ2 TRP A 283      20.769  61.786  30.663  0.00  0.00           C 0
+ATOM   2523  OE2 GLU A 341      22.449  56.014  33.750  0.17  8.57           O 0
+ATOM   2078  NE1 TRP A 283      20.720  62.543  28.279  0.76  1.09           N 0
+ATOM   2065   CB LYS A 282      24.042  66.129  23.773  0.00  0.00           C 0
+ATOM   1561  CE1 HIS A 209      25.737  62.770  25.879  0.00  0.00           C 0
+ATOM   2067   CD LYS A 282      26.444  66.256  23.056  0.00  0.00           C 0
+ATOM   2090   CD PRO A 284      22.811  68.768  26.783  0.00  0.00           C 0
+ATOM   2070    N TRP A 283      21.800  66.040  26.104  0.00  0.00           N 0
+ATOM   2074   CB TRP A 283      20.849  66.268  28.343  0.00  0.00           C 0
+ATOM    367   SG CYS A  51      30.991  56.801  31.138  0.00  0.00           S 0
+ATOM    372   CB SER A  52      30.746  60.287  34.460  0.00  0.00           C 0
+ATOM   2075   CG TRP A 283      20.802  64.770  28.606  0.00  0.00           C 0
+ATOM   2077  CD2 TRP A 283      20.832  64.115  29.878  0.00  0.00           C 0
+ATOM   2079  CE2 TRP A 283      20.773  62.724  29.633  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1143
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0028
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6309
+HEADER 5  - Mean B-factor of pocket residues  : 0.3343
+HEADER 6  - Hydrophobicity Score              : 6.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 235.0634
+HEADER 10 - Pocket volume (convex hull)       : 10.2753
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM    985  OE2 GLU A 133       8.063  69.409  20.289  0.00  0.00           O 0
+ATOM    776  CG2 THR A 104       9.735  70.395  26.515  0.00  0.00           C 0
+ATOM    761    O TYR A 103      11.189  66.499  25.661  0.00  0.00           O 0
+ATOM    771   CA THR A 104      11.642  68.831  27.003  0.00  0.00           C 0
+ATOM    697  CE1 TYR A  94      15.079  67.457  25.010  0.00  0.00           C 0
+ATOM    774   CB THR A 104      11.052  70.237  27.257  0.00  0.00           C 0
+ATOM    773    O THR A 104      13.773  69.709  27.599  0.00  0.00           O 0
+ATOM    755   CB PRO A 102       7.574  65.689  22.937  0.00  0.00           C 0
+ATOM    701    N ASN A  95      12.547  65.037  21.711  0.70  1.09           N 0
+ATOM    705   CB ASN A  95      14.253  64.958  19.927  0.00  0.00           C 0
+ATOM    699   CZ TYR A  94      16.202  67.397  24.235  0.00  0.00           C 0
+ATOM    707  OD1 ASN A  95      14.292  66.673  18.077  0.00  0.00           O 0
+ATOM    698  CE2 TYR A  94      16.531  66.250  23.584  0.00  0.00           C 0
+ATOM    754    O PRO A 102       7.597  67.513  25.725  0.00  0.00           O 0
+ATOM    695  CD1 TYR A  94      14.291  66.341  25.147  0.00  0.00           C 0
+ATOM    702   CA ASN A  95      12.769  65.089  20.268  0.00  0.00           C 0
+ATOM    723  CE1 HIS A  97      10.848  68.215  17.360  0.00  0.00           C 0
+TER
+END

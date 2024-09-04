@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0411
+HEADER 1  - Drug Score                        : 0.0049
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9459
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5398
+HEADER 5  - Mean B-factor of pocket residues  : 0.0951
+HEADER 6  - Hydrophobicity Score              : 67.1111
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.6433
+HEADER 10 - Pocket volume (convex hull)       : 5.4462
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7000
+ATOM    493    O VAL B  66      31.134  82.103  52.773  0.38  4.29           O 0
+ATOM    622   CG MET B  81      33.390  84.501  48.840  0.00  0.00           C 0
+ATOM    605    O LEU B  79      33.877  79.816  52.005  0.70  1.07           O 0
+ATOM    623   SD MET B  81      32.752  84.038  47.225  0.00  0.00           S 0
+ATOM    607   CG LEU B  79      35.927  80.670  48.790  0.00  0.00           C 0
+ATOM    609  CD2 LEU B  79      35.516  80.369  47.351  0.00  0.00           C 0
+ATOM    954   CZ PHE B 123      24.696  82.336  45.682  0.00  0.00           C 0
+ATOM    391  NE2 GLN B  54      26.232  77.055  48.211  0.68  5.47           N 0
+ATOM    812   OH TYR B 106      28.863  84.970  45.239  0.81  4.29           O 0
+ATOM    642   CZ PHE B  83      27.309  84.912  48.467  0.00  0.00           C 0
+ATOM    952  CE1 PHE B 123      25.394  83.525  45.485  0.00  0.00           C 0
+ATOM    495  CG1 VAL B  66      27.758  81.632  52.006  0.00  0.00           C 0
+ATOM    411   OH TYR B  56      23.845  81.994  49.673  0.00  0.00           O 0
+ATOM    390  OE1 GLN B  54      25.220  78.228  49.830  0.45  2.14           O 0
+ATOM    621   CB MET B  81      32.341  85.166  49.731  0.00  0.00           C 0
+ATOM    494   CB VAL B  66      28.306  82.972  52.514  0.00  0.00           C 0
+ATOM    508   CB ALA B  68      31.182  77.294  50.181  0.00  0.00           C 0
+ATOM    389   CD GLN B  54      26.039  77.381  49.480  0.00  0.00           C 0
+TER
+END

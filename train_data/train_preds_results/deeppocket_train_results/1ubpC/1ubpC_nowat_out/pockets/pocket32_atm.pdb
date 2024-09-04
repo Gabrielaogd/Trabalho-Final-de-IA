@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0918
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1782
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7002
+HEADER 5  - Mean B-factor of pocket residues  : 0.2516
+HEADER 6  - Hydrophobicity Score              : 37.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 276.5599
+HEADER 10 - Pocket volume (convex hull)       : 12.2087
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   1849   CA LEU C 253      41.984  65.833  75.662  0.00  0.00           C 0
+ATOM   1853   CG LEU C 253      40.338  63.867  76.381  0.00  0.00           C 0
+ATOM   1851    O LEU C 253      44.184  65.044  75.232  0.00  0.00           O 0
+ATOM   1854  CD1 LEU C 253      39.830  64.804  77.461  0.00  0.00           C 0
+ATOM   2498   OG SER C 338      42.095  68.621  82.348  0.87  5.36           O 0
+ATOM   2475  CD1 PHE C 335      38.697  65.826  80.743  0.00  0.00           C 0
+ATOM   1844    O THR C 252      42.120  68.540  76.433  0.55  2.14           O 0
+ATOM   2470   CA PHE C 335      40.315  65.566  83.572  0.00  0.00           C 0
+ATOM   1863  ND2 ASN C 254      45.837  68.893  76.046  0.63  6.56           N 0
+ATOM   2469    N PHE C 335      40.975  64.890  84.688  0.00  0.00           N 0
+ATOM   2466    C ALA C 334      41.812  65.555  85.497  0.00  0.00           C 0
+ATOM   2468   CB ALA C 334      43.488  63.800  86.233  0.00  0.00           C 0
+ATOM   2082    O ALA C 284      45.629  71.174  77.868  0.61  2.14           O 0
+ATOM   2497   CB SER C 338      43.068  69.171  83.200  0.00  0.00           C 0
+ATOM   2467    O ALA C 334      42.128  66.735  85.315  0.00  0.00           O 0
+ATOM   2473   CB PHE C 335      39.364  64.617  82.839  0.00  0.00           C 0
+ATOM   2083   CB ALA C 284      42.912  70.716  79.121  0.00  0.00           C 0
+TER
+END

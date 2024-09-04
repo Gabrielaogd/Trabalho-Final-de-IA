@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0029
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.1849
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6273
+HEADER 5  - Mean B-factor of pocket residues  : 0.2753
+HEADER 6  - Hydrophobicity Score              : 7.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 415.0238
+HEADER 10 - Pocket volume (convex hull)       : 17.6864
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0833
+ATOM    847   CG GLU A 123      25.783  26.813 438.491  0.00  0.00           C 0
+ATOM    850  OE2 GLU A 123      23.641  26.753 437.402  0.00  0.00           O 0
+ATOM    848   CD GLU A 123      24.296  27.208 438.369  0.00  0.00           C 0
+ATOM   1482  NH1 ARG A 198      24.910  32.312 432.241  0.00  0.00           N 0
+ATOM   1479   CD ARG A 198      22.276  32.213 433.180  0.00  0.00           C 0
+ATOM   1477   CB ARG A 198      20.184  31.064 433.797  0.00  0.00           C 0
+ATOM   1489  OG1 THR A 199      19.206  26.256 434.752  0.00  0.00           O 0
+ATOM   1480   NE ARG A 198      23.082  33.429 433.114  0.00  0.00           N 0
+ATOM   1928   CB ASN A 253      22.349  31.521 439.545  0.00  0.00           C 0
+ATOM   1481   CZ ARG A 198      24.332  33.439 432.665  0.00  0.00           C 0
+ATOM   1483  NH2 ARG A 198      25.028  34.560 432.634  0.00  0.00           N 0
+ATOM   1931  ND2 ASN A 253      21.657  29.847 437.944  0.59  2.19           N 0
+ATOM   1930  OD1 ASN A 253      20.987  31.971 437.591  0.77  3.21           O 0
+ATOM   1958  CD2 LEU A 256      19.366  35.037 436.073  0.00  0.00           C 0
+ATOM   1957  CD1 LEU A 256      19.723  36.805 437.813  0.00  0.00           C 0
+ATOM    849  OE1 GLU A 123      23.784  28.007 439.195  0.82  1.07           O 0
+ATOM   1929   CG ASN A 253      21.597  31.141 438.269  0.00  0.00           C 0
+ATOM   1924    N ASN A 253      22.852  33.286 441.147  0.50  6.56           N 0
+ATOM   1925   CA ASN A 253      21.792  32.759 440.277  0.00  0.00           C 0
+TER
+END

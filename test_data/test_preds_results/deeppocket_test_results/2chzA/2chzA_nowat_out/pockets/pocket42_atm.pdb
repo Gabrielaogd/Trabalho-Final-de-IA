@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    42:
+HEADER 0  - Pocket Score                      : -0.0817
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0370
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4339
+HEADER 5  - Mean B-factor of pocket residues  : 0.4337
+HEADER 6  - Hydrophobicity Score              : 63.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 272.4289
+HEADER 10 - Pocket volume (convex hull)       : 8.4852
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   2222  OE1 GLN A 486      14.904   7.646  45.098  0.00  0.00           O 0
+ATOM   1992  CD1 LEU A 461       8.761   8.887  44.025  0.00  0.00           C 0
+ATOM   2005   OH TYR A 462      10.726   5.483  47.529  0.00  0.00           O 0
+ATOM   1481   CD ARG A 375       9.697  11.878  47.660  0.00  0.00           C 0
+ATOM   1480   CG ARG A 375      10.556  12.399  48.808  0.00  0.00           C 0
+ATOM   2223  NE2 GLN A 486      15.414   6.018  46.568  0.00  0.00           N 0
+ATOM   1479   CB ARG A 375      10.123  11.801  50.143  0.00  0.00           C 0
+ATOM   1463    O LEU A 373       9.847   9.145  52.562  0.68  7.50           O 0
+ATOM   1717  CE2 PHE A 404       6.131   7.662  48.332  0.00  0.00           C 0
+ATOM   1993  CD2 LEU A 461      10.293   9.102  42.049  0.00  0.00           C 0
+ATOM   1482   NE ARG A 375       9.614  12.819  46.542  0.41  6.56           N 0
+ATOM   1456    O VAL A 372      11.213   6.001  53.588  0.48  5.36           O 0
+ATOM   1445  CD1 ILE A 370      11.543   3.823  50.598  0.00  0.00           C 0
+TER
+END

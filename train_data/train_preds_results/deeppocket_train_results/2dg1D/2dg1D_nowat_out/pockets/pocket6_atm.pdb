@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0294
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.0418
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5298
+HEADER 5  - Mean B-factor of pocket residues  : 0.1737
+HEADER 6  - Hydrophobicity Score              : 0.8750
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 261.4433
+HEADER 10 - Pocket volume (convex hull)       : 10.1407
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   2013   CB LYS D 261     104.422 -50.301 -15.508  0.00  0.00           C 0
+ATOM   2015   CD LYS D 261     106.285 -51.564 -16.567  0.00  0.00           C 0
+ATOM   1472  OD2 ASP D 192     110.985 -44.583 -15.915  0.00  0.00           O 0
+ATOM   1879  OD2 ASP D 244     108.144 -48.336 -12.199  0.50  7.50           O 0
+ATOM   1878  OD1 ASP D 244     106.519 -46.977 -11.635  0.00  0.00           O 0
+ATOM   1877   CG ASP D 244     106.936 -48.094 -11.999  0.00  0.00           C 0
+ATOM   2012    O LYS D 261     102.760 -48.118 -16.970  0.65  8.57           O 0
+ATOM   1497  CG2 VAL D 195     105.835 -42.847 -17.384  0.00  0.00           C 0
+ATOM   1609  NH2 ARG D 208     104.474 -44.417 -20.299  0.00  0.00           N 0
+ATOM   1514  NE1 TRP D 197     102.007 -44.326 -13.544  0.70  2.19           N 0
+ATOM   1875    O ASP D 244     103.133 -49.185 -12.219  0.00  0.00           O 0
+ATOM   1456   CB SER D 190     106.572 -43.966 -13.067  0.00  0.00           C 0
+ATOM   1457   OG SER D 190     107.433 -42.974 -13.592  0.00  0.00           O 0
+ATOM   2023   CG ARG D 262     102.872 -50.916 -20.331  0.00  0.00           C 0
+ATOM   2014   CG LYS D 261     104.778 -51.353 -16.538  0.00  0.00           C 0
+ATOM   1517  CZ2 TRP D 197     101.122 -45.656 -15.483  0.00  0.00           C 0
+ATOM   1496  CG1 VAL D 195     103.604 -42.464 -16.315  0.00  0.00           C 0
+ATOM   2016   CE LYS D 261     106.693 -52.562 -17.636  0.00  0.00           C 0
+ATOM   2025   NE ARG D 262     104.333 -52.127 -21.928  0.69  4.37           N 0
+ATOM   2027  NH1 ARG D 262     106.425 -53.059 -21.694  0.61  9.84           N 0
+ATOM   2026   CZ ARG D 262     105.187 -52.885 -21.247  0.00  0.00           C 0
+ATOM   1495   CB VAL D 195     105.115 -42.308 -16.155  0.00  0.00           C 0
+TER
+END

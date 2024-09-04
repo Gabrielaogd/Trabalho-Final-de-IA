@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0565
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6535
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4443
+HEADER 5  - Mean B-factor of pocket residues  : 0.7447
+HEADER 6  - Hydrophobicity Score              : 40.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 104.6235
+HEADER 10 - Pocket volume (convex hull)       : 2.0695
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1338    O PRO A 205      23.747  34.995  64.940  0.00  0.00           O 0
+ATOM   1331    O VAL A 204      27.205  35.658  63.280  0.68  1.07           O 0
+ATOM   1337    C PRO A 205      23.621  35.962  64.182  0.00  0.00           C 0
+ATOM   1371  CG2 VAL A 209      24.355  34.899  68.447  0.00  0.00           C 0
+ATOM   1283  CD1 LEU A 198      23.593  39.149  70.614  0.00  0.00           C 0
+ATOM   1288    O GLU A 199      28.867  36.898  69.567  0.52  8.57           O 0
+ATOM   1164   OH TYR A 184      26.034  41.731  67.553  0.73  9.64           O 0
+ATOM   1297    O LYS A 200      29.903  34.588  66.974  0.62  5.36           O 0
+ATOM   1304   CA MET A 201      30.455  36.383  64.815  0.00  0.00           C 0
+ATOM   1342    N MET A 206      22.836  36.999  64.469  0.00  0.00           N 0
+ATOM   1343   CA MET A 206      22.075  37.087  65.719  0.00  0.00           C 0
+ATOM   1347   CG MET A 206      22.000  39.652  65.742  0.00  0.00           C 0
+ATOM   1162  CE2 TYR A 184      23.666  41.691  67.813  0.00  0.00           C 0
+ATOM   1309   SD MET A 201      28.332  39.041  63.593  0.00  0.00           S 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0156
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9910
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5854
+HEADER 5  - Mean B-factor of pocket residues  : 0.2643
+HEADER 6  - Hydrophobicity Score              : 34.1667
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 325.0967
+HEADER 10 - Pocket volume (convex hull)       : 17.0597
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM    415  CD2 LEU A  60     -28.059  29.670  38.960  0.00  0.00           C 0
+ATOM    100   OH TYR A  21     -25.958  24.612  42.007  0.00  0.00           O 0
+ATOM     98  CE2 TYR A  21     -27.799  26.070  42.451  0.00  0.00           C 0
+ATOM    975   CD PRO A 135     -27.243  28.245  35.217  0.00  0.00           C 0
+ATOM    950    O SER A 132     -24.938  22.655  32.877  0.58  2.14           O 0
+ATOM    956    O LEU A 133     -23.917  24.561  35.620  0.45  2.14           O 0
+ATOM     25    O VAL A  12     -25.435  20.786  37.810  0.35  8.57           O 0
+ATOM     22    N VAL A  12     -25.724  19.806  35.196  0.63  1.09           N 0
+ATOM     20   CB SER A  11     -28.652  19.746  34.400  0.00  0.00           C 0
+ATOM    969    N PRO A 135     -26.815  28.033  33.822  0.00  0.00           N 0
+ATOM    962   CA LEU A 134     -24.701  26.975  34.461  0.00  0.00           C 0
+ATOM    963    C LEU A 134     -25.653  27.517  33.399  0.00  0.00           C 0
+ATOM     12    O THR A  10     -28.176  20.467  31.016  0.50  4.29           O 0
+ATOM    968  CD2 LEU A 134     -23.871  27.419  37.430  0.00  0.00           C 0
+ATOM    964    O LEU A 134     -25.349  27.483  32.204  0.00  0.00           O 0
+ATOM    942    O ASN A 131     -25.382  25.339  29.305  0.00  0.00           O 0
+ATOM    970   CA PRO A 135     -27.806  28.576  32.889  0.00  0.00           C 0
+ATOM    948   CA SER A 132     -24.558  23.018  30.534  0.00  0.00           C 0
+ATOM    433   NZ LYS A  62     -31.170  28.668  29.843  0.00  0.00           N 0
+ATOM    976    N MET A 136     -27.410  29.549  30.714  0.33  1.09           N 0
+TER
+END

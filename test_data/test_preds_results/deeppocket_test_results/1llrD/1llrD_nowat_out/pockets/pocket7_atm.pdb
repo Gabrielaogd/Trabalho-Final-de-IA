@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1062
+HEADER 1  - Drug Score                        : 0.0368
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.2019
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7135
+HEADER 5  - Mean B-factor of pocket residues  : 0.2460
+HEADER 6  - Hydrophobicity Score              : 34.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 155.4034
+HEADER 10 - Pocket volume (convex hull)       : 0.2411
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6111
+ATOM     72   CA ALA D  10     -24.132  23.010   5.467  0.00  0.00           C 0
+ATOM    120  OG1 THR D  15     -20.334  20.094   6.714  0.26  1.07           O 0
+ATOM     71    N ALA D  10     -23.398  23.783   6.472  0.00  0.00           N 0
+ATOM     69   SGACYS D   9     -20.588  22.411   9.586  0.00  0.00           S 0
+ATOM    123   CA GLN D  16     -20.950  18.113  10.624  0.00  0.00           C 0
+ATOM    118    O THR D  15     -21.054  17.295   8.017  0.00  0.00           O 0
+ATOM     75   CB ALA D  10     -25.611  23.321   5.650  0.00  0.00           C 0
+ATOM     43    O THR D   6     -25.106  24.921   8.745  0.59  1.07           O 0
+ATOM    136  CG1 ILE D  17     -23.288  22.178  12.627  0.00  0.00           C 0
+ATOM     46  CG2 THR D   6     -27.270  24.295  11.136  0.00  0.00           C 0
+ATOM    131    N ILE D  17     -21.889  19.401  12.410  0.64  3.28           N 0
+ATOM     67   CBACYS D   9     -21.723  23.725   9.085  0.00  0.00           C 0
+ATOM     65    C CYS D   9     -22.088  23.552   6.656  0.00  0.00           C 0
+TER
+END

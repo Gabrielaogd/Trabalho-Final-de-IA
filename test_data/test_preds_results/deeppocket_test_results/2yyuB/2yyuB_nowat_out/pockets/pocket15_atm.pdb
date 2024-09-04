@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0231
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1686
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5748
+HEADER 5  - Mean B-factor of pocket residues  : 0.2125
+HEADER 6  - Hydrophobicity Score              : 6.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 269.1534
+HEADER 10 - Pocket volume (convex hull)       : 8.0575
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM     55   CB ALA B  10     -22.573  38.022  32.951  0.00  0.00           C 0
+ATOM   1574  CG1 VAL B 213     -25.468  35.412  33.749  0.00  0.00           C 0
+ATOM     71  OD2 ASP B  12     -19.236  37.029  31.606  0.57  7.50           O 0
+ATOM    254   CE LYS B  34     -22.872  36.003  36.056  0.00  0.00           C 0
+ATOM    255   NZ LYS B  34     -21.405  35.976  36.318  0.32  6.56           N 0
+ATOM   1378    N GLY B 184     -25.694  30.460  30.272  0.24  4.37           N 0
+ATOM   1584    N GLY B 215     -24.696  37.247  28.847  0.63  6.56           N 0
+ATOM   1572    O VAL B 213     -27.007  34.340  30.760  0.69  2.14           O 0
+ATOM   1399  NH1 ARG B 186     -23.840  32.363  25.690  0.56  5.47           N 0
+ATOM   1382    N ILE B 185     -27.018  31.447  27.896  0.00  0.00           N 0
+ATOM   1375   CB PRO B 183     -25.264  30.701  33.242  0.00  0.00           C 0
+ATOM   1593   CG ARG B 216     -19.334  37.439  25.641  0.00  0.00           C 0
+ATOM   1588    N ARG B 216     -22.121  37.943  26.756  0.65  5.47           N 0
+ATOM   1400  NH2 ARG B 186     -21.625  32.442  25.086  0.33  9.84           N 0
+ATOM   1594   CD ARG B 216     -18.401  36.357  25.107  0.00  0.00           C 0
+ATOM   1585   CA GLY B 215     -23.410  37.913  28.802  0.00  0.00           C 0
+TER
+END

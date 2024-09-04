@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0471
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7765
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5459
+HEADER 5  - Mean B-factor of pocket residues  : 0.0180
+HEADER 6  - Hydrophobicity Score              : 17.8750
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 172.9204
+HEADER 10 - Pocket volume (convex hull)       : 1.8504
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   2072    N LEU B 282       8.934  44.582  29.642  0.27  5.47           N 0
+ATOM   2078  CD1 LEU B 282       5.111  43.986  27.621  0.00  0.00           C 0
+ATOM   2077   CG LEU B 282       6.415  44.765  27.946  0.00  0.00           C 0
+ATOM   2064    O GLY B 280      10.461  42.930  26.247  0.22  9.64           O 0
+ATOM    314  NH1 ARG B  39      10.295  38.954  30.839  0.00  0.00           N 0
+ATOM   2076   CB LEU B 282       6.421  44.787  29.520  0.00  0.00           C 0
+ATOM   2334   CA GLY B 316       5.752  42.059  37.438  0.00  0.00           C 0
+ATOM   2341    N ALA B 318       2.963  44.345  34.601  0.67  1.09           N 0
+ATOM    328   CB ASP B  41       7.745  40.020  35.067  0.00  0.00           C 0
+ATOM    369    O MET B  47       2.116  38.381  34.446  0.64  7.50           O 0
+ATOM   2337    N GLY B 317       3.699  43.262  37.048  0.61  1.09           N 0
+ATOM   2335    C GLY B 316       5.023  43.352  37.036  0.00  0.00           C 0
+ATOM    331  OD2 ASP B  41       8.664  40.246  32.921  0.40  5.36           O 0
+ATOM   2345   CB ALA B 318       3.577  44.114  32.128  0.00  0.00           C 0
+ATOM   2075    O LEU B 282       7.473  44.650  32.286  0.00  0.00           O 0
+ATOM    327    O ASP B  41       5.833  37.595  34.507  0.29  5.36           O 0
+TER
+END

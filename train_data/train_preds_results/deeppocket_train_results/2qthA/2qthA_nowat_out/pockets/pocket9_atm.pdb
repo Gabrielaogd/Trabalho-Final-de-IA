@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0815
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9555
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5267
+HEADER 5  - Mean B-factor of pocket residues  : 0.2569
+HEADER 6  - Hydrophobicity Score              : 6.2857
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 260.6494
+HEADER 10 - Pocket volume (convex hull)       : 10.0352
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1538
+ATOM   1718   OH TYR A 257      34.928  67.573  -1.568  0.52  3.21           O 0
+ATOM   1681    O SER A 253      30.172  69.965   1.544  0.51  1.07           O 0
+ATOM   1704   CD LYS A 256      30.361  73.061  -0.393  0.00  0.00           C 0
+ATOM   1715  CE1 TYR A 257      33.147  68.361  -2.881  0.00  0.00           C 0
+ATOM   1703   CG LYS A 256      29.802  71.817  -1.069  0.00  0.00           C 0
+ATOM   1684    N GLU A 254      30.841  68.040   2.514  0.00  0.00           N 0
+ATOM   1680    C SER A 253      30.420  69.310   2.568  0.00  0.00           C 0
+ATOM   1659    O VAL A 250      33.390  67.783   4.945  0.00  0.00           O 0
+ATOM   1689   CG GLU A 254      32.757  65.752   1.809  0.00  0.00           C 0
+ATOM    820   OG SER A 100      36.576  65.589   2.042  0.83  1.07           O 0
+ATOM    837  OE1 GLU A 102      38.295  70.945   2.813  0.50  9.64           O 0
+ATOM   1661  CG1 VAL A 250      36.482  68.404   5.856  0.00  0.00           C 0
+ATOM   1682   CB SER A 253      31.436  70.850   4.205  0.00  0.00           C 0
+ATOM   1657   CA VAL A 250      34.239  68.950   6.989  0.00  0.00           C 0
+ATOM   1662  CG2 VAL A 250      36.420  70.203   7.606  0.00  0.00           C 0
+ATOM   1706   NZ LYS A 256      30.800  74.065   1.751  0.00  0.00           N 0
+ATOM   1683   OG SER A 253      31.152  71.692   5.326  0.68  8.57           O 0
+ATOM    838  OE2 GLU A 102      38.723  71.568   4.862  0.00  0.00           O 0
+TER
+END

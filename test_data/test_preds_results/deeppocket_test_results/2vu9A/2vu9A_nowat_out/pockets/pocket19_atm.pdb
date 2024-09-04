@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0119
+HEADER 1  - Drug Score                        : 0.0828
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0463
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4567
+HEADER 5  - Mean B-factor of pocket residues  : 0.6079
+HEADER 6  - Hydrophobicity Score              : 5.2222
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 5.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 199.6166
+HEADER 10 - Pocket volume (convex hull)       : 2.8209
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6087
+ATOM   3020   CD LYS A1236      12.718   7.349   4.812  0.00  0.00           C 0
+ATOM   3357   CB THR A1277       7.336   7.996   5.728  0.00  0.00           C 0
+ATOM   3358  OG1 THR A1277       7.092   9.206   4.994  0.77  1.07           O 0
+ATOM   3359  CG2 THR A1277       6.758   6.801   4.976  0.00  0.00           C 0
+ATOM   3121  CE2 PHE A1249      12.171   2.991   4.656  0.00  0.00           C 0
+ATOM   3296    O GLN A1270       5.334   4.039   1.953  0.26  4.29           O 0
+ATOM   3265    O TYR A1267       7.316   2.702   5.392  0.55  2.14           O 0
+ATOM   3314   CB GLU A1272       7.208   7.891  -0.906  0.00  0.00           C 0
+ATOM   3315   CG GLU A1272       7.036   6.599  -1.754  0.00  0.00           C 0
+ATOM   3277    O ASN A1268       8.046   0.463   2.421  0.56  9.64           O 0
+ATOM   3311   CA GLU A1272       6.408   7.961   0.416  0.00  0.00           C 0
+ATOM   3021   CE LYS A1236      13.222   7.424   3.385  0.00  0.00           C 0
+ATOM   2941    O LYS A1226      12.727  11.026   0.003  0.27  6.43           O 0
+ATOM   3319    N ARG A1273       6.783  10.108   1.528  0.69  3.28           N 0
+ATOM   2943   CG LYS A1226      11.882  11.774   3.043  0.00  0.00           C 0
+ATOM   3022   NZ LYS A1236      14.003   6.236   2.975  0.70  4.37           N 0
+ATOM   2946   NZ LYS A1226       9.404  11.337   5.064  0.00  0.00           N 0
+TER
+END

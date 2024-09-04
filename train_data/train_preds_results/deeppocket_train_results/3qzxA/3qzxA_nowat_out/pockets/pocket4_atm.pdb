@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0024
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6934
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4489
+HEADER 5  - Mean B-factor of pocket residues  : 0.0913
+HEADER 6  - Hydrophobicity Score              : 33.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 158.6457
+HEADER 10 - Pocket volume (convex hull)       : 1.0627
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   1622   CA TYR A 192       4.806  18.582  -3.822  0.00  0.00           C 0
+ATOM   1608    O VAL A 190       1.704  15.911  -3.227  0.61  5.36           O 0
+ATOM   1625   CB TYR A 192       4.694  19.899  -4.584  0.00  0.00           C 0
+ATOM   1627  CD1 TYR A 192       5.622  19.244  -6.835  0.00  0.00           C 0
+ATOM   1649   CB PHE A 195       5.727  12.087  -4.449  0.00  0.00           C 0
+ATOM   1615    O LYS A 191       4.517  16.558  -1.965  0.00  0.00           O 0
+ATOM   1633    N GLY A 193       6.991  17.537  -3.717  0.64  2.19           N 0
+ATOM   1582  CE1 TYR A 187       4.917  13.794  -8.706  0.00  0.00           C 0
+ATOM   1577    O TYR A 187       0.959  13.733  -5.935  0.45  1.07           O 0
+ATOM   1583  CE2 TYR A 187       2.879  14.936  -9.217  0.00  0.00           C 0
+ATOM   1589    O PRO A 188      -2.420  15.368  -5.282  0.74  5.36           O 0
+ATOM   1584   CZ TYR A 187       4.239  14.938  -9.089  0.00  0.00           C 0
+ATOM   1587   CA PRO A 188      -1.497  13.966  -6.987  0.00  0.00           C 0
+TER
+END

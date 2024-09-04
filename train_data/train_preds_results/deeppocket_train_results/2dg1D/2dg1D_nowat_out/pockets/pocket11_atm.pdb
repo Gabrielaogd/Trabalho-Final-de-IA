@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0172
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.6942
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3990
+HEADER 5  - Mean B-factor of pocket residues  : 0.3323
+HEADER 6  - Hydrophobicity Score              : 30.7273
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.8182
+HEADER 9  - Pocket volume (Monte Carlo)       : 214.8992
+HEADER 10 - Pocket volume (convex hull)       : 9.7280
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   2510   CD GLN D 325     113.591 -40.674  -2.113  0.00  0.00           C 0
+ATOM   1101   CB SER D 144     114.154 -37.801  -6.425  0.00  0.00           C 0
+ATOM   2512  NE2 GLN D 325     113.592 -41.998  -2.196  0.80  8.75           N 0
+ATOM   2511  OE1 GLN D 325     112.626 -39.988  -2.452  0.63  3.21           O 0
+ATOM   1081    O PHE D 142     107.858 -37.141  -5.224  0.55  3.21           O 0
+ATOM   1448   CB LEU D 189     106.023 -39.642  -9.596  0.00  0.00           C 0
+ATOM   2457  NE2 HIS D 319     109.346 -44.094  -5.608  0.58  6.56           N 0
+ATOM   2455  CD2 HIS D 319     108.145 -44.513  -5.090  0.00  0.00           C 0
+ATOM   1077  CG2 VAL D 141     104.175 -38.339  -5.791  0.00  0.00           C 0
+ATOM   1455    O SER D 190     108.098 -42.689 -10.377  0.45  1.07           O 0
+ATOM   1478   CG GLU D 193     110.124 -39.650  -9.768  0.00  0.00           C 0
+ATOM   2471   CB SER D 321     107.178 -41.854  -1.526  0.00  0.00           C 0
+ATOM   1481  OE2 GLU D 193     111.551 -39.651  -7.861  0.53  3.21           O 0
+ATOM   2473    N PHE D 322     109.428 -39.993  -1.382  0.81  2.19           N 0
+ATOM   2456  CE1 HIS D 319     110.099 -45.151  -5.857  0.00  0.00           C 0
+ATOM   1461    O THR D 191     111.373 -43.656  -9.792  0.00  0.00           O 0
+ATOM   2468   CA SER D 321     108.635 -42.245  -1.791  0.00  0.00           C 0
+ATOM   1447    O LEU D 189     105.309 -42.681  -9.241  0.61  5.36           O 0
+TER
+END

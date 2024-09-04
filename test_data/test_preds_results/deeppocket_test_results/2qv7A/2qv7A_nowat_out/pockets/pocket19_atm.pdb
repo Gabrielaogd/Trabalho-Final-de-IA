@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.1770
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.1092
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4585
+HEADER 5  - Mean B-factor of pocket residues  : 0.3249
+HEADER 6  - Hydrophobicity Score              : -2.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 392.6119
+HEADER 10 - Pocket volume (convex hull)       : 24.6276
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM     15    N ARG A   2      40.281  40.183  12.654  0.00  0.00           N 0
+ATOM      7    C SER A  -2      41.164  43.286   4.877  0.00  0.00           C 0
+ATOM      8    O SER A  -2      40.143  42.756   4.424  0.42  5.36           O 0
+ATOM      9   CB SER A  -2      39.818  45.083   6.004  0.00  0.00           C 0
+ATOM     10    N HIS A  -1      42.333  42.660   4.980  0.43  6.56           N 0
+ATOM    274   CA GLY A  33      44.960  43.892  12.045  0.00  0.00           C 0
+ATOM    262    O LYS A  31      46.279  47.304   9.213  0.70  6.43           O 0
+ATOM      4    O GLY A  -3      42.750  47.059   5.305  0.30  8.57           O 0
+ATOM      6   CA SER A  -2      41.151  44.737   5.351  0.00  0.00           C 0
+ATOM     12    C HIS A  -1      42.401  40.183   5.314  0.00  0.00           C 0
+ATOM     21   CD ARG A   2      40.744  43.979  15.115  0.00  0.00           C 0
+ATOM     34   NZ LYS A   3      45.650  39.765  11.759  0.63  3.28           N 0
+ATOM    271    O ALA A  32      46.918  43.070  10.244  0.64  7.50           O 0
+ATOM    270    C ALA A  32      46.937  44.234  10.645  0.00  0.00           C 0
+ATOM    273    N GLY A  33      46.086  44.694  11.561  0.00  0.00           N 0
+ATOM     33   CE LYS A   3      45.753  38.290  11.519  0.00  0.00           C 0
+ATOM     13    O HIS A  -1      42.359  39.030   4.877  0.00  0.00           O 0
+ATOM     16   CA ARG A   2      41.033  40.777  13.758  0.00  0.00           C 0
+ATOM    276    O GLY A  33      44.335  42.363  13.774  0.00  0.00           O 0
+TER
+END

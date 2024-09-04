@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0447
+HEADER 1  - Drug Score                        : 0.0363
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8139
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6143
+HEADER 5  - Mean B-factor of pocket residues  : 0.4222
+HEADER 6  - Hydrophobicity Score              : 21.8750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 249.2648
+HEADER 10 - Pocket volume (convex hull)       : 9.7646
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.8571
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7368
+ATOM    582    C HIS A 532      68.444  27.388  42.859  0.00  0.00           C 0
+ATOM   1271   CG GLU A 621      67.874  31.801  47.346  0.00  0.00           C 0
+ATOM    583    O HIS A 532      68.793  26.959  43.958  0.60  4.29           O 0
+ATOM    584   CB HIS A 532      70.728  28.098  42.074  0.00  0.00           C 0
+ATOM    597  CD2 TYR A 533      65.814  30.663  41.659  0.00  0.00           C 0
+ATOM   1274  OE2 GLU A 621      67.782  34.061  46.590  0.00  0.00           O 0
+ATOM   1445  CD2 HIS A 644      62.481  32.598  35.938  0.00  0.00           C 0
+ATOM   1426  ND1 HIS A 642      65.268  37.241  36.851  0.55  4.37           N 0
+ATOM   1424   CB HIS A 642      64.977  36.276  39.162  0.00  0.00           C 0
+ATOM    562   SD MET A 529      66.194  31.606  34.013  0.00  0.00           S 0
+ATOM    594   CB TYR A 533      65.624  29.270  43.766  0.00  0.00           C 0
+ATOM    580    N HIS A 532      68.848  28.078  40.520  0.46  1.09           N 0
+ATOM    586  ND1 HIS A 532      71.657  29.029  39.915  0.53  7.66           N 0
+ATOM    590    N TYR A 533      67.220  27.832  42.611  0.00  0.00           N 0
+ATOM    601   OH TYR A 533      63.524  31.366  38.891  0.00  0.00           O 0
+ATOM   1423    O HIS A 642      64.040  33.967  40.340  0.67  3.21           O 0
+ATOM    599  CE2 TYR A 533      65.305  31.171  40.460  0.00  0.00           C 0
+ATOM    574   CA VAL A 531      67.985  28.154  38.261  0.00  0.00           C 0
+ATOM    578  CG1 VAL A 531      65.902  29.199  37.328  0.00  0.00           C 0
+ATOM    567    O GLU A 530      69.464  29.250  36.219  0.00  0.00           O 0
+TER
+END

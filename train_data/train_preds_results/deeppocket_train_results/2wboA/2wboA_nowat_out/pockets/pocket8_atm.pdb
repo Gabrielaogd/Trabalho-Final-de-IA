@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1082
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.7593
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4189
+HEADER 5  - Mean B-factor of pocket residues  : 0.2449
+HEADER 6  - Hydrophobicity Score              : 35.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.1289
+HEADER 10 - Pocket volume (convex hull)       : 4.6600
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4545
+ATOM    193  NH1 ARG A  47      12.699 -24.014   2.493  0.00  0.00           N 0
+ATOM    141  CD1 LEU A  40       7.340 -20.922   6.212  0.00  0.00           C 0
+ATOM    157   CB ARG A  43      11.958 -23.135   7.538  0.00  0.00           C 0
+ATOM    169   SG CYS A  44      11.280 -17.959   6.361  0.00  0.00           S 0
+ATOM    160   NE ARG A  43       9.544 -24.737   6.430  0.58  1.09           N 0
+ATOM    344  OE2 GLU A  66       6.799 -20.744   1.835  0.52  5.36           O 0
+ATOM    343  OE1 GLU A  66       5.973 -22.593   2.684  0.00  0.00           O 0
+ATOM    164    N CYS A  44      13.128 -20.192   7.786  0.00  0.00           N 0
+ATOM    190   CD ARG A  47      15.031 -22.782   3.548  0.00  0.00           C 0
+ATOM    319  CG2 ILE A  63       8.419 -17.818   4.047  0.00  0.00           C 0
+ATOM    155    C ARG A  43      13.736 -21.369   7.694  0.00  0.00           C 0
+ATOM    165   CA CYS A  44      13.731 -18.989   7.200  0.00  0.00           C 0
+ATOM    204  CE2 TYR A  48      14.768 -17.352   3.028  0.00  0.00           C 0
+ATOM    206   OH TYR A  48      13.971 -16.920   0.837  0.00  0.00           O 0
+ATOM    320  CD1 ILE A  63      10.977 -16.754   2.493  0.00  0.00           C 0
+ATOM    318  CG1 ILE A  63       9.555 -17.069   1.992  0.00  0.00           C 0
+TER
+END

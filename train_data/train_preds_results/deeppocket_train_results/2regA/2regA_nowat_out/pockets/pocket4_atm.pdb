@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1926
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.5191
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4007
+HEADER 5  - Mean B-factor of pocket residues  : 0.2488
+HEADER 6  - Hydrophobicity Score              : 55.8889
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 94.9613
+HEADER 10 - Pocket volume (convex hull)       : 1.2144
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.8333
+ATOM    153   CA THR A  49      13.629  -3.581  17.402  0.00  0.00           C 0
+ATOM    176  OG1 THR A  52      11.601  -4.010  21.147  0.67  1.07           O 0
+ATOM   1875  CD1 ILE A 267       9.157  -1.129  21.297  0.00  0.00           C 0
+ATOM    158  CG2 THR A  49      12.238  -3.145  15.346  0.00  0.00           C 0
+ATOM    177  CG2 THR A  52      10.859  -6.192  21.380  0.00  0.00           C 0
+ATOM   1838   SDAMET A 263       5.055  -4.487  18.310  0.00  0.00           S 0
+ATOM   2007  CZ3 TRP A 285       5.177  -4.411  22.521  0.00  0.00           C 0
+ATOM   2110  CH2 TRP A 296       6.627  -7.647  20.485  0.00  0.00           C 0
+ATOM   1788  CD2 PHE A 259       9.019  -5.825  16.661  0.00  0.00           C 0
+ATOM   1847   CG GLU A 264       8.629  -0.971  15.218  0.00  0.00           C 0
+ATOM   1836   CGAMET A 263       5.156  -2.769  17.783  0.00  0.00           C 0
+ATOM    152    N THR A  49      13.951  -2.172  17.648  0.00  0.00           N 0
+ATOM    151   CB ALA A  48      13.129   0.678  18.618  0.00  0.00           C 0
+ATOM    149    C ALA A  48      13.950  -1.678  18.886  0.00  0.00           C 0
+ATOM    150    O ALA A  48      13.683  -2.357  19.877  0.00  0.00           O 0
+TER
+END

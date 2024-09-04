@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0489
+HEADER 1  - Drug Score                        : 0.0118
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9235
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4872
+HEADER 5  - Mean B-factor of pocket residues  : 0.1096
+HEADER 6  - Hydrophobicity Score              : -8.5556
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 284.8840
+HEADER 10 - Pocket volume (convex hull)       : 12.6689
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5714
+ATOM    152  CG2 THR A  85      47.422  -7.941  -1.192  0.00  0.00           C 0
+ATOM   1110  NH1 ARG A 200      52.798  -9.283  -5.429  0.62  6.56           N 0
+ATOM   1107   CD ARG A 200      51.647  -7.687  -7.532  0.00  0.00           C 0
+ATOM   1117   SG CYS A 201      51.175  -5.096  -2.065  0.00  0.00           S 0
+ATOM   1105   CB ARG A 200      51.701  -5.394  -6.602  0.00  0.00           C 0
+ATOM   1124   CD PRO A 202      51.021  -0.079  -4.097  0.00  0.00           C 0
+ATOM   1100    O GLY A 199      50.993  -1.344  -7.563  0.53  3.21           O 0
+ATOM   1060   CA ASP A 194      45.729   1.585  -7.195  0.00  0.00           C 0
+ATOM   1054    O ASP A 193      47.441   2.789  -5.469  0.00  0.00           O 0
+ATOM   1459   CB ALA A 253      45.556  -4.468  -2.404  0.00  0.00           C 0
+ATOM   1112    N CYS A 201      51.465  -3.026  -4.422  0.00  0.00           N 0
+ATOM   1102   CA ARG A 200      51.531  -3.884  -6.640  0.00  0.00           C 0
+ATOM   1455    N ALA A 253      45.475  -2.124  -1.890  0.60  1.09           N 0
+ATOM   1450   CB GLN A 252      46.735   0.815  -2.732  0.00  0.00           C 0
+ATOM   1063   CB ASP A 194      44.622   0.613  -6.790  0.00  0.00           C 0
+ATOM   1456   CA ALA A 253      44.640  -3.239  -2.336  0.00  0.00           C 0
+ATOM   1062    O ASP A 194      45.629   0.772  -9.462  0.41  3.21           O 0
+TER
+END

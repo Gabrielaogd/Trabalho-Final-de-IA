@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0330
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7878
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4817
+HEADER 5  - Mean B-factor of pocket residues  : 0.4657
+HEADER 6  - Hydrophobicity Score              : 21.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 148.4241
+HEADER 10 - Pocket volume (convex hull)       : 1.7085
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   1086   CB ALA B 139      31.987  66.476  45.043  0.00  0.00           C 0
+ATOM    655    N SER B  83      32.452  59.538  43.113  0.83  3.28           N 0
+ATOM    651   CB LEU B  82      33.072  61.722  45.622  0.00  0.00           C 0
+ATOM   1139  NH2 ARG B 146      27.814  64.626  40.702  0.00  0.00           N 0
+ATOM    654  CD2 LEU B  82      31.598  63.580  46.455  0.00  0.00           C 0
+ATOM    650    O LEU B  82      31.003  59.599  44.825  0.68  1.07           O 0
+ATOM   1114   CB ALA B 143      26.117  63.903  44.287  0.00  0.00           C 0
+ATOM    649    C LEU B  82      32.133  59.767  44.389  0.00  0.00           C 0
+ATOM   1085    O ALA B 139      28.796  66.220  45.004  0.77  1.07           O 0
+ATOM    679   CB GLU B  86      27.261  59.575  42.004  0.00  0.00           C 0
+ATOM    676   CA GLU B  86      26.876  59.562  43.469  0.00  0.00           C 0
+ATOM    656   CA SER B  83      31.437  59.107  42.159  0.00  0.00           C 0
+ATOM    659   CB SER B  83      32.022  58.989  40.737  0.00  0.00           C 0
+ATOM    682  OE1 GLU B  86      27.641  59.632  39.298  0.76  4.29           O 0
+TER
+END

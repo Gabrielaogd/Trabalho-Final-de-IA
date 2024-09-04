@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0103
+HEADER 1  - Drug Score                        : 0.0207
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.6781
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4066
+HEADER 5  - Mean B-factor of pocket residues  : 0.1327
+HEADER 6  - Hydrophobicity Score              : 55.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 111.2089
+HEADER 10 - Pocket volume (convex hull)       : 1.5013
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.9000
+ATOM   1881   CB THR A 225      27.010   8.453  -6.681  0.00  0.00           C 0
+ATOM   1878   CA THR A 225      28.309   7.622  -6.770  0.00  0.00           C 0
+ATOM   1924  CD2 LEU A 230      26.360   5.485   0.202  0.00  0.00           C 0
+ATOM   1880    O THR A 225      27.845   5.255  -6.787  0.00  0.00           O 0
+ATOM   1905   CB THR A 228      30.693   4.914  -4.407  0.00  0.00           C 0
+ATOM   1921   CB LEU A 230      27.507   3.343  -0.396  0.00  0.00           C 0
+ATOM   1907  CG2 THR A 228      31.007   4.752  -2.909  0.00  0.00           C 0
+ATOM   1904    O THR A 228      28.954   2.355  -4.849  0.50  1.07           O 0
+ATOM   1883  CG2 THR A 225      27.190   9.607  -5.702  0.00  0.00           C 0
+ATOM   1906  OG1 THR A 228      31.505   5.966  -4.948  0.00  0.00           O 0
+ATOM   1784    O LEU A 215      29.292   8.796   0.895  0.56  2.14           O 0
+ATOM   1796    N TRP A 217      32.739   9.671  -2.393  0.66  1.09           N 0
+ATOM   1790   CA THR A 216      31.125  10.157  -0.681  0.00  0.00           C 0
+ATOM   1795  CG2 THR A 216      28.860  11.199  -1.203  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0131
+HEADER 1  - Drug Score                        : 0.0041
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9951
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5277
+HEADER 5  - Mean B-factor of pocket residues  : 0.1819
+HEADER 6  - Hydrophobicity Score              : 49.3333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 286.9761
+HEADER 10 - Pocket volume (convex hull)       : 9.7838
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 20.0000
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 0.8750
+ATOM    706   CG HIS D  91      43.407  16.200   6.977  0.00  0.00           C 0
+ATOM    705   CB HIS D  91      43.148  14.727   7.006  0.00  0.00           C 0
+ATOM    686  CD2 LEU D  88      37.046  14.159   7.026  0.00  0.00           C 0
+ATOM    678   OG SER D  87      40.514  11.496   2.677  0.38  7.50           O 0
+ATOM    707  ND1 HIS D  91      44.140  16.809   5.980  0.43  2.19           N 0
+ATOM    708  CD2 HIS D  91      42.995  17.192   7.802  0.00  0.00           C 0
+ATOM    718  CD2 LEU D  92      41.726  15.322  12.979  0.00  0.00           C 0
+ATOM    574  CD1 ILE D  74      34.637  18.131  10.820  0.00  0.00           C 0
+ATOM    553    O GLY D  71      36.356  14.252  13.780  0.00  0.00           O 0
+ATOM    717  CD1 LEU D  92      40.329  13.265  12.514  0.00  0.00           C 0
+ATOM    571   CB ILE D  74      34.100  15.608  10.821  0.00  0.00           C 0
+ATOM    551   CA GLY D  71      37.128  16.414  14.512  0.00  0.00           C 0
+ATOM    573  CG2 ILE D  74      34.300  15.293   9.344  0.00  0.00           C 0
+ATOM    676    O SER D  87      41.620  11.581   5.763  0.57  2.14           O 0
+ATOM    680   CA LEU D  88      39.370  12.032   7.281  0.00  0.00           C 0
+ATOM    716   CG LEU D  92      41.535  14.090  12.072  0.00  0.00           C 0
+ATOM    683   CB LEU D  88      37.957  12.002   7.887  0.00  0.00           C 0
+ATOM    682    O LEU D  88      41.119  12.529   8.879  0.53  1.07           O 0
+TER
+END

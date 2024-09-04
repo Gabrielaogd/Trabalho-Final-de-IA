@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0073
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0887
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6038
+HEADER 5  - Mean B-factor of pocket residues  : 0.4179
+HEADER 6  - Hydrophobicity Score              : 2.5556
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 166.6990
+HEADER 10 - Pocket volume (convex hull)       : 3.1778
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM    306    O SER A  39      -0.330  37.654  56.285  0.71  2.14           O 0
+ATOM    321  OG1 THR A  41       3.351  34.754  53.086  0.45  2.14           O 0
+ATOM    322  CG2 THR A  41       3.210  36.558  54.700  0.00  0.00           C 0
+ATOM    147   OG SER A  19       1.704  34.643  59.150  0.00  0.00           O 0
+ATOM    316    N THR A  41       1.357  37.114  52.668  0.57  1.09           N 0
+ATOM   1207   CB ARG A 154      -6.337  33.684  55.510  0.00  0.00           C 0
+ATOM   1212  NH1 ARG A 154      -3.793  34.156  58.742  0.81  5.47           N 0
+ATOM    299  CE1 TYR A  38      -4.761  37.171  56.312  0.00  0.00           C 0
+ATOM    297  CD1 TYR A  38      -3.797  37.202  57.317  0.00  0.00           C 0
+ATOM    345   OG SER A  44      -1.280  34.546  50.319  0.70  2.14           O 0
+ATOM    310   CA THR A  40      -0.570  38.293  53.584  0.00  0.00           C 0
+ATOM    344   CB SER A  44      -1.358  33.129  50.357  0.00  0.00           C 0
+ATOM    340    N SER A  44       1.048  32.694  50.048  0.46  1.09           N 0
+ATOM    333   CB ARG A  43       3.318  31.821  52.158  0.00  0.00           C 0
+ATOM   1209   CD ARG A 154      -5.442  32.308  57.407  0.00  0.00           C 0
+ATOM   1217    O LYS A 155      -5.166  36.252  52.060  0.83  4.29           O 0
+TER
+END

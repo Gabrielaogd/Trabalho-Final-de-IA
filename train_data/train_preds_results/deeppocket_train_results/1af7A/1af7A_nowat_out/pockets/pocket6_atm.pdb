@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0617
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9348
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5304
+HEADER 5  - Mean B-factor of pocket residues  : 0.3790
+HEADER 6  - Hydrophobicity Score              : 27.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 319.9076
+HEADER 10 - Pocket volume (convex hull)       : 14.0038
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4583
+ATOM   2191  CG1 VAL A 280      20.745  20.294  29.918  0.00  0.00           C 0
+ATOM   2157    C ARG A 276      17.702  16.454  27.303  0.00  0.00           C 0
+ATOM   2159   CB ARG A 276      16.916  18.803  26.990  0.00  0.00           C 0
+ATOM   2158    O ARG A 276      18.085  16.096  26.189  0.00  0.00           O 0
+ATOM    810   CB HIS A 109      24.831  24.240  24.519  0.00  0.00           C 0
+ATOM    842  NH2 ARG A 112      23.190  22.069  20.149  0.00  0.00           N 0
+ATOM   2008  CD2 LEU A 257      22.516  23.291  27.115  0.00  0.00           C 0
+ATOM    812  ND1 HIS A 109      22.444  24.992  24.245  0.32  2.19           N 0
+ATOM   2007  CD1 LEU A 257      20.124  23.734  27.072  0.00  0.00           C 0
+ATOM    805  OE2 GLU A 108      24.044  18.176  21.271  0.00  0.00           O 0
+ATOM   2190   CB VAL A 280      20.623  18.857  30.410  0.00  0.00           C 0
+ATOM    804  OE1 GLU A 108      25.669  17.650  22.661  0.00  0.00           O 0
+ATOM    781  CG1 ILE A 105      25.235  17.019  26.969  0.00  0.00           C 0
+ATOM    782  CG2 ILE A 105      24.368  19.402  27.062  0.00  0.00           C 0
+ATOM    783  CD1 ILE A 105      24.529  16.393  28.180  0.00  0.00           C 0
+ATOM   2006   CG LEU A 257      21.265  23.341  27.922  0.00  0.00           C 0
+ATOM   2167   CA GLY A 277      19.448  15.159  28.384  0.00  0.00           C 0
+ATOM    779    O ILE A 105      26.325  21.188  25.218  0.44  1.07           O 0
+ATOM    806    N HIS A 109      26.214  23.076  22.921  0.00  0.00           N 0
+ATOM    803   CD GLU A 108      25.203  18.367  21.730  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0394
+HEADER 1  - Drug Score                        : 0.0037
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.2197
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7674
+HEADER 5  - Mean B-factor of pocket residues  : 0.2297
+HEADER 6  - Hydrophobicity Score              : 28.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 340.3886
+HEADER 10 - Pocket volume (convex hull)       : 8.5875
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM   3582   CE MET A 487       4.885  27.336  11.450  0.00  0.00           C 0
+ATOM   3641   CZATYR A 493       2.645  24.365  15.247  0.00  0.00           C 0
+ATOM   3639  CE2ATYR A 493       3.492  24.492  14.168  0.00  0.00           C 0
+ATOM   3830  OD2 ASP A 517       5.032  26.583  16.661  0.81  4.29           O 0
+ATOM   3643   OHATYR A 493       2.997  24.883  16.470  0.65  5.36           O 0
+ATOM   3827   CB ASP A 517       6.830  28.082  16.284  0.00  0.00           C 0
+ATOM   3517   OH TYR A 479       6.894  31.580  13.548  0.31  4.29           O 0
+ATOM   3831    N ALA A 518       6.625  30.400  18.039  0.51  1.09           N 0
+ATOM   3835   CB ALA A 518       5.097  32.159  18.783  0.00  0.00           C 0
+ATOM   3631   CGATYR A 493       1.920  23.302  12.776  0.00  0.00           C 0
+ATOM   3579   CB MET A 487       2.790  27.260   7.860  0.00  0.00           C 0
+ATOM   3580   CG MET A 487       3.704  26.876   9.014  0.00  0.00           C 0
+ATOM   3629   CBATYR A 493       1.522  22.694  11.440  0.00  0.00           C 0
+ATOM   3581   SD MET A 487       3.862  28.193  10.236  0.00  0.00           S 0
+ATOM   3633  CD1ATYR A 493       1.084  23.183  13.883  0.00  0.00           C 0
+ATOM   3635  CD2ATYR A 493       3.129  23.963  12.943  0.00  0.00           C 0
+ATOM   3637  CE1ATYR A 493       1.443  23.706  15.106  0.00  0.00           C 0
+ATOM   3836    N ARG A 519       5.330  29.359  20.308  0.65  1.09           N 0
+ATOM   3840   CB ARG A 519       3.920  27.512  21.104  0.00  0.00           C 0
+TER
+END

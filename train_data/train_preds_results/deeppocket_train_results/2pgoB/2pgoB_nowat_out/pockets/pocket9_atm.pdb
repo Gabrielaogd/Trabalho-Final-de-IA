@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0025
+HEADER 1  - Drug Score                        : 0.0243
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.0241
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5886
+HEADER 5  - Mean B-factor of pocket residues  : 0.0431
+HEADER 6  - Hydrophobicity Score              : 31.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 288.4111
+HEADER 10 - Pocket volume (convex hull)       : 12.2075
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 16.2000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.7407
+ATOM   3907    O ASN B 496      54.963  26.733  52.839  0.85  1.07           O 0
+ATOM   3922  CE3 TRP B 497      56.061  30.850  49.737  0.00  0.00           C 0
+ATOM   3836   CE MET B 488      56.994  27.340  55.579  0.00  0.00           C 0
+ATOM   3835   SD MET B 488      57.338  25.823  54.704  0.00  0.00           S 0
+ATOM   3919  CD2 TRP B 497      54.846  30.651  50.395  0.00  0.00           C 0
+ATOM   3908   CB ASN B 496      53.039  28.120  54.937  0.00  0.00           C 0
+ATOM   3921  CE2 TRP B 497      54.184  31.767  50.959  0.00  0.00           C 0
+ATOM   3920  NE1 TRP B 497      53.037  31.301  51.566  0.00  0.00           N 0
+ATOM   3917   CG TRP B 497      54.041  29.478  50.668  0.00  0.00           C 0
+ATOM   3923  CZ2 TRP B 497      54.735  33.051  50.905  0.00  0.00           C 0
+ATOM   3924  CZ3 TRP B 497      56.590  32.112  49.664  0.00  0.00           C 0
+ATOM   3925  CH2 TRP B 497      55.916  33.216  50.250  0.00  0.00           C 0
+ATOM   3792   CB ASN B 484      59.529  22.850  51.585  0.00  0.00           C 0
+ATOM   3932  CG2 THR B 498      55.760  23.411  52.160  0.00  0.00           C 0
+ATOM   3915    O TRP B 497      54.529  25.668  48.838  0.72  5.36           O 0
+ATOM   3916   CB TRP B 497      54.418  28.097  50.256  0.00  0.00           C 0
+ATOM   3773  CD1 TYR B 481      56.104  23.145  46.713  0.00  0.00           C 0
+ATOM   3771   CB TYR B 481      57.515  21.499  48.005  0.00  0.00           C 0
+ATOM   3795  ND2 ASN B 484      60.751  22.468  49.567  0.78  8.75           N 0
+ATOM   3793   CG ASN B 484      60.734  23.044  50.726  0.00  0.00           C 0
+ATOM   3794  OD1 ASN B 484      61.718  23.761  51.167  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0826
+HEADER 1  - Drug Score                        : 0.0066
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7546
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6459
+HEADER 5  - Mean B-factor of pocket residues  : 0.2691
+HEADER 6  - Hydrophobicity Score              : -10.8000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 173.4347
+HEADER 10 - Pocket volume (convex hull)       : 3.6702
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6087
+ATOM   1144   CD PRO B 147     -44.933 -17.992 -12.715  0.00  0.00           C 0
+ATOM   1142   CB PRO B 147     -47.084 -17.173 -12.238  0.00  0.00           C 0
+ATOM   1143   CG PRO B 147     -46.372 -18.457 -12.579  0.00  0.00           C 0
+ATOM   1984    O VAL B 259     -43.522 -15.522  -7.295  0.67  5.36           O 0
+ATOM   1976    C PRO B 258     -42.923 -16.984  -2.979  0.00  0.00           C 0
+ATOM   1977    O PRO B 258     -43.991 -17.594  -2.957  0.75  5.36           O 0
+ATOM   2002   CB PRO B 261     -40.609 -19.582  -9.393  0.00  0.00           C 0
+ATOM   1978   CB PRO B 258     -41.525 -18.831  -2.026  0.00  0.00           C 0
+ATOM   1990    C HIS B 260     -39.885 -16.528  -7.578  0.00  0.00           C 0
+ATOM   1999   CA PRO B 261     -39.531 -18.714  -8.739  0.00  0.00           C 0
+ATOM   1991    O HIS B 260     -38.852 -16.623  -6.940  0.67  4.29           O 0
+ATOM   1998    N PRO B 261     -40.251 -17.458  -8.486  0.00  0.00           N 0
+ATOM   1988    N HIS B 260     -41.565 -15.428  -6.199  0.90  1.09           N 0
+ATOM   1981    N VAL B 259     -42.648 -16.019  -3.858  0.00  0.00           N 0
+ATOM   1983    C VAL B 259     -42.889 -15.515  -6.240  0.00  0.00           C 0
+ATOM   1982   CA VAL B 259     -43.602 -15.636  -4.904  0.00  0.00           C 0
+ATOM   2003   CG PRO B 261     -41.296 -18.579 -10.297  0.00  0.00           C 0
+ATOM   2004   CD PRO B 261     -41.406 -17.323  -9.401  0.00  0.00           C 0
+TER
+END

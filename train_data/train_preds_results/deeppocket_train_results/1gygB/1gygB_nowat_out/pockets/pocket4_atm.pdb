@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1178
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.4886
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3692
+HEADER 5  - Mean B-factor of pocket residues  : 0.1029
+HEADER 6  - Hydrophobicity Score              : 59.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 77.0237
+HEADER 10 - Pocket volume (convex hull)       : 0.6673
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM    997  CD1 LEU B 121     -26.598  77.777   9.623  0.00  0.00           C 0
+ATOM   1947   CB PHE B 239     -26.730  76.404  13.964  0.00  0.00           C 0
+ATOM    829   OG SER B 102     -24.045  82.018  11.089  0.66  1.07           O 0
+ATOM   1949  CD1 PHE B 239     -28.389  78.250  13.623  0.00  0.00           C 0
+ATOM   1513  CE2 PHE B 185     -22.260  81.099  15.268  0.00  0.00           C 0
+ATOM   1904   CB TYR B 235     -21.195  76.341  11.050  0.00  0.00           C 0
+ATOM   1024   CE MET B 125     -22.343  78.229   8.277  0.00  0.00           C 0
+ATOM   1907  CD2 TYR B 235     -20.337  78.515  11.965  0.00  0.00           C 0
+ATOM   1903    O TYR B 235     -23.448  75.691  13.252  0.61  2.14           O 0
+ATOM    857  NH1 ARG B 106     -25.497  82.671  15.537  0.70  1.09           N 0
+ATOM    828   CB SER B 102     -24.782  82.886  11.966  0.00  0.00           C 0
+ATOM   1944   CA PHE B 239     -26.402  76.478  15.463  0.00  0.00           C 0
+TER
+END

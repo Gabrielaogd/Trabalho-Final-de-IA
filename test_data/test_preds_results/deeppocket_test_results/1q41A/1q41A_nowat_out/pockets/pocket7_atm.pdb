@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.0123
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8259
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5575
+HEADER 5  - Mean B-factor of pocket residues  : 0.3036
+HEADER 6  - Hydrophobicity Score              : 43.3000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.3358
+HEADER 10 - Pocket volume (convex hull)       : 15.5840
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   1852  CD2 LEU A 273      11.459  -6.708  34.502  0.00  0.00           C 0
+ATOM   1848    O LEU A 273       7.102  -8.316  32.977  0.18  9.64           O 0
+ATOM   1849   CB LEU A 273       9.687  -6.838  32.737  0.00  0.00           C 0
+ATOM   1846   CA LEU A 273       9.481  -8.347  32.945  0.00  0.00           C 0
+ATOM   2022  NE1 TRP A 301      11.800  -8.914  37.917  0.78  3.28           N 0
+ATOM   2194  OE2 GLU A 322       7.746  -3.025  38.287  0.35  9.64           O 0
+ATOM   2157   CB SER A 318      11.511  -7.319  41.093  0.00  0.00           C 0
+ATOM   2156    O SER A 318      11.014  -4.383  40.135  0.43  1.07           O 0
+ATOM   2201  CD1 TYR A 323       7.263  -3.421  31.723  0.00  0.00           C 0
+ATOM   1906  NE2 GLN A 280       4.083  -2.578  33.934  0.14  6.56           N 0
+ATOM   2195    N TYR A 323       8.979  -1.129  34.292  0.00  0.00           N 0
+ATOM   1851  CD1 LEU A 273      10.711  -4.647  33.324  0.00  0.00           C 0
+ATOM   2181    O LEU A 321      11.842  -3.919  36.319  0.71  2.14           O 0
+ATOM   1841    O VAL A 272      10.311 -10.852  33.756  0.45  1.07           O 0
+ATOM   2020  CD1 TRP A 301      11.530 -10.095  38.569  0.00  0.00           C 0
+ATOM   1996   CB ALA A 298       5.156 -12.082  34.778  0.00  0.00           C 0
+ATOM   2193  OE1 GLU A 322       8.236  -2.758  40.417  0.33  4.29           O 0
+ATOM   2158   OG SER A 318      11.267  -7.218  42.486  0.58  4.29           O 0
+ATOM   2000    O HIS A 299      10.264 -13.302  36.064  0.61  2.14           O 0
+TER
+END

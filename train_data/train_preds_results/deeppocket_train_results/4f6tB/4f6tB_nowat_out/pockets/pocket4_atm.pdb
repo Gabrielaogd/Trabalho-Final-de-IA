@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1048
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.7675
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5046
+HEADER 5  - Mean B-factor of pocket residues  : 0.1600
+HEADER 6  - Hydrophobicity Score              : 12.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 264.0665
+HEADER 10 - Pocket volume (convex hull)       : 11.6298
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1364
+ATOM   1845   CA VAL B 243      41.998   8.268  10.145  0.00  0.00           C 0
+ATOM   1842  OE1 GLU B 242      39.327   8.183   5.154  0.00  0.00           O 0
+ATOM   1838    O GLU B 242      40.177  10.313   9.748  0.70  1.07           O 0
+ATOM   1373    O MET B 185      44.833  10.114   9.261  0.57  1.07           O 0
+ATOM   1851    N GLN B 244      43.916   7.251   9.005  0.53  1.09           N 0
+ATOM   1855   CB GLN B 244      44.956   6.609   6.819  0.00  0.00           C 0
+ATOM   1846    C VAL B 243      42.651   7.105   9.403  0.00  0.00           C 0
+ATOM   1840   CG GLU B 242      38.457   9.031   7.144  0.00  0.00           C 0
+ATOM   1362   CA GLN B 184      43.164  14.055   6.663  0.00  0.00           C 0
+ATOM   1355    O LYS B 183      40.852  14.863   5.411  0.00  0.00           O 0
+ATOM   1366   CG GLN B 184      44.663  12.546   5.223  0.00  0.00           C 0
+ATOM   1370    N MET B 185      44.106  12.807   8.529  0.00  0.00           N 0
+ATOM   1858  OE1 GLN B 244      45.334   6.988   4.153  0.36  9.64           O 0
+ATOM   1368  OE1 GLN B 184      45.323  11.256   3.311  0.23  7.50           O 0
+ATOM   1367   CD GLN B 184      45.360  12.362   3.857  0.00  0.00           C 0
+ATOM   1365   CB GLN B 184      44.055  13.829   5.387  0.00  0.00           C 0
+ATOM   1358   CD LYS B 183      43.058  17.618   2.149  0.00  0.00           C 0
+ATOM   1369  NE2 GLN B 184      46.040  13.405   3.337  0.79  5.47           N 0
+ATOM   1359   CE LYS B 183      44.435  17.573   1.703  0.00  0.00           C 0
+ATOM   1360   NZ LYS B 183      44.445  17.899   0.203  0.00  8.75           N 0
+TER
+END

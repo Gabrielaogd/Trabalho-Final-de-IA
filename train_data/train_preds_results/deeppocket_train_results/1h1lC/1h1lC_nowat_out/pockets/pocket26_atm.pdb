@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.1296
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8971
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5489
+HEADER 5  - Mean B-factor of pocket residues  : 0.2975
+HEADER 6  - Hydrophobicity Score              : -3.8571
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 314.6268
+HEADER 10 - Pocket volume (convex hull)       : 12.6680
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM    929   CG LYS C 129     106.246   4.339  38.648  0.00  0.00           C 0
+ATOM    988  OE1 GLU C 136     101.252   7.385  43.341  0.00  0.00           O 0
+ATOM    927    O LYS C 129     107.120   4.420  41.949  0.00  0.00           O 0
+ATOM    952   CG LYS C 132     105.941   8.596  43.341  0.00  0.00           C 0
+ATOM    989  OE2 GLU C 136     102.288   9.233  43.426  0.79  3.21           O 0
+ATOM    931   CE LYS C 129     104.315   4.249  37.016  0.00  0.00           C 0
+ATOM    956    N LEU C 133     105.510   5.030  44.230  0.00  0.00           N 0
+ATOM    957   CA LEU C 133     104.298   4.208  44.368  0.00  0.00           C 0
+ATOM    960   CB LEU C 133     104.343   2.964  43.468  0.00  0.00           C 0
+ATOM    827   CB ASP C 116     100.115   1.147  35.326  0.00  0.00           C 0
+ATOM    932   NZ LYS C 129     104.007   3.749  35.618  0.42  5.47           N 0
+ATOM    830  OD2 ASP C 116      98.943   2.495  33.650  0.75  7.50           O 0
+ATOM    962  CD1 LEU C 133     103.150   1.270  42.143  0.00  0.00           C 0
+ATOM    961   CG LEU C 133     103.086   2.021  43.451  0.00  0.00           C 0
+ATOM    813    O THR C 114     100.437   0.382  39.863  0.00  0.00           O 0
+ATOM    820    O SER C 115     103.257   1.423  36.618  0.69  1.07           O 0
+ATOM    818   CA SER C 115     102.872   0.261  38.640  0.00  0.00           C 0
+TER
+END

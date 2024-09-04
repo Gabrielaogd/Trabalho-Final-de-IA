@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.0009
+HEADER 1  - Drug Score                        : 0.0043
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8376
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6591
+HEADER 5  - Mean B-factor of pocket residues  : 0.2669
+HEADER 6  - Hydrophobicity Score              : 36.8000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 166.0432
+HEADER 10 - Pocket volume (convex hull)       : 3.6422
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4348
+ATOM    127   CB ASP B  15      38.065  60.145 100.370  0.00  0.00           C 0
+ATOM    131    N VAL B  16      40.692  60.489 101.935  0.79  1.09           N 0
+ATOM    521  OG1 THR B  63      37.050  55.704 102.145  0.00  0.00           O 0
+ATOM    125    C ASP B  15      40.366  59.521 101.093  0.00  0.00           C 0
+ATOM    138    N MET B  17      41.058  60.786 105.432  0.00  0.00           N 0
+ATOM    501    O VAL B  61      41.361  57.970 105.472  0.00  0.00           O 0
+ATOM    126    O ASP B  15      40.743  58.361 101.232  0.00  0.00           O 0
+ATOM    132   CA VAL B  16      41.487  60.226 103.119  0.00  0.00           C 0
+ATOM    133    C VAL B  16      41.088  61.232 104.183  0.00  0.00           C 0
+ATOM    128   CG ASP B  15      37.802  61.558 100.835  0.00  0.00           C 0
+ATOM    142   CB MET B  17      39.446  61.271 107.242  0.00  0.00           C 0
+ATOM    502   CB VAL B  61      39.783  56.672 107.877  0.00  0.00           C 0
+ATOM    503  CG1 VAL B  61      38.973  55.525 107.251  0.00  0.00           C 0
+ATOM    130  OD2 ASP B  15      36.614  61.907 100.990  0.50  9.64           O 0
+ATOM    134    O VAL B  16      40.790  62.387 103.872  0.43  9.64           O 0
+ATOM    504  CG2 VAL B  61      39.686  56.644 109.393  0.00  0.00           C 0
+ATOM    145   CE MET B  17      38.203  60.182 110.177  0.00  0.00           C 0
+ATOM    144   SD MET B  17      37.656  61.655 109.336  0.00  0.00           S 0
+TER
+END

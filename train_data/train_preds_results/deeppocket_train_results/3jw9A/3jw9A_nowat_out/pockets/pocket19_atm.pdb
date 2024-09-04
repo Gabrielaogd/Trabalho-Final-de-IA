@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0692
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9317
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6592
+HEADER 5  - Mean B-factor of pocket residues  : 0.0587
+HEADER 6  - Hydrophobicity Score              : 42.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 6.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 179.3946
+HEADER 10 - Pocket volume (convex hull)       : 4.8619
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM   2868  CD1 LEU A 379       5.290   1.723  21.136  0.00  0.00           C 0
+ATOM   1961  CG1 ILE A 263      -1.801   0.995  23.099  0.00  0.00           C 0
+ATOM   1969   CG ARG A 264       1.519   3.387  20.669  0.00  0.00           C 0
+ATOM   1963  CD1 ILE A 263      -1.940  -0.461  22.678  0.00  0.00           C 0
+ATOM   1959    O ILE A 263       0.763   2.980  25.446  0.58  3.21           O 0
+ATOM   1965   CA ARG A 264       1.334   4.263  23.087  0.00  0.00           C 0
+ATOM   2000   CZ ARG A 267       4.802  -0.965  28.181  0.00  0.00           C 0
+ATOM   2002  NH2 ARG A 267       3.858  -1.803  28.592  0.00  0.00           N 0
+ATOM   1964    N ARG A 264       0.025   3.727  23.459  0.00  0.00           N 0
+ATOM   1958    C ILE A 263      -0.152   3.141  24.643  0.00  0.00           C 0
+ATOM   2866   CB LEU A 379       7.353   1.416  22.536  0.00  0.00           C 0
+ATOM   1997   CG ARG A 267       5.468   1.919  26.719  0.00  0.00           C 0
+ATOM   2001  NH1 ARG A 267       5.801  -1.417  27.433  0.57  6.56           N 0
+ATOM   1960   CB ILE A 263      -1.761   1.188  24.621  0.00  0.00           C 0
+ATOM   1996   CB ARG A 267       4.141   2.664  26.635  0.00  0.00           C 0
+ATOM   2869  CD2 LEU A 379       5.724   3.270  23.095  0.00  0.00           C 0
+TER
+END

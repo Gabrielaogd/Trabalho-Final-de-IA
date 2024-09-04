@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0361
+HEADER 1  - Drug Score                        : 0.0149
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9262
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6426
+HEADER 5  - Mean B-factor of pocket residues  : 0.0763
+HEADER 6  - Hydrophobicity Score              : 13.2000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 240.8834
+HEADER 10 - Pocket volume (convex hull)       : 4.8230
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8125
+ATOM    985   CB CYS A 478     -18.444 -93.354   0.838  0.00  0.00           C 0
+ATOM   1009  CE1 PHE A 481     -14.781 -97.974   5.182  0.00  0.00           C 0
+ATOM    984    O CYS A 478     -20.545 -93.217   2.944  0.00  0.00           O 0
+ATOM   1007  CD1 PHE A 481     -15.064 -98.212   3.837  0.00  0.00           C 0
+ATOM    996   CA SER A 480     -20.147 -97.583   2.357  0.00  0.00           C 0
+ATOM    999   CB SER A 480     -20.922 -98.860   2.058  0.00  0.00           C 0
+ATOM   1008  CD2 PHE A 481     -15.675-100.545   4.420  0.00  0.00           C 0
+ATOM   1010  CE2 PHE A 481     -15.383-100.284   5.763  0.00  0.00           C 0
+ATOM    990    O ASP A 479     -22.207 -96.317   3.629  0.61  4.29           O 0
+ATOM   1560   CEALYS A 555     -21.886 -91.394   5.662  0.00  0.00           C 0
+ATOM   1562   NZALYS A 555     -23.041 -92.289   6.030  0.29  5.47           N 0
+ATOM   1011   CZ PHE A 481     -14.969 -99.009   6.097  0.00  0.00           C 0
+ATOM   1001    N PHE A 481     -17.993 -98.629   2.023  0.67  2.19           N 0
+ATOM    997    C SER A 480     -18.798 -97.610   1.693  0.00  0.00           C 0
+ATOM    998    O SER A 480     -18.450 -96.750   0.873  0.00  0.00           O 0
+TER
+END

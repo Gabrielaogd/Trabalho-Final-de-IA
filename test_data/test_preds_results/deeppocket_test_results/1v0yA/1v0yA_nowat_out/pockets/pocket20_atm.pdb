@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0004
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8551
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4906
+HEADER 5  - Mean B-factor of pocket residues  : 0.3048
+HEADER 6  - Hydrophobicity Score              : -15.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 155.9028
+HEADER 10 - Pocket volume (convex hull)       : 2.2621
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   3115    C ALA A 440     -10.427  38.655   3.310  0.00  0.00           C 0
+ATOM   3116    O ALA A 440     -11.246  38.697   2.388  0.32  8.57           O 0
+ATOM   3117   CB ALA A 440     -11.332  39.811   5.376  0.00  0.00           C 0
+ATOM    415   NZ LYS A  60     -10.941  45.331   5.334  0.38  7.66           N 0
+ATOM    408   CA LYS A  60      -9.314  42.387   8.441  0.00  0.00           C 0
+ATOM   1396   CB THR A 197      -4.777  42.244   3.895  0.00  0.00           C 0
+ATOM    402    O ASP A  59      -9.314  39.689   7.898  0.21  1.07           O 0
+ATOM   1395    O THR A 197      -4.945  39.867   5.661  0.00  0.00           O 0
+ATOM    410    O LYS A  60      -7.205  43.500   8.448  0.52  1.07           O 0
+ATOM   1398  CG2 THR A 197      -4.642  43.778   3.774  0.00  0.00           C 0
+ATOM   3122   CB ASP A 441      -7.172  39.419   1.649  0.00  0.00           C 0
+ATOM   1397  OG1 THR A 197      -4.622  41.815   2.545  0.35  7.50           O 0
+ATOM   3118    N ASP A 441      -9.108  38.743   3.087  0.48  1.09           N 0
+ATOM   3119   CA ASP A 441      -8.578  38.795   1.732  0.00  0.00           C 0
+TER
+END

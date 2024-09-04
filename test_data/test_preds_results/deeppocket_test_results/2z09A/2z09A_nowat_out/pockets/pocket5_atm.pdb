@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0094
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.2418
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7651
+HEADER 5  - Mean B-factor of pocket residues  : 0.5017
+HEADER 6  - Hydrophobicity Score              : -19.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 6.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 294.2638
+HEADER 10 - Pocket volume (convex hull)       : 5.5163
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM    368  NH1 ARG A  61      21.325  30.258  15.719  0.40  6.56           N 0
+ATOM    330   CB ARG A  57      17.936  30.289  11.650  0.00  0.00           C 0
+ATOM    369  NH2 ARG A  61      23.627  29.992  15.729  0.00  0.00           N 0
+ATOM    358  OE2 GLU A  60      18.860  25.933  10.336  0.00  0.00           O 0
+ATOM    363   CB ARG A  61      19.729  27.068  16.934  0.00  0.00           C 0
+ATOM    366   NE ARG A  61      22.329  29.160  17.564  0.00  0.00           N 0
+ATOM    360   CA ARG A  61      19.375  25.561  16.614  0.00  0.00           C 0
+ATOM    367   CZ ARG A  61      22.432  29.836  16.386  0.00  0.00           C 0
+ATOM    354   CB GLU A  60      17.944  24.674  12.597  0.00  0.00           C 0
+ATOM    359    N ARG A  61      18.442  25.472  15.490  0.00  0.00           N 0
+ATOM    353    O GLU A  60      18.515  23.176  15.577  0.46  4.29           O 0
+ATOM    329    O ARG A  57      17.833  28.002  14.018  0.59  1.07           O 0
+ATOM    364   CG ARG A  61      20.658  27.256  18.147  0.00  0.00           C 0
+ATOM    352    C GLU A  60      18.073  24.258  15.056  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : -0.0072
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9871
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5220
+HEADER 5  - Mean B-factor of pocket residues  : 0.3106
+HEADER 6  - Hydrophobicity Score              : -29.1250
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 160.8491
+HEADER 10 - Pocket volume (convex hull)       : 1.9021
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM   2767  CG2 THR A 673      89.130  11.024  55.880  0.00  0.00           C 0
+ATOM   2781   CE LYS A 675      85.763  10.938  58.470  0.00  0.00           C 0
+ATOM   2765   CB THR A 673      89.494  11.930  54.707  0.00  0.00           C 0
+ATOM   2832   CG GLU A 682      84.893  12.036  54.210  0.00  0.00           C 0
+ATOM   2831   CB GLU A 682      85.189  13.156  53.227  0.00  0.00           C 0
+ATOM   3266  OE2 GLU A 736      90.227  16.676  59.751  0.43  9.64           O 0
+ATOM   2782   NZ LYS A 675      86.452  11.141  59.776  0.17  4.37           N 0
+ATOM   2766  OG1 THR A 673      90.642  12.718  55.050  0.59  4.29           O 0
+ATOM   2646  OD2 ASP A 657      88.694   9.847  59.905  0.00  0.00           O 0
+ATOM   2662   NZ LYS A 659      92.272  13.186  57.247  0.38  3.28           N 0
+ATOM   3249    O ASN A 734      89.867  13.363  62.093  0.44  3.21           O 0
+ATOM   2848    O ASP A 684      89.051  16.817  52.165  0.33  3.21           O 0
+ATOM   2849   CB ASP A 684      87.025  18.401  53.339  0.00  0.00           C 0
+ATOM   2852  OD2 ASP A 684      88.882  19.183  54.606  0.41  6.43           O 0
+TER
+END

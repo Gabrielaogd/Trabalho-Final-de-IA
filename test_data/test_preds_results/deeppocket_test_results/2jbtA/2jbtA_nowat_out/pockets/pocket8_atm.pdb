@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0172
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1294
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7789
+HEADER 5  - Mean B-factor of pocket residues  : 0.1474
+HEADER 6  - Hydrophobicity Score              : 34.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 275.6838
+HEADER 10 - Pocket volume (convex hull)       : 7.2385
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6316
+ATOM   1481   CB GLN A 213      46.213  51.736  94.113  0.00  0.00           C 0
+ATOM   1479    C GLN A 213      45.837  51.113  91.718  0.00  0.00           C 0
+ATOM   1490   CB ALA A 214      43.409  49.576  90.333  0.00  0.00           C 0
+ATOM   1486    N ALA A 214      44.898  51.425  90.836  0.00  0.00           N 0
+ATOM   2901   SD MET A 392      39.733  51.629  91.144  0.00  0.00           S 0
+ATOM   1480    O GLN A 213      46.342  50.002  91.780  0.59  1.07           O 0
+ATOM   2896   CA MET A 392      39.167  48.363  90.703  0.00  0.00           C 0
+ATOM   2895    N MET A 392      39.705  47.065  91.077  0.82  1.09           N 0
+ATOM   2859  CE2 PHE A 387      45.509  42.353  95.119  0.00  0.00           C 0
+ATOM   2866   CG ARG A 388      47.029  46.246  92.325  0.00  0.00           C 0
+ATOM   2862   CA ARG A 388      44.810  45.512  91.194  0.00  0.00           C 0
+ATOM   2889   CB HIS A 391      40.472  44.803  93.230  0.00  0.00           C 0
+ATOM   2887    C HIS A 391      38.971  46.185  91.752  0.00  0.00           C 0
+ATOM   2918   CB ALA A 395      36.261  50.081  93.132  0.00  0.00           C 0
+ATOM   2888    O HIS A 391      37.820  46.419  92.152  0.60  4.29           O 0
+ATOM   2864    O ARG A 388      42.672  46.493  90.719  0.59  1.07           O 0
+ATOM   2865   CB ARG A 388      46.010  46.480  91.190  0.00  0.00           C 0
+ATOM   2902   CE MET A 392      40.928  52.923  90.805  0.00  0.00           C 0
+ATOM   1477    N GLN A 213      45.524  53.457  92.518  0.38  3.28           N 0
+TER
+END

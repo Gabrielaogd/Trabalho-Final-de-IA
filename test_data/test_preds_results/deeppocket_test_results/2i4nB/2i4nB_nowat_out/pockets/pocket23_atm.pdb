@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0080
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7203
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5433
+HEADER 5  - Mean B-factor of pocket residues  : 0.3586
+HEADER 6  - Hydrophobicity Score              : 21.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 172.8858
+HEADER 10 - Pocket volume (convex hull)       : 3.7497
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM   3153   CA ALA B 392      87.197  30.074   7.157  0.00  0.00           C 0
+ATOM   3156   CB ALA B 392      87.993  30.441   8.423  0.00  0.00           C 0
+ATOM   3155    O ALA B 392      87.459  27.804   6.411  0.66  3.21           O 0
+ATOM   2722  ND2 ASN B 335      90.674  31.165   2.491  0.62  8.75           N 0
+ATOM    269  NH1 ARG B  28      93.458  25.148   8.089  0.25  7.66           N 0
+ATOM   3181   CB LEU B 396      88.831  24.722   6.052  0.00  0.00           C 0
+ATOM    270  NH2 ARG B  28      92.585  25.440  10.212  0.68  8.75           N 0
+ATOM   3154    C ALA B 392      86.834  28.576   7.144  0.00  0.00           C 0
+ATOM   3162  OG1 THR B 393      85.282  26.351  10.345  0.62  6.43           O 0
+ATOM   3157    N THR B 393      85.841  28.167   7.937  0.00  0.00           N 0
+ATOM    119  CG2 ILE B  10      88.582  23.815  11.867  0.00  0.00           C 0
+ATOM   3184  CD2 LEU B 396      89.590  23.676   8.210  0.00  0.00           C 0
+ATOM   3158   CA THR B 393      85.480  26.753   7.983  0.00  0.00           C 0
+ATOM   2718    O ASN B 335      90.584  26.944   3.154  0.42  4.29           O 0
+ATOM   2716   CA ASN B 335      92.079  28.225   1.778  0.00  0.00           C 0
+ATOM   2710    O ASP B 334      94.700  28.262   2.457  0.00  0.00           O 0
+TER
+END

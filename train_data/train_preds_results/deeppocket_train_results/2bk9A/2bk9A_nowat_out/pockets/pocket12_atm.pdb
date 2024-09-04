@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0357
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1263
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5801
+HEADER 5  - Mean B-factor of pocket residues  : 0.2688
+HEADER 6  - Hydrophobicity Score              : 11.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 249.7777
+HEADER 10 - Pocket volume (convex hull)       : 3.3578
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   1444  OE1 GLU A  87      -7.194   1.278  21.310  0.59  9.64           O 0
+ATOM   1457  CG1 ILE A  88      -4.814   0.938  16.071  0.00  0.00           C 0
+ATOM   1459  CD1 ILE A  88      -5.793   0.943  14.927  0.00  0.00           C 0
+ATOM   1388   CB LYS A  84      -9.694   3.026  17.095  0.00  0.00           C 0
+ATOM   1205  OE1 GLU A  71      -6.735  -4.125  14.689  0.43  4.29           O 0
+ATOM   1390   CD LYS A  84     -11.859   1.708  17.221  0.00  0.00           C 0
+ATOM   1392   NZ LYS A  84     -12.383   0.045  19.035  0.00  0.00           N 0
+ATOM   1445  OE2 GLU A  87      -5.649   0.214  22.452  0.00  0.00           O 0
+ATOM   1387    O LYS A  84      -6.449   3.466  17.194  0.00  0.00           O 0
+ATOM   1389   CG LYS A  84     -10.776   2.454  17.993  0.00  0.00           C 0
+ATOM   1443   CD GLU A  87      -5.992   1.163  21.716  0.00  0.00           C 0
+ATOM   1442   CG GLU A  87      -4.904   2.137  21.295  0.00  0.00           C 0
+ATOM   1453   CA ILE A  88      -2.869   2.129  17.171  0.00  0.00           C 0
+ATOM   1515   CD LYS A  91       0.545  -1.247  21.066  0.00  0.00           C 0
+ATOM   1440    O GLU A  87      -2.169   3.061  19.668  0.47  4.29           O 0
+ATOM   1265  CG1 VAL A  75     -10.540   0.843  13.851  0.00  0.00           C 0
+TER
+END

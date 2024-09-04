@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0000
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9247
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6348
+HEADER 5  - Mean B-factor of pocket residues  : 0.5527
+HEADER 6  - Hydrophobicity Score              : -30.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 186.3036
+HEADER 10 - Pocket volume (convex hull)       : 2.9211
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM    541  OE2 GLU A  94     -16.690 -34.270  49.179  0.64  7.50           O 0
+ATOM    518   OG SER A  90     -16.379 -32.083  44.445  0.47  3.21           O 0
+ATOM    539   CD GLU A  94     -16.280 -33.236  48.592  0.00  0.00           C 0
+ATOM    554   CG ARG A  96     -13.490 -34.033  42.916  0.00  0.00           C 0
+ATOM    558  NH1 ARG A  96     -16.447 -35.257  41.649  0.00  0.00           N 0
+ATOM    545    O PRO A  95     -11.761 -34.854  46.459  0.32  8.57           O 0
+ATOM    538   CG GLU A  94     -14.784 -33.091  48.376  0.00  0.00           C 0
+ATOM    540  OE1 GLU A  94     -17.037 -32.328  48.159  0.62  2.14           O 0
+ATOM    559  NH2 ARG A  96     -17.887 -33.531  42.108  0.68  3.28           N 0
+ATOM    557   CZ ARG A  96     -16.652 -33.965  41.898  0.00  0.00           C 0
+ATOM   1448    O ASP A 215     -23.085 -33.157  45.372  0.55  8.57           O 0
+ATOM   1480  OE2 GLU A 219     -21.851 -31.582  47.801  0.32  8.57           O 0
+ATOM   1479  OE1 GLU A 219     -20.577 -30.649  46.250  0.00  0.00           O 0
+ATOM   1451  OD1 ASP A 215     -20.465 -33.074  41.930  0.90  1.07           O 0
+ATOM   1449   CB ASP A 215     -22.457 -34.012  42.800  0.00  0.00           C 0
+TER
+END

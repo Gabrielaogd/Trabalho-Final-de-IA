@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1031
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.5624
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4432
+HEADER 5  - Mean B-factor of pocket residues  : 0.0338
+HEADER 6  - Hydrophobicity Score              : 27.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 65.4584
+HEADER 10 - Pocket volume (convex hull)       : 0.1481
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1828  NE2 HIS B 230      -8.267  14.196 -14.155  0.00  0.00           N 0
+ATOM   1842   CG LEU B 232      -5.729  14.982 -11.437  0.00  0.00           C 0
+ATOM    467   CA THR B  60      -8.278  18.954 -14.618  0.00  0.00           C 0
+ATOM   1844  CD2 LEU B 232      -6.180  16.395 -11.104  0.00  0.00           C 0
+ATOM   1529   CB SER B 193      -3.066  13.623 -15.356  0.00  0.00           C 0
+ATOM    480  OE1 GLU B  61      -2.394  19.647 -12.539  0.33  2.14           O 0
+ATOM   1841   CB LEU B 232      -4.272  14.786 -10.996  0.00  0.00           C 0
+ATOM   1840    O LEU B 232      -1.494  14.756 -12.024  0.00  0.00           O 0
+ATOM   1500   CA THR B 189      -2.401  18.980 -16.190  0.00  0.00           C 0
+ATOM    472  CG2 THR B  60      -8.322  18.147 -16.993  0.00  0.00           C 0
+ATOM   1827  CE1 HIS B 230      -7.445  13.427 -14.847  0.00  0.00           C 0
+ATOM   1505  CG2 THR B 189      -3.992  18.160 -17.958  0.00  0.00           C 0
+ATOM   1494    O LEU B 188      -4.782  20.066 -15.267  0.00  0.00           O 0
+ATOM   1530   OG SER B 193      -3.179  14.085 -16.695  0.93  1.07           O 0
+TER
+END

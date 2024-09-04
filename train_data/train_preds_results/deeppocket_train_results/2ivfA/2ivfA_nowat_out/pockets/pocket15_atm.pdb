@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0156
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9227
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5144
+HEADER 5  - Mean B-factor of pocket residues  : 0.2068
+HEADER 6  - Hydrophobicity Score              : -15.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 174.3681
+HEADER 10 - Pocket volume (convex hull)       : 1.3889
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0500
+ATOM   6606   NZ LYS A 893       5.640  15.996   2.971  0.00  0.00           N 0
+ATOM   6894    N GLY A 928       4.865  23.884   2.092  0.00  0.00           N 0
+ATOM   6895   CA GLY A 928       4.116  24.205   3.297  0.00  0.00           C 0
+ATOM   6887    C LYS A 927       5.991  23.195   2.124  0.00  0.00           C 0
+ATOM   6889   CB LYS A 927       6.538  21.506   0.349  0.00  0.00           C 0
+ATOM   6888    O LYS A 927       6.531  22.840   3.173  0.68  2.14           O 0
+ATOM   6918   CD LYS A 930       5.002  21.924   7.403  0.00  0.00           C 0
+ATOM   6920   NZ LYS A 930       4.310  19.684   8.147  0.00  0.00           N 0
+ATOM   6919   CE LYS A 930       5.386  20.734   8.232  0.00  0.00           C 0
+ATOM   6672    N GLU A 902       9.681  18.598   4.011  0.47  1.09           N 0
+ATOM   6667   CA CYS A 901       9.508  18.831   6.402  0.00  0.00           C 0
+ATOM   6665  OD2 ASP A 900       5.901  16.407   7.480  0.89  4.29           O 0
+ATOM   6676   CB GLU A 902       8.696  17.868   1.905  0.00  0.00           C 0
+TER
+END

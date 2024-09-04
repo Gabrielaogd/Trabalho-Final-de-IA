@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0522
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9277
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5431
+HEADER 5  - Mean B-factor of pocket residues  : 0.3115
+HEADER 6  - Hydrophobicity Score              : 37.3333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 208.9325
+HEADER 10 - Pocket volume (convex hull)       : 4.1917
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   1057    N LYS B1145       7.999  32.773 -25.222  0.00  0.00           N 0
+ATOM   1087    O ALA B1149      13.105  31.343 -23.356  0.81  8.57           O 0
+ATOM   1062   CG LYS B1145       7.625  31.112 -27.635  0.00  0.00           C 0
+ATOM   1058   CA LYS B1145       8.580  33.200 -26.494  0.00  0.00           C 0
+ATOM   1100   CB THR B1151      11.024  28.305 -21.927  0.00  0.00           C 0
+ATOM   1034    O VAL B1141       5.944  30.109 -24.819  0.64  1.07           O 0
+ATOM   1036  CG1 VAL B1141       5.346  27.088 -25.257  0.00  0.00           C 0
+ATOM   1056   CB ALA B1144       8.169  31.189 -22.458  0.00  0.00           C 0
+ATOM   1101  OG1 THR B1151      11.043  29.720 -21.699  0.00  0.00           O 0
+ATOM   1099    O THR B1151      12.500  25.761 -22.942  0.00  0.00           O 0
+ATOM   1119  CG2 VAL B1153       7.636  24.005 -22.234  0.00  0.00           C 0
+ATOM   1064   CE LYS B1145       6.478  29.192 -28.740  0.00  0.00           C 0
+ATOM   1096    N THR B1151      13.482  28.388 -22.178  0.00  0.00           N 0
+ATOM   1102  CG2 THR B1151       9.893  27.682 -21.123  0.00  0.00           C 0
+TER
+END

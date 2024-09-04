@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0007
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9131
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5617
+HEADER 5  - Mean B-factor of pocket residues  : 0.3964
+HEADER 6  - Hydrophobicity Score              : 16.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 290.3126
+HEADER 10 - Pocket volume (convex hull)       : 15.7917
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1650    N SER G 923      -7.885  -0.724   4.512  0.37  2.19           N 0
+ATOM   1640    O SER G 921      -9.164  -3.685   6.372  0.26  9.64           O 0
+ATOM    844    O MET G 822     -10.302  -1.394  -0.745  0.00  0.00           O 0
+ATOM   1654   CB SER G 923      -6.249  -0.710   2.674  0.00  0.00           C 0
+ATOM    845   CB MET G 822     -13.240  -1.971   0.791  0.00  0.00           C 0
+ATOM    854   CG GLU G 823     -12.815  -4.745  -3.159  0.00  0.00           C 0
+ATOM    843    C MET G 822     -11.529  -1.416  -0.910  0.00  0.00           C 0
+ATOM    850   CA GLU G 823     -11.347  -2.671  -2.987  0.00  0.00           C 0
+ATOM    857  OE2 GLU G 823     -15.079  -4.895  -2.416  0.68  6.43           O 0
+ATOM   1636  OD2 ASP G 920     -13.337  -8.857   5.146  0.00  0.00           O 0
+ATOM   1622  CD1 ILE G 918     -16.498  -4.242   3.712  0.00  0.00           C 0
+ATOM    847   SD MET G 822     -13.380  -1.305   3.527  0.00  0.00           S 0
+ATOM    846   CG MET G 822     -14.176  -1.575   1.933  0.00  0.00           C 0
+ATOM   1644   CA PRO G 922      -9.789  -0.919   6.001  0.00  0.00           C 0
+ATOM   1633   CB ASP G 920     -12.389  -6.901   6.108  0.00  0.00           C 0
+ATOM   1620  CG1 ILE G 918     -16.072  -4.491   5.133  0.00  0.00           C 0
+ATOM    823  CD2 LEU G 819     -17.923  -4.889   0.498  0.00  0.00           C 0
+TER
+END

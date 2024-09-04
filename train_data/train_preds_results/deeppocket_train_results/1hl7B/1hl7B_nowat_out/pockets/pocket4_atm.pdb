@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1575
+HEADER 1  - Drug Score                        : 0.0349
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8217
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5188
+HEADER 5  - Mean B-factor of pocket residues  : 0.0708
+HEADER 6  - Hydrophobicity Score              : 12.1000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 341.4023
+HEADER 10 - Pocket volume (convex hull)       : 26.2059
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.4615
+ATOM    354  OG1 THR B  43     113.421  24.940  33.556  0.70  1.07           O 0
+ATOM    353   CB THR B  43     114.097  26.157  33.205  0.00  0.00           C 0
+ATOM    355  CG2 THR B  43     114.801  25.885  31.840  0.00  0.00           C 0
+ATOM    321   CA GLU B  40     110.323  27.867  34.134  0.00  0.00           C 0
+ATOM    324   CB GLU B  40     109.277  28.680  33.361  0.00  0.00           C 0
+ATOM    323    O GLU B  40     112.183  29.302  34.610  0.64  3.21           O 0
+ATOM    360   CB ARG B  44     115.255  31.260  33.386  0.00  0.00           C 0
+ATOM    362   CD ARG B  44     113.343  32.525  34.421  0.00  0.00           C 0
+ATOM    454  CG2 THR B  55     112.670  20.941  31.953  0.00  0.00           C 0
+ATOM    173  OE1 GLN B  20     115.122  25.581  27.753  0.00  0.00           O 0
+ATOM    436    O VAL B  53     117.449  21.583  29.316  0.81  1.07           O 0
+ATOM    153   CB GLU B  18     112.725  21.384  26.345  0.00  0.00           C 0
+ATOM    156  OE1 GLU B  18     111.093  23.546  27.172  0.59  4.29           O 0
+ATOM    453  OG1 THR B  55     111.388  20.421  30.017  0.69  3.21           O 0
+ATOM    297  CD2 HIS B  37     107.977  24.628  28.546  0.00  0.00           C 0
+ATOM    390  CD1 LEU B  47     117.704  27.585  29.941  0.00  0.00           C 0
+ATOM    357   CA ARG B  44     116.161  30.028  33.518  0.00  0.00           C 0
+ATOM    356    N ARG B  44     115.410  28.860  33.982  0.00  0.00           N 0
+ATOM    289    O GLY B  36     109.092  22.653  32.615  0.50  2.14           O 0
+ATOM    291   CA HIS B  37     107.286  24.388  31.517  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.1036
+HEADER 1  - Drug Score                        : 0.0033
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9022
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5649
+HEADER 5  - Mean B-factor of pocket residues  : 0.5017
+HEADER 6  - Hydrophobicity Score              : 7.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 373.8309
+HEADER 10 - Pocket volume (convex hull)       : 30.4035
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 11.6923
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6842
+ATOM   1190   CG LYS A 154      58.433  15.106  15.411  0.00  0.00           C 0
+ATOM    859  CE1 HIS A 111      53.948  19.029  19.113  0.00  0.00           C 0
+ATOM   1201  ND2 ASN A 155      54.884  13.716  19.075  0.67  8.75           N 0
+ATOM   1188    O LYS A 154      58.955  14.591  18.907  0.63  3.21           O 0
+ATOM   1191   CD LYS A 154      57.880  15.292  13.999  0.00  0.00           C 0
+ATOM   1192   CE LYS A 154      58.382  16.593  13.387  0.00  0.00           C 0
+ATOM    857  ND1 HIS A 111      53.114  18.005  19.183  0.00  0.00           N 0
+ATOM   1231  CD2 LEU A 158      59.403  18.490  21.529  0.00  0.00           C 0
+ATOM   1193   NZ LYS A 154      59.857  16.561  13.210  0.00  0.00           N 0
+ATOM   1189   CB LYS A 154      58.210  13.686  15.885  0.00  0.00           C 0
+ATOM    860  NE2 HIS A 111      54.312  19.354  20.341  0.00  0.00           N 0
+ATOM    844  OD1 ASP A 109      54.310  22.099  21.281  0.00  0.00           O 0
+ATOM    845  OD2 ASP A 109      56.330  21.700  22.039  0.00  0.00           O 0
+ATOM   1223   CE MET A 157      62.392  14.714  16.495  0.00  0.00           C 0
+ATOM   1220   CB MET A 157      62.754  14.319  19.903  0.00  0.00           C 0
+ATOM   1230  CD1 LEU A 158      57.137  17.438  21.375  0.00  0.00           C 0
+ATOM   1229   CG LEU A 158      58.614  17.185  21.602  0.00  0.00           C 0
+ATOM   1254   CD LYS A 161      63.225  19.518  22.981  0.00  0.00           C 0
+TER
+END

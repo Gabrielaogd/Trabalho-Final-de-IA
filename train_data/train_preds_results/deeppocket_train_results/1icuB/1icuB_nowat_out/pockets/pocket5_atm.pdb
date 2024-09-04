@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.2059
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9299
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5096
+HEADER 5  - Mean B-factor of pocket residues  : 0.2159
+HEADER 6  - Hydrophobicity Score              : -3.3333
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.4003
+HEADER 10 - Pocket volume (convex hull)       : 7.3638
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1552  OD1 ASN B 200      -3.980  29.814  76.946  0.38  8.57           O 0
+ATOM   1569    O LEU B 203      -8.303  31.710  75.357  0.29  9.64           O 0
+ATOM   1577    O PRO B 204      -6.413  33.478  73.376  0.71  4.29           O 0
+ATOM   1582   CA LYS B 205      -6.798  32.034  71.037  0.00  0.00           C 0
+ATOM   1590    N SER B 206      -4.928  32.944  69.751  0.94  2.19           N 0
+ATOM   1605  NH1 ARG B 207      -3.172  29.652  68.193  0.59  5.47           N 0
+ATOM   1586   CG LYS B 205      -6.382  30.132  69.354  0.00  0.00           C 0
+ATOM   1589   NZ LYS B 205      -6.533  27.483  70.683  0.50  1.09           N 0
+ATOM     94   OG SER B  12      -1.300  23.904  73.605  0.59  3.21           O 0
+ATOM   1606  NH2 ARG B 207      -3.205  27.411  67.677  0.00  4.37           N 0
+ATOM     89    N SER B  12      -4.156  24.407  74.526  0.53  2.19           N 0
+ATOM     78  NH2 ARG B  10      -3.919  22.777  71.080  0.59  1.09           N 0
+ATOM   1553  ND2 ASN B 200      -3.704  27.672  76.320  0.00  0.00           N 0
+ATOM     93   CB SER B  12      -1.726  24.311  74.899  0.00  0.00           C 0
+ATOM     83   CB HIS B  11      -6.879  25.710  74.564  0.00  0.00           C 0
+ATOM   1549    O ASN B 200      -6.975  28.876  77.672  0.43  1.07           O 0
+TER
+END

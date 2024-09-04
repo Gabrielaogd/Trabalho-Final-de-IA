@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.1152
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9261
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5541
+HEADER 5  - Mean B-factor of pocket residues  : 0.3808
+HEADER 6  - Hydrophobicity Score              : 43.4286
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.1844
+HEADER 10 - Pocket volume (convex hull)       : 8.4654
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM    410  CD2 LEU A 221       0.623  35.053  28.476  0.00  0.00           C 0
+ATOM   1060    O GLY A 304       4.364  33.749  31.242  0.60  6.43           O 0
+ATOM    377  CG1 VAL A 217       3.287  39.494  28.103  0.00  0.00           C 0
+ATOM    409  CD1 LEU A 221       0.030  37.454  28.067  0.00  0.00           C 0
+ATOM   1825   CG GLN A 400       5.235  35.036  36.857  0.00  0.00           C 0
+ATOM   1823    O GLN A 400       1.591  32.912  35.476  0.65  2.14           O 0
+ATOM   1824   CB GLN A 400       4.445  33.745  36.678  0.00  0.00           C 0
+ATOM   1821   CA GLN A 400       2.997  33.898  37.151  0.00  0.00           C 0
+ATOM   1827  OE1 GLN A 400       6.775  34.356  35.157  0.00  0.00           O 0
+ATOM   1075   CB SER A 306       7.890  37.762  33.132  0.00  0.00           C 0
+ATOM   1071    N SER A 306       7.920  35.341  32.786  0.00  0.00           N 0
+ATOM   1826   CD GLN A 400       6.588  35.011  36.186  0.00  0.00           C 0
+ATOM   1076   OG SER A 306       7.902  37.776  34.547  0.55  8.57           O 0
+ATOM   1856   CB CYS A 403      -0.567  36.010  34.981  0.00  0.00           C 0
+ATOM   1857   SG CYS A 403      -0.403  37.226  36.314  0.00  0.00           S 0
+ATOM   1858    N LEU A 404      -0.997  33.149  33.839  0.00  0.00           N 0
+ATOM   1855    O CYS A 403      -2.690  34.399  33.038  0.68  4.29           O 0
+TER
+END

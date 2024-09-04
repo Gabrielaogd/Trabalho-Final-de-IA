@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0181
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.8540
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5117
+HEADER 5  - Mean B-factor of pocket residues  : 0.1230
+HEADER 6  - Hydrophobicity Score              : 48.0909
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.0909
+HEADER 9  - Pocket volume (Monte Carlo)       : 280.3218
+HEADER 10 - Pocket volume (convex hull)       : 14.1477
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM    781    O ASP K  85      -5.708 -39.257 -11.388  0.00  0.00           O 0
+ATOM    783   CG ASP K  85      -9.740 -37.921 -12.434  0.00  0.00           C 0
+ATOM    782   CB ASP K  85      -8.870 -38.958 -11.762  0.00  0.00           C 0
+ATOM    827  CE2 TYR K  89      -6.099 -36.525  -8.090  0.00  0.00           C 0
+ATOM    809   CB HIS K  88      -4.213 -37.471 -13.850  0.00  0.00           C 0
+ATOM    825  CD2 TYR K  89      -5.260 -37.555  -8.560  0.00  0.00           C 0
+ATOM   1009   CA GLY K 109      -3.008 -31.858  -9.528  0.00  0.00           C 0
+ATOM    864  CD1 LEU K  92      -1.023 -34.061 -11.373  0.00  0.00           C 0
+ATOM    824  CD1 TYR K  89      -3.354 -36.498  -7.523  0.00  0.00           C 0
+ATOM    818    N TYR K  89      -2.857 -38.578 -11.222  0.00  0.00           N 0
+ATOM    995    O TRP K 108      -3.135 -30.865 -12.065  0.00  0.00           O 0
+ATOM   1073  CG1 VAL K 116     -12.715 -30.500 -10.935  0.00  0.00           C 0
+ATOM    785  OD2 ASP K  85     -10.638 -37.415 -11.748  0.43  5.36           O 0
+ATOM   1139  CD1 LEU K 122     -14.414 -35.183  -9.816  0.00  0.00           C 0
+ATOM   1119  CD1 LEU K 120     -15.867 -32.076 -12.655  0.00  0.00           C 0
+ATOM    784  OD1 ASP K  85      -9.539 -37.614 -13.623  0.62  4.29           O 0
+ATOM    828   CZ TYR K  89      -5.552 -35.495  -7.338  0.00  0.00           C 0
+ATOM   1011    O GLY K 109      -4.982 -31.257  -8.394  0.37  5.36           O 0
+ATOM   1087   OH TYR K 117      -8.660 -34.367  -8.579  0.58  5.36           O 0
+ATOM   1084  CE1 TYR K 117     -10.920 -33.633  -8.681  0.00  0.00           C 0
+ATOM    771  NH2 ARG K  84     -11.112 -36.780 -15.880  0.29  7.66           N 0
+ATOM    811  ND1 HIS K  88      -5.888 -36.844 -15.634  0.66  5.47           N 0
+TER
+END

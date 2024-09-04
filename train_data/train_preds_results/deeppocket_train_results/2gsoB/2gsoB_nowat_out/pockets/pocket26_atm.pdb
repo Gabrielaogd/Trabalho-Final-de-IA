@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.0987
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0502
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6044
+HEADER 5  - Mean B-factor of pocket residues  : 0.2907
+HEADER 6  - Hydrophobicity Score              : 12.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 281.0394
+HEADER 10 - Pocket volume (convex hull)       : 10.4821
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.7143
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   2857   CZ ARG B 403      56.353  25.803  46.876  0.00  0.00           C 0
+ATOM   2850   CA ARG B 403      56.201  26.675  52.015  0.00  0.00           C 0
+ATOM   2858  NH1 ARG B 403      57.584  25.303  46.801  0.63  9.84           N 0
+ATOM   2854   CG ARG B 403      57.299  27.068  49.741  0.00  0.00           C 0
+ATOM   2853   CB ARG B 403      56.051  27.211  50.582  0.00  0.00           C 0
+ATOM   2859  NH2 ARG B 403      55.362  25.203  46.228  0.45  5.47           N 0
+ATOM   2899   CB ALA B 409      50.033  22.868  52.369  0.00  0.00           C 0
+ATOM   2919  ND2 ASN B 412      45.932  24.259  51.679  0.63  5.47           N 0
+ATOM   2820   CB ALA B 399      49.485  27.710  49.504  0.00  0.00           C 0
+ATOM   2945   CG PRO B 416      48.460  25.181  45.999  0.00  0.00           C 0
+ATOM   2944   CB PRO B 416      49.603  26.047  45.681  0.00  0.00           C 0
+ATOM   2819    O ALA B 399      52.420  27.794  50.858  0.65  5.36           O 0
+ATOM   2856   NE ARG B 403      56.102  26.902  47.586  0.37  1.09           N 0
+ATOM   2847   OGASER B 402      52.251  25.564  52.782  0.60  4.29           O 0
+ATOM   2849    N ARG B 403      54.937  26.801  52.733  0.00  0.00           N 0
+ATOM   2883    O ILE B 407      54.420  22.538  54.687  0.79  7.50           O 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0845
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8578
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4875
+HEADER 5  - Mean B-factor of pocket residues  : 0.5738
+HEADER 6  - Hydrophobicity Score              : 33.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 6.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 278.9528
+HEADER 10 - Pocket volume (convex hull)       : 13.8981
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2609
+ATOM   1348   CD LYS A 785      -7.867  16.887  67.586  0.00  0.00           C 0
+ATOM   1325  NH2AARG A 769      -7.702  22.662  64.444  0.47  4.37           N 0
+ATOM   1468  NH2 ARG A 799      -2.804  22.757  69.240  0.00  0.00           N 0
+ATOM   1298  CD2 LEU A 767      -6.090  18.348  64.612  0.00  0.00           C 0
+ATOM   1357  CG2 ILE A 786      -2.021  16.514  71.186  0.00  0.00           C 0
+ATOM   1467  NH1 ARG A 799      -1.519  21.893  70.929  0.80  4.37           N 0
+ATOM   1346   CB LYS A 785      -6.175  15.588  68.951  0.00  0.00           C 0
+ATOM   1351    N ILE A 786      -2.819  16.621  68.303  0.68  5.47           N 0
+ATOM   1343   CA LYS A 785      -4.980  15.599  67.997  0.00  0.00           C 0
+ATOM   1355   CB ILE A 786      -1.222  17.245  70.105  0.00  0.00           C 0
+ATOM   1111    O ARG A 745       0.155  17.321  63.130  0.50  3.21           O 0
+ATOM   1352   CA ILE A 786      -1.432  16.586  68.717  0.00  0.00           C 0
+ATOM   1488   CZ PHE A 801       1.011  21.356  66.903  0.00  0.00           C 0
+ATOM   1116   CDAARG A 745      -1.464  22.263  63.276  0.00  0.00           C 0
+ATOM   1122  NH1AARG A 745      -2.584  24.005  65.171  0.27  4.37           N 0
+ATOM   1344    C LYS A 785      -3.676  15.719  68.757  0.00  0.00           C 0
+ATOM   1297  CD1 LEU A 767      -4.261  16.670  64.219  0.00  0.00           C 0
+ATOM   1112   CBAARG A 745      -0.788  20.028  62.424  0.00  0.00           C 0
+ATOM   1323  NH1AARG A 769      -5.785  23.873  64.847  0.29  8.75           N 0
+TER
+END

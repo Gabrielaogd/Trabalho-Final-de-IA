@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0719
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1185
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6045
+HEADER 5  - Mean B-factor of pocket residues  : 0.3627
+HEADER 6  - Hydrophobicity Score              : 20.8333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 175.0856
+HEADER 10 - Pocket volume (convex hull)       : 3.5094
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM   2591   CG PRO A 335       5.177   5.152  62.287  0.00  0.00           C 0
+ATOM   2546  OE2 GLU A 329       3.172   9.154  66.509  0.55  6.43           O 0
+ATOM   2544   CD GLU A 329       3.595  10.072  65.759  0.00  0.00           C 0
+ATOM   2542   CB GLU A 329       3.066   8.718  63.634  0.00  0.00           C 0
+ATOM   2599   SD MET A 336      10.043   4.014  60.668  0.00  0.00           S 0
+ATOM   2598   CG MET A 336       9.496   3.204  62.221  0.00  0.00           C 0
+ATOM   2525    O LEU A 327       6.560   8.020  59.962  0.41  4.29           O 0
+ATOM   2538    N GLU A 329       3.829   9.485  61.417  0.41  1.09           N 0
+ATOM    287   CB GLN A  46       9.015  12.362  62.913  0.00  0.00           C 0
+ATOM    286    O GLN A  46       8.063  12.573  65.631  0.50  4.29           O 0
+ATOM   2545  OE1 GLU A 329       4.396  10.963  66.153  0.50  7.50           O 0
+ATOM   2543   CG GLU A 329       3.115  10.112  64.305  0.00  0.00           C 0
+ATOM    291  NE2 GLN A  46       8.920  10.687  60.553  0.65  2.19           N 0
+ATOM    267   CB ALA A  43      12.270   8.366  61.884  0.00  0.00           C 0
+ATOM    266    O ALA A  43      11.890  10.943  63.573  0.58  4.29           O 0
+TER
+END

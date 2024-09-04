@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0078
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1429
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6944
+HEADER 5  - Mean B-factor of pocket residues  : 0.0229
+HEADER 6  - Hydrophobicity Score              : -5.7500
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 208.6310
+HEADER 10 - Pocket volume (convex hull)       : 3.5286
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   2108   CA VAL A 459      18.967  10.996  16.338  0.00  0.00           C 0
+ATOM   2102    O ASN A 458      19.764  10.118  18.778  0.56  1.07           O 0
+ATOM   6842  NE2 GLN A1038      18.703   7.678  19.895  0.00  0.00           N 0
+ATOM   6841  OE1 GLN A1038      20.686   6.706  20.361  0.78  3.21           O 0
+ATOM   2112  CG1 VAL A 459      16.889   9.903  17.171  0.00  0.00           C 0
+ATOM   6513  NH2 ARG A 997      22.096   8.935  19.709  0.00  0.00           N 0
+ATOM   6511   CZ ARG A 997      23.298   9.131  19.146  0.00  0.00           C 0
+ATOM   6510   NE ARG A 997      24.205   8.143  19.091  0.00  0.00           N 0
+ATOM   6509   CD ARG A 997      23.936   6.796  19.605  0.00  0.00           C 0
+ATOM   2109    C VAL A 459      19.799  11.519  15.183  0.00  0.00           C 0
+ATOM   2110    O VAL A 459      20.848  12.104  15.427  0.68  1.07           O 0
+ATOM   2340  NH2 ARG A 489      21.336   9.101  10.801  0.43  8.75           N 0
+ATOM   2114    N GLY A 460      19.374  11.267  13.949  0.00  0.00           N 0
+ATOM   6512  NH1 ARG A 997      23.569  10.299  18.587  0.57  2.19           N 0
+ATOM   2216  ND2 ASN A 473      26.524  10.829  14.217  0.00  0.00           N 0
+ATOM   2215  OD1 ASN A 473      25.321  11.745  12.550  0.56  3.21           O 0
+ATOM   2203  ND2 ASN A 471      23.842  12.713  15.853  0.00  0.00           N 0
+TER
+END

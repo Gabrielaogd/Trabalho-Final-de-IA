@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0199
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7039
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5340
+HEADER 5  - Mean B-factor of pocket residues  : 0.3960
+HEADER 6  - Hydrophobicity Score              : -8.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 137.1550
+HEADER 10 - Pocket volume (convex hull)       : 2.2723
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   1520  OE1 GLU A 194       4.213   3.458 -30.412  0.00  0.00           O 0
+ATOM   1748   CB LYS A 224       1.770  -1.752 -28.725  0.00  0.00           C 0
+ATOM   1747    O LYS A 224       2.629  -3.874 -30.840  0.55  5.36           O 0
+ATOM   1516    O GLU A 194       7.709   1.407 -27.977  0.05  5.36           O 0
+ATOM   1744    N LYS A 224       3.109  -3.644 -27.985  0.00  0.00           N 0
+ATOM   1739   CB GLU A 223       5.843  -5.023 -28.404  0.00  0.00           C 0
+ATOM   1508    O MET A 193       3.822   0.684 -26.608  0.45  1.07           O 0
+ATOM   1533    N LYS A 196       9.446  -1.222 -25.591  0.20  1.09           N 0
+ATOM   1537   CB LYS A 196      10.633  -3.136 -26.539  0.00  0.00           C 0
+ATOM   1534   CA LYS A 196       9.505  -2.674 -25.617  0.00  0.00           C 0
+ATOM   1742  OE1 GLU A 223       7.514  -5.205 -30.702  0.78  6.43           O 0
+ATOM   1514   CA GLU A 194       5.684   2.568 -27.403  0.00  0.00           C 0
+ATOM   1525    O ARG A 195       7.222  -1.083 -25.290  0.00  0.00           O 0
+TER
+END

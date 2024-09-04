@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.1257
+HEADER 1  - Drug Score                        : 0.0049
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.8819
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5911
+HEADER 5  - Mean B-factor of pocket residues  : 0.4903
+HEADER 6  - Hydrophobicity Score              : 18.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 396.7572
+HEADER 10 - Pocket volume (convex hull)       : 31.0738
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.9091
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4400
+ATOM    199   NE ARG B  25      43.435  68.149 118.774  0.00  0.00           N 0
+ATOM    200   CZ ARG B  25      43.611  68.657 119.992  0.00  0.00           C 0
+ATOM    202  NH2 ARG B  25      42.597  69.246 120.613  0.00  0.00           N 0
+ATOM    230  CG2 VAL B  29      42.999  63.808 124.645  0.00  0.00           C 0
+ATOM    254  OD1 ASP B  32      43.567  67.959 128.871  0.00  0.00           O 0
+ATOM    250    C ASP B  32      46.748  67.571 127.325  0.00  0.00           C 0
+ATOM    249   CA ASP B  32      46.005  66.503 128.124  0.00  0.00           C 0
+ATOM    258    C MET B  33      47.701  67.900 123.960  0.00  0.00           C 0
+ATOM    251    O ASP B  32      46.708  68.757 127.665  0.00  0.00           O 0
+ATOM    257   CA MET B  33      48.178  68.041 125.402  0.00  0.00           C 0
+ATOM    264    N GLY B  34      48.261  68.724 123.080  0.68  3.28           N 0
+ATOM    489  NE2 HIS B  59      41.857  57.969 117.914  0.62  4.37           N 0
+ATOM    229  CG1 VAL B  29      44.100  61.719 123.849  0.00  0.00           C 0
+ATOM    204   CA ALA B  26      45.419  61.444 119.499  0.00  0.00           C 0
+ATOM    488  CE1 HIS B  59      40.637  58.258 117.491  0.00  0.00           C 0
+ATOM    197   CG ARG B  25      45.103  66.303 118.706  0.00  0.00           C 0
+ATOM    195    O ARG B  25      46.129  63.851 120.612  0.65  1.07           O 0
+ATOM    228   CB VAL B  29      44.182  63.234 123.904  0.00  0.00           C 0
+ATOM    259    O MET B  33      46.849  67.063 123.654  0.73  5.36           O 0
+ATOM    207   CB ALA B  26      44.989  60.355 118.506  0.00  0.00           C 0
+ATOM    206    O ALA B  26      45.812  60.362 121.596  0.61  8.57           O 0
+ATOM    201  NH1 ARG B  25      44.794  68.585 120.589  0.59  4.37           N 0
+TER
+END

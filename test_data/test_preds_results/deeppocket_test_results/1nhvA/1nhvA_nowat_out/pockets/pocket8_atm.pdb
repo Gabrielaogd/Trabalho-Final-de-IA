@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1247
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6185
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4989
+HEADER 5  - Mean B-factor of pocket residues  : 0.1798
+HEADER 6  - Hydrophobicity Score              : 71.1250
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 66.1248
+HEADER 10 - Pocket volume (convex hull)       : 0.3630
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7368
+ATOM   2466  CD1 ILE A 323      -5.062  36.227  49.123  0.00  0.00           C 0
+ATOM   2464  CG1 ILE A 323      -4.978  35.456  47.824  0.00  0.00           C 0
+ATOM   2463   CB ILE A 323      -6.259  35.503  46.986  0.00  0.00           C 0
+ATOM   2385  CG2 THR A 312      -7.839  40.028  45.263  0.00  0.00           C 0
+ATOM   2398   CB LEU A 314      -1.633  41.730  46.443  0.00  0.00           C 0
+ATOM   1558  CD2 LEU A 204      -2.618  39.940  50.259  0.00  0.00           C 0
+ATOM   2450  CG1 VAL A 321      -1.125  37.358  46.838  0.00  0.00           C 0
+ATOM   2394    N LEU A 314      -2.568  41.102  44.248  0.75  1.09           N 0
+ATOM   1580  CG2 THR A 207      -8.247  38.729  48.298  0.00  0.00           C 0
+ATOM   1549  CE2 PHE A 203      -5.005  43.448  47.896  0.00  0.00           C 0
+ATOM   2382    O THR A 312      -5.843  37.943  43.287  0.00  0.00           O 0
+ATOM   2387   CA MET A 313      -4.350  40.151  42.962  0.00  0.00           C 0
+ATOM   2459    N ILE A 323      -5.079  35.470  44.827  0.83  1.09           N 0
+ATOM   2388    C MET A 313      -3.756  41.326  43.688  0.00  0.00           C 0
+ATOM   2448    O VAL A 321      -1.849  38.237  43.683  0.00  0.00           O 0
+TER
+END

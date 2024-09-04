@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0668
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1494
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6103
+HEADER 5  - Mean B-factor of pocket residues  : 0.2867
+HEADER 6  - Hydrophobicity Score              : 10.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 260.1578
+HEADER 10 - Pocket volume (convex hull)       : 4.6864
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM   3545   CG GLU B 438     -23.558 -33.873  37.157  0.00  0.00           C 0
+ATOM   3552    O GLU B 439     -24.128 -32.736  43.177  0.44  1.07           O 0
+ATOM   3549    N GLU B 439     -22.264 -33.504  41.321  0.00  0.00           N 0
+ATOM   4563   NE ARG B 559     -22.770 -29.135  40.359  0.53  2.19           N 0
+ATOM   3601  NE2 GLN B 444     -28.910 -27.710  41.526  0.36  8.75           N 0
+ATOM   3598   CG GLN B 444     -28.934 -29.581  43.072  0.00  0.00           C 0
+ATOM   3599   CD GLN B 444     -29.586 -28.791  41.931  0.00  0.00           C 0
+ATOM   4573  CG2 VAL B 560     -25.543 -29.650  44.747  0.00  0.00           C 0
+ATOM   4566  NH2 ARG B 559     -23.009 -28.187  38.264  0.00  0.00           N 0
+ATOM   3569   CBAMET B 441     -27.262 -35.589  41.044  0.00  0.00           C 0
+ATOM   3571   CGAMET B 441     -25.897 -35.444  40.407  0.00  0.00           C 0
+ATOM   3547  OE1 GLU B 438     -24.751 -35.952  36.958  0.69  3.21           O 0
+ATOM   3546   CD GLU B 438     -24.306 -34.940  36.355  0.00  0.00           C 0
+ATOM   3600  OE1 GLN B 444     -30.679 -29.130  41.415  0.42  5.36           O 0
+ATOM   3565   CAAMET B 441     -27.470 -34.765  42.316  0.00  0.00           C 0
+ATOM   3568    O MET B 441     -29.808 -34.423  42.712  0.00  0.00           O 0
+ATOM   3597   CB GLN B 444     -29.548 -30.951  43.341  0.00  0.00           C 0
+TER
+END

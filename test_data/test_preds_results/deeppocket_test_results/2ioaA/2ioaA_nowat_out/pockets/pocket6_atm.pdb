@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0614
+HEADER 1  - Drug Score                        : 0.0074
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 3.8373
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4897
+HEADER 5  - Mean B-factor of pocket residues  : 0.1966
+HEADER 6  - Hydrophobicity Score              : 34.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 215.5896
+HEADER 10 - Pocket volume (convex hull)       : 11.6855
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.5312
+ATOM   3918  NE2 HIS A 511      13.702   2.064   3.485  0.00  0.00           N 0
+ATOM   1986  OE2 GLU A 269      12.268  -0.018   3.016  0.48  3.21           O 0
+ATOM   1443  NE2 GLN A 201      17.577  -2.044   1.791  0.50  5.47           N 0
+ATOM    542    O ARG A  88      16.146  -4.974   7.011  0.00  0.00           O 0
+ATOM   3928  NH1 ARG A 512      15.388  -0.026   1.226  0.43  2.19           N 0
+ATOM   1442  OE1 GLN A 201      15.922  -3.322   0.970  0.38  1.07           O 0
+ATOM    556  CD1 PHE A  89      11.878  -4.279   5.688  0.00  0.00           C 0
+ATOM   1985  OE1 GLU A 269      11.827  -1.745   1.730  0.86  1.07           O 0
+ATOM   3916  CD2 HIS A 511      14.324   2.941   4.341  0.00  0.00           C 0
+ATOM   3887  CD1 PHE A 508      12.899   3.437   8.855  0.00  0.00           C 0
+ATOM   3889  CE1 PHE A 508      11.852   2.850   9.567  0.00  0.00           C 0
+ATOM    633  CG2 ILE A  98      12.196  -1.991  10.579  0.00  0.00           C 0
+ATOM   2019   SD MET A 273      10.325   2.904   4.950  0.00  0.00           S 0
+ATOM    543   CB ARG A  88      17.044  -5.185   4.332  0.00  0.00           C 0
+ATOM    541    C ARG A  88      15.493  -5.707   6.278  0.00  0.00           C 0
+ATOM    554   CB PHE A  89      13.163  -4.347   7.837  0.00  0.00           C 0
+ATOM    632  CG1 ILE A  98       9.871  -1.178  10.715  0.00  0.00           C 0
+ATOM   2018   CG MET A 273       9.266   2.303   6.287  0.00  0.00           C 0
+ATOM    557  CD2 PHE A  89      10.691  -3.995   7.745  0.00  0.00           C 0
+ATOM    559  CE2 PHE A  89       9.487  -3.936   7.040  0.00  0.00           C 0
+ATOM   1983   CG GLU A 269      10.114  -0.993   3.225  0.00  0.00           C 0
+ATOM    555   CG PHE A  89      11.891  -4.171   7.076  0.00  0.00           C 0
+TER
+END

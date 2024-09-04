@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.1003
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9386
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4977
+HEADER 5  - Mean B-factor of pocket residues  : 0.6642
+HEADER 6  - Hydrophobicity Score              : 0.2857
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 193.1256
+HEADER 10 - Pocket volume (convex hull)       : 3.7700
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3077
+ATOM    926  OD2 ASP B 613       8.051  48.262  54.132  0.00  0.00           O 0
+ATOM    923   CB ASP B 613       7.640  46.652  52.454  0.00  0.00           C 0
+ATOM      9    O SER B 502       0.120  48.488  52.209  0.00  0.00           O 0
+ATOM     10   CB SER B 502       0.667  50.305  49.609  0.00  0.00           C 0
+ATOM    907   OG SER B 611       3.931  48.499  46.635  0.82  5.36           O 0
+ATOM    910    C PHE B 612       6.578  46.328  48.956  0.00  0.00           C 0
+ATOM    911    O PHE B 612       6.950  47.347  48.374  0.74  6.43           O 0
+ATOM     12    N SER B 503      -0.269  47.260  50.324  0.00  0.00           N 0
+ATOM    919    N ASP B 613       6.978  46.020  50.182  0.63  1.09           N 0
+ATOM      8    C SER B 502      -0.221  48.406  51.018  0.00  0.00           C 0
+ATOM    920   CA ASP B 613       7.857  46.891  50.952  0.00  0.00           C 0
+ATOM     16   CB SER B 503       0.783  45.197  49.586  0.00  0.00           C 0
+ATOM    909   CA PHE B 612       5.625  45.331  48.259  0.00  0.00           C 0
+ATOM     43   NZ LYS B 506       3.506  44.816  56.414  0.41  9.84           N 0
+ATOM     19   CA SER B 504       2.731  44.326  53.071  0.00  0.00           C 0
+ATOM     15    O SER B 503       0.353  45.843  53.188  0.64  4.29           O 0
+ATOM     18    N SER B 504       1.931  44.786  51.930  0.67  2.19           N 0
+TER
+END

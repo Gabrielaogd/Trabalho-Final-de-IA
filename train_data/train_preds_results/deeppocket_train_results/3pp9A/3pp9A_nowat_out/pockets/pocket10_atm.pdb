@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0500
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0607
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6694
+HEADER 5  - Mean B-factor of pocket residues  : 0.3533
+HEADER 6  - Hydrophobicity Score              : 55.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 334.0623
+HEADER 10 - Pocket volume (convex hull)       : 13.6552
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM   1396  CG1 VAL A 163      29.614  21.876  -2.864  0.00  0.00           C 0
+ATOM   1409   OH TYR A 164      33.317  23.661   1.411  0.00  0.00           O 0
+ATOM   1408   CZ TYR A 164      33.561  23.096   0.175  0.00  0.00           C 0
+ATOM   1397  CG2 VAL A 163      28.812  23.882  -4.245  0.00  0.00           C 0
+ATOM   1438  CD1 LEU A 167      36.122  26.875  -3.933  0.00  0.00           C 0
+ATOM   1437   CG LEU A 167      35.835  26.819  -5.422  0.00  0.00           C 0
+ATOM   1394    O VAL A 163      31.564  23.415  -6.075  0.00  0.00           O 0
+ATOM   1169  OE2AGLU A 137      31.327  22.591   2.794  0.72  1.07           O 0
+ATOM   1439  CD2 LEU A 167      35.750  28.226  -5.989  0.00  0.00           C 0
+ATOM   1406  CE1 TYR A 164      34.372  23.755  -0.721  0.00  0.00           C 0
+ATOM   1404  CD1 TYR A 164      34.631  23.200  -1.947  0.00  0.00           C 0
+ATOM   1518   OH TYR A 177      26.897  22.156   0.337  0.81  6.43           O 0
+ATOM   1163   CGAGLU A 137      29.202  23.182   3.732  0.00  0.00           C 0
+ATOM    868   OH TYR A  99      26.937  27.517   4.963  0.00  0.00           O 0
+ATOM   1167  OE1AGLU A 137      31.372  24.067   4.400  0.26  5.36           O 0
+ATOM   1165   CDAGLU A 137      30.744  23.285   3.652  0.00  0.00           C 0
+ATOM   1407  CE2 TYR A 164      33.014  21.880  -0.155  0.00  0.00           C 0
+ATOM   1161   CBAGLU A 137      28.527  23.986   4.866  0.00  0.00           C 0
+ATOM   1515  CE1 TYR A 177      26.119  22.586   2.572  0.00  0.00           C 0
+TER
+END

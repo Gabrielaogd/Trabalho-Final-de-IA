@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0267
+HEADER 1  - Drug Score                        : 0.0046
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0285
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6082
+HEADER 5  - Mean B-factor of pocket residues  : 0.0921
+HEADER 6  - Hydrophobicity Score              : 66.1429
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 233.5575
+HEADER 10 - Pocket volume (convex hull)       : 6.9250
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM   1333  CD2 LEU A 314      -2.812  -7.006  62.937  0.00  0.00           C 0
+ATOM   1523  CD1 LEU A 337      -5.915  -8.328  65.932  0.00  0.00           C 0
+ATOM   1573  NH2 ARG A 343      -3.156 -11.048  62.676  0.60  5.47           N 0
+ATOM   1332  CD1 LEU A 314      -0.346  -7.418  63.201  0.00  0.00           C 0
+ATOM   1507   CZ PHE A 335      -4.293  -5.377  70.123  0.00  0.00           C 0
+ATOM   1506  CE2 PHE A 335      -5.291  -5.293  69.164  0.00  0.00           C 0
+ATOM   1524  CD2 LEU A 337      -6.145  -5.877  65.482  0.00  0.00           C 0
+ATOM   1296   CG ARG A 310      -3.456  -2.127  65.801  0.00  0.00           C 0
+ATOM   1372   CB PHE A 320       1.220  -0.306  66.329  0.00  0.00           C 0
+ATOM   1300  NH1 ARG A 310      -2.981  -2.146  69.234  0.45  6.56           N 0
+ATOM   1294    O ARG A 310      -1.933  -2.219  62.899  0.54  1.07           O 0
+ATOM   1326    N LEU A 314       0.281  -3.517  61.519  0.00  0.00           N 0
+ATOM   1356    O LEU A 318       3.974  -2.440  64.125  0.75  4.29           O 0
+ATOM   1327   CA LEU A 314       0.224  -4.975  61.507  0.00  0.00           C 0
+ATOM   1297   CD ARG A 310      -4.408  -2.664  66.848  0.00  0.00           C 0
+ATOM   1330   CB LEU A 314      -1.174  -5.431  61.913  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0686
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0452
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5575
+HEADER 5  - Mean B-factor of pocket residues  : 0.0380
+HEADER 6  - Hydrophobicity Score              : 2.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 260.8268
+HEADER 10 - Pocket volume (convex hull)       : 5.8908
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM   1730   CA ALA A 252      32.318  29.690   3.349  0.00  0.00           C 0
+ATOM   1732    O ALA A 252      31.239  31.447   4.602  0.57  4.29           O 0
+ATOM    137  CD1 LEU A  39      36.044  30.056   3.049  0.00  0.00           C 0
+ATOM   1733   CB ALA A 252      32.128  29.910   1.851  0.00  0.00           C 0
+ATOM    170   CE LYS A  43      36.356  35.399   3.853  0.00  0.00           C 0
+ATOM    171   NZ LYS A  43      35.843  36.711   3.378  0.00  0.00           N 0
+ATOM    138  CD2 LEU A  39      37.943  31.133   1.791  0.00  0.00           C 0
+ATOM   1760   CG GLU A 256      28.753  35.762   5.848  0.00  0.00           C 0
+ATOM   1759   CB GLU A 256      29.535  34.449   5.930  0.00  0.00           C 0
+ATOM   1784  OE1 GLU A 259      33.441  38.109   6.527  0.64  5.36           O 0
+ATOM   1761   CD GLU A 256      27.894  35.894   4.608  0.00  0.00           C 0
+ATOM   1762  OE1 GLU A 256      27.620  34.874   3.946  0.52  7.50           O 0
+ATOM   1756   CA GLU A 256      30.648  34.499   6.987  0.00  0.00           C 0
+ATOM   1755    N GLU A 256      31.376  33.237   7.059  0.70  1.09           N 0
+ATOM   1854   NZ LYS A 267      29.203  39.183   5.338  0.00  0.00           N 0
+ATOM   1763  OE2 GLU A 256      27.483  37.032   4.300  0.74  1.07           O 0
+ATOM   1206  NH1 ARG A 185      26.842  37.596   1.564  0.00  0.00           N 0
+TER
+END

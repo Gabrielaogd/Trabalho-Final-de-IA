@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0171
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9967
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6672
+HEADER 5  - Mean B-factor of pocket residues  : 0.6007
+HEADER 6  - Hydrophobicity Score              : 20.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 356.6053
+HEADER 10 - Pocket volume (convex hull)       : 17.7852
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.6818
+ATOM      5   CB ASN A  -5      36.547  12.528  45.739  0.00  0.00           C 0
+ATOM     33   CB PHE A  -2      35.563  15.551  42.829  0.00  0.00           C 0
+ATOM      1    N ASN A  -5      34.557  11.141  46.240  0.00  0.00           N 0
+ATOM      4    O ASN A  -5      34.257  14.235  45.623  0.00  0.00           O 0
+ATOM     37  CE1 PHE A  -2      37.156  14.430  39.596  0.00  0.00           C 0
+ATOM   1770   NE ARG A 211      37.831  10.259  37.591  0.00  0.00           N 0
+ATOM   1365  OD1 ASP A 165      39.582  12.543  37.468  0.71  8.57           O 0
+ATOM     35  CD1 PHE A  -2      36.935  14.656  40.943  0.00  0.00           C 0
+ATOM   1769   CD ARG A 211      36.384  10.089  37.683  0.00  0.00           C 0
+ATOM     39   CZ PHE A  -2      36.242  14.861  38.665  0.00  0.00           C 0
+ATOM     36  CD2 PHE A  -2      34.894  15.750  40.415  0.00  0.00           C 0
+ATOM     38  CE2 PHE A  -2      35.116  15.534  39.069  0.00  0.00           C 0
+ATOM   1782  OXT LEU A 212      31.183   7.770  38.033  0.00  0.00           O 0
+ATOM   1768   CG ARG A 211      35.640  10.394  36.374  0.00  0.00           C 0
+ATOM   1773  NH2 ARG A 211      40.006   9.589  37.448  0.38  4.37           N 0
+ATOM     34   CG PHE A  -2      35.815  15.320  41.364  0.00  0.00           C 0
+ATOM   1766    O ARG A 211      32.656   9.895  35.360  0.45  7.50           O 0
+ATOM   1777    O LEU A 212      33.208   7.207  37.731  0.64  5.36           O 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0077
+HEADER 1  - Drug Score                        : 0.0150
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0168
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6688
+HEADER 5  - Mean B-factor of pocket residues  : 0.2766
+HEADER 6  - Hydrophobicity Score              : 9.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 276.6677
+HEADER 10 - Pocket volume (convex hull)       : 8.1315
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6364
+ATOM   1073  OE1 GLU C 147     -54.368  28.513   6.694  0.00  0.00           O 0
+ATOM   1236  CD2 LEU C 168     -56.373  24.580   9.285  0.00  0.00           C 0
+ATOM   1108   CG LEU C 151     -51.891  25.656   5.321  0.00  0.00           C 0
+ATOM   1110  CD2 LEU C 151     -52.018  24.822   6.590  0.00  0.00           C 0
+ATOM   1187    O PRO C 161     -57.215  20.138   1.666  0.00  0.00           O 0
+ATOM   1209   CB ASP C 164     -54.579  22.403   2.648  0.00  0.00           C 0
+ATOM   1217   CB ALA C 165     -58.130  19.616   4.906  0.00  0.00           C 0
+ATOM   1213    N ALA C 165     -55.807  20.327   4.382  0.00  0.00           N 0
+ATOM   1214   CA ALA C 165     -56.758  20.037   5.467  0.00  0.00           C 0
+ATOM   1212  OD2 ASP C 164     -54.533  23.695   0.665  0.21  8.57           O 0
+ATOM   1139  NH1 ARG C 155     -53.472  26.360   0.487  0.26  8.75           N 0
+ATOM   1208    O ASP C 164     -54.233  21.217   5.747  0.82  1.07           O 0
+ATOM   1454  OE1 GLN C 196     -61.809  22.114   5.708  0.56  6.43           O 0
+ATOM   1465  NE2 HIS C 197     -61.051  20.173   2.218  0.64  4.37           N 0
+ATOM   1455  NE2 GLN C 196     -60.938  20.855   7.384  0.52  8.75           N 0
+ATOM   1185   CA PRO C 161     -57.123  21.043  -0.538  0.00  0.00           C 0
+ATOM   1188   CB PRO C 161     -58.488  21.102  -1.216  0.00  0.00           C 0
+ATOM   1109  CD1 LEU C 151     -52.084  24.780   4.077  0.00  0.00           C 0
+ATOM   1207    C ASP C 164     -54.638  20.930   4.613  0.00  0.00           C 0
+TER
+END

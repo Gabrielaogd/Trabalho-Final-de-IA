@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0595
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9768
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6376
+HEADER 5  - Mean B-factor of pocket residues  : 0.2904
+HEADER 6  - Hydrophobicity Score              : 26.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 310.4354
+HEADER 10 - Pocket volume (convex hull)       : 9.0916
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3182
+ATOM    570  CD1 LEU B  73     -58.365 -62.665 -38.223  0.00  0.00           C 0
+ATOM    540    O ALA B  69     -53.381 -60.412 -38.132  0.00  0.00           O 0
+ATOM    469   NZ LYS B  60     -56.611 -65.428 -40.295  0.00  0.00           N 0
+ATOM    597   NZ LYS B  76     -58.046 -58.667 -42.710  0.00  0.00           N 0
+ATOM    568   CB LEU B  73     -56.473 -61.436 -37.123  0.00  0.00           C 0
+ATOM    565   CA LEU B  73     -57.056 -60.039 -37.301  0.00  0.00           C 0
+ATOM    564    N LEU B  73     -55.974 -59.098 -37.557  0.00  0.00           N 0
+ATOM    562  CG1 VAL B  72     -55.619 -56.927 -40.390  0.00  0.00           C 0
+ATOM    538   CA ALA B  69     -51.201 -60.401 -39.162  0.00  0.00           C 0
+ATOM    561   CB VAL B  72     -54.467 -57.133 -39.433  0.00  0.00           C 0
+ATOM    563  CG2 VAL B  72     -53.382 -56.134 -39.728  0.00  0.00           C 0
+ATOM    541   CB ALA B  69     -50.737 -61.756 -39.693  0.00  0.00           C 0
+ATOM   1024  CE2 TYR B 128     -50.462 -55.132 -45.575  0.00  0.00           C 0
+ATOM   1026   OH TYR B 128     -49.148 -54.785 -43.609  0.28  5.36           O 0
+ATOM    537    N ALA B  69     -50.033 -59.568 -38.884  0.79  3.28           N 0
+ATOM    534   CB PRO B  68     -47.894 -57.630 -39.520  0.00  0.00           C 0
+ATOM    532    C PRO B  68     -50.130 -58.291 -38.521  0.00  0.00           C 0
+ATOM    533    O PRO B  68     -51.207 -57.721 -38.351  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.1293
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9411
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5170
+HEADER 5  - Mean B-factor of pocket residues  : 0.3902
+HEADER 6  - Hydrophobicity Score              : 57.5000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 189.1738
+HEADER 10 - Pocket volume (convex hull)       : 5.5601
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4783
+ATOM    440  CD2 LEU A  93      24.015  49.731  66.952  0.00  0.00           C 0
+ATOM    728   CB ALA A 129      19.397  43.600  67.554  0.00  0.00           C 0
+ATOM    754  CD2 LEU A 132      24.651  43.385  64.183  0.00  0.00           C 0
+ATOM    415  ND2 ASN A  90      26.427  46.206  71.389  0.24  7.66           N 0
+ATOM    725   CA ALA A 129      19.698  43.560  66.052  0.00  0.00           C 0
+ATOM    712    O LEU A 127      21.196  46.258  63.020  0.42  2.14           O 0
+ATOM    724    N ALA A 129      19.183  44.770  65.415  0.63  5.47           N 0
+ATOM    385   CE MET A  86      23.347  40.015  66.451  0.00  0.00           C 0
+ATOM    702    O ALA A 125      24.495  48.341  62.997  0.61  4.29           O 0
+ATOM    383   CG MET A  86      25.382  40.289  68.317  0.00  0.00           C 0
+ATOM    381    O MET A  86      28.287  43.212  68.697  0.63  2.14           O 0
+ATOM    406    O ALA A  89      28.410  47.490  66.264  0.00  0.00           O 0
+ATOM    407   CB ALA A  89      27.902  44.401  65.294  0.00  0.00           C 0
+ATOM    408    N ASN A  90      28.790  45.987  67.888  0.00  0.00           N 0
+ATOM    409   CA ASN A  90      28.468  46.901  68.970  0.00  0.00           C 0
+ATOM    405    C ALA A  89      28.734  46.359  66.616  0.00  0.00           C 0
+TER
+END

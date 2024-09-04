@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0009
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9557
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7025
+HEADER 5  - Mean B-factor of pocket residues  : 0.2658
+HEADER 6  - Hydrophobicity Score              : 31.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 303.3498
+HEADER 10 - Pocket volume (convex hull)       : 11.9260
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM   3193   CB GLU C 428      21.868 100.257  61.564  0.00  0.00           C 0
+ATOM   3201    O GLU C 429      20.082 100.532  57.819  0.00  0.00           O 0
+ATOM   3198    N GLU C 429      19.460 101.855  60.223  0.70  1.09           N 0
+ATOM   3196  OE1 GLU C 428      24.945 100.714  61.083  0.00  0.00           O 0
+ATOM   3194   CG GLU C 428      23.045 100.513  62.485  0.00  0.00           C 0
+ATOM   3190   CA GLU C 428      20.531 100.764  62.112  0.00  0.00           C 0
+ATOM    760  CD1 ILE C  97      18.643 103.852  63.570  0.00  0.00           C 0
+ATOM   3184    O ILE C 427      20.871 101.311  64.840  0.61  2.14           O 0
+ATOM    659   OH TYR C  83      20.655 105.432  66.462  0.61  5.36           O 0
+ATOM    634  OG1 THR C  80      24.265 102.745  66.692  0.61  1.07           O 0
+ATOM    658   CZ TYR C  83      20.971 106.241  67.527  0.00  0.00           C 0
+ATOM    270   NZ LYS C  33      24.661 110.656  66.056  0.78  9.84           N 0
+ATOM    290   OH TYR C  35      21.992 110.686  64.521  0.60  3.21           O 0
+ATOM    633   CB THR C  80      25.558 102.879  66.074  0.00  0.00           C 0
+ATOM    632    O THR C  80      26.711 105.176  67.515  0.29  5.36           O 0
+ATOM    635  CG2 THR C  80      25.749 101.835  64.996  0.00  0.00           C 0
+ATOM    656  CE1 TYR C  83      22.060 105.980  68.328  0.00  0.00           C 0
+ATOM   3202   CB GLU C 429      18.614 103.307  58.424  0.00  0.00           C 0
+ATOM   3203   CG GLU C 429      18.140 104.408  59.358  0.00  0.00           C 0
+ATOM   3205  OE1 GLU C 429      18.799 106.008  57.700  0.00  0.00           O 0
+TER
+END

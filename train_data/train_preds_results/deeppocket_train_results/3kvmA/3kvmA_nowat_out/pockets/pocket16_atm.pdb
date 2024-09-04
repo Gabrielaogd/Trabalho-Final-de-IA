@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0772
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9759
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5473
+HEADER 5  - Mean B-factor of pocket residues  : 0.0425
+HEADER 6  - Hydrophobicity Score              : 8.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.9937
+HEADER 10 - Pocket volume (convex hull)       : 3.9768
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1429
+ATOM   2001   CB ARG A 289      31.100 -35.753 -25.566  0.00  0.00           C 0
+ATOM   2063   CG ARG A 298      32.296 -33.003 -31.237  0.00  0.00           C 0
+ATOM   2074   OG SER A 299      35.483 -35.609 -30.854  0.65  6.43           O 0
+ATOM   2065   NE ARG A 298      31.222 -34.687 -32.678  0.68  4.37           N 0
+ATOM   2068  NH2 ARG A 298      29.082 -34.696 -33.540  0.35  8.75           N 0
+ATOM   2016   CA ALA A 291      25.000 -37.319 -27.955  0.00  0.00           C 0
+ATOM   2020    N GLY A 292      24.623 -35.725 -29.753  0.83  3.28           N 0
+ATOM   2067  NH1 ARG A 298      30.628 -36.231 -34.277  0.00  0.00           N 0
+ATOM   2061    O ARG A 298      34.054 -32.924 -27.900  0.00  0.00           O 0
+ATOM   2002   CG ARG A 289      32.496 -35.200 -25.279  0.00  0.00           C 0
+ATOM   2066   CZ ARG A 298      30.309 -35.203 -33.497  0.00  0.00           C 0
+ATOM   2011    O PRO A 290      26.720 -35.380 -26.999  0.00  0.00           O 0
+ATOM   2024    N LEU A 293      25.945 -33.278 -29.840  0.00  0.00           N 0
+ATOM   2027    O LEU A 293      27.510 -32.848 -32.135  0.15  1.07           O 0
+ATOM   2028   CB LEU A 293      28.105 -32.293 -29.152  0.00  0.00           C 0
+ATOM   2000    O ARG A 289      28.631 -37.126 -25.494  0.21  5.36           O 0
+ATOM   2064   CD ARG A 298      30.988 -33.561 -31.777  0.00  0.00           C 0
+ATOM   2030  CD1 LEU A 293      29.419 -32.581 -27.049  0.00  0.00           C 0
+TER
+END

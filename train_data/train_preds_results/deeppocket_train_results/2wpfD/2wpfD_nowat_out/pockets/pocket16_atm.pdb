@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.1377
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1371
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7564
+HEADER 5  - Mean B-factor of pocket residues  : 0.0632
+HEADER 6  - Hydrophobicity Score              : 1.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 199.2422
+HEADER 10 - Pocket volume (convex hull)       : 1.2669
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM     51    C PHE D   5      -4.892  -6.812 -39.590  0.00  0.00           C 0
+ATOM     66  OD1 ASP D   6      -7.243 -10.463 -37.942  0.00  0.00           O 0
+ATOM     60    N ASP D   6      -5.546  -7.389 -38.586  0.00  0.00           N 0
+ATOM   1179  OD2 ASP D 154      -7.583 -10.057 -41.884  0.00  0.00           O 0
+ATOM     67  OD2 ASP D   6      -5.803  -9.916 -36.388  0.00  0.00           O 0
+ATOM   1178  OD1 ASP D 154      -6.780  -8.954 -43.494  0.00  0.00           O 0
+ATOM     48   CB ALA D   4      -0.627  -7.967 -42.436  0.00  0.00           C 0
+ATOM     52    O PHE D   5      -5.345  -6.678 -40.715  0.81  4.29           O 0
+ATOM   1165  OE1 GLN D 152      -2.715  -9.149 -46.070  0.00  0.00           O 0
+ATOM     49    N PHE D   5      -2.596  -6.357 -40.352  0.00  0.00           N 0
+ATOM     46    C ALA D   4      -1.295  -6.703 -40.324  0.00  0.00           C 0
+ATOM     47    O ALA D   4      -0.675  -7.125 -39.318  0.00  0.00           O 0
+ATOM     50   CA PHE D   5      -3.514  -6.275 -39.233  0.00  0.00           C 0
+ATOM    227   CB ARG D  30      -2.766  -8.231 -35.533  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0037
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1525
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5876
+HEADER 5  - Mean B-factor of pocket residues  : 0.2129
+HEADER 6  - Hydrophobicity Score              : 10.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 179.6148
+HEADER 10 - Pocket volume (convex hull)       : 3.0227
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM    952  OD2 ASP B 126     -12.696   1.728  75.215  0.00  0.00           O 0
+ATOM    964    N GLY B 128     -11.701   3.852  71.196  0.74  1.09           N 0
+ATOM    951  OD1 ASP B 126     -13.196   2.500  73.219  0.56  2.14           O 0
+ATOM    965   CA GLY B 128     -11.798   5.282  71.442  0.00  0.00           C 0
+ATOM   1688  NH1 ARG B 221      -9.852  -2.093  73.801  0.41  4.37           N 0
+ATOM   1754  CD2 LEU B 229      -7.143  -0.313  71.710  0.00  0.00           C 0
+ATOM    948    O ASP B 126     -11.329  -0.069  71.957  0.49  1.07           O 0
+ATOM   1897   NE ARG B 248      -3.932   3.768  74.537  0.00  0.00           N 0
+ATOM   1896   CD ARG B 248      -4.212   3.252  73.200  0.00  0.00           C 0
+ATOM    968    N CYS B 129      -9.382   5.521  71.304  0.62  4.37           N 0
+ATOM    973   SG CYS B 129      -6.865   3.843  70.161  0.00  0.00           S 0
+ATOM    972   CB CYS B 129      -6.926   5.316  71.252  0.00  0.00           C 0
+ATOM   1898   CZ ARG B 248      -3.613   3.020  75.590  0.00  0.00           C 0
+ATOM   1899  NH1 ARG B 248      -3.528   1.702  75.479  0.00  0.00           N 0
+TER
+END

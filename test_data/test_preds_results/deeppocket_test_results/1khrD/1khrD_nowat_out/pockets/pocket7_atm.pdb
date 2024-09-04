@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0960
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8313
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5593
+HEADER 5  - Mean B-factor of pocket residues  : 0.3504
+HEADER 6  - Hydrophobicity Score              : 34.6364
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.2727
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.7850
+HEADER 10 - Pocket volume (convex hull)       : 8.0544
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1460   CB ILE D 186       5.204 -34.564 -43.943  0.00  0.00           C 0
+ATOM    280   OH TYR D  35       1.305 -34.391 -44.012  0.48  1.07           O 0
+ATOM   1456    N ILE D 186       7.019 -33.103 -44.756  0.58  5.47           N 0
+ATOM   1462  CG2 ILE D 186       4.909 -35.360 -45.193  0.00  0.00           C 0
+ATOM    277  CE1 TYR D  35       1.339 -32.440 -42.646  0.00  0.00           C 0
+ATOM   1487  CD1 ILE D 189       6.928 -31.505 -40.501  0.00  0.00           C 0
+ATOM   1438    O TRP D 184       7.941 -30.124 -43.121  0.37  2.14           O 0
+ATOM   1450   CA PRO D 185       8.516 -31.335 -45.520  0.00  0.00           C 0
+ATOM    534   NZ LYS D  65       3.597 -26.632 -43.354  0.00  0.00           N 0
+ATOM   1416    O TRP D 182       5.840 -27.325 -40.928  0.00  0.00           O 0
+ATOM   1430    O ASN D 183       8.844 -26.930 -43.915  0.32  5.36           O 0
+ATOM    545   CZ PHE D  66       3.094 -31.524 -39.314  0.00  0.00           C 0
+ATOM    543  CE1 PHE D  66       3.502 -30.209 -39.089  0.00  0.00           C 0
+ATOM    265   CG GLU D  34       0.456 -27.541 -44.486  0.00  0.00           C 0
+ATOM    264   CB GLU D  34      -0.563 -28.582 -44.061  0.00  0.00           C 0
+ATOM     33   CG PRO D   5      -1.283 -32.770 -46.287  0.00  0.00           C 0
+ATOM    268  OE2 GLU D  34      -0.507 -27.590 -46.647  0.00  0.00           O 0
+TER
+END

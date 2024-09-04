@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : -0.0659
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8696
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5515
+HEADER 5  - Mean B-factor of pocket residues  : 0.4195
+HEADER 6  - Hydrophobicity Score              : 29.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 216.4825
+HEADER 10 - Pocket volume (convex hull)       : 5.1073
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1500
+ATOM   4093   CA GLY A 551      13.135  13.552  46.258  0.00  0.00           C 0
+ATOM   4095    O GLY A 551      13.191  12.444  48.350  0.00  0.00           O 0
+ATOM   4018    O SER A 539       6.128  13.136  49.146  0.53  7.50           O 0
+ATOM   4034  OG1 THR A 541       5.106  12.791  45.074  0.00  0.00           O 0
+ATOM   4077  OG1 THR A 548      10.888  12.974  41.154  0.54  9.64           O 0
+ATOM   4035  CG2 THR A 541       5.913  14.047  43.247  0.00  0.00           C 0
+ATOM   4076   CB THR A 548       9.850  13.959  40.990  0.00  0.00           C 0
+ATOM   4078  CG2 THR A 548       8.648  13.216  40.584  0.00  0.00           C 0
+ATOM   4350   NE ARG A 585      10.813  15.452  49.337  0.00  0.00           N 0
+ATOM   4019   CB SER A 539       6.789  11.693  51.475  0.00  0.00           C 0
+ATOM   4349   CD ARG A 585      11.393  15.345  50.687  0.00  0.00           C 0
+ATOM   4082    O ILE A 549      11.643  16.796  44.106  0.41  1.07           O 0
+ATOM   4351   CZ ARG A 585       9.535  15.694  49.076  0.00  0.00           C 0
+ATOM   4353  NH2 ARG A 585       9.121  15.794  47.807  0.51  2.19           N 0
+ATOM   4030   CA THR A 541       5.757  15.045  45.553  0.00  0.00           C 0
+ATOM   4036    N LEU A 542       7.113  16.807  44.565  0.00  0.00           N 0
+TER
+END

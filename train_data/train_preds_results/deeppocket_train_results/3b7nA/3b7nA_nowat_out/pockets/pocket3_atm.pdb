@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0353
+HEADER 1  - Drug Score                        : 0.0033
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9303
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6046
+HEADER 5  - Mean B-factor of pocket residues  : 0.3320
+HEADER 6  - Hydrophobicity Score              : 27.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 344.9198
+HEADER 10 - Pocket volume (convex hull)       : 24.3840
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.6923
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5909
+ATOM   2156   CG LYS A 265     -16.975  12.005   2.902  0.00  0.00           C 0
+ATOM   2155   CB LYS A 265     -16.301  12.982   3.847  0.00  0.00           C 0
+ATOM   2266  CE1 PHE A 279     -22.430   9.626   4.445  0.00  0.00           C 0
+ATOM   2157   CD LYS A 265     -16.587  10.583   3.268  0.00  0.00           C 0
+ATOM   2151    N LYS A 265     -18.061  14.702   3.881  0.64  3.28           N 0
+ATOM   2197   CB VAL A 271     -26.120  13.828   7.633  0.00  0.00           C 0
+ATOM   2229    O PRO A 275     -24.104   7.764  11.721  0.00  0.00           O 0
+ATOM   2200    N LEU A 272     -27.087  11.042   6.699  0.00  0.00           N 0
+ATOM   2206  CD1 LEU A 272     -25.828   6.994   5.802  0.00  0.00           C 0
+ATOM   2244    O ASP A 277     -23.858   5.413   8.538  0.58  3.21           O 0
+ATOM   2194   CA VAL A 271     -26.121  13.222   6.197  0.00  0.00           C 0
+ATOM   2152   CA LYS A 265     -16.646  14.454   3.606  0.00  0.00           C 0
+ATOM   2149  CG1 VAL A 264     -19.179  16.822   6.475  0.00  0.00           C 0
+ATOM   2227   CA PRO A 275     -26.199   8.903  11.992  0.00  0.00           C 0
+ATOM   2230   CB PRO A 275     -26.070   9.803  13.219  0.00  0.00           C 0
+ATOM   2198  CG1 VAL A 271     -25.070  14.908   7.751  0.00  0.00           C 0
+ATOM   2190    O SER A 270     -24.101  14.242   4.524  0.00  0.00           O 0
+ATOM   2204   CB LEU A 272     -27.472   8.628   6.758  0.00  0.00           C 0
+ATOM   2148   CB VAL A 264     -20.233  16.001   5.737  0.00  0.00           C 0
+ATOM   2144    N VAL A 264     -20.928  15.214   3.486  0.00  0.00           N 0
+ATOM   2205   CG LEU A 272     -26.521   8.331   5.593  0.00  0.00           C 0
+ATOM   2150  CG2 VAL A 264     -21.631  16.471   6.119  0.00  0.00           C 0
+TER
+END

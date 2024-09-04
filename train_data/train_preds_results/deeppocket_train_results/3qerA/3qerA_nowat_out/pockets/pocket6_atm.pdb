@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1095
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0326
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6739
+HEADER 5  - Mean B-factor of pocket residues  : 0.3841
+HEADER 6  - Hydrophobicity Score              : 28.7500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 416.7692
+HEADER 10 - Pocket volume (convex hull)       : 34.5285
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM   7016  CD1 LEU A 857      18.682  24.120  -4.222  0.00  0.00           C 0
+ATOM   7013    O LEU A 857      22.231  24.759  -8.093  0.00  0.00           O 0
+ATOM   7014   CB LEU A 857      19.531  24.597  -6.536  0.00  0.00           C 0
+ATOM   7017  CD2 LEU A 857      20.001  26.207  -4.621  0.00  0.00           C 0
+ATOM   6688    O ALA A 814      20.699  18.316  -7.324  0.57  8.57           O 0
+ATOM   6711    N ASN A 818      16.399  18.281  -2.954  0.74  1.09           N 0
+ATOM   6701    O LYS A 816      19.429  16.090  -3.152  0.30  7.50           O 0
+ATOM   6715   CB ASN A 818      16.013  19.897  -4.763  0.00  0.00           C 0
+ATOM   6717  OD1 ASN A 818      16.486  22.017  -5.779  0.52  1.07           O 0
+ATOM   6709    C GLY A 817      16.490  17.876  -1.688  0.00  0.00           C 0
+ATOM   6710    O GLY A 817      15.996  18.494  -0.742  0.00  0.00           O 0
+ATOM   6712   CA ASN A 818      15.607  19.439  -3.356  0.00  0.00           C 0
+ATOM   6723   CB ILE A 819      11.376  20.174  -1.169  0.00  0.00           C 0
+ATOM   6718  ND2 ASN A 818      14.734  21.940  -4.374  0.48  2.19           N 0
+ATOM   6727    N ASP A 820      11.568  21.593  -4.088  0.00  0.00           N 0
+ATOM   6734  OD2 ASP A 820      10.740  25.432  -3.039  0.74  7.50           O 0
+ATOM   6719    N ILE A 819      13.327  19.937  -2.704  0.00  0.00           N 0
+ATOM   6724  CG1 ILE A 819      12.280  19.648  -0.037  0.00  0.00           C 0
+ATOM   7024  CG2 ILE A 858      21.514  21.551  -9.652  0.00  0.00           C 0
+TER
+END

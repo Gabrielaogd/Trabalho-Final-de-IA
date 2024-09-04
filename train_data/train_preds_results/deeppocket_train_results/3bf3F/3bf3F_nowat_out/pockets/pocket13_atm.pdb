@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0827
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7253
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7277
+HEADER 5  - Mean B-factor of pocket residues  : 0.3167
+HEADER 6  - Hydrophobicity Score              : -8.7500
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 155.1730
+HEADER 10 - Pocket volume (convex hull)       : 1.7035
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4762
+ATOM   1646   CA PRO F 210     -14.248 -31.322  33.404  0.00  0.00           C 0
+ATOM   1786   CD GLU F 228     -15.086 -34.285  30.888  0.00  0.00           C 0
+ATOM   1788  OE2 GLU F 228     -14.166 -35.031  30.497  0.00  7.50           O 0
+ATOM   1785   CG GLU F 228     -16.092 -34.857  31.890  0.00  0.00           C 0
+ATOM   1634   CG ASP F 208      -8.467 -33.962  32.424  0.00  0.00           C 0
+ATOM   1633   CB ASP F 208      -7.417 -33.404  33.366  0.00  0.00           C 0
+ATOM   1632    O ASP F 208      -8.276 -31.020  35.289  0.79  8.57           O 0
+ATOM   1636  OD2 ASP F 208      -8.657 -35.193  32.441  0.00  0.00           O 0
+ATOM   1651   CD PRO F 210     -13.103 -30.816  35.490  0.00  0.00           C 0
+ATOM   1645    N PRO F 210     -12.980 -30.948  34.026  0.00  0.00           N 0
+ATOM   1649   CB PRO F 210     -15.183 -31.573  34.601  0.00  0.00           C 0
+ATOM   1639    C LEU F 209     -11.871 -30.740  33.297  0.00  0.00           C 0
+ATOM   1638   CA LEU F 209     -10.639 -30.197  34.018  0.00  0.00           C 0
+ATOM   1637    N LEU F 209      -9.469 -30.811  33.392  0.00  0.00           N 0
+ATOM   1631    C ASP F 208      -8.396 -31.203  34.081  0.00  0.00           C 0
+ATOM   1635  OD1 ASP F 208      -9.111 -33.203  31.658  0.33  3.21           O 0
+ATOM   1640    O LEU F 209     -11.808 -30.988  32.092  0.00  0.00           O 0
+TER
+END

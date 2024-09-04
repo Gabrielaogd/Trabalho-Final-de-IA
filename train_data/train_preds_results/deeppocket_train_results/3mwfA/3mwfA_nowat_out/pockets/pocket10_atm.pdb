@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0951
+HEADER 1  - Drug Score                        : 0.0291
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5533
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3321
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 35.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 77.8593
+HEADER 10 - Pocket volume (convex hull)       : 0.2958
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   1399  CE1 TYR A 208       2.845  16.244 -14.777  0.00  0.00           C 0
+ATOM   1788  CG1 VAL A 258       2.784  11.947 -20.208  0.00  0.00           C 0
+ATOM   1317   CG ASN A 199       0.222  13.779 -16.084  0.00  0.00           C 0
+ATOM   1316   CB ASN A 199       0.214  15.055 -16.948  0.00  0.00           C 0
+ATOM   2140    O TRP A 303       8.029  14.622 -19.602  0.74  2.14           O 0
+ATOM   2155   CB ASN A 304       6.947  12.849 -17.147  0.00  0.00           C 0
+ATOM   1396   CG TYR A 208       4.365  17.913 -15.711  0.00  0.00           C 0
+ATOM   1303  CG1 VAL A 197       3.675  18.084 -20.452  0.00  0.00           C 0
+ATOM   1397  CD1 TYR A 208       3.103  17.321 -15.649  0.00  0.00           C 0
+ATOM   1789  CG2 VAL A 258       3.021  14.116 -21.411  0.00  0.00           C 0
+ATOM   2158  ND2 ASN A 304       6.288  12.738 -14.825  0.68  2.19           N 0
+ATOM   1787   CB VAL A 258       2.056  13.218 -20.666  0.00  0.00           C 0
+ATOM   1803   CB SER A 260       1.954   9.579 -17.163  0.00  0.00           C 0
+TER
+END

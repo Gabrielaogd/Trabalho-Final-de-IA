@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0073
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8757
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6039
+HEADER 5  - Mean B-factor of pocket residues  : 0.2403
+HEADER 6  - Hydrophobicity Score              : -10.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.1574
+HEADER 10 - Pocket volume (convex hull)       : 3.7083
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1606  NH1 ARG A 203      14.390  11.342  46.531  0.32  5.47           N 0
+ATOM   1576  OE1 GLU A 200      14.024  14.622  45.058  0.47  5.36           O 0
+ATOM   1603   CD ARG A 203      16.814  12.526  45.627  0.00  0.00           C 0
+ATOM   1631    O GLU A 207      18.112  10.865  40.628  0.81  4.29           O 0
+ATOM   1574   CG GLU A 200      13.932  15.867  43.014  0.00  0.00           C 0
+ATOM   1575   CD GLU A 200      13.293  15.254  44.258  0.00  0.00           C 0
+ATOM   1604   NE ARG A 203      16.640  11.125  46.012  0.00  0.00           N 0
+ATOM   1605   CZ ARG A 203      15.494  10.590  46.426  0.00  0.00           C 0
+ATOM   1632   CB GLU A 207      18.648   9.004  42.830  0.00  0.00           C 0
+ATOM   1511    O LYS A 193      15.219  16.240  36.845  0.43  3.21           O 0
+ATOM   1513   CG LYS A 193      16.232  12.232  37.058  0.00  0.00           C 0
+ATOM   1536   CB ARG A 196      12.110  17.289  39.907  0.00  0.00           C 0
+ATOM   1573   CB GLU A 200      15.467  15.843  43.029  0.00  0.00           C 0
+ATOM   1509   CA LYS A 193      15.143  14.137  35.678  0.00  0.00           C 0
+ATOM   1506    O ALA A 192      12.584  13.395  34.836  0.00  0.00           O 0
+ATOM   1638   CA GLY A 208      18.166  13.548  41.344  0.00  0.00           C 0
+ATOM   1637    N GLY A 208      18.738  12.429  42.126  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0373
+HEADER 1  - Drug Score                        : 0.0031
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7551
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5271
+HEADER 5  - Mean B-factor of pocket residues  : 0.0585
+HEADER 6  - Hydrophobicity Score              : 37.2500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.6056
+HEADER 10 - Pocket volume (convex hull)       : 9.6132
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4211
+ATOM   1736   CE LYS A 229      31.421  84.237  29.754  0.00  0.00           C 0
+ATOM   1706  CD1 ILE A 225      31.692  82.047  24.354  0.00  0.00           C 0
+ATOM   1704  CG1 ILE A 225      30.724  83.255  24.336  0.00  0.00           C 0
+ATOM   1705  CG2 ILE A 225      31.768  84.547  26.227  0.00  0.00           C 0
+ATOM   1737   NZ LYS A 229      31.723  83.215  30.814  0.65  6.56           N 0
+ATOM   1754    N TYR A 233      36.162  82.221  29.014  0.66  1.09           N 0
+ATOM   1751   CB THR A 232      35.606  83.304  26.096  0.00  0.00           C 0
+ATOM   1766    N TYR A 234      35.457  79.698  30.128  0.56  2.19           N 0
+ATOM   1748   CA THR A 232      35.548  83.994  27.496  0.00  0.00           C 0
+ATOM   1770   CB TYR A 234      33.634  78.197  30.832  0.00  0.00           C 0
+ATOM   1773  CD2 TYR A 234      32.148  79.738  32.198  0.00  0.00           C 0
+ATOM   1779   CA GLY A 235      35.400  76.800  26.981  0.00  0.00           C 0
+ATOM   1132   NE ARG A 155      34.007  78.994  21.346  0.57  1.09           N 0
+ATOM   1130   CG ARG A 155      33.070  76.903  20.524  0.00  0.00           C 0
+ATOM   1104  CD1 LEU A 151      35.949  76.541  23.361  0.00  0.00           C 0
+ATOM   1134  NH1 ARG A 155      34.984  80.639  22.679  0.61  1.09           N 0
+ATOM   1778    N GLY A 235      35.124  77.671  28.126  0.82  7.66           N 0
+TER
+END

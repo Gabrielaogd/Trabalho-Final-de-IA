@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0312
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7278
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4796
+HEADER 5  - Mean B-factor of pocket residues  : 0.2364
+HEADER 6  - Hydrophobicity Score              : 13.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 262.5331
+HEADER 10 - Pocket volume (convex hull)       : 12.9094
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM   1035   CB SER A 136      16.347   6.336  30.838  0.00  0.00           C 0
+ATOM   1384  OE1 GLN A 183      17.576   8.319  23.422  0.00  0.00           O 0
+ATOM   1036   OG SER A 136      15.044   6.892  30.819  0.00  0.00           O 0
+ATOM   1374    O CYS A 182      20.093   8.615  26.383  0.36  6.43           O 0
+ATOM   1370  CG2 THR A 181      16.080  12.196  27.957  0.00  0.00           C 0
+ATOM   1371    N CYS A 182      20.001  10.870  28.268  0.68  2.19           N 0
+ATOM   1365   CA THR A 181      18.436  12.652  28.787  0.00  0.00           C 0
+ATOM   1031    N SER A 136      16.940   7.570  32.878  0.62  1.09           N 0
+ATOM   1024   CA ILE A 135      17.404   9.203  34.671  0.00  0.00           C 0
+ATOM   1020    O SER A 134      16.236   8.662  37.132  0.38  3.21           O 0
+ATOM   1360    O PRO A 180      17.384  13.140  31.285  0.74  7.50           O 0
+ATOM   1030  CD1 ILE A 135      20.013  10.520  32.119  0.00  0.00           C 0
+ATOM   1027   CB ILE A 135      18.003  10.238  33.697  0.00  0.00           C 0
+ATOM   1029  CG2 ILE A 135      17.698  11.648  34.208  0.00  0.00           C 0
+ATOM   1025    C ILE A 135      17.382   7.790  34.112  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0022
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8198
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4669
+HEADER 5  - Mean B-factor of pocket residues  : 0.4834
+HEADER 6  - Hydrophobicity Score              : -12.5714
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 244.5049
+HEADER 10 - Pocket volume (convex hull)       : 10.5135
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5455
+ATOM    186   CG GLN V  25     -10.942 -61.204 233.089  0.00  0.00           C 0
+ATOM    864   CE LYS V 110     -16.067 -64.350 234.593  0.00  0.00           C 0
+ATOM    862   CG LYS V 110     -16.618 -62.143 235.725  0.00  0.00           C 0
+ATOM    865   NZ LYS V 110     -16.771 -64.377 233.273  0.00  0.00           N 0
+ATOM    893   CB ALA V 114     -14.916 -58.069 231.642  0.00  0.00           C 0
+ATOM    860    O LYS V 110     -16.437 -58.872 234.984  0.51  2.14           O 0
+ATOM    872  OD1 ASP V 111     -19.820 -60.894 232.498  0.57  4.29           O 0
+ATOM    176   CB LYS V  24     -10.139 -65.255 229.057  0.00  0.00           C 0
+ATOM    181    N GLN V  25     -10.302 -62.154 230.003  0.54  1.09           N 0
+ATOM    161  OG1 THR V  22      -8.165 -63.414 231.876  0.72  1.07           O 0
+ATOM    174    C LYS V  24     -10.756 -62.815 228.935  0.00  0.00           C 0
+ATOM    178   CD LYS V  24     -10.859 -67.609 228.587  0.00  0.00           C 0
+ATOM    214   CB GLU V  28     -14.937 -61.229 228.904  0.00  0.00           C 0
+ATOM    215   CG GLU V  28     -15.347 -62.701 228.909  0.00  0.00           C 0
+ATOM    182   CA GLN V  25     -10.992 -60.986 230.546  0.00  0.00           C 0
+ATOM    175    O LYS V  24     -11.850 -62.582 228.410  0.62  2.14           O 0
+ATOM    217  OE1 GLU V  28     -17.726 -62.656 229.127  0.63  1.07           O 0
+TER
+END

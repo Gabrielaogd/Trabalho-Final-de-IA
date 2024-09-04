@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2632
+HEADER 1  - Drug Score                        : 0.1080
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.7922
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4449
+HEADER 5  - Mean B-factor of pocket residues  : 0.2606
+HEADER 6  - Hydrophobicity Score              : 46.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.6922
+HEADER 10 - Pocket volume (convex hull)       : 16.8324
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.4545
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4231
+ATOM    488  CG2 VAL A  61      22.298   5.842   7.650  0.00  0.00           C 0
+ATOM    428   CG HIS A  53      23.138   5.151   0.448  0.00  0.00           C 0
+ATOM    383   CB GLN A  48      17.826   2.041   3.130  0.00  0.00           C 0
+ATOM    487  CG1 VAL A  61      20.365   7.373   8.077  0.00  0.00           C 0
+ATOM    427   CB HIS A  53      23.609   4.178   1.477  0.00  0.00           C 0
+ATOM    429  ND1 HIS A  53      22.388   4.770  -0.645  0.62  1.09           N 0
+ATOM    431  CE1 HIS A  53      22.134   5.830  -1.391  0.00  0.00           C 0
+ATOM    432  NE2 HIS A  53      22.706   6.882  -0.830  0.00  0.00           N 0
+ATOM    430  CD2 HIS A  53      23.350   6.481   0.317  0.00  0.00           C 0
+ATOM    797    O ARG A  98      19.577   2.908  12.841  0.00  0.00           O 0
+ATOM    377  CD1 LEU A  47      19.248   0.125   9.033  0.00  0.00           C 0
+ATOM    469  CD2 LEU A  58      22.588   1.828   7.470  0.00  0.00           C 0
+ATOM    486   CB VAL A  61      21.696   6.883   8.602  0.00  0.00           C 0
+ATOM    801   NE ARG A  98      16.021   3.818   9.152  0.82  2.19           N 0
+ATOM    508   CG MET A  64      17.748   6.315  11.548  0.00  0.00           C 0
+ATOM    804  NH2 ARG A  98      16.420   5.761   7.988  0.21  2.19           N 0
+ATOM    465    O LEU A  58      23.632   5.029  10.764  0.00  0.00           O 0
+ATOM    382    O GLN A  48      20.426   1.495   4.657  0.46  3.21           O 0
+ATOM    379    N GLN A  48      17.712   0.857   5.280  0.64  1.09           N 0
+TER
+END

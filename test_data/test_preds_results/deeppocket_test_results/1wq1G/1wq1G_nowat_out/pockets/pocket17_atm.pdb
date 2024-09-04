@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0185
+HEADER 1  - Drug Score                        : 0.0117
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9976
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7218
+HEADER 5  - Mean B-factor of pocket residues  : 0.3545
+HEADER 6  - Hydrophobicity Score              : 13.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 312.2870
+HEADER 10 - Pocket volume (convex hull)       : 14.5286
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7059
+ATOM   2013   CE MET G 969     -37.350  17.890  -2.856  0.00  0.00           C 0
+ATOM   2048  OE1 GLU G 973     -39.767  15.713  -0.472  0.00  0.00           O 0
+ATOM   2047   CD GLU G 973     -40.612  15.917   0.439  0.00  0.00           C 0
+ATOM   2049  OE2 GLU G 973     -41.856  15.838   0.267  0.45  7.50           O 0
+ATOM   2037   CB ASP G 972     -37.403  19.590   4.555  0.00  0.00           C 0
+ATOM   2046   CG GLU G 973     -40.120  16.351   1.800  0.00  0.00           C 0
+ATOM   2040  OD2 ASP G 972     -39.456  20.628   5.148  0.10  9.64           O 0
+ATOM   2012   SD MET G 969     -36.562  19.487  -2.646  0.00  0.00           S 0
+ATOM   2007   CA MET G 969     -35.190  18.512   0.504  0.00  0.00           C 0
+ATOM   2009    O MET G 969     -36.262  17.073   2.120  0.00  0.00           O 0
+ATOM   2004  CG2 ILE G 968     -33.754  22.676   2.667  0.00  0.00           C 0
+ATOM   2006    N MET G 969     -34.049  19.374   0.846  0.75  1.09           N 0
+ATOM   2038   CG ASP G 972     -38.212  20.660   5.240  0.00  0.00           C 0
+ATOM   1413  NH2 ARG G 892     -36.303  24.401   4.799  0.56  4.37           N 0
+ATOM   1972    O HIS G 965     -32.305  20.516  -1.575  0.69  2.14           O 0
+ATOM   2011   CG MET G 969     -34.948  18.999  -2.029  0.00  0.00           C 0
+ATOM   2002   CB ILE G 968     -32.629  22.008   1.906  0.00  0.00           C 0
+ATOM   2005  CD1 ILE G 968     -31.307  24.190   1.724  0.00  0.00           C 0
+ATOM   1973   CB HIS G 965     -31.183  22.915  -3.205  0.00  0.00           C 0
+ATOM   2001    O ILE G 968     -34.611  19.635   3.016  0.00  0.00           O 0
+TER
+END

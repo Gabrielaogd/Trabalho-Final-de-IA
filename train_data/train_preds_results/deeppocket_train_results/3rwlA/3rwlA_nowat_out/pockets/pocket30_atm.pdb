@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.1187
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8654
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5402
+HEADER 5  - Mean B-factor of pocket residues  : 0.2719
+HEADER 6  - Hydrophobicity Score              : 32.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.9614
+HEADER 10 - Pocket volume (convex hull)       : 6.9940
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7059
+ATOM   2481   CG LYS A 322      36.330 -43.582  -1.559  0.00  0.00           C 0
+ATOM   2486   CA GLY A 323      37.660 -40.210   1.083  0.00  0.00           C 0
+ATOM   2483   CE LYS A 322      34.668 -45.494  -1.062  0.00  0.00           C 0
+ATOM   2484   NZ LYS A 322      35.085 -46.684  -0.218  0.00  0.00           N 0
+ATOM    595  CE1 TYR A  79      30.791 -40.417   2.555  0.00  0.00           C 0
+ATOM   2485    N GLY A 323      37.484 -40.633  -0.295  0.00  0.00           N 0
+ATOM   2479    O LYS A 322      39.309 -41.962  -0.330  0.50  9.64           O 0
+ATOM   2393   CB ILE A 310      31.989 -40.625  -2.835  0.00  0.00           C 0
+ATOM   2392    O ILE A 310      33.393 -42.724  -3.915  0.00  0.00           O 0
+ATOM    598   OH TYR A  79      29.475 -41.276   0.827  0.00  0.00           O 0
+ATOM   2395  CG2 ILE A 310      31.530 -39.671  -1.797  0.00  0.00           C 0
+ATOM   2396  CD1 ILE A 310      29.752 -40.241  -3.899  0.00  0.00           C 0
+ATOM   2390   CA ILE A 310      33.518 -40.615  -2.990  0.00  0.00           C 0
+ATOM   2387    O ALA A 309      35.310 -39.341  -1.391  0.74  1.07           O 0
+ATOM    593  CD1 TYR A  79      31.307 -39.354   3.266  0.00  0.00           C 0
+ATOM   2383  CG2 THR A 308      34.982 -36.961   1.636  0.00  0.00           C 0
+TER
+END

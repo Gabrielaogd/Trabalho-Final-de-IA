@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.2063
+HEADER 1  - Drug Score                        : 0.0062
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.7939
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4496
+HEADER 5  - Mean B-factor of pocket residues  : 0.2274
+HEADER 6  - Hydrophobicity Score              : 18.5556
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 191.4933
+HEADER 10 - Pocket volume (convex hull)       : 3.4075
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4583
+ATOM   1322  CG1 ILE A 171      24.832   1.586  20.342  0.00  0.00           C 0
+ATOM   1570  CG1 ILE A 202      18.780  -1.354  18.284  0.00  0.00           C 0
+ATOM   1571  CG2 ILE A 202      19.018   1.042  17.582  0.00  0.00           C 0
+ATOM   1572  CD1 ILE A 202      19.818  -1.807  17.273  0.00  0.00           C 0
+ATOM   1301    O GLU A 169      25.486  -1.672  22.445  0.00  0.00           O 0
+ATOM   1286    O SER A 167      23.225  -4.734  20.784  0.00  0.00           O 0
+ATOM   1573    N HIS A 203      17.104   2.752  19.216  0.46  2.19           N 0
+ATOM   1328    O GLU A 172      20.465   4.842  21.875  0.48  4.29           O 0
+ATOM   1566   CA ILE A 202      17.059   0.344  18.992  0.00  0.00           C 0
+ATOM   1284   CA SER A 167      23.403  -3.961  18.517  0.00  0.00           C 0
+ATOM   1324  CD1 ILE A 171      25.043   1.463  18.842  0.00  0.00           C 0
+ATOM   1320    O ILE A 171      23.156   2.434  23.113  0.00  0.00           O 0
+ATOM   1278    O LEU A 166      25.355  -2.087  19.084  0.00  0.00           O 0
+ATOM   1560    O ASP A 201      16.448  -0.960  21.345  0.00  0.00           O 0
+ATOM   1335   CA ARG A 173      21.357   5.568  19.370  0.00  0.00           C 0
+ATOM   1334    N ARG A 173      22.181   5.495  20.575  0.00  0.00           N 0
+ATOM   1336    C ARG A 173      22.166   5.241  18.132  0.00  0.00           C 0
+TER
+END

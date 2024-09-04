@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0240
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0997
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6239
+HEADER 5  - Mean B-factor of pocket residues  : 0.2091
+HEADER 6  - Hydrophobicity Score              : 4.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.8745
+HEADER 10 - Pocket volume (convex hull)       : 2.4561
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   6150  CE1 TYR A 384      77.192  21.649  16.852  0.00  0.00           C 0
+ATOM   5492   CA ASP A 344      73.764  22.830  13.385  0.00  0.00           C 0
+ATOM   5509   CD PRO A 345      73.069  20.294  12.063  0.00  0.00           C 0
+ATOM   5498  OD2 ASP A 344      73.637  20.356  15.150  0.50  5.36           O 0
+ATOM   5464    C HIS A 343      74.575  24.308  11.641  0.00  0.00           C 0
+ATOM   5465    O HIS A 343      74.321  23.464  10.793  0.55  5.36           O 0
+ATOM   6153   OH TYR A 384      79.255  22.801  16.535  0.00  0.00           O 0
+ATOM   5466   CBAHIS A 343      76.371  25.577  10.324  0.00  0.00           C 0
+ATOM   5472  CD2AHIS A 343      78.135  27.429   9.871  0.00  0.00           C 0
+ATOM   5413    O HIS A 340      79.112  26.916  17.539  0.57  8.57           O 0
+ATOM   5453   CD PRO A 342      76.899  28.626  14.549  0.00  0.00           C 0
+ATOM   5491    N ASP A 344      74.289  24.114  12.930  0.76  1.09           N 0
+ATOM   5461    N HIS A 343      75.309  26.605  12.321  0.41  2.19           N 0
+ATOM   5429   CA LEU A 341      76.631  26.567  16.465  0.00  0.00           C 0
+TER
+END

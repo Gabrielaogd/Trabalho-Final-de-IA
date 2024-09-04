@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0652
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0398
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5769
+HEADER 5  - Mean B-factor of pocket residues  : 0.0425
+HEADER 6  - Hydrophobicity Score              : 49.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 225.5278
+HEADER 10 - Pocket volume (convex hull)       : 6.7238
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM    798    N ALA A  98      19.069  18.461  50.830  0.00  0.00           N 0
+ATOM    790   CB TYR A  97      17.700  21.017  49.478  0.00  0.00           C 0
+ATOM    761    O GLU A  94      20.094  20.863  52.208  0.63  2.14           O 0
+ATOM    765  OE1 GLU A  94      21.796  24.297  49.773  0.00  0.00           O 0
+ATOM    829  CD1 ILE A 101      20.171  17.115  46.440  0.00  0.00           C 0
+ATOM    799   CA ALA A  98      19.856  17.267  50.726  0.00  0.00           C 0
+ATOM    802   CB ALA A  98      21.050  17.411  51.630  0.00  0.00           C 0
+ATOM    318    C MET A  40      27.017  18.849  48.822  0.00  0.00           C 0
+ATOM    320   CB MET A  40      26.504  19.570  51.102  0.00  0.00           C 0
+ATOM    324    N GLY A  41      28.075  19.469  48.333  0.44  4.37           N 0
+ATOM    325   CA GLY A  41      28.168  19.987  46.969  0.00  0.00           C 0
+ATOM    342  CD1 LEU A  43      24.023  14.938  49.081  0.00  0.00           C 0
+ATOM    319    O MET A  40      26.078  18.609  48.114  0.00  0.00           O 0
+ATOM    339    O LEU A  43      24.467  17.555  44.536  0.00  0.00           O 0
+ATOM    323   CE MET A  40      23.833  20.153  52.845  0.00  0.00           C 0
+TER
+END

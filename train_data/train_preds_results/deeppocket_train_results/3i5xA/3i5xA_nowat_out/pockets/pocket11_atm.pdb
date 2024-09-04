@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0133
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1234
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6951
+HEADER 5  - Mean B-factor of pocket residues  : 0.6242
+HEADER 6  - Hydrophobicity Score              : 16.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 299.0674
+HEADER 10 - Pocket volume (convex hull)       : 9.5431
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   2508    O ILE A 403      58.751  14.982   0.663  0.48  5.36           O 0
+ATOM   2502   CB PRO A 402      54.545  17.989   1.817  0.00  0.00           C 0
+ATOM   2660  NH1 ARG A 421      55.769  20.994  -1.758  0.00  0.00           N 0
+ATOM   2472   NZ LYS A 398      54.139  13.408  -3.764  0.78  6.56           N 0
+ATOM   2661  NH2 ARG A 421      54.066  20.968  -0.203  0.00  0.00           N 0
+ATOM   2467    O LYS A 398      50.692  12.911   0.630  0.55  3.21           O 0
+ATOM   2484    C ASP A 400      49.274  14.331   4.626  0.00  0.00           C 0
+ATOM   2485    O ASP A 400      48.734  15.337   5.069  0.38  9.64           O 0
+ATOM   2476    O LYS A 399      47.053  12.864   2.076  0.00  0.00           O 0
+ATOM   2505    N ILE A 403      56.308  15.164   2.159  0.50  5.47           N 0
+ATOM   2520  CD2 LEU A 404      59.063  18.710   0.570  0.00  0.00           C 0
+ATOM   2490    N LEU A 401      50.558  14.281   4.282  0.00  0.00           N 0
+ATOM   2492    C LEU A 401      52.551  15.373   3.372  0.00  0.00           C 0
+ATOM   2491   CA LEU A 401      51.491  15.400   4.464  0.00  0.00           C 0
+ATOM   2499   CA PRO A 402      54.296  16.515   2.160  0.00  0.00           C 0
+ATOM   2498    N PRO A 402      53.118  16.541   3.029  0.00  0.00           N 0
+ATOM   2469   CG LYS A 398      53.133  11.876  -1.194  0.00  0.00           C 0
+ATOM   2504   CD PRO A 402      52.687  17.909   3.375  0.00  0.00           C 0
+ATOM   2503   CG PRO A 402      53.682  18.792   2.705  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0699
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.5363
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3212
+HEADER 5  - Mean B-factor of pocket residues  : 0.0325
+HEADER 6  - Hydrophobicity Score              : 26.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 159.5875
+HEADER 10 - Pocket volume (convex hull)       : 5.6735
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM   3424   CB GLN A 445       7.481  19.849  12.909  0.00  0.00           C 0
+ATOM   3445   CB ALA A 448       7.292  19.934   6.663  0.00  0.00           C 0
+ATOM   3446    N TRP A 449       4.769  21.522   7.045  0.00  0.00           N 0
+ATOM   3423    O GLN A 445       9.312  20.519  10.621  0.67  2.14           O 0
+ATOM    676    C GLY A  83      -0.352  17.461  13.798  0.00  0.00           C 0
+ATOM   3427  OE1 GLN A 445       5.062  18.506  13.193  0.71  9.64           O 0
+ATOM    677    O GLY A  83       0.319  16.395  13.910  0.17  2.14           O 0
+ATOM   3452  CD1 TRP A 449       1.967  18.767   7.848  0.00  0.00           C 0
+ATOM   3450   CB TRP A 449       2.567  21.237   8.117  0.00  0.00           C 0
+ATOM   3449    O TRP A 449       4.591  23.569   8.570  0.28  1.07           O 0
+ATOM   3402    O MET A 442       7.367  23.822  13.512  0.00  0.00           O 0
+ATOM   3432    O GLY A 446       7.932  23.452  10.012  0.00  0.00           O 0
+ATOM   3400   CA MET A 442       5.363  23.387  14.791  0.00  0.00           C 0
+ATOM   3404   CG MET A 442       2.854  23.681  14.243  0.00  0.00           C 0
+ATOM    682   CB ALA A  84       1.798  20.282  15.074  0.00  0.00           C 0
+ATOM    441  OE2 GLU A  55      -0.769  20.241  10.478  0.33  7.50           O 0
+ATOM   3406   CE MET A 442       2.073  25.185  12.017  0.00  0.00           C 0
+ATOM    679   CA ALA A  84       1.459  18.763  14.816  0.00  0.00           C 0
+TER
+END

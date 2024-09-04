@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.2432
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7464
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4195
+HEADER 5  - Mean B-factor of pocket residues  : 0.1695
+HEADER 6  - Hydrophobicity Score              : 3.2222
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 280.9041
+HEADER 10 - Pocket volume (convex hull)       : 7.6889
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1304
+ATOM    468  NH2 ARG B  63       0.825 -20.433 -13.039  0.00  0.00           N 0
+ATOM    604  CD2 TRP B  80      -5.704 -23.432 -11.228  0.00  0.00           C 0
+ATOM    603  CD1 TRP B  80      -5.232 -24.442 -13.171  0.00  0.00           C 0
+ATOM    605  NE1 TRP B  80      -4.572 -25.122 -12.174  0.00  0.00           N 0
+ATOM    602   CG TRP B  80      -5.939 -23.401 -12.637  0.00  0.00           C 0
+ATOM    299   CD PRO B  42       3.573 -24.310 -14.087  0.00  0.00           C 0
+ATOM    306  OD1 ASN B  43       2.282 -23.822 -10.150  0.00  0.00           O 0
+ATOM    288    O ASN B  41       4.123 -26.982 -13.624  0.42  6.43           O 0
+ATOM    633  OE1 GLU B  83      -2.710 -18.647 -14.190  0.54  7.50           O 0
+ATOM    524  CG2 ILE B  70      -1.664 -17.212 -10.706  0.00  0.00           C 0
+ATOM    431  CD2 HIS B  59      -2.403 -21.361  -7.906  0.00  0.00           C 0
+ATOM    544  ND2 ASN B  72      -6.369 -19.092 -11.815  0.00  0.00           N 0
+ATOM    607  CE3 TRP B  80      -6.138 -22.643 -10.153  0.00  0.00           C 0
+ATOM    606  CE2 TRP B  80      -4.845 -24.524 -10.973  0.00  0.00           C 0
+ATOM    608  CZ2 TRP B  80      -4.412 -24.851  -9.678  0.00  0.00           C 0
+ATOM    433  NE2 HIS B  59      -1.349 -22.193  -8.190  0.71  1.09           N 0
+ATOM    432  CE1 HIS B  59      -1.272 -23.120  -7.251  0.00  0.00           C 0
+ATOM    541   CB ASN B  72      -5.739 -18.664  -9.504  0.00  0.00           C 0
+TER
+END

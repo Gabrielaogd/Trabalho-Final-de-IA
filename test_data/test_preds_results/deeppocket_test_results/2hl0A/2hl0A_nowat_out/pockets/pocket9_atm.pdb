@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0357
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1410
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6659
+HEADER 5  - Mean B-factor of pocket residues  : 0.3726
+HEADER 6  - Hydrophobicity Score              : 17.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.6918
+HEADER 10 - Pocket volume (convex hull)       : 2.7098
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1105  CG1 ILE A 139      -2.922  27.182  29.187  0.00  0.00           C 0
+ATOM   1096    O THR A 138      -3.856  29.883  31.546  0.00  0.00           O 0
+ATOM    509  OE1 GLU A  63      -7.222  27.599  28.295  0.48  7.50           O 0
+ATOM   1106  CG2 ILE A 139      -1.890  25.562  30.772  0.00  0.00           C 0
+ATOM    479   NZ LYS A  59      -4.405  22.435  35.045  0.00  0.00           N 0
+ATOM    477   CD LYS A  59      -2.615  22.807  33.379  0.00  0.00           C 0
+ATOM    475   CB LYS A  59      -2.954  22.356  30.963  0.00  0.00           C 0
+ATOM    476   CG LYS A  59      -3.127  21.792  32.357  0.00  0.00           C 0
+ATOM    474    O LYS A  59      -4.456  22.534  28.072  0.66  3.21           O 0
+ATOM   1111    O VAL A 140      -1.097  25.550  35.347  0.00  0.00           O 0
+ATOM   1130  OE2 GLU A 142      -4.565  23.669  37.464  0.47  2.14           O 0
+ATOM   1101   CA ILE A 139      -1.829  28.017  31.312  0.00  0.00           C 0
+ATOM   1114  CG2 VAL A 140      -0.850  28.721  36.162  0.00  0.00           C 0
+ATOM   1108    N VAL A 140      -0.846  27.496  33.462  0.69  2.19           N 0
+TER
+END

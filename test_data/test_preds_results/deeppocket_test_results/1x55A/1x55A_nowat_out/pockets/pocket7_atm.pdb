@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0875
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8591
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4281
+HEADER 5  - Mean B-factor of pocket residues  : 0.3091
+HEADER 6  - Hydrophobicity Score              : 32.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 359.9649
+HEADER 10 - Pocket volume (convex hull)       : 23.9133
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM    427  OD1 ASN A  53     -15.032 -15.776 -15.339  0.72  3.21           O 0
+ATOM    277   CE LYS A  34      -9.656 -16.087 -12.233  0.00  0.00           C 0
+ATOM    278   NZ LYS A  34      -9.563 -17.358 -11.441  0.00  0.00           N 0
+ATOM    428  ND2 ASN A  53     -14.188 -16.527 -17.274  0.00  0.00           N 0
+ATOM    411   CB ALA A  51     -13.627 -14.130 -12.219  0.00  0.00           C 0
+ATOM    435  CG2 VAL A  54     -16.885 -16.440 -12.479  0.00  0.00           C 0
+ATOM    398  CG1 VAL A  49     -10.715 -14.382  -7.847  0.00  0.00           C 0
+ATOM    705   CB HIS A  91     -14.787 -17.919  -5.989  0.00  0.00           C 0
+ATOM    396    O VAL A  49     -13.818 -13.305  -6.888  0.43  1.07           O 0
+ATOM    707  ND1 HIS A  91     -13.123 -19.589  -6.900  0.00  0.00           N 0
+ATOM    725  OE1 GLU A  93     -20.694 -18.062  -8.595  0.00  0.00           O 0
+ATOM    434  CG1 VAL A  54     -18.629 -15.536 -10.906  0.00  0.00           C 0
+ATOM    706   CG HIS A  91     -13.425 -18.543  -6.054  0.00  0.00           C 0
+ATOM    714    O VAL A  92     -17.965 -14.163  -7.856  0.70  3.21           O 0
+ATOM    704    O HIS A  91     -17.230 -16.459  -5.063  0.61  2.14           O 0
+ATOM    610  CD1 ILE A  77     -20.416 -19.641  -4.685  0.00  0.00           C 0
+ATOM    607   CB ILE A  77     -18.328 -20.577  -3.569  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0436
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8995
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4952
+HEADER 5  - Mean B-factor of pocket residues  : 0.2439
+HEADER 6  - Hydrophobicity Score              : -13.5000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 5.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 236.9173
+HEADER 10 - Pocket volume (convex hull)       : 9.9926
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3500
+ATOM    843  NH1 ARG A 712       1.747   0.513  60.763  0.66  4.37           N 0
+ATOM    844  NH2 ARG A 712      -0.440   0.107  60.436  0.00  0.00           N 0
+ATOM   1665   CD ARG A 823       3.046   2.601  67.954  0.00  0.00           C 0
+ATOM   1668  NH1 ARG A 823       1.044   4.563  67.394  0.00  0.00           N 0
+ATOM   1663   CB ARG A 823       4.552   2.105  66.032  0.00  0.00           C 0
+ATOM   1163   NEAARG A 750      -1.060   8.468  62.828  0.00  0.00           N 0
+ATOM   1398  CH2 TRP A 790       2.290   7.514  64.698  0.00  0.00           C 0
+ATOM   1161   CDAARG A 750      -1.826   7.499  62.041  0.00  0.00           C 0
+ATOM   1660   CA ARG A 823       5.434   2.572  64.868  0.00  0.00           C 0
+ATOM   1396  CZ2 TRP A 790       2.969   7.655  63.513  0.00  0.00           C 0
+ATOM   1676   CD PRO A 824       5.740   5.490  64.217  0.00  0.00           C 0
+ATOM   1664   CG ARG A 823       4.023   3.194  66.957  0.00  0.00           C 0
+ATOM    808  OD2 ASP A 708      -0.309   2.998  59.887  0.48  7.50           O 0
+ATOM   1609  OE2 GLU A 816       4.107   5.936  60.646  0.69  6.43           O 0
+ATOM   1653    O GLU A 822       6.477   2.583  62.273  0.00  0.00           O 0
+TER
+END

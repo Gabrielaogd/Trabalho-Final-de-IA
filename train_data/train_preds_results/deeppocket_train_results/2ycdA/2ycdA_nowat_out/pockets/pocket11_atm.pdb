@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0106
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0918
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6236
+HEADER 5  - Mean B-factor of pocket residues  : 0.1786
+HEADER 6  - Hydrophobicity Score              : -16.8571
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.7008
+HEADER 10 - Pocket volume (convex hull)       : 6.5716
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0455
+ATOM   1202  NH2 ARG A 156      10.478  43.937  26.422  0.00  0.00           N 0
+ATOM    927    N SER A 125       5.658  44.784  20.131  0.69  1.09           N 0
+ATOM    962  ND2 ASN A 128       3.565  48.318  22.428  0.00  0.00           N 0
+ATOM   1163   CG GLN A 152       9.692  48.718  23.497  0.00  0.00           C 0
+ATOM   1199   NE ARG A 156      10.686  43.383  24.207  0.59  4.37           N 0
+ATOM    928   CAASER A 125       6.661  45.814  19.892  0.00  0.00           C 0
+ATOM    924   CB PRO A 124       3.225  43.568  21.819  0.00  0.00           C 0
+ATOM    899    O THR A 121       7.278  41.698  21.518  0.59  2.14           O 0
+ATOM   1165  OE1 GLN A 152      11.171  47.073  24.441  0.58  2.14           O 0
+ATOM   1164   CD GLN A 152      10.664  48.191  24.551  0.00  0.00           C 0
+ATOM    936   OGASER A 125       9.032  46.215  20.208  0.00  0.00           O 0
+ATOM    933   CBASER A 125       8.050  45.212  20.080  0.00  0.00           C 0
+ATOM    887    O ASN A 120       4.438  39.514  24.116  0.00  0.00           O 0
+ATOM    925   CG PRO A 124       3.230  42.071  21.881  0.00  0.00           C 0
+ATOM    897   CA THR A 121       6.803  39.604  22.654  0.00  0.00           C 0
+ATOM    901  OG1 THR A 121       7.625  38.229  24.468  0.47  5.36           O 0
+ATOM    902  CG2 THR A 121       9.252  39.598  23.328  0.00  0.00           C 0
+TER
+END

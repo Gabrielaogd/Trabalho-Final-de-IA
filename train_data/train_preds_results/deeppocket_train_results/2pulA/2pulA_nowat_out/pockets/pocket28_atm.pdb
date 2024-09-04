@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : -0.1221
+HEADER 1  - Drug Score                        : 0.0030
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0729
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5725
+HEADER 5  - Mean B-factor of pocket residues  : 0.4521
+HEADER 6  - Hydrophobicity Score              : 51.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 441.4744
+HEADER 10 - Pocket volume (convex hull)       : 30.7716
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM    380    N GLU A  72     -73.311 -31.338   3.100  0.00  0.00           N 0
+ATOM    381   CA GLU A  72     -72.178 -30.439   3.359  0.00  0.00           C 0
+ATOM    391    N TRP A  74     -71.245 -26.489   1.483  0.30  5.47           N 0
+ATOM   2569  CD2 LEU A 345     -77.985 -26.449   2.389  0.00  0.00           C 0
+ATOM    384   CB GLU A  72     -71.774 -30.472   4.871  0.00  0.00           C 0
+ATOM   2574   CB ALA A 346     -80.425 -27.822   7.136  0.00  0.00           C 0
+ATOM    403  CZ3 TRP A  74     -76.123 -23.220   1.915  0.00  0.00           C 0
+ATOM   1341  CG2 THR A 191     -79.295 -23.820  -1.709  0.00  0.00           C 0
+ATOM    401  CE3 TRP A  74     -74.990 -23.904   2.350  0.00  0.00           C 0
+ATOM   2567   CG LEU A 345     -79.041 -27.530   2.284  0.00  0.00           C 0
+ATOM   2565    O LEU A 345     -81.149 -29.897   3.747  0.00  9.64           O 0
+ATOM   2568  CD1 LEU A 345     -78.840 -28.309   0.996  0.00  0.00           C 0
+ATOM    388    O SER A  73     -70.440 -28.255   0.413  0.74  6.43           O 0
+ATOM    395   CB TRP A  74     -71.972 -24.928   3.399  0.00  0.00           C 0
+ATOM    387    C SER A  73     -70.647 -27.687   1.478  0.00  0.00           C 0
+ATOM   1213  CG2 ILE A 176     -76.432 -21.750   6.404  0.00  0.00           C 0
+ATOM   1248  CD1 LEU A 180     -79.021 -23.645   4.896  0.00  0.00           C 0
+ATOM   1214  CD1 ILE A 176     -73.410 -21.722   6.678  0.00  0.00           C 0
+TER
+END

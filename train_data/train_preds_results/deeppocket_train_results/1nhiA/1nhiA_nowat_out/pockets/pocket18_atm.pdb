@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0699
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8764
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5344
+HEADER 5  - Mean B-factor of pocket residues  : 0.7809
+HEADER 6  - Hydrophobicity Score              : -20.4000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.4565
+HEADER 10 - Pocket volume (convex hull)       : 6.1674
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1429
+ATOM   2147   CA GLN A 274     -12.300  30.197  89.379  0.00  0.00           C 0
+ATOM   2173  OE1 GLU A 277      -8.730  32.378  93.329  0.00  0.00           O 0
+ATOM   2120  CE1 HIS A 270     -10.747  34.939  86.746  0.00  0.00           C 0
+ATOM   2174  OE2 GLU A 277     -10.584  33.134  94.233  0.00  0.00           O 0
+ATOM   2150   CB GLN A 274     -13.215  31.120  88.567  0.00  0.00           C 0
+ATOM   2118  ND1 HIS A 270     -10.011  34.219  85.919  0.56  8.75           N 0
+ATOM   2216  OD2 ASP A 283      -4.930  30.955  91.859  0.00  0.00           O 0
+ATOM   2153  OE1 GLN A 274     -14.677  33.673  87.914  0.44  8.57           O 0
+ATOM   2151   CG GLN A 274     -14.295  31.821  89.390  0.00  0.00           C 0
+ATOM   2138    O ARG A 273     -10.126  28.686  90.199  0.55  1.07           O 0
+ATOM   2146    N GLN A 274     -11.311  29.573  88.505  0.00  0.00           N 0
+ATOM   2215  OD1 ASP A 283      -6.698  29.685  91.558  0.00  0.00           O 0
+ATOM   2214   CG ASP A 283      -5.967  30.396  92.281  0.00  0.00           C 0
+ATOM   2139   CB ARG A 273      -8.256  29.288  87.592  0.00  0.00           C 0
+ATOM   2141   CD ARG A 273      -6.493  29.762  85.848  0.00  0.00           C 0
+ATOM   2137    C ARG A 273     -10.297  28.865  88.993  0.00  0.00           C 0
+TER
+END

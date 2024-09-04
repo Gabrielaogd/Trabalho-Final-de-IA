@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.1807
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9223
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3724
+HEADER 5  - Mean B-factor of pocket residues  : 0.5341
+HEADER 6  - Hydrophobicity Score              : 2.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.0667
+HEADER 10 - Pocket volume (convex hull)       : 0.8091
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM    402  CD2 LEU B  73      46.042  35.518   8.417  0.00  0.00           C 0
+ATOM    369    O GLU B  69      46.987  32.956   3.840  0.68  3.21           O 0
+ATOM    864   CD GLU B 133      44.787  31.271  10.909  0.00  0.00           C 0
+ATOM    865  OE1 GLU B 133      43.986  30.645  10.130  0.70  3.21           O 0
+ATOM    850   OG SER B 131      42.567  30.998   7.410  0.54  6.43           O 0
+ATOM    370   CB GLU B  69      47.175  29.692   4.065  0.00  0.00           C 0
+ATOM    866  OE2 GLU B 133      45.811  30.718  11.407  0.00  0.00           O 0
+ATOM    368    C GLU B  69      47.866  32.106   3.837  0.00  0.00           C 0
+ATOM    379   CB ALA B  70      50.629  33.386   5.914  0.00  0.00           C 0
+ATOM    356   OG SER B  67      50.661  29.882   5.385  0.59  8.57           O 0
+ATOM    349   CG PRO B  66      53.302  31.878   8.385  0.00  0.00           C 0
+ATOM    399   CB LEU B  73      45.752  35.591   5.881  0.00  0.00           C 0
+ATOM    375    N ALA B  70      49.025  32.281   4.459  0.00  0.00           N 0
+TER
+END

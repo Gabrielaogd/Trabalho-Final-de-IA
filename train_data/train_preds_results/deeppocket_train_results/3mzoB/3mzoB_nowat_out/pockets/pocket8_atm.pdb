@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1066
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9833
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7049
+HEADER 5  - Mean B-factor of pocket residues  : 0.4967
+HEADER 6  - Hydrophobicity Score              : 19.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.8607
+HEADER 10 - Pocket volume (convex hull)       : 10.4181
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM    813   CB ASN B 102      23.249  71.147  22.328  0.00  0.00           C 0
+ATOM    812    O ASN B 102      21.864  68.500  23.647  0.74  1.07           O 0
+ATOM    848   CD ARG B 106      18.386  70.225  25.309  0.00  0.00           C 0
+ATOM    811    C ASN B 102      22.521  68.738  22.628  0.00  0.00           C 0
+ATOM    793    O SER B  98      25.698  71.185  19.620  0.00  0.00           O 0
+ATOM    796    N THR B 100      24.409  68.923  17.472  0.57  2.19           N 0
+ATOM    816  ND2 ASN B 102      24.176  73.345  21.721  0.70  9.84           N 0
+ATOM    824  CD2 PHE B 103      18.674  65.703  19.588  0.00  0.00           C 0
+ATOM    818   CA PHE B 103      21.171  67.163  21.379  0.00  0.00           C 0
+ATOM    858  OE2 GLU B 107      15.810  66.711  24.110  0.56  5.36           O 0
+ATOM    855   CG GLU B 107      17.271  65.073  23.178  0.00  0.00           C 0
+ATOM    817    N PHE B 103      22.224  68.176  21.458  0.69  2.19           N 0
+ATOM    604   CG PHE B  73      19.074  68.404  15.387  0.00  0.00           C 0
+ATOM    606  CD2 PHE B  73      18.855  67.201  16.033  0.00  0.00           C 0
+ATOM    821   CB PHE B 103      20.965  66.666  19.939  0.00  0.00           C 0
+ATOM    792    C SER B  98      25.953  71.581  18.481  0.00  0.00           C 0
+ATOM    603   CB PHE B  73      17.927  69.337  15.111  0.00  0.00           C 0
+ATOM    605  CD1 PHE B  73      20.367  68.749  15.053  0.00  0.00           C 0
+ATOM    607  CE1 PHE B  73      21.420  67.892  15.333  0.00  0.00           C 0
+TER
+END

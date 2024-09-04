@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : 0.1303
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0061
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5782
+HEADER 5  - Mean B-factor of pocket residues  : 0.1132
+HEADER 6  - Hydrophobicity Score              : 41.7778
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 220.3098
+HEADER 10 - Pocket volume (convex hull)       : 8.2545
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM    374    N ALA A  61      24.392  16.775   1.401  0.00  0.00           N 0
+ATOM    370   CB ASP A  60      22.703  17.763  -1.082  0.00  0.00           C 0
+ATOM    204  CD1 ILE A  38      21.073  10.536   3.465  0.00  0.00           C 0
+ATOM    404  OE2 GLU A  64      18.254  14.802   4.339  0.00  0.00           O 0
+ATOM    369    O ASP A  60      22.703  18.031   2.198  0.61  3.21           O 0
+ATOM    203  CG2 ILE A  38      23.647  10.660   1.784  0.00  0.00           C 0
+ATOM    263  NH1 ARG A  45      23.139  12.124  -4.631  0.59  3.28           N 0
+ATOM    228  CD2 LEU A  41      21.647   8.440  -3.909  0.00  0.00           C 0
+ATOM    202  CG1 ILE A  38      21.542   9.483   2.480  0.00  0.00           C 0
+ATOM    200    O ILE A  38      25.203   8.724  -0.091  0.00  0.00           O 0
+ATOM    368    C ASP A  60      23.496  17.756   1.296  0.00  0.00           C 0
+ATOM    350    O ALA A  57      25.506  15.597  -1.238  0.46  3.21           O 0
+ATOM    378   CB ALA A  61      25.549  14.878   2.453  0.00  0.00           C 0
+ATOM    234  CG1 ILE A  42      27.016  11.328  -1.368  0.00  0.00           C 0
+ATOM    375   CA ALA A  61      24.491  15.973   2.621  0.00  0.00           C 0
+ATOM    172  CD1 ILE A  34      23.534  12.828   5.117  0.00  0.00           C 0
+ATOM    403  OE1 GLU A  64      19.990  13.975   5.408  0.97  1.07           O 0
+ATOM    402   CD GLU A  64      19.228  14.922   5.110  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0349
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0670
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5239
+HEADER 5  - Mean B-factor of pocket residues  : 0.2560
+HEADER 6  - Hydrophobicity Score              : 5.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.2681
+HEADER 10 - Pocket volume (convex hull)       : 3.5036
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   1833    N ALA B 246       5.375  37.392  37.322  0.00  0.00           N 0
+ATOM   1829   CB ASP B 245       2.436  38.369  38.178  0.00  0.00           C 0
+ATOM    204   CG ARG B  30       6.186  32.536  40.939  0.00  0.00           C 0
+ATOM    203   CB ARG B  30       7.138  32.937  42.012  0.00  0.00           C 0
+ATOM   1844  OD1 ASP B 247       3.704  32.614  38.265  0.63  7.50           O 0
+ATOM    205   CD ARG B  30       5.024  31.820  41.474  0.00  0.00           C 0
+ATOM    200   CA ARG B  30       8.250  33.818  41.468  0.00  0.00           C 0
+ATOM   1837   CB ALA B 246       7.201  35.744  37.540  0.00  0.00           C 0
+ATOM    210    N ALA B  31       9.069  35.676  42.831  0.64  3.28           N 0
+ATOM    476  NE2 HIS B  64       8.412  39.308  37.073  0.49  1.09           N 0
+ATOM    213    O ALA B  31       9.193  38.460  43.219  0.38  6.43           O 0
+ATOM   1826   CA ASP B 245       3.671  39.078  37.626  0.00  0.00           C 0
+ATOM   1817   CE MET B 243       5.853  42.421  40.196  0.00  0.00           C 0
+ATOM    418    O GLY B  57       9.707  42.203  40.544  0.36  1.07           O 0
+TER
+END

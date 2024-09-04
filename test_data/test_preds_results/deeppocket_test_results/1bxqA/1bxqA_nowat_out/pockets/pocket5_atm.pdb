@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0192
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1886
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6414
+HEADER 5  - Mean B-factor of pocket residues  : 0.1462
+HEADER 6  - Hydrophobicity Score              : 0.3333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 263.7382
+HEADER 10 - Pocket volume (convex hull)       : 5.3342
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM   2025   CG ASN A 273       3.142   6.337  11.750  0.00  0.00           C 0
+ATOM   2023    O ASN A 273       6.105   7.954  11.256  0.61  5.36           O 0
+ATOM   2027  ND2 ASN A 273       1.980   5.907  11.283  0.40  5.47           N 0
+ATOM   2001    O SER A 270       4.194  11.083   9.814  0.63  4.29           O 0
+ATOM   2024   CB ASN A 273       3.252   7.836  11.886  0.00  0.00           C 0
+ATOM     84  ND2 ASN A  13      10.459   2.420   9.140  0.35  4.37           N 0
+ATOM   2031    O TYR A 274       8.836   5.780  11.165  0.57  1.07           O 0
+ATOM   1176  CE1 HIS A 159       9.220   8.114   6.860  0.00  0.00           C 0
+ATOM   1185  OE1 GLN A 160      10.047   4.958   4.695  0.19  5.36           O 0
+ATOM   2041   CA GLY A 275       7.206   3.649  11.384  0.00  0.00           C 0
+ATOM   2050   CD PRO A 276       7.109   1.241   9.947  0.00  0.00           C 0
+ATOM   1177  NE2 HIS A 159       8.289   8.358   5.964  0.00  0.00           N 0
+ATOM   2026  OD1 ASN A 273       4.071   5.609  12.065  0.73  1.07           O 0
+ATOM   2091   SG CYS A 283       2.930   2.388  11.942  0.00  0.00           S 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0177
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0549
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6785
+HEADER 5  - Mean B-factor of pocket residues  : 0.1705
+HEADER 6  - Hydrophobicity Score              : 1.6667
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 334.1064
+HEADER 10 - Pocket volume (convex hull)       : 18.5559
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3478
+ATOM     49  NE2 GLN A   9      33.189   5.184  -0.754  0.00  0.00           N 0
+ATOM     67    N GLU A  12      37.011   4.535   4.607  0.62  1.09           N 0
+ATOM     53    O ASP A  10      35.534   2.967   1.242  0.00  0.00           O 0
+ATOM     70    O GLU A  12      37.434   7.368   5.470  0.00  0.00           O 0
+ATOM   1462   CG ARG A 182      30.174   6.585   7.075  0.00  0.00           C 0
+ATOM   1502  OE1 GLU A 186      29.646  12.100   6.136  0.76  2.14           O 0
+ATOM   1503  OE2 GLU A 186      31.226  13.085   4.976  0.00  0.00           O 0
+ATOM   1443    O SER A 180      27.136   7.109   4.154  0.00  0.00           O 0
+ATOM   1461   CB ARG A 182      30.341   7.742   8.088  0.00  0.00           C 0
+ATOM   1457    N ARG A 182      28.417   8.982   7.134  0.00  0.00           N 0
+ATOM   1476  NE1 TRP A 183      33.687  11.107   8.478  0.64  5.47           N 0
+ATOM     65  OE1 GLN A  11      30.502   3.691   4.232  0.47  2.14           O 0
+ATOM     48  OE1 GLN A   9      31.194   4.200  -0.543  0.00  0.00           O 0
+ATOM     63   CG GLN A  11      32.533   3.203   3.078  0.00  0.00           C 0
+ATOM     81   CG MET A  13      34.297   6.778   8.628  0.00  0.00           C 0
+ATOM   1474  CD1 TRP A 183      32.454  11.672   8.218  0.00  0.00           C 0
+ATOM     62   CB GLN A  11      33.451   3.441   4.299  0.00  0.00           C 0
+ATOM     60    C GLN A  11      35.874   3.959   5.006  0.00  0.00           C 0
+ATOM     77   CA MET A  13      36.595   7.514   8.077  0.00  0.00           C 0
+ATOM     59   CA GLN A  11      34.941   3.526   3.882  0.00  0.00           C 0
+TER
+END

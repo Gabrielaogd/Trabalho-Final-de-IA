@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0175
+HEADER 1  - Drug Score                        : 0.0621
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7134
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5107
+HEADER 5  - Mean B-factor of pocket residues  : 0.4375
+HEADER 6  - Hydrophobicity Score              : 19.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 167.4595
+HEADER 10 - Pocket volume (convex hull)       : 4.3072
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7647
+ATOM     12   CD LYS A  26       6.716  -1.196  35.977  0.00  0.00           C 0
+ATOM    619    N GLY A 100       2.969   4.199  38.875  0.68  1.09           N 0
+ATOM    618   CD PRO A  99       0.576   1.633  38.209  0.00  0.00           C 0
+ATOM     13   CE LYS A  26       6.990  -1.962  37.263  0.00  0.00           C 0
+ATOM    637  CG2 ILE A 102       5.600   3.905  34.844  0.00  0.00           C 0
+ATOM    604   CB TYR A  98       2.640   1.366  34.487  0.00  0.00           C 0
+ATOM    601   CA TYR A  98       1.442   1.511  35.433  0.00  0.00           C 0
+ATOM    602    C TYR A  98       1.468   2.841  36.198  0.00  0.00           C 0
+ATOM    606  CD1 TYR A  98       3.167  -1.096  34.312  0.00  0.00           C 0
+ATOM     10   CB LYS A  26       8.404   0.604  36.452  0.00  0.00           C 0
+ATOM      4    O MET A  25      11.117   1.082  38.749  0.33  4.29           O 0
+ATOM      1    N MET A  25      10.118   3.075  40.624  0.00  9.84           N 0
+ATOM    620   CA GLY A 100       4.105   4.818  39.555  0.00  0.00           C 0
+ATOM    626    O ASN A 101       7.975   4.587  37.366  0.47  1.07           O 0
+TER
+END

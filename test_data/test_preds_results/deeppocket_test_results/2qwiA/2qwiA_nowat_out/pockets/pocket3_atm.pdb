@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1869
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.5646
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3976
+HEADER 5  - Mean B-factor of pocket residues  : 0.1689
+HEADER 6  - Hydrophobicity Score              : 31.5556
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 101.4764
+HEADER 10 - Pocket volume (convex hull)       : 2.2206
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   2584  CD2 TYR A  12A     13.376  20.410  41.865  0.00  0.00           C 0
+ATOM   1198  CG1 VAL A 231      18.248  21.086  41.778  0.00  0.00           C 0
+ATOM   1194   CA VAL A 231      19.477  19.087  42.771  0.00  0.00           C 0
+ATOM   1200    N CYS A 232      19.371  18.234  40.498  0.00  0.00           N 0
+ATOM   2586  CE2 TYR A  12A     14.240  21.110  42.715  0.00  0.00           C 0
+ATOM    819    O HIS A 184      15.790  14.721  40.743  0.43  3.21           O 0
+ATOM    814   CB CYS A 183      18.122  15.164  44.518  0.00  0.00           C 0
+ATOM   1185  OE1 GLU A 229      14.449  17.732  46.746  0.56  4.29           O 0
+ATOM    816    N HIS A 184      15.766  13.481  43.132  0.00  0.00           N 0
+ATOM   2602  CH2 TRP A  12B     12.619  16.144  40.547  0.00  0.00           C 0
+ATOM   2601  CZ3 TRP A  12B     11.540  16.673  41.283  0.00  0.00           C 0
+ATOM    341    O CYS A 124      11.605  14.795  44.015  0.28  1.07           O 0
+ATOM   1203    O CYS A 232      18.559  19.251  38.102  0.73  3.21           O 0
+ATOM     38  ND2 ASN A  85      14.265  19.345  37.078  0.37  2.19           N 0
+ATOM   1190    O CYS A 230      18.447  18.172  45.143  0.00  0.00           O 0
+ATOM   1186  OE2 GLU A 229      14.701  19.859  46.268  0.00  0.00           O 0
+TER
+END

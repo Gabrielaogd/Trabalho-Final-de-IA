@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1531
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8556
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7019
+HEADER 5  - Mean B-factor of pocket residues  : 0.3239
+HEADER 6  - Hydrophobicity Score              : 24.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 320.6570
+HEADER 10 - Pocket volume (convex hull)       : 8.3556
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   3207   CA HIS C 425     -14.402 -38.547   4.102  0.00  0.00           C 0
+ATOM   3216    N THR C 426     -15.101 -36.271   4.610  0.70  1.09           N 0
+ATOM   3212  ND1 HIS C 425     -15.111 -41.004   5.909  0.00  0.00           N 0
+ATOM   3210   CB HIS C 425     -14.097 -38.717   5.594  0.00  0.00           C 0
+ATOM   3177   CA GLY C 421     -13.524 -37.563  -4.877  0.00  0.00           C 0
+ATOM   3290  CD2 TRP C 436     -16.060 -34.108  -2.012  0.00  0.00           C 0
+ATOM   3179    O GLY C 421     -13.046 -39.731  -3.966  0.43  7.50           O 0
+ATOM   3194    O MET C 423     -13.044 -39.387  -0.086  0.47  4.29           O 0
+ATOM   3222  CG2 THR C 426     -17.835 -35.076   4.810  0.00  0.00           C 0
+ATOM   3221  OG1 THR C 426     -16.326 -34.753   6.576  0.62  7.50           O 0
+ATOM   3202    O PRO C 424     -14.669 -41.010   2.802  0.00  0.00           O 0
+ATOM   3292  CE2 TRP C 436     -14.734 -34.379  -2.408  0.00  0.00           C 0
+ATOM   3289  CD1 TRP C 436     -14.809 -34.363  -0.173  0.00  0.00           C 0
+ATOM   3291  NE1 TRP C 436     -13.992 -34.525  -1.266  0.00  0.00           N 0
+ATOM   3288   CG TRP C 436     -16.085 -34.096  -0.571  0.00  0.00           C 0
+ATOM   3209    O HIS C 425     -14.122 -36.672   2.609  0.62  2.14           O 0
+ATOM   3208    C HIS C 425     -14.530 -37.070   3.711  0.00  0.00           C 0
+ATOM   3287   CB TRP C 436     -17.285 -33.860   0.313  0.00  0.00           C 0
+TER
+END

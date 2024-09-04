@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0349
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8245
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4555
+HEADER 5  - Mean B-factor of pocket residues  : 0.2088
+HEADER 6  - Hydrophobicity Score              : 39.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 130.9770
+HEADER 10 - Pocket volume (convex hull)       : 1.5608
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM    787   CB LYS X 109      30.116  11.832  52.398  0.00  0.00           C 0
+ATOM    790   CE LYS X 109      32.587   9.917  52.750  0.00  0.00           C 0
+ATOM    948  OD1 ASN X 129      29.573  11.390  56.587  0.75  3.21           O 0
+ATOM    953    O ILE X 130      25.812   8.100  53.588  0.36  3.21           O 0
+ATOM    788   CG LYS X 109      31.059  11.319  51.314  0.00  0.00           C 0
+ATOM    784   CA LYS X 109      28.787  12.351  51.835  0.00  0.00           C 0
+ATOM    779    O VAL X 108      27.710  12.185  49.275  0.39  2.14           O 0
+ATOM   1259  OG1 THR X 170      29.555   4.108  49.865  0.00  0.00           O 0
+ATOM    786    O LYS X 109      27.586  12.165  53.897  0.00  0.00           O 0
+ATOM    766   CA GLY X 106      30.330   8.794  47.269  0.00  0.00           C 0
+ATOM   1260  CG2 THR X 170      28.801   5.278  47.895  0.00  0.00           C 0
+ATOM    768    O GLY X 106      31.804  10.164  48.547  0.53  5.36           O 0
+ATOM    969  CG2 VAL X 132      25.150   6.809  49.494  0.00  0.00           C 0
+ATOM    740    O ILE X 103      26.742   8.977  46.932  0.27  1.07           O 0
+TER
+END

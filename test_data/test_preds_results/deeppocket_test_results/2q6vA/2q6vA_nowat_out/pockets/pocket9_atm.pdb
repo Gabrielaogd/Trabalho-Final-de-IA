@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0363
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.1260
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6293
+HEADER 5  - Mean B-factor of pocket residues  : 0.2226
+HEADER 6  - Hydrophobicity Score              : 39.7143
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 383.2089
+HEADER 10 - Pocket volume (convex hull)       : 19.1853
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.3846
+ATOM   1460    C VAL A 194      23.033  82.323  23.477  0.00  0.00           C 0
+ATOM   1477   CD ARG A 196      20.498  78.089  28.357  0.00  0.00           C 0
+ATOM   1463  CG1 VAL A 194      25.754  83.191  24.667  0.00  0.00           C 0
+ATOM   1461    O VAL A 194      22.816  83.507  23.842  0.62  6.43           O 0
+ATOM   1459   CA VAL A 194      24.395  81.848  23.005  0.00  0.00           C 0
+ATOM   1440    O ALA A 191      27.315  76.460  21.668  0.00  0.00           O 0
+ATOM   1464  CG2 VAL A 194      26.654  82.696  22.480  0.00  0.00           C 0
+ATOM   1478   NE ARG A 196      21.530  77.050  28.366  0.00  0.00           N 0
+ATOM   2928   OH TYR A 382      21.410  75.187  23.889  0.00  0.00           O 0
+ATOM   1481  NH2 ARG A 196      22.356  74.939  28.756  0.00  0.00           N 0
+ATOM   1438   CA ALA A 191      26.112  74.541  21.003  0.00  0.00           C 0
+ATOM   1435    O ALA A 190      23.807  76.135  21.031  0.41  1.07           O 0
+ATOM   1476   CG ARG A 196      20.166  78.410  26.938  0.00  0.00           C 0
+ATOM   1466   CA SER A 195      20.784  81.705  23.961  0.00  0.00           C 0
+ATOM   1468    O SER A 195      20.615  79.330  23.759  0.00  0.00           O 0
+ATOM   1465    N SER A 195      22.099  81.398  23.487  0.59  1.09           N 0
+ATOM   1454    O VAL A 193      23.657  79.244  22.184  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0911
+HEADER 1  - Drug Score                        : 0.1427
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0550
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6050
+HEADER 5  - Mean B-factor of pocket residues  : 0.6461
+HEADER 6  - Hydrophobicity Score              : 7.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 160.2755
+HEADER 10 - Pocket volume (convex hull)       : 3.1026
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM   1920   CA SER A 263     -31.327  -6.114  -3.861  0.00  0.00           C 0
+ATOM   1921    C SER A 263     -32.715  -6.253  -4.544  0.00  0.00           C 0
+ATOM    333   CD ARG A  48     -33.008  -3.022  -0.225  0.00  0.00           C 0
+ATOM   1923   CB SER A 263     -30.289  -5.658  -4.857  0.00  0.00           C 0
+ATOM    897   CB PRO A 125     -31.251  -1.132  -9.477  0.00  0.00           C 0
+ATOM    894   CA PRO A 125     -29.928  -1.455  -8.770  0.00  0.00           C 0
+ATOM    334   NE ARG A  48     -33.392  -4.324  -0.735  0.73  1.09           N 0
+ATOM    884   CB ALA A 123     -28.761  -0.172  -2.965  0.00  0.00           C 0
+ATOM    888    O ASN A 124     -27.436  -0.837  -7.589  0.00  0.00           O 0
+ATOM    883    O ALA A 123     -29.842   1.767  -5.026  0.52  8.57           O 0
+ATOM    899   CD PRO A 125     -30.540   0.880  -8.445  0.00  0.00           C 0
+ATOM    893    N PRO A 125     -29.487  -0.169  -8.260  0.00  0.00           N 0
+ATOM    956  CH2 TRP A 131     -29.280  -3.177  -1.149  0.00  0.00           C 0
+TER
+END

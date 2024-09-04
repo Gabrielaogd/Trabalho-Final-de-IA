@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0596
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.8908
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4773
+HEADER 5  - Mean B-factor of pocket residues  : 0.0881
+HEADER 6  - Hydrophobicity Score              : -6.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 291.3475
+HEADER 10 - Pocket volume (convex hull)       : 15.0853
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    163   CZAARG A  34      -2.172  39.780  14.635  0.00  0.00           C 0
+ATOM    600  OE1 GLU A  85      -5.748  35.211  18.678  0.00  0.00           O 0
+ATOM    165  NH1AARG A  34      -1.672  38.588  14.942  0.68  7.66           N 0
+ATOM    919  OE2 GLU A 123      -0.053  40.383  17.442  0.00  0.00           O 0
+ATOM    167  NH2AARG A  34      -1.679  40.869  15.212  0.00  0.00           N 0
+ATOM    159   CDAARG A  34      -3.793  38.753  13.068  0.00  0.00           C 0
+ATOM    161   NEAARG A  34      -3.163  39.886  13.753  0.70  6.56           N 0
+ATOM    493  OE1 GLN A  72      -9.301  40.929  16.120  0.38  5.36           O 0
+ATOM    494  NE2 GLN A  72      -9.338  42.760  14.801  0.53  6.56           N 0
+ATOM    509   CD PRO A  74      -7.107  35.330  11.082  0.00  0.00           C 0
+ATOM    602    N SER A  86      -5.214  33.121  14.799  0.45  2.19           N 0
+ATOM    594   CA GLU A  85      -6.816  32.903  16.598  0.00  0.00           C 0
+ATOM    506    O PRO A  74      -9.594  33.519  12.466  0.29  1.07           O 0
+ATOM    593    N GLU A  85      -8.206  32.567  16.215  0.33  1.09           N 0
+ATOM    498    O ILE A  73      -8.292  37.760  11.424  0.73  7.50           O 0
+ATOM    607   OG SER A  86      -2.887  34.695  14.024  0.73  3.21           O 0
+ATOM    601  OE2 GLU A  85      -7.775  35.657  19.370  0.37  6.43           O 0
+ATOM    463  NE2 GLN A  68     -10.963  36.561  15.850  0.33  7.66           N 0
+ATOM    599   CD GLU A  85      -6.890  34.844  19.033  0.00  0.00           C 0
+TER
+END

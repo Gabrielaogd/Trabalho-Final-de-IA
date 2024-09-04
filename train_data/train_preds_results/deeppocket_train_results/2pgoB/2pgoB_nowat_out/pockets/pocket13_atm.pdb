@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0048
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5816
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4713
+HEADER 5  - Mean B-factor of pocket residues  : 0.1031
+HEADER 6  - Hydrophobicity Score              : 23.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 152.8574
+HEADER 10 - Pocket volume (convex hull)       : 3.5622
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1333   CB ASP B 173      85.069  34.191   4.519  0.00  0.00           C 0
+ATOM     59  CD2 LEU B   9      82.714  33.486   7.514  0.00  0.00           C 0
+ATOM     83  OE2 GLU B  12      83.737  29.032   6.950  0.08  4.29           O 0
+ATOM   1332    O ASP B 173      87.665  34.353   5.788  0.49  2.14           O 0
+ATOM   1368  CG2 VAL B 177      84.991  31.531  10.418  0.00  0.00           C 0
+ATOM   1386  NH2 ARG B 179      86.436  28.257   7.796  0.27  4.37           N 0
+ATOM   1336  OD2 ASP B 173      85.017  32.062   3.489  0.05  7.50           O 0
+ATOM   1365    O VAL B 177      89.322  30.871  10.781  0.66  2.14           O 0
+ATOM   1383   NE ARG B 179      88.452  27.997   8.887  0.38  1.09           N 0
+ATOM   1334   CG ASP B 173      85.576  33.203   3.499  0.00  0.00           C 0
+ATOM   1335  OD1 ASP B 173      86.457  33.563   2.684  0.81  7.50           O 0
+ATOM   1349    N ALA B 175      90.608  34.257   6.241  0.00  0.00           N 0
+ATOM   1338   CA LYS B 174      89.683  35.210   4.210  0.00  0.00           C 0
+ATOM   1362    N VAL B 177      87.504  33.127  10.262  0.00  0.00           N 0
+ATOM   1354    N LEU B 176      88.982  34.751   8.462  0.00  0.00           N 0
+ATOM   1350   CA ALA B 175      91.212  34.175   7.584  0.00  0.00           C 0
+ATOM   1381   CG ARG B 179      90.763  27.978   9.645  0.00  0.00           C 0
+TER
+END

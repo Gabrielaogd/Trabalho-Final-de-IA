@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.0921
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9117
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5550
+HEADER 5  - Mean B-factor of pocket residues  : 0.4342
+HEADER 6  - Hydrophobicity Score              : 30.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 150.3067
+HEADER 10 - Pocket volume (convex hull)       : 2.7316
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM    509   CD LYS A 885       0.613  46.697   2.516  0.00  0.00           C 0
+ATOM    507   CB LYS A 885       1.929  46.165   4.589  0.00  0.00           C 0
+ATOM    485   OG SER A 882      -3.661  47.402   6.691  0.00  0.00           O 0
+ATOM    481   CA SER A 882      -2.142  45.553   6.725  0.00  0.00           C 0
+ATOM    483    O SER A 882      -0.005  45.307   7.743  0.41  1.07           O 0
+ATOM    517  CG1 ILE A 886       1.698  47.256   9.921  0.00  0.00           C 0
+ATOM    519  CD1 ILE A 886       0.581  47.288  10.952  0.00  0.00           C 0
+ATOM    484   CB SER A 882      -3.097  46.424   7.539  0.00  0.00           C 0
+ATOM      1    N ARG A 817      -1.008  52.384   1.937  0.36  5.47           N 0
+ATOM    511   NZ LYS A 885      -0.757  47.263   0.684  0.00  0.00           N 0
+ATOM     16   CB LEU A 818       3.005  49.739   3.215  0.00  0.00           C 0
+ATOM     18  CD1 LEU A 818       3.522  49.860   5.702  0.00  0.00           C 0
+ATOM     17   CG LEU A 818       3.362  50.654   4.401  0.00  0.00           C 0
+ATOM     12    N LEU A 818       1.508  51.167   1.856  0.32  1.09           N 0
+TER
+END

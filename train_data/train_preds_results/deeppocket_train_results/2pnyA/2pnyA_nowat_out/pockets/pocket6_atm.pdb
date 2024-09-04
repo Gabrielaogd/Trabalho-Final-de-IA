@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.2586
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0742
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6255
+HEADER 5  - Mean B-factor of pocket residues  : 0.1082
+HEADER 6  - Hydrophobicity Score              : 12.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 281.5707
+HEADER 10 - Pocket volume (convex hull)       : 10.5126
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4286
+ATOM   1955    C HIS A 222      42.913  18.362  -2.108  0.00  0.00           C 0
+ATOM   1972    N ILE A 224      42.719  20.365   1.912  0.52  4.37           N 0
+ATOM   1977  CG1 ILE A 224      40.964  18.479   3.614  0.00  0.00           C 0
+ATOM   1956    O HIS A 222      44.150  18.300  -2.036  0.46  5.36           O 0
+ATOM    278    O ASN A  27      40.203  12.943   4.148  0.00  0.00           O 0
+ATOM    287   CB ASP A  28      37.701  14.510   4.616  0.00  0.00           C 0
+ATOM   1146  CD1 ILE A 133      37.267  18.769   1.524  0.00  0.00           C 0
+ATOM    290  OD2 ASP A  28      35.791  14.956   3.165  0.26  6.43           O 0
+ATOM   1963    N LYS A 223      42.178  19.190  -1.372  0.00  0.00           N 0
+ATOM   1966    O LYS A 223      40.754  20.532   0.749  0.00  0.00           O 0
+ATOM   1954   CA HIS A 222      42.151  17.413  -3.049  0.00  0.00           C 0
+ATOM   1953    N HIS A 222      40.988  18.023  -3.704  0.34  4.37           N 0
+ATOM   1979  CD1 ILE A 224      40.971  17.169   4.455  0.00  0.00           C 0
+ATOM    281  OD1 ASN A  27      44.713  13.423   5.551  0.00  0.00           O 0
+ATOM    276   CA ASN A  27      41.778  13.427   5.899  0.00  0.00           C 0
+ATOM   1976   CB ILE A 224      41.943  19.523   4.155  0.00  0.00           C 0
+ATOM   2000  NH2 ARG A 226      44.341  17.394   6.528  0.00  0.00           N 0
+TER
+END

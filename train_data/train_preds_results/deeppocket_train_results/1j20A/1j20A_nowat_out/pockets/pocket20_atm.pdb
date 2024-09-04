@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0010
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1256
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6228
+HEADER 5  - Mean B-factor of pocket residues  : 0.1605
+HEADER 6  - Hydrophobicity Score              : 17.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 239.0847
+HEADER 10 - Pocket volume (convex hull)       : 4.1693
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   1546   CE MET A 202     -12.783  62.029  64.441  0.00  0.00           C 0
+ATOM   1861   CB ASN A 243     -15.748  64.557  64.309  0.00  0.00           C 0
+ATOM   1837  NE2 GLN A 240     -16.180  66.476  68.895  0.00  0.00           N 0
+ATOM   1836  OE1 GLN A 240     -14.027  66.789  68.304  0.73  5.36           O 0
+ATOM    280    O GLY A  36      -8.574  63.454  68.651  0.30  5.36           O 0
+ATOM   1353  CD2 LEU A 178     -11.113  67.042  66.269  0.00  0.00           C 0
+ATOM   1544   CG MET A 202     -14.067  59.645  64.916  0.00  0.00           C 0
+ATOM   1542    O MET A 202     -16.956  58.565  65.525  0.08  9.64           O 0
+ATOM   1865    N GLU A 244     -18.740  64.813  65.040  0.00  0.00           N 0
+ATOM   1859    C ASN A 243     -18.176  63.983  64.171  0.00  0.00           C 0
+ATOM   1860    O ASN A 243     -18.574  62.841  63.985  0.39  1.07           O 0
+ATOM   1864  ND2 ASN A 243     -13.371  65.068  64.243  0.00  0.00           N 0
+ATOM   1866   CA GLU A 244     -19.898  64.432  65.856  0.00  0.00           C 0
+ATOM   1870   CG GLU A 244     -19.260  65.988  67.781  0.00  0.00           C 0
+TER
+END

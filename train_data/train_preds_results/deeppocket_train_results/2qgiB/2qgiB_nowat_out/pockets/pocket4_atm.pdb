@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1023
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.6515
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4965
+HEADER 5  - Mean B-factor of pocket residues  : 0.2175
+HEADER 6  - Hydrophobicity Score              : 18.7500
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 148.6364
+HEADER 10 - Pocket volume (convex hull)       : 3.4111
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1429
+ATOM    123   SD MET B  17      99.479   5.990 -18.047  0.00  0.00           S 0
+ATOM    124   CE MET B  17     100.450   7.145 -19.083  0.00  0.00           C 0
+ATOM    613   CZ ARG B  76     100.001   9.044 -14.345  0.00  0.00           C 0
+ATOM    118   CA MET B  17     101.282   3.457 -16.895  0.00  0.00           C 0
+ATOM    105    O THR B  15     105.788   4.882 -15.324  0.00  0.00           O 0
+ATOM    614  NH1 ARG B  76      99.695   9.364 -15.624  0.43  3.28           N 0
+ATOM    615  NH2 ARG B  76     101.005   9.677 -13.703  0.53  5.47           N 0
+ATOM    112    O LEU B  16     102.261   3.221 -14.363  0.00  0.00           O 0
+ATOM    354    O ASP B  45     107.464   2.522 -18.628  0.73  8.57           O 0
+ATOM    752   OH TYR B  92     102.206   4.960 -21.323  0.71  6.43           O 0
+ATOM    367   NZ LYS B  46     105.886   5.294 -23.002  0.00  0.00           N 0
+ATOM    364   CG LYS B  46     105.468   2.793 -21.918  0.00  0.00           C 0
+ATOM    360   CA LYS B  46     105.253   1.345 -19.832  0.00  0.00           C 0
+ATOM    117    N MET B  17     102.611   2.993 -16.591  0.64  1.09           N 0
+ATOM    121   CB MET B  17     101.195   3.780 -18.392  0.00  0.00           C 0
+ATOM    101   OG SER B  14     101.748   5.825 -11.479  0.00  0.00           O 0
+ATOM     99    O SER B  14     104.408   6.847 -11.600  0.56  1.07           O 0
+TER
+END

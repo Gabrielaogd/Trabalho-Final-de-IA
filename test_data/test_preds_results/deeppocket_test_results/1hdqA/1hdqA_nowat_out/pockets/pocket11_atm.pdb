@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0855
+HEADER 1  - Drug Score                        : 0.0357
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9463
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5934
+HEADER 5  - Mean B-factor of pocket residues  : 0.1697
+HEADER 6  - Hydrophobicity Score              : 29.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.8431
+HEADER 10 - Pocket volume (convex hull)       : 4.6990
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   1028  CZ3 TRP A 126       7.742  22.042   2.750  0.00  0.00           C 0
+ATOM   1115   CA CYS A 138      14.978  21.937   0.828  0.00  0.00           C 0
+ATOM   1120    N VAL A 139      13.040  20.622   0.269  0.00  0.00           N 0
+ATOM   1119   SG CYS A 138      15.163  24.584   1.615  0.00  0.00           S 0
+ATOM   1118   CB CYS A 138      14.773  23.362   0.318  0.00  0.00           C 0
+ATOM   1049   NZ LYS A 128      10.005  24.215  -1.888  0.00  0.00           N 0
+ATOM   1291  OE1 GLU A 163       6.586  26.511   0.523  0.59  2.14           O 0
+ATOM   1275    O CYS A 161      11.731  27.537   0.038  0.48  6.43           O 0
+ATOM   1029  CH2 TRP A 126       8.353  21.470   1.613  0.00  0.00           C 0
+ATOM   1123    O VAL A 139      10.476  21.210  -0.859  0.00  0.00           O 0
+ATOM   1126  CG2 VAL A 139      12.725  18.010   1.410  0.00  0.00           C 0
+ATOM   1124   CB VAL A 139      11.634  18.608   0.526  0.00  0.00           C 0
+ATOM   1066  NH1 ARG A 130       8.404  18.213   2.737  0.63  2.19           N 0
+TER
+END

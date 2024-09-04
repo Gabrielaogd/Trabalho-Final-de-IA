@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1913
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0622
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7576
+HEADER 5  - Mean B-factor of pocket residues  : 0.0591
+HEADER 6  - Hydrophobicity Score              : 45.4444
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 265.7006
+HEADER 10 - Pocket volume (convex hull)       : 6.1265
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    916  OG1 THR C 121      -5.357   5.903  35.615  0.56  9.64           O 0
+ATOM    610    N GLY C  82      -5.272   1.885  32.518  0.71  1.09           N 0
+ATOM    925  CD2 LEU C 122      -3.799   5.270  29.166  0.00  0.00           C 0
+ATOM    611   CA GLY C  82      -4.797   1.524  33.829  0.00  0.00           C 0
+ATOM    922   CB LEU C 122      -5.686   5.823  30.692  0.00  0.00           C 0
+ATOM    606    O THR C  81      -3.774   0.602  31.409  0.82  6.43           O 0
+ATOM    512   CB THR C  67      -0.761   2.930  39.431  0.00  0.00           C 0
+ATOM    617    O PHE C  83      -4.088   2.353  38.628  0.80  1.07           O 0
+ATOM    514  CG2 THR C  67      -1.344   4.180  40.032  0.00  0.00           C 0
+ATOM    515    N LEU C  68      -1.573   0.193  38.187  0.00  0.00           N 0
+ATOM    517    C LEU C  68      -1.975  -0.640  35.951  0.00  0.00           C 0
+ATOM    513  OG1 THR C  67       0.670   2.938  39.586  0.00  0.00           O 0
+ATOM    516   CA LEU C  68      -1.241  -0.905  37.266  0.00  0.00           C 0
+ATOM    114    O VAL C  15       2.840  -2.059  37.081  0.00  0.00           O 0
+ATOM    605    C THR C  81      -4.753   1.355  31.414  0.00  0.00           C 0
+ATOM    524   CA GLY C  69      -2.222  -1.100  33.611  0.00  0.00           C 0
+ATOM    518    O LEU C  68      -2.917   0.161  35.904  0.65  4.29           O 0
+ATOM    523    N GLY C  69      -1.564  -1.299  34.875  0.44  1.09           N 0
+ATOM    614    N PHE C  83      -5.260   1.880  36.121  0.00  0.00           N 0
+TER
+END

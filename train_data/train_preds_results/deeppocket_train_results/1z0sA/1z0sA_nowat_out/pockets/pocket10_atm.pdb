@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0476
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0854
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6949
+HEADER 5  - Mean B-factor of pocket residues  : 0.5121
+HEADER 6  - Hydrophobicity Score              : -20.7500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 324.5682
+HEADER 10 - Pocket volume (convex hull)       : 15.8902
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM    118   CZ ARG A  15     -35.900 -10.279 -21.067  0.00  0.00           C 0
+ATOM     92  CE1 HIS A  12     -31.765 -10.767 -17.917  0.00  0.00           C 0
+ATOM    120  NH2 ARG A  15     -36.920 -10.863 -20.441  0.00  0.00           N 0
+ATOM    119  NH1 ARG A  15     -34.668 -10.743 -20.875  0.51  2.19           N 0
+ATOM    638    N GLU A  82     -31.576  -4.768 -17.986  0.00  0.00           N 0
+ATOM    642   CB GLU A  82     -32.777  -3.523 -16.208  0.00  0.00           C 0
+ATOM    639   CA GLU A  82     -32.811  -4.047 -17.665  0.00  0.00           C 0
+ATOM    633    C PRO A  81     -31.455  -5.517 -19.080  0.00  0.00           C 0
+ATOM    637   CD PRO A  81     -28.272  -6.350 -17.709  0.00  0.00           C 0
+ATOM    645  OE1 GLU A  82     -30.355  -1.877 -15.120  0.00  0.00           O 0
+ATOM    635   CB PRO A  81     -30.137  -7.576 -18.487  0.00  0.00           C 0
+ATOM    636   CG PRO A  81     -28.749  -7.726 -17.997  0.00  0.00           C 0
+ATOM    634    O PRO A  81     -32.336  -5.623 -19.931  0.67  3.21           O 0
+ATOM    641    O GLU A  82     -34.281  -2.632 -18.928  0.00  0.00           O 0
+ATOM    117   NE ARG A  15     -36.143  -9.245 -21.878  0.70  4.37           N 0
+ATOM     90  ND1 HIS A  12     -31.942 -10.877 -19.221  0.52  1.09           N 0
+ATOM    116   CD ARG A  15     -35.140  -8.490 -22.638  0.00  0.00           C 0
+TER
+END

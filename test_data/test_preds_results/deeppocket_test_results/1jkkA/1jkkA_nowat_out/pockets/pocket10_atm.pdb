@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0241
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7705
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4844
+HEADER 5  - Mean B-factor of pocket residues  : 0.2320
+HEADER 6  - Hydrophobicity Score              : 21.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 158.6475
+HEADER 10 - Pocket volume (convex hull)       : 2.9865
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM      7  CG2 THR A   2      29.769  31.185  -9.489  0.00  0.00           C 0
+ATOM      6  OG1 THR A   2      32.154  30.901  -9.361  0.00  0.00           O 0
+ATOM    522  CG1 VAL A  65      28.875  28.954  -3.361  0.00  0.00           C 0
+ATOM    554   NZ LYS A  69      27.260  27.286  -7.449  0.00  0.00           N 0
+ATOM     23  CE1 PHE A   4      27.898  31.784  -5.774  0.00  0.00           C 0
+ATOM    552   CD LYS A  69      28.163  25.543  -5.890  0.00  0.00           C 0
+ATOM    525   CA SER A  66      32.556  26.491  -3.219  0.00  0.00           C 0
+ATOM      5   CB THR A   2      31.082  31.788  -9.017  0.00  0.00           C 0
+ATOM     25   CZ PHE A   4      28.727  32.641  -5.051  0.00  0.00           C 0
+ATOM    550   CB LYS A  69      28.938  23.753  -4.340  0.00  0.00           C 0
+ATOM    529   OG SER A  66      34.574  25.986  -4.440  0.48  9.64           O 0
+ATOM    491    O GLU A  62      33.398  29.928  -2.571  0.00  0.00           O 0
+ATOM    492   CB GLU A  62      33.807  32.865  -3.811  0.00  0.00           C 0
+ATOM    527    O SER A  66      32.572  24.105  -2.896  0.37  4.29           O 0
+ATOM    528   CB SER A  66      33.908  26.997  -3.719  0.00  0.00           C 0
+ATOM    524    N SER A  66      31.888  27.543  -2.458  0.00  0.00           N 0
+TER
+END

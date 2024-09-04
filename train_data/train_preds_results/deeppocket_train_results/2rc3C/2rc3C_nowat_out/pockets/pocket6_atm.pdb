@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0043
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0517
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5012
+HEADER 5  - Mean B-factor of pocket residues  : 0.7377
+HEADER 6  - Hydrophobicity Score              : 10.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 332.1514
+HEADER 10 - Pocket volume (convex hull)       : 16.1513
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM      3    C HIS C  22      48.372  37.771  33.604  0.00  0.00           C 0
+ATOM      4    O HIS C  22      49.072  38.757  33.333  0.38  5.36           O 0
+ATOM      9    O MET C  23      51.385  35.975  33.619  0.27  7.50           O 0
+ATOM      1    N HIS C  22      46.728  36.118  32.725  0.10  9.84           N 0
+ATOM      2   CA HIS C  22      47.022  37.568  32.923  0.00  0.00           C 0
+ATOM    968    O ASP C 146      48.883  43.806  28.481  0.59  4.29           O 0
+ATOM    976    O ALA C 147      45.307  43.975  28.951  0.00  0.00           O 0
+ATOM    989    O SER C 149      47.318  42.286  25.807  0.76  5.36           O 0
+ATOM     21   CE LYS C  24      53.359  39.329  29.704  0.00  0.00           C 0
+ATOM    974   CA ALA C 147      47.029  44.830  30.374  0.00  0.00           C 0
+ATOM    977   CB ALA C 147      46.397  45.608  31.514  0.00  0.00           C 0
+ATOM      5   CB HIS C  22      45.914  38.235  33.747  0.00  0.00           C 0
+ATOM    708  ND2 ASN C 111      50.106  41.173  34.499  0.85  2.19           N 0
+ATOM     22   NZ LYS C  24      53.086  40.218  28.529  0.76  4.37           N 0
+ATOM    736   CE MET C 115      47.660  44.567  36.718  0.00  0.00           C 0
+ATOM    972  OD2 ASP C 146      50.981  42.788  31.286  0.52  4.29           O 0
+ATOM    971  OD1 ASP C 146      52.209  42.796  29.455  0.00  0.00           O 0
+TER
+END

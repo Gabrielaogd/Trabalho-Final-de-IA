@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.2331
+HEADER 1  - Drug Score                        : 0.2320
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0840
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6878
+HEADER 5  - Mean B-factor of pocket residues  : 0.0811
+HEADER 6  - Hydrophobicity Score              : 72.2500
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 126.2248
+HEADER 10 - Pocket volume (convex hull)       : 0.2061
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.8824
+ATOM    245  CD2 LEU A 924      69.333  69.173  38.764  0.00  0.00           C 0
+ATOM    218  CD2 PHE A 921      72.381  72.887  35.804  0.00  0.00           C 0
+ATOM    220  CE2 PHE A 921      71.671  72.831  34.603  0.00  0.00           C 0
+ATOM    209   CB SER A 920      69.556  76.382  40.550  0.00  0.00           C 0
+ATOM    212   CA PHE A 921      72.800  73.753  38.880  0.00  0.00           C 0
+ATOM    208    O SER A 920      71.237  73.611  41.097  0.65  1.07           O 0
+ATOM    211    N PHE A 921      72.179  74.913  39.533  0.00  0.00           N 0
+ATOM    207    C SER A 920      71.438  74.728  40.623  0.00  0.00           C 0
+ATOM    183  CD1 LEU A 917      68.608  78.324  36.100  0.00  0.00           C 0
+ATOM    217  CD1 PHE A 921      72.425  75.283  35.676  0.00  0.00           C 0
+ATOM    180    O LEU A 917      71.873  77.480  38.233  0.00  0.00           O 0
+ATOM    221   CZ PHE A 921      71.338  74.004  33.937  0.00  0.00           C 0
+ATOM    219  CE1 PHE A 921      71.714  75.237  34.475  0.00  0.00           C 0
+ATOM    216   CG PHE A 921      72.767  74.112  36.349  0.00  0.00           C 0
+TER
+END

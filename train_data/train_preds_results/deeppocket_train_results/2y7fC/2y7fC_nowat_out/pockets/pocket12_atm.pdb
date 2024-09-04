@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.1128
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8085
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4830
+HEADER 5  - Mean B-factor of pocket residues  : 0.4423
+HEADER 6  - Hydrophobicity Score              : 47.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 240.8635
+HEADER 10 - Pocket volume (convex hull)       : 8.4054
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   1272    O GLN C 164      -6.968 -15.822  37.346  0.58  5.36           O 0
+ATOM   1285  ND2 ASN C 165      -5.580 -12.676  33.207  0.00  0.00           N 0
+ATOM   1283   CG ASN C 165      -4.934 -13.218  34.230  0.00  0.00           C 0
+ATOM   1222  CG2 ILE C 157     -11.087 -17.481  32.893  0.00  0.00           C 0
+ATOM   1282   CB ASN C 165      -5.590 -13.077  35.587  0.00  0.00           C 0
+ATOM   1223  CD1 ILE C 157      -9.510 -19.977  34.149  0.00  0.00           C 0
+ATOM   1541  CG2 ILE C 197      -6.253 -20.935  32.627  0.00  0.00           C 0
+ATOM   1297   CB LEU C 167      -5.546 -19.206  37.376  0.00  0.00           C 0
+ATOM   1555  OG1 THR C 199      -3.551 -16.881  31.938  0.43  7.50           O 0
+ATOM   1293    N LEU C 167      -3.638 -17.683  37.155  0.38  1.09           N 0
+ATOM   1265    O THR C 163      -8.876 -13.038  37.464  0.17  5.36           O 0
+ATOM   1263   CA THR C 163     -11.055 -13.957  37.780  0.00  0.00           C 0
+ATOM   1266   CB THR C 163     -11.758 -12.636  38.130  0.00  0.00           C 0
+ATOM   1268  CG2 THR C 163     -13.201 -12.605  37.684  0.00  0.00           C 0
+ATOM   1257    O ILE C 162     -12.066 -16.301  36.638  0.67  1.07           O 0
+ATOM   1219    O ILE C 157     -14.163 -16.412  33.249  0.45  6.43           O 0
+TER
+END

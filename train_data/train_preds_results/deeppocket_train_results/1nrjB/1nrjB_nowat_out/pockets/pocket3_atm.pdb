@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1109
+HEADER 1  - Drug Score                        : 0.0038
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9727
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6576
+HEADER 5  - Mean B-factor of pocket residues  : 0.0854
+HEADER 6  - Hydrophobicity Score              : 25.9167
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.5833
+HEADER 9  - Pocket volume (Monte Carlo)       : 420.9703
+HEADER 10 - Pocket volume (convex hull)       : 42.6047
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.2500
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM    178  OG1 THR B  59      20.021  41.752  10.691  0.73  5.36           O 0
+ATOM    177   CB THR B  59      19.709  40.747   9.673  0.00  0.00           C 0
+ATOM    179  CG2 THR B  59      18.337  40.094  10.069  0.00  0.00           C 0
+ATOM    296    O SER B  74      12.833  43.439   9.928  0.00  0.00           O 0
+ATOM    303   CB ALA B  75      14.638  40.115   9.596  0.00  0.00           C 0
+ATOM    291  CD1 LEU B  73      14.855  46.383  12.822  0.00  0.00           C 0
+ATOM    146  CD1ALEU B  55      16.332  42.300  13.306  0.00  0.00           C 0
+ATOM    292  CD2 LEU B  73      16.431  45.348  14.554  0.00  0.00           C 0
+ATOM    155  OG1 THR B  56      21.285  44.813  15.176  0.71  7.50           O 0
+ATOM    156  CG2 THR B  56      23.398  44.434  14.007  0.00  0.00           C 0
+ATOM    186  CG2 THR B  60      22.964  43.696   9.391  0.00  0.00           C 0
+ATOM    222  NH1AARG B  64      24.712  47.244   9.995  0.00  0.00           N 0
+ATOM    216   CDAARG B  64      26.018  47.508  12.481  0.00  0.00           C 0
+ATOM    212   CBAARG B  64      26.247  47.524  14.949  0.00  0.00           C 0
+ATOM    229    O PRO B  65      24.099  50.076  17.517  0.50  8.57           O 0
+ATOM    151   CA THR B  56      21.567  42.648  14.049  0.00  0.00           C 0
+ATOM    123  CG2 THR B  52      18.346  46.357  18.054  0.00  0.00           C 0
+ATOM    239  CG2 THR B  66      22.285  47.468  19.000  0.00  0.00           C 0
+ATOM    234   CA THR B  66      22.614  49.791  19.926  0.00  0.00           C 0
+ATOM    237   CB THR B  66      21.964  48.415  20.121  0.00  0.00           C 0
+ATOM    240    N VAL B  67      21.054  51.167  21.192  0.00  0.00           N 0
+ATOM    243    O VAL B  67      18.535  50.430  21.792  0.58  7.50           O 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1715
+HEADER 1  - Drug Score                        : 0.0704
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9523
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5585
+HEADER 5  - Mean B-factor of pocket residues  : 0.1267
+HEADER 6  - Hydrophobicity Score              : 39.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 278.8637
+HEADER 10 - Pocket volume (convex hull)       : 4.0035
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.6522
+ATOM   1279    N GLU B 165       7.410  20.201  74.397  0.69  2.19           N 0
+ATOM   1271    N ILE B 164       4.134  18.950  74.423  0.00  0.00           N 0
+ATOM   1451  CG1 VAL B 187       5.265  16.565  71.547  0.00  0.00           C 0
+ATOM   1273    C ILE B 164       6.635  19.138  74.614  0.00  0.00           C 0
+ATOM   1268   CB PRO B 163       1.891  19.699  71.895  0.00  0.00           C 0
+ATOM   1162  CG1 VAL B 147       2.241  16.476  68.248  0.00  0.00           C 0
+ATOM   1138  CE2 TYR B 144       7.647  18.880  66.816  0.00  0.00           C 0
+ATOM   1287  OE2 GLU B 165       9.048  21.207  69.064  0.00  0.00           O 0
+ATOM   1136  CD2 TYR B 144       6.945  18.420  65.702  0.00  0.00           C 0
+ATOM   1452  CG2 VAL B 187       7.090  16.424  69.843  0.00  0.00           C 0
+ATOM   1284   CG GLU B 165       9.166  20.475  71.344  0.00  0.00           C 0
+ATOM   1283   CB GLU B 165       8.998  21.097  72.730  0.00  0.00           C 0
+ATOM   1267    O PRO B 163       3.075  20.938  74.478  0.45  6.43           O 0
+ATOM   1285   CD GLU B 165       9.268  21.533  70.249  0.00  0.00           C 0
+ATOM   1269   CG PRO B 163       1.093  20.951  72.029  0.00  0.00           C 0
+ATOM   1286  OE1 GLU B 165       9.576  22.697  70.571  0.00  0.00           O 0
+ATOM   1266    C PRO B 163       3.119  19.757  74.125  0.00  0.00           C 0
+TER
+END

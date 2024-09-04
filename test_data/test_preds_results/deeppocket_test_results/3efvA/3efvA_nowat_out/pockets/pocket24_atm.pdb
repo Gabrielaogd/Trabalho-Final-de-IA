@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0094
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1816
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6958
+HEADER 5  - Mean B-factor of pocket residues  : 0.3384
+HEADER 6  - Hydrophobicity Score              : 41.1429
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 320.4497
+HEADER 10 - Pocket volume (convex hull)       : 9.1366
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM   2438    N ALA A 328     103.257  55.639  57.018  0.72  1.09           N 0
+ATOM   2439   CA ALA A 328     103.090  56.591  58.131  0.00  0.00           C 0
+ATOM   2436  CG1 VAL A 327     105.905  55.540  54.354  0.00  0.00           C 0
+ATOM   2442   CB ALA A 328     101.717  57.255  58.081  0.00  0.00           C 0
+ATOM   2414    O GLN A 324     101.133  55.626  55.042  0.77  3.21           O 0
+ATOM   2416   CG GLN A 324      99.640  56.710  50.868  0.00  0.00           C 0
+ATOM   2415   CB GLN A 324      99.343  56.272  52.307  0.00  0.00           C 0
+ATOM   2419  NE2 GLN A 324      99.115  58.879  49.939  0.00  0.00           N 0
+ATOM   2384  CE1 HIS A 320     100.347  55.613  46.941  0.00  0.00           C 0
+ATOM   2385  NE2 HIS A 320      99.568  56.678  47.048  0.00  0.00           N 0
+ATOM   2479  CD2 LEU A 333     107.291  53.313  49.084  0.00  0.00           C 0
+ATOM   2437  CG2 VAL A 327     105.041  53.440  53.301  0.00  0.00           C 0
+ATOM   2503    O GLY A 337     103.392  54.149  46.542  0.46  5.36           O 0
+ATOM   2435   CB VAL A 327     104.731  54.554  54.295  0.00  0.00           C 0
+ATOM   2412   CA GLN A 324     100.306  55.189  52.816  0.00  0.00           C 0
+ATOM   2409  CG1 VAL A 323     102.244  51.833  50.202  0.00  0.00           C 0
+TER
+END

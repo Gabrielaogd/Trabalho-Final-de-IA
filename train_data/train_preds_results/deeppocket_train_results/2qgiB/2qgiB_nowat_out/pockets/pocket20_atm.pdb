@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0454
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8379
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4597
+HEADER 5  - Mean B-factor of pocket residues  : 0.3608
+HEADER 6  - Hydrophobicity Score              : 10.5714
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 276.2943
+HEADER 10 - Pocket volume (convex hull)       : 9.4179
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM     33  CG2 THR B   6     105.801   5.417   4.799  0.00  0.00           C 0
+ATOM     52  CG2 VAL B   8     101.719   6.640   3.733  0.00  0.00           C 0
+ATOM     37    O TYR B   7     104.772   9.263   4.089  0.00  0.00           O 0
+ATOM     94  OE1 GLU B  13     105.722   7.645  -3.299  0.00  0.00           O 0
+ATOM     47   CA VAL B   8     102.080   9.085   3.308  0.00  0.00           C 0
+ATOM     53    N GLN B   9     101.882  10.854   1.640  0.00  0.00           N 0
+ATOM     95  OE2 GLU B  13     106.095   9.814  -3.646  0.72  7.50           O 0
+ATOM     58   CG GLN B   9     103.633  13.148   1.389  0.00  0.00           C 0
+ATOM     93   CD GLU B  13     105.546   8.714  -3.942  0.00  0.00           C 0
+ATOM     75   CG LYS B  11     102.962  11.630  -3.788  0.00  0.00           C 0
+ATOM     57   CB GLN B   9     102.466  12.941   0.444  0.00  0.00           C 0
+ATOM     51  CG1 VAL B   8     100.424   7.750   1.793  0.00  0.00           C 0
+ATOM     73    O LYS B  11     100.862   9.269  -4.690  0.50  6.43           O 0
+ATOM   1298  NH2 ARG B 162     100.168   3.381  -7.170  0.35  5.47           N 0
+ATOM     91   CB GLU B  13     104.803   7.535  -6.080  0.00  0.00           C 0
+ATOM     87    N GLU B  13     102.646   7.946  -7.114  0.20  2.19           N 0
+ATOM     92   CG GLU B  13     104.608   8.724  -5.143  0.00  0.00           C 0
+ATOM     56    O GLN B   9     100.293  10.475  -0.556  0.58  6.43           O 0
+TER
+END

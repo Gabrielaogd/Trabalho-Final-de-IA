@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.1297
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8727
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4847
+HEADER 5  - Mean B-factor of pocket residues  : 0.3172
+HEADER 6  - Hydrophobicity Score              : 42.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 156.0349
+HEADER 10 - Pocket volume (convex hull)       : 2.6796
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM   1880   SG CYS A 256      16.806  13.245  -6.145  0.00  0.00           S 0
+ATOM   1230  CG1 VAL A 174      14.071  16.830  -8.912  0.00  0.00           C 0
+ATOM   1903  CD1 ILE A 259      15.015  18.268  -3.239  0.00  0.00           C 0
+ATOM   1876   CA CYS A 256      18.034  14.684  -4.113  0.00  0.00           C 0
+ATOM   1260   CE MET A 178      17.242  18.136 -10.424  0.00  0.00           C 0
+ATOM   1868   CB ARG A 255      20.643  18.167  -3.430  0.00  0.00           C 0
+ATOM   1871   NE ARG A 255      21.846  19.999  -5.519  0.00  0.00           N 0
+ATOM   1879   CB CYS A 256      18.292  14.022  -5.473  0.00  0.00           C 0
+ATOM   1308  OE2 GLU A 183      20.632  18.850  -9.604  0.77  2.14           O 0
+ATOM   1870   CD ARG A 255      21.714  20.346  -4.095  0.00  0.00           C 0
+ATOM   1875    N CYS A 256      19.230  15.357  -3.642  0.00  0.00           N 0
+ATOM   1847    O ALA A 252      21.631  15.267  -5.576  0.62  2.14           O 0
+ATOM   1866    C ARG A 255      19.173  16.294  -2.702  0.00  0.00           C 0
+TER
+END

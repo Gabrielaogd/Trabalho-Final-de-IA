@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0890
+HEADER 1  - Drug Score                        : 0.1373
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.1355
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5778
+HEADER 5  - Mean B-factor of pocket residues  : 0.1849
+HEADER 6  - Hydrophobicity Score              : 30.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 180.2043
+HEADER 10 - Pocket volume (convex hull)       : 2.0553
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 19.0000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.9091
+ATOM    692  CZ2 TRP A  86     -45.897 -23.331 -26.621  0.00  0.00           C 0
+ATOM    437   CG GLU A  58     -42.798 -21.222 -26.343  0.00  0.00           C 0
+ATOM    450  CE2 TRP A  59     -44.023 -16.434 -28.709  0.00  0.00           C 0
+ATOM    452  CZ2 TRP A  59     -45.330 -15.996 -28.928  0.00  0.00           C 0
+ATOM    448  CD2 TRP A  59     -43.193 -16.884 -29.766  0.00  0.00           C 0
+ATOM    454  CH2 TRP A  59     -45.799 -16.018 -30.220  0.00  0.00           C 0
+ATOM    440  OE2 GLU A  58     -43.646 -19.735 -24.696  0.72  6.43           O 0
+ATOM    689  NE1 TRP A  86     -45.414 -24.465 -28.811  0.39  1.09           N 0
+ATOM   1903   CA GLY A 242     -46.657 -24.212 -32.524  0.00  0.00           C 0
+ATOM    678  CE2 TYR A  85     -44.204 -20.905 -33.405  0.00  0.00           C 0
+ATOM   1898    O PRO A 241     -49.190 -24.677 -31.690  0.42  4.29           O 0
+ATOM    435    O GLU A  58     -41.371 -21.956 -29.434  0.69  1.07           O 0
+ATOM    676  CD2 TYR A  85     -43.636 -21.864 -32.587  0.00  0.00           C 0
+ATOM    453  CZ3 TRP A  59     -44.987 -16.464 -31.285  0.00  0.00           C 0
+ATOM    451  CE3 TRP A  59     -43.690 -16.897 -31.065  0.00  0.00           C 0
+TER
+END

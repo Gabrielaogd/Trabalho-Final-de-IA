@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0231
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0666
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6389
+HEADER 5  - Mean B-factor of pocket residues  : 0.2870
+HEADER 6  - Hydrophobicity Score              : 23.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 340.0798
+HEADER 10 - Pocket volume (convex hull)       : 6.5938
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 3.6667
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM   2535  NH2AARG B 316      28.078   6.612  37.743  0.00  0.00           N 0
+ATOM   2541   CB LYS B 317      27.314   8.817  45.092  0.00  0.00           C 0
+ATOM   2537    N LYS B 317      28.674  10.118  43.447  0.00  0.00           N 0
+ATOM   2530   NE ARG B 316      28.341   8.729  38.600  0.62  6.56           N 0
+ATOM   2545   NZ LYS B 317      24.680   5.138  44.478  0.00  0.00           N 0
+ATOM   2511    O VAL B 314      34.974  11.385  43.401  0.28  3.21           O 0
+ATOM   2516   CA ILE B 315      32.626  10.875  44.720  0.00  0.00           C 0
+ATOM   2931  OD1 ASN B 365      34.964   9.259  39.395  0.00  0.00           O 0
+ATOM   2520  CG1 ILE B 315      33.459   9.270  46.384  0.00  0.00           C 0
+ATOM   2523    N ARG B 316      31.326  10.776  42.744  0.00  0.00           N 0
+ATOM   2544   CE LYS B 317      24.466   6.537  44.882  0.00  0.00           C 0
+ATOM   2568  CG1 VAL B 320      23.209  12.560  41.361  0.00  0.00           C 0
+ATOM   2569  CG2 VAL B 320      25.565  12.511  40.550  0.00  0.00           C 0
+ATOM   2919    O LYS B 364      31.654   7.863  38.480  0.00  0.00           O 0
+ATOM   2521  CG2 ILE B 315      31.130   9.083  45.505  0.00  0.00           C 0
+ATOM   2567   CB VAL B 320      24.665  12.765  41.749  0.00  0.00           C 0
+ATOM   2527   CB ARG B 316      30.144  10.404  40.567  0.00  0.00           C 0
+ATOM   2538   CA LYS B 317      27.442  10.041  44.201  0.00  0.00           C 0
+TER
+END

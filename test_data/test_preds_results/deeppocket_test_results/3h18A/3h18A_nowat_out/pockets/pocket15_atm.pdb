@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0675
+HEADER 1  - Drug Score                        : 0.0046
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9658
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6489
+HEADER 5  - Mean B-factor of pocket residues  : 0.4094
+HEADER 6  - Hydrophobicity Score              : -4.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 288.4401
+HEADER 10 - Pocket volume (convex hull)       : 9.5457
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM     14   CB PRO A   4     -14.555   5.098 -24.916  0.00  0.00           C 0
+ATOM     11   CA PRO A   4     -13.575   5.855 -24.001  0.00  0.00           C 0
+ATOM     40  CG2 VAL A   7     -10.062   8.484 -24.333  0.00  0.00           C 0
+ATOM     39  CG1 VAL A   7     -10.708  10.180 -25.933  0.00  0.00           C 0
+ATOM     49   NZ LYS A   8     -18.191  10.497 -28.294  0.00  0.00           N 0
+ATOM     48   CE LYS A   8     -17.919  10.587 -26.791  0.00  0.00           C 0
+ATOM     47   CD LYS A   8     -17.477  12.033 -26.200  0.00  0.00           C 0
+ATOM     42   CA LYS A   8     -14.717  11.966 -24.117  0.00  0.00           C 0
+ATOM     38   CB VAL A   7     -11.088   9.475 -24.628  0.00  0.00           C 0
+ATOM     41    N LYS A   8     -13.634  11.047 -23.819  0.00  0.00           N 0
+ATOM     45   CB LYS A   8     -16.041  11.205 -24.133  0.00  0.00           C 0
+ATOM     13    O PRO A   4     -14.611   8.032 -23.807  0.67  2.14           O 0
+ATOM     73   CD LYS A  11     -12.669  16.163 -27.912  0.00  0.00           C 0
+ATOM     37    O VAL A   7     -12.099  12.678 -24.023  0.57  2.14           O 0
+TER
+END

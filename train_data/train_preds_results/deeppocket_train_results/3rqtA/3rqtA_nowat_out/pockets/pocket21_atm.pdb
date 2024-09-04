@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.1093
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8242
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5679
+HEADER 5  - Mean B-factor of pocket residues  : 0.3541
+HEADER 6  - Hydrophobicity Score              : 26.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 128.2440
+HEADER 10 - Pocket volume (convex hull)       : 0.6766
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM   2935   CGAGLU A 342      24.459  85.029  16.000  0.00  0.00           C 0
+ATOM   2892   CD LYS A 337      29.221  89.939  16.211  0.00  0.00           C 0
+ATOM   2891   CG LYS A 337      28.941  89.695  14.733  0.00  0.00           C 0
+ATOM   2894   NZ LYS A 337      26.779  90.347  16.637  0.71  8.75           N 0
+ATOM   2927   CAAGLU A 342      25.608  84.803  13.785  0.00  0.00           C 0
+ATOM   2858   CD GLN A 333      30.648  83.221  18.925  0.00  0.00           C 0
+ATOM   2857   CG GLN A 333      30.855  83.650  17.512  0.00  0.00           C 0
+ATOM   2860  NE2 GLN A 333      29.516  82.583  19.198  0.00  0.00           N 0
+ATOM   2855    O GLN A 333      31.665  85.571  14.887  0.71  2.14           O 0
+ATOM   2890   CB LYS A 337      30.055  88.892  14.129  0.00  0.00           C 0
+ATOM   2920    O ILE A 341      27.680  85.817  12.297  0.00  0.00           O 0
+ATOM   2943    N ILE A 343      26.994  83.009  14.564  0.70  1.09           N 0
+ATOM   2946    O ILE A 343      27.562  82.221  17.254  0.59  4.29           O 0
+ATOM   2941  OE2AGLU A 342      23.380  85.552  18.030  0.39  7.50           O 0
+TER
+END

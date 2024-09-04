@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1145
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7679
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6498
+HEADER 5  - Mean B-factor of pocket residues  : 0.1621
+HEADER 6  - Hydrophobicity Score              : 6.4444
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 194.6263
+HEADER 10 - Pocket volume (convex hull)       : 6.9732
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM   3578   CZ TYR A 478     -20.049  12.130  77.338  0.00  0.00           C 0
+ATOM   3577  CE2 TYR A 478     -20.748  13.281  77.309  0.00  0.00           C 0
+ATOM   3579   OH TYR A 478     -20.371  11.168  78.255  0.70  7.50           O 0
+ATOM   3558   CB PRO A 476     -21.677  15.866  80.500  0.00  0.00           C 0
+ATOM   3560   CD PRO A 476     -23.067  17.283  81.788  0.00  0.00           C 0
+ATOM   3554    N PRO A 476     -21.754  17.938  81.611  0.00  0.00           N 0
+ATOM   3542    O LYS A 474     -21.807  19.946  85.679  0.44  4.29           O 0
+ATOM   3559   CG PRO A 476     -22.674  15.847  81.639  0.00  0.00           C 0
+ATOM   3439  NH2 ARG A 460     -20.180  18.704  87.787  0.40  4.37           N 0
+ATOM   3535    O PRO A 473     -18.709  19.923  85.241  0.58  5.36           O 0
+ATOM   3550    C SER A 475     -21.243  19.095  82.054  0.00  0.00           C 0
+ATOM   3555   CA PRO A 476     -20.870  17.168  80.717  0.00  0.00           C 0
+ATOM   3551    O SER A 475     -20.119  19.500  81.730  0.00  0.00           O 0
+ATOM   3537   CG PRO A 473     -16.753  19.357  82.679  0.00  0.00           C 0
+ATOM   3192   CB PRO A 428     -15.676  12.959  78.176  0.00  0.00           C 0
+ATOM   3561    N VAL A 477     -19.016  17.837  79.196  0.66  1.09           N 0
+ATOM   3564    O VAL A 477     -17.138  16.180  77.523  0.73  1.07           O 0
+ATOM   3198    O ILE A 429     -14.727  16.982  80.576  0.00  0.00           O 0
+TER
+END

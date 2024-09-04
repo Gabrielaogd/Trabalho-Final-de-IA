@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0613
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0558
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5396
+HEADER 5  - Mean B-factor of pocket residues  : 0.2231
+HEADER 6  - Hydrophobicity Score              : 40.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 342.1792
+HEADER 10 - Pocket volume (convex hull)       : 12.2349
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4286
+ATOM    132   CE LYS A  20      -3.883  19.462  20.335  0.00  0.00           C 0
+ATOM    128    O LYS A  20      -7.805  17.050  17.305  0.68  4.29           O 0
+ATOM    135   CA GLN A  21      -9.121  18.996  15.827  0.00  0.00           C 0
+ATOM    130   CG LYS A  20      -4.805  18.314  18.295  0.00  0.00           C 0
+ATOM    139   CG GLN A  21      -9.348  21.453  15.125  0.00  0.00           C 0
+ATOM    108    O VAL A  17      -5.969  20.671  14.152  0.68  1.07           O 0
+ATOM    110  CG1 VAL A  17      -5.169  23.642  13.782  0.00  0.00           C 0
+ATOM    815   OH TYR A 113      -6.346  26.575  17.703  0.00  0.00           O 0
+ATOM    133   NZ LYS A  20      -2.815  20.363  20.848  0.00  0.00           N 0
+ATOM    814   CZ TYR A 113      -5.058  26.993  17.449  0.00  0.00           C 0
+ATOM    813  CE2 TYR A 113      -4.255  26.291  16.572  0.00  0.00           C 0
+ATOM    131   CD LYS A  20      -3.793  19.321  18.829  0.00  0.00           C 0
+ATOM    807    O TYR A 113      -0.607  25.865  18.918  0.46  5.36           O 0
+ATOM    134    N GLN A  21      -7.697  18.690  15.756  0.71  1.09           N 0
+ATOM    826  CE3 TRP A 114      -0.434  21.175  16.161  0.00  0.00           C 0
+ATOM    106   CA VAL A  17      -3.796  21.540  13.593  0.00  0.00           C 0
+TER
+END

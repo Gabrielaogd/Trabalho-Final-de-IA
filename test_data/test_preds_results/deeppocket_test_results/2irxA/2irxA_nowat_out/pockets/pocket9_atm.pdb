@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0612
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6713
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3789
+HEADER 5  - Mean B-factor of pocket residues  : 0.1934
+HEADER 6  - Hydrophobicity Score              : 17.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 191.9263
+HEADER 10 - Pocket volume (convex hull)       : 3.5462
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM    507   OG SER A  74      28.188  20.212 -11.471  0.00  0.00           O 0
+ATOM    509   CA ALA A  75      25.134  23.354 -12.751  0.00  0.00           C 0
+ATOM    731  CZ2 TRP A 104      23.463  24.685  -8.214  0.00  0.00           C 0
+ATOM    493   CB ALA A  72      29.547  23.376 -10.102  0.00  0.00           C 0
+ATOM    512   CB ALA A  75      25.378  24.785 -12.342  0.00  0.00           C 0
+ATOM    764  NE2 GLN A 108      25.211  22.647  -5.583  0.54  1.09           N 0
+ATOM    361  NH1 ARG A  56      27.985  22.085  -3.845  0.00  0.00           N 0
+ATOM    508    N ALA A  75      26.413  22.693 -13.063  0.00  0.00           N 0
+ATOM    489    N ALA A  72      29.293  25.830 -10.208  0.00  0.00           N 0
+ATOM    462  OE2 GLU A  68      28.027  25.749  -5.318  0.22  2.14           O 0
+ATOM    763  OE1 GLN A 108      24.110  20.929  -6.509  0.29  6.43           O 0
+ATOM    728  NE1 TRP A 104      21.926  22.819  -8.935  0.62  2.19           N 0
+ATOM    505    O SER A  74      25.433  20.754 -13.664  0.13  4.29           O 0
+ATOM    362  NH2 ARG A  56      26.560  20.374  -3.195  0.00  0.00           N 0
+TER
+END

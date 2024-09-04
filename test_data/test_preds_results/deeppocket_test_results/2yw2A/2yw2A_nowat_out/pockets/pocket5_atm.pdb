@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0664
+HEADER 1  - Drug Score                        : 0.1016
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9502
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5323
+HEADER 5  - Mean B-factor of pocket residues  : 0.2728
+HEADER 6  - Hydrophobicity Score              : 28.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 364.0096
+HEADER 10 - Pocket volume (convex hull)       : 22.4396
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.4286
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6364
+ATOM   3046    N LYS A 390     -18.851  -3.618 -12.791  0.00  0.00           N 0
+ATOM   3297  CE1 PHE A 419     -18.652  -7.126 -11.253  0.00  0.00           C 0
+ATOM   3327  CD1 LEU A 422     -20.518  -5.301  -6.979  0.00  0.00           C 0
+ATOM   3332    O SER A 423     -25.816  -5.875  -9.413  0.33  5.36           O 0
+ATOM   3295  CD1 PHE A 419     -19.327  -8.105 -10.525  0.00  0.00           C 0
+ATOM   3325   CB LEU A 422     -22.576  -6.663  -6.632  0.00  0.00           C 0
+ATOM   3050   CB LYS A 390     -20.065  -4.757 -14.593  0.00  0.00           C 0
+ATOM   3051   CG LYS A 390     -20.038  -5.321 -16.004  0.00  0.00           C 0
+ATOM   3052   CD LYS A 390     -21.420  -5.813 -16.424  0.00  0.00           C 0
+ATOM   3035   CB THR A 388     -22.000  -1.105 -12.342  0.00  0.00           C 0
+ATOM   3038    N LEU A 389     -19.396  -1.805 -10.818  0.76  1.09           N 0
+ATOM   3042   CB LEU A 389     -17.964  -3.487  -9.759  0.00  0.00           C 0
+ATOM   3075   CD LYS A 393     -13.869  -7.160 -14.419  0.00  0.00           C 0
+ATOM   3299   CZ PHE A 419     -17.373  -7.380 -11.736  0.00  0.00           C 0
+ATOM   3047   CA LYS A 390     -18.722  -4.203 -14.121  0.00  0.00           C 0
+ATOM   3298  CE2 PHE A 419     -16.776  -8.613 -11.489  0.00  0.00           C 0
+ATOM   3086  OE2 GLU A 394     -18.625  -5.637 -19.696  0.82  8.57           O 0
+ATOM   3083   CG GLU A 394     -16.916  -4.422 -18.575  0.00  0.00           C 0
+ATOM   3076   CE LYS A 393     -13.123  -8.337 -15.021  0.00  0.00           C 0
+ATOM   3049    O LYS A 390     -17.328  -3.393 -15.895  0.72  1.07           O 0
+TER
+END

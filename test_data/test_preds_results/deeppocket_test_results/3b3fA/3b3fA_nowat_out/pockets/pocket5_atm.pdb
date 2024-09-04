@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0754
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0530
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6779
+HEADER 5  - Mean B-factor of pocket residues  : 0.1381
+HEADER 6  - Hydrophobicity Score              : 8.8000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 2.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 370.8898
+HEADER 10 - Pocket volume (convex hull)       : 19.8294
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   2065  CD1 ILE A 397      72.350  33.123 128.907  0.00  0.00           C 0
+ATOM   1174  CG2 THR A 289      70.027  36.228 128.300  0.00  0.00           C 0
+ATOM   1765  CD1 LEU A 361      71.410  39.284 126.570  0.00  0.00           C 0
+ATOM   1747  ND2 ASN A 359      71.703  35.239 122.896  0.38  8.75           N 0
+ATOM   2064  CG2 ILE A 397      73.993  34.540 131.211  0.00  0.00           C 0
+ATOM   1127    O SER A 283      72.654  45.665 129.700  0.00  0.00           O 0
+ATOM    353  OD1 ASP A 183      72.898  41.607 136.758  0.50  4.29           O 0
+ATOM   1141  ND2 ASN A 285      70.887  39.731 132.561  0.67  3.28           N 0
+ATOM   2075   OG SER A 399      75.195  41.038 136.371  0.47  7.50           O 0
+ATOM   2071   CA SER A 399      75.716  38.668 136.669  0.00  0.00           C 0
+ATOM   2070    N SER A 399      74.355  38.260 136.311  0.00  0.00           N 0
+ATOM   2069    O GLY A 398      74.960  36.392 135.162  0.00  0.00           O 0
+ATOM   1138   CB ASN A 285      69.783  41.657 131.626  0.00  0.00           C 0
+ATOM   1139   CG ASN A 285      70.258  40.236 131.504  0.00  0.00           C 0
+ATOM   1133    O GLY A 284      70.448  43.696 128.465  0.51  3.21           O 0
+ATOM   1140  OD1 ASN A 285      70.077  39.597 130.466  0.00  0.00           O 0
+ATOM   2061    O ILE A 397      72.002  36.838 132.681  0.00  0.00           O 0
+ATOM   2062   CB ILE A 397      72.461  34.411 131.135  0.00  0.00           C 0
+ATOM   2068    C GLY A 398      74.087  37.161 135.602  0.00  0.00           C 0
+TER
+END

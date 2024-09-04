@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0321
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8373
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6399
+HEADER 5  - Mean B-factor of pocket residues  : 0.1595
+HEADER 6  - Hydrophobicity Score              : -8.3333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 261.1772
+HEADER 10 - Pocket volume (convex hull)       : 3.6829
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM    623  NH1 ARG B  83      41.513  15.786   4.540  0.74  5.47           N 0
+ATOM    648  CD1 TYR B  86      39.066  19.011   1.287  0.00  0.00           C 0
+ATOM    649  CD2 TYR B  86      39.056  17.648   3.242  0.00  0.00           C 0
+ATOM    647   CG TYR B  86      39.377  18.852   2.631  0.00  0.00           C 0
+ATOM    651  CE2 TYR B  86      38.453  16.629   2.522  0.00  0.00           C 0
+ATOM    646   CB TYR B  86      40.039  19.981   3.395  0.00  0.00           C 0
+ATOM    609   CD ARG B  82      46.163  19.836   3.521  0.00  0.00           C 0
+ATOM    608   CG ARG B  82      45.093  20.790   4.023  0.00  0.00           C 0
+ATOM    624  NH2 ARG B  83      39.853  14.830   5.783  0.50  1.09           N 0
+ATOM   1034  OE2 GLU B 135      36.572  13.900   3.780  0.00  0.00           O 0
+ATOM    134   NZ LYS B  21      41.746  11.514   5.063  0.53  6.56           N 0
+ATOM    652   CZ TYR B  86      38.155  16.805   1.189  0.00  0.00           C 0
+ATOM    650  CE1 TYR B  86      38.460  17.995   0.566  0.00  0.00           C 0
+ATOM      8  OE1 GLU B   4      43.385  12.847   3.447  0.00  0.00           O 0
+ATOM    653   OH TYR B  86      37.547  15.805   0.455  0.60  4.29           O 0
+ATOM    613  NH2 ARG B  82      45.224  17.292   4.538  0.85  3.28           N 0
+TER
+END

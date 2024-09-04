@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1847
+HEADER 1  - Drug Score                        : 0.1530
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0947
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6671
+HEADER 5  - Mean B-factor of pocket residues  : 0.4223
+HEADER 6  - Hydrophobicity Score              : -2.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 358.5992
+HEADER 10 - Pocket volume (convex hull)       : 15.5573
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.7500
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.6957
+ATOM    863   CG GLN A 133      30.607  21.292  29.761  0.00  0.00           C 0
+ATOM    868   CA LYS A 134      27.465  24.624  31.634  0.00  0.00           C 0
+ATOM    903   CE LYS A 137      33.133  25.458  34.184  0.00  0.00           C 0
+ATOM    904   NZ LYS A 137      33.751  26.757  33.748  0.00  0.00           N 0
+ATOM    872   CG LYS A 134      26.558  27.015  31.700  0.00  0.00           C 0
+ATOM    871   CB LYS A 134      26.815  25.772  30.864  0.00  0.00           C 0
+ATOM    835    O VAL A 130      26.965  23.978  27.711  0.63  3.21           O 0
+ATOM    867    N LYS A 134      27.521  23.438  30.794  0.00  0.00           N 0
+ATOM    861    O GLN A 133      28.582  22.182  32.328  0.69  1.07           O 0
+ATOM    902   CD LYS A 137      31.809  25.686  34.883  0.00  0.00           C 0
+ATOM    862   CB GLN A 133      29.195  21.373  29.189  0.00  0.00           C 0
+ATOM    830  OE1 GLU A 129      30.707  18.265  24.197  0.00  0.00           O 0
+ATOM    838  CG2 VAL A 130      28.046  24.196  23.238  0.00  0.00           C 0
+ATOM    837  CG1 VAL A 130      27.459  25.803  25.057  0.00  0.00           C 0
+ATOM    865  OE1 GLN A 133      31.290  19.109  29.095  0.14  7.50           O 0
+ATOM    829   CD GLU A 129      29.580  18.381  23.670  0.00  0.00           C 0
+ATOM    828   CG GLU A 129      28.404  18.678  24.573  0.00  0.00           C 0
+ATOM    831  OE2 GLU A 129      29.375  18.270  22.442  0.00  0.00           O 0
+ATOM    833   CA VAL A 130      27.113  23.318  25.393  0.00  0.00           C 0
+ATOM    826    O GLU A 129      27.010  20.877  26.631  0.00  0.00           O 0
+TER
+END

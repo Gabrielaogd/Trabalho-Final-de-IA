@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0105
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9590
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5881
+HEADER 5  - Mean B-factor of pocket residues  : 0.2245
+HEADER 6  - Hydrophobicity Score              : -2.1429
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.9256
+HEADER 10 - Pocket volume (convex hull)       : 7.5186
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1837  OD2 ASP A 247      23.377  44.383  20.337  0.00  0.00           O 0
+ATOM   1939  NH2 ARG A 260      19.521  49.920  18.167  0.64  6.56           N 0
+ATOM   1836  OD1 ASP A 247      23.034  45.611  22.125  0.00  0.00           O 0
+ATOM   1915  OE1 GLU A 257      20.836  52.013  18.356  0.00  0.00           O 0
+ATOM   1853   CB SER A 249      20.121  45.279  19.248  0.00  0.00           C 0
+ATOM   1936   NE ARG A 260      18.686  49.221  20.192  0.00  0.00           N 0
+ATOM   1916  OE2 GLU A 257      21.088  52.688  20.440  0.56  6.43           O 0
+ATOM   1932    O ARG A 260      18.009  51.845  25.607  0.00  0.00           O 0
+ATOM   1933   CB ARG A 260      17.602  50.761  22.571  0.00  0.00           C 0
+ATOM   1931    C ARG A 260      17.649  52.310  24.535  0.00  0.00           C 0
+ATOM   1842   CB PHE A 248      19.514  46.916  24.545  0.00  0.00           C 0
+ATOM   1845  CD2 PHE A 248      20.262  47.718  26.807  0.00  0.00           C 0
+ATOM   1967   OG SER A 264      20.433  52.676  27.860  0.00  0.00           O 0
+ATOM   1941   CA SER A 261      18.830  54.403  24.914  0.00  0.00           C 0
+ATOM   1940    N SER A 261      17.999  53.518  24.113  0.00  0.00           N 0
+ATOM   1966   CB SER A 264      20.163  51.357  28.300  0.00  0.00           C 0
+TER
+END

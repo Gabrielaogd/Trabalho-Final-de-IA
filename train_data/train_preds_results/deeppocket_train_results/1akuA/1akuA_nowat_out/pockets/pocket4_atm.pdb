@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1204
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7911
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5022
+HEADER 5  - Mean B-factor of pocket residues  : 0.1734
+HEADER 6  - Hydrophobicity Score              : 32.3333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 179.9404
+HEADER 10 - Pocket volume (convex hull)       : 1.7376
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM    583    O GLU A  79      19.836  24.662   9.750  0.00  0.00           O 0
+ATOM    618   CB GLN A  84      20.039  28.375   3.117  0.00  0.00           C 0
+ATOM    849    O LEU A 115      19.751  30.783   5.905  0.35  2.14           O 0
+ATOM    622  NE2 GLN A  84      22.653  30.326   3.699  0.00  0.00           N 0
+ATOM    614    N GLN A  84      17.802  28.383   3.969  0.00  0.00           N 0
+ATOM    605    N GLY A  82      16.315  24.011   6.420  0.38  2.19           N 0
+ATOM    609    N ALA A  83      16.200  26.628   5.325  0.00  0.00           N 0
+ATOM    606   CA GLY A  82      16.610  24.227   4.999  0.00  0.00           C 0
+ATOM    613   CB ALA A  83      15.614  28.798   6.363  0.00  0.00           C 0
+ATOM    850   CB LEU A 115      18.585  31.086   8.543  0.00  0.00           C 0
+ATOM    853  CD2 LEU A 115      20.072  29.881  10.160  0.00  0.00           C 0
+ATOM    575    O LEU A  78      16.340  26.523  10.337  0.00  0.00           O 0
+TER
+END

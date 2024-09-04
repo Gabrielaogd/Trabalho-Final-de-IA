@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0162
+HEADER 1  - Drug Score                        : 0.0383
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0064
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7049
+HEADER 5  - Mean B-factor of pocket residues  : 0.3958
+HEADER 6  - Hydrophobicity Score              : -5.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 232.7210
+HEADER 10 - Pocket volume (convex hull)       : 4.3100
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM   2002   CB GLU D 256     -22.140  94.649  -3.990  0.00  0.00           C 0
+ATOM   1993  CG2 THR D 254     -19.646  91.551   0.101  0.00  0.00           C 0
+ATOM   2004   CD GLU D 256     -21.250  94.643  -6.341  0.00  0.00           C 0
+ATOM   2006  OE2 GLU D 256     -20.601  95.702  -6.501  0.00  0.00           O 0
+ATOM   2005  OE1 GLU D 256     -20.975  93.546  -6.882  0.50  9.64           O 0
+ATOM   1992  OG1 THR D 254     -21.536  92.334  -1.276  0.00  0.00           O 0
+ATOM   2287  CG2 VAL D 293     -22.217  98.889  -3.404  0.00  0.00           C 0
+ATOM   2252   CB GLU D 289     -20.640  97.651   1.945  0.00  0.00           C 0
+ATOM   2253   CG GLU D 289     -19.246  97.221   2.371  0.00  0.00           C 0
+ATOM   2251    O GLU D 289     -21.791  99.817  -0.210  0.00  0.00           O 0
+ATOM   1991   CB THR D 254     -20.804  92.590  -0.058  0.00  0.00           C 0
+ATOM   2255  OE1 GLU D 289     -20.212  95.066   2.542  0.00  0.00           O 0
+ATOM   2254   CD GLU D 289     -19.189  95.764   2.730  0.00  0.00           C 0
+ATOM   2277   CB ASP D 292     -19.498 102.356  -0.656  0.00  0.00           C 0
+ATOM   2249   CA GLU D 289     -20.827  99.160   1.887  0.00  0.00           C 0
+ATOM   2280  OD2 ASP D 292     -17.759 102.180   0.934  0.67  4.29           O 0
+ATOM   1998    N GLU D 256     -22.992  95.240  -1.748  0.68  2.19           N 0
+TER
+END

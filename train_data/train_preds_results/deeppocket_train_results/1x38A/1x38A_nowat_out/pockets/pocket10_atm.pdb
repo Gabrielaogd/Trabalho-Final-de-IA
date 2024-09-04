@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0547
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9145
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6257
+HEADER 5  - Mean B-factor of pocket residues  : 0.4454
+HEADER 6  - Hydrophobicity Score              : -10.4000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 239.7273
+HEADER 10 - Pocket volume (convex hull)       : 9.9664
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   3828   CG PRO A 502      13.507  39.332  51.647  0.00  0.00           C 0
+ATOM   3703    N HIS A 487      13.480  36.736  48.135  0.00  0.00           N 0
+ATOM   3707   CB HIS A 487      14.512  38.492  46.780  0.00  0.00           C 0
+ATOM   3829   CD PRO A 502      13.671  38.170  52.574  0.00  0.00           C 0
+ATOM   3698   CB GLU A 486      13.136  34.045  49.681  0.00  0.00           C 0
+ATOM   3695   CA GLU A 486      12.446  35.396  49.843  0.00  0.00           C 0
+ATOM   3702  OE2 GLU A 486      15.444  32.253  51.408  0.60  2.14           O 0
+ATOM   3783  ND2 ASN A 496      19.228  34.127  53.229  0.00  0.00           N 0
+ATOM   3811    O THR A 500      15.771  36.384  55.638  0.44  4.29           O 0
+ATOM   3699   CG GLU A 486      13.346  33.280  51.000  0.00  0.00           C 0
+ATOM   3726  CD1 TYR A 489      16.978  33.069  46.995  0.00  0.00           C 0
+ATOM   3706    O HIS A 487      14.837  35.145  46.434  0.59  3.21           O 0
+ATOM   3716    O PRO A 488      16.955  36.062  43.982  0.52  5.36           O 0
+ATOM   3724   CB TYR A 489      18.705  33.575  45.213  0.00  0.00           C 0
+ATOM   3758    O LYS A 493      22.248  34.457  47.193  0.00  0.00           O 0
+ATOM   3991  NH1 ARG A 526      18.321  31.350  50.782  0.82  2.19           N 0
+ATOM   3767    O GLY A 494      20.949  31.092  49.600  0.69  1.07           O 0
+ATOM   3765   CA GLY A 494      21.221  31.888  47.345  0.00  0.00           C 0
+TER
+END

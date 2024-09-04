@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0650
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.7111
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5087
+HEADER 5  - Mean B-factor of pocket residues  : 0.3062
+HEADER 6  - Hydrophobicity Score              : 8.4444
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 331.9255
+HEADER 10 - Pocket volume (convex hull)       : 28.2782
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1352  OE2 GLU X 179      19.515   1.275   2.343  0.00  0.00           O 0
+ATOM   1722  OD2 ASP X 227      15.979   6.790   2.762  0.00  0.00           O 0
+ATOM    771  ND2 ASN X 105      16.919   5.081   7.435  0.00  0.00           N 0
+ATOM    770  OD1 ASN X 105      18.937   4.161   7.829  0.52  4.29           O 0
+ATOM   1331   NZ LYS X 177      21.654   1.876   5.739  0.00  0.00           N 0
+ATOM   1719   CB ASP X 227      14.147   5.280   2.602  0.00  0.00           C 0
+ATOM   1369    O GLY X 182      13.255   1.305   1.448  0.57  1.07           O 0
+ATOM   1718    O ASP X 227      14.009   4.887  -0.150  0.00  0.00           O 0
+ATOM   1367   CA GLY X 182      13.281   1.105  -0.933  0.00  0.00           C 0
+ATOM   1366    N GLY X 182      13.795   0.120  -1.881  0.00  0.00           N 0
+ATOM   1387  CD1 PHE X 184      14.819   1.725   5.240  0.00  0.00           C 0
+ATOM   1386   CG PHE X 184      15.665   0.704   5.676  0.00  0.00           C 0
+ATOM   1373    O PHE X 183      15.056  -1.921   1.839  0.00  0.00           O 0
+ATOM   1368    C GLY X 182      13.128   0.560   0.476  0.00  0.00           C 0
+ATOM   1353    N ASN X 180      16.392  -3.507  -0.182  0.00  0.00           N 0
+ATOM   1348   CB GLU X 179      19.009  -1.936   1.132  0.00  0.00           C 0
+ATOM   1361    N ALA X 181      14.714  -2.495  -2.975  0.54  5.47           N 0
+ATOM   1350   CD GLU X 179      20.037   0.187   2.028  0.00  0.00           C 0
+ATOM   1346    C GLU X 179      17.662  -3.774   0.109  0.00  0.00           C 0
+ATOM   1347    O GLU X 179      18.403  -4.434  -0.620  0.00  0.00           O 0
+TER
+END

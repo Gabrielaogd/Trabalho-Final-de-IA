@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0807
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1118
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5224
+HEADER 5  - Mean B-factor of pocket residues  : 0.2145
+HEADER 6  - Hydrophobicity Score              : 17.7000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 306.5173
+HEADER 10 - Pocket volume (convex hull)       : 9.5473
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   2018   CG ARG A 253     -16.718  46.385   9.419  0.00  0.00           C 0
+ATOM   2067   CD ARG A 259     -11.800  51.118   4.205  0.00  0.00           C 0
+ATOM   2075    O LYS A 260     -10.974  47.474   4.821  0.71  5.36           O 0
+ATOM   2020   NE ARG A 253     -18.151  45.623   7.561  0.71  5.47           N 0
+ATOM   2066   CG ARG A 259     -11.770  51.933   5.476  0.00  0.00           C 0
+ATOM   2387  OD2 ASP A 296     -12.684  46.689   1.243  0.51  3.21           O 0
+ATOM   2386  OD1 ASP A 296     -13.883  48.272   0.322  0.37  6.43           O 0
+ATOM   2096  CG2 VAL A 262     -12.581  43.261   3.883  0.00  0.00           C 0
+ATOM   1988  CD2 LEU A 249     -16.259  43.344   4.386  0.00  0.00           C 0
+ATOM   2374    O GLY A 294     -17.467  45.445   1.242  0.41  7.50           O 0
+ATOM   2012   CB ALA A 252     -12.370  44.497   7.677  0.00  0.00           C 0
+ATOM   2011    O ALA A 252     -12.286  46.710   9.879  0.54  5.36           O 0
+ATOM   2072    N LYS A 260      -9.639  49.191   6.454  0.00  0.00           N 0
+ATOM   2062   CA ARG A 259      -9.773  51.546   7.058  0.00  0.00           C 0
+ATOM   2058    O SER A 258      -8.801  50.914   9.524  0.60  5.36           O 0
+ATOM   2036    O MET A 255     -11.165  49.458  13.592  0.36  7.50           O 0
+TER
+END

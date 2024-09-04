@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1339
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9127
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4412
+HEADER 5  - Mean B-factor of pocket residues  : 0.2453
+HEADER 6  - Hydrophobicity Score              : 19.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 215.4044
+HEADER 10 - Pocket volume (convex hull)       : 6.2696
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   1930   CA GLY A 287     -25.764  47.777   3.878  0.00  0.00           C 0
+ATOM   1898    O GLU A 283     -23.316  45.111   6.175  0.62  6.43           O 0
+ATOM   1932    O GLY A 287     -24.249  48.666   5.484  0.54  7.50           O 0
+ATOM   1920    O TYR A 286     -26.363  45.085   3.681  0.61  6.43           O 0
+ATOM   1896   CA GLU A 283     -23.304  42.694   6.164  0.00  0.00           C 0
+ATOM   1887  CD1 TRP A 282     -24.924  39.634   3.187  0.00  0.00           C 0
+ATOM   1900   CG GLU A 283     -24.506  41.101   7.743  0.00  0.00           C 0
+ATOM    118    O ASP A  27     -28.945  44.173  11.347  0.00  0.00           O 0
+ATOM   1899   CB GLU A 283     -23.549  42.297   7.634  0.00  0.00           C 0
+ATOM   1711  CG1 VAL A 260     -28.392  38.312   5.182  0.00  0.00           C 0
+ATOM   1751  NH2 ARG A 265     -31.600  41.787   6.170  0.15  9.84           N 0
+ATOM   1923  CD1 TYR A 286     -28.224  43.614   1.546  0.00  0.00           C 0
+ATOM   1889  NE1 TRP A 282     -25.779  39.658   2.113  0.00  0.00           N 0
+ATOM   1903  OE2 GLU A 283     -25.977  40.775   9.562  0.83  2.14           O 0
+ATOM   1748   NE ARG A 265     -31.507  40.993   8.327  0.61  6.56           N 0
+ATOM   1749   CZ ARG A 265     -31.557  40.765   7.014  0.00  0.00           C 0
+TER
+END

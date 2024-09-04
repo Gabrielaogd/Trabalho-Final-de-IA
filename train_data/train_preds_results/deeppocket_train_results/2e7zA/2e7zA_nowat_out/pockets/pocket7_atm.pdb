@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0561
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9289
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6483
+HEADER 5  - Mean B-factor of pocket residues  : 0.3819
+HEADER 6  - Hydrophobicity Score              : -3.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 353.1802
+HEADER 10 - Pocket volume (convex hull)       : 24.7690
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1500
+ATOM   5295   CGAGLU A 508      69.628  64.824  47.214  0.00  0.00           C 0
+ATOM   5308   CBAGLU A 509      69.798  60.446  45.180  0.00  0.00           C 0
+ATOM   5304   CAAGLU A 509      69.649  61.693  44.287  0.00  0.00           C 0
+ATOM   5299  OE1AGLU A 508      71.609  65.429  48.406  0.00  0.00           O 0
+ATOM   5316  OE2AGLU A 509      68.212  59.472  47.986  0.00  0.00           O 0
+ATOM   5297   CDAGLU A 508      70.388  65.644  48.259  0.00  0.00           C 0
+ATOM   5368   NZ LYS A 514      73.945  67.611  41.972  0.00  0.00           N 0
+ATOM   5226  NH1 ARG A 499      69.998  70.291  42.628  0.00  0.00           N 0
+ATOM   5227  NH2 ARG A 499      70.836  68.235  41.988  0.34  1.09           N 0
+ATOM   5301  OE2AGLU A 508      69.768  66.520  48.919  0.00  0.00           O 0
+ATOM   5279    O GLY A 506      65.191  62.555  48.682  0.56  6.43           O 0
+ATOM   5293   CBAGLU A 508      68.996  65.717  46.162  0.00  0.00           C 0
+ATOM   5255  CG1 VAL A 503      67.640  69.737  47.476  0.00  0.00           C 0
+ATOM   5292    O GLU A 508      69.268  64.191  43.278  0.48  5.36           O 0
+ATOM   5256  CG2 VAL A 503      67.484  69.248  44.989  0.00  0.00           C 0
+ATOM   5314  OE1AGLU A 509      67.527  61.383  47.144  0.85  1.07           O 0
+ATOM   5312   CDAGLU A 509      68.056  60.254  47.021  0.00  0.00           C 0
+TER
+END

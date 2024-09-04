@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0499
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.6610
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5114
+HEADER 5  - Mean B-factor of pocket residues  : 0.1088
+HEADER 6  - Hydrophobicity Score              : 45.4286
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 74.0291
+HEADER 10 - Pocket volume (convex hull)       : 0.4887
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6364
+ATOM   1139  OD1 ASP A 146      49.488  40.900  -8.425  0.00  0.00           O 0
+ATOM   1138   CG ASP A 146      48.786  41.492  -9.269  0.00  0.00           C 0
+ATOM    911   CB LEU A 117      51.709  41.899  -5.526  0.00  0.00           C 0
+ATOM   1137   CB ASP A 146      49.449  42.451 -10.240  0.00  0.00           C 0
+ATOM   1385  CD2 LEU A 188      51.093  47.379  -5.736  0.00  0.00           C 0
+ATOM    912   CG LEU A 117      52.010  42.970  -4.481  0.00  0.00           C 0
+ATOM   1349  NH1 ARG A 183      48.638  43.872  -2.524  0.00  0.00           N 0
+ATOM    914  CD2 LEU A 117      52.691  44.135  -5.186  0.00  0.00           C 0
+ATOM    915    N ALA A 118      48.731  40.476  -5.479  0.00  0.00           N 0
+ATOM   1325    O VAL A 181      45.671  43.427  -4.570  0.44  1.07           O 0
+ATOM   1384  CD1 LEU A 188      50.542  47.710  -8.154  0.00  0.00           C 0
+ATOM   1344   CB ARG A 183      47.249  47.483  -5.326  0.00  0.00           C 0
+ATOM   1346   CD ARG A 183      48.276  46.625  -3.183  0.00  0.00           C 0
+ATOM   1340    N ARG A 183      45.565  46.242  -6.592  0.29  2.19           N 0
+ATOM   1343    O ARG A 183      46.888  47.877  -8.430  0.00  0.00           O 0
+ATOM   1144    O VAL A 147      45.666  44.530 -10.165  0.00  0.00           O 0
+TER
+END

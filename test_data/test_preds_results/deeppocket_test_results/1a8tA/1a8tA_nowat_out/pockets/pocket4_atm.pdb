@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0321
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9068
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6715
+HEADER 5  - Mean B-factor of pocket residues  : 0.0647
+HEADER 6  - Hydrophobicity Score              : 5.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 202.0054
+HEADER 10 - Pocket volume (convex hull)       : 3.9564
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    923  OE2 GLU A 120      32.524  28.425  -5.370  0.85  1.07           O 0
+ATOM    770  NE2 GLN A 100      37.131  29.443  -3.316  0.59  4.37           N 0
+ATOM    921   CD GLU A 120      33.246  27.412  -5.176  0.00  0.00           C 0
+ATOM    725    O GLN A  95      35.584  33.384  -8.495  0.36  5.36           O 0
+ATOM    920   CG GLU A 120      33.123  26.212  -6.105  0.00  0.00           C 0
+ATOM    922  OE1 GLU A 120      34.114  27.334  -4.241  0.89  3.21           O 0
+ATOM    729  OE1 GLN A  95      31.241  29.577  -8.224  0.00  0.00           O 0
+ATOM    730  NE2 GLN A  95      31.744  30.873 -10.046  0.50  7.66           N 0
+ATOM    758    O VAL A  99      34.005  31.358  -3.868  0.75  2.14           O 0
+ATOM    726   CB GLN A  95      32.691  32.660  -8.572  0.00  0.00           C 0
+ATOM    723   CA GLN A  95      33.381  33.496  -7.509  0.00  0.00           C 0
+ATOM    752   CA GLY A  98      37.306  33.954  -5.663  0.00  0.00           C 0
+ATOM    728   CD GLN A  95      31.449  30.616  -8.779  0.00  0.00           C 0
+TER
+END

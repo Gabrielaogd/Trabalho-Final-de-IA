@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0700
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7737
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4599
+HEADER 5  - Mean B-factor of pocket residues  : 0.1707
+HEADER 6  - Hydrophobicity Score              : 28.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 163.4889
+HEADER 10 - Pocket volume (convex hull)       : 4.2738
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1905
+ATOM   1328  CD1 LEU A 182      16.483  -3.511  30.265  0.00  0.00           C 0
+ATOM   1183   CB GLN A 165      16.414  -0.234  34.551  0.00  0.00           C 0
+ATOM    965  CG1 VAL A 136      14.307  -2.476  32.704  0.00  0.00           C 0
+ATOM   1166   NZ LYS A 163      20.144  -3.085  36.870  0.40  3.28           N 0
+ATOM   1184   CG GLN A 165      17.155   0.647  33.547  0.00  0.00           C 0
+ATOM   1187  NE2 GLN A 165      19.509   1.180  33.819  0.57  8.75           N 0
+ATOM   1329  CD2 LEU A 182      18.841  -4.243  29.894  0.00  0.00           C 0
+ATOM    451  OG1 THR A  58      15.785  -7.699  32.350  0.36  8.57           O 0
+ATOM    949   CB ASN A 134      15.910  -8.094  36.122  0.00  0.00           C 0
+ATOM    953    N VAL A 135      13.469  -5.636  36.645  0.00  0.00           N 0
+ATOM    452  CG2 THR A  58      13.899  -6.175  32.143  0.00  0.00           C 0
+ATOM    951  OD1 ASN A 134      17.962  -7.629  37.303  0.46  4.29           O 0
+ATOM    956    O VAL A 135      13.797  -2.955  35.986  0.74  1.07           O 0
+ATOM   1161    O LYS A 163      15.318  -4.523  38.841  0.72  2.14           O 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0179
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.2450
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6507
+HEADER 5  - Mean B-factor of pocket residues  : 0.2055
+HEADER 6  - Hydrophobicity Score              : 45.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 270.9980
+HEADER 10 - Pocket volume (convex hull)       : 3.8671
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM    346  CZ2 TRP C  42      13.807   1.062  -6.816  0.00  0.00           C 0
+ATOM   1269  CD2 PHE C 159      15.370  -3.471  -5.041  0.00  0.00           C 0
+ATOM   1156  NH2 ARG C 145      14.139   2.095  -1.075  0.46  7.66           N 0
+ATOM   1192  OE2 GLU C 149      10.895   2.568  -3.103  0.38  3.21           O 0
+ATOM   1266   CB PHE C 159      13.682  -3.933  -6.782  0.00  0.00           C 0
+ATOM   1191  OE1 GLU C 149       8.911   1.726  -2.744  0.00  0.00           O 0
+ATOM   1232    O ASN C 155      10.306  -3.307  -8.562  0.84  1.07           O 0
+ATOM   1231    C ASN C 155       9.193  -3.810  -8.344  0.00  0.00           C 0
+ATOM   1227  CG2 ILE C 154      10.129   0.813  -7.489  0.00  0.00           C 0
+ATOM   1224    O ILE C 154       7.029  -0.699  -7.237  0.00  0.00           O 0
+ATOM   1237    N LEU C 156       9.026  -5.087  -8.004  0.00  0.00           N 0
+ATOM   1238   CA LEU C 156      10.170  -5.944  -7.716  0.00  0.00           C 0
+ATOM   1243  CD1 LEU C 156      11.627  -7.822  -5.771  0.00  0.00           C 0
+ATOM   1241   CB LEU C 156       9.702  -7.338  -7.266  0.00  0.00           C 0
+ATOM    343  NE1 TRP C  42      12.855   2.927  -5.437  0.00  0.00           N 0
+ATOM   1230   CA ASN C 155       7.920  -2.983  -8.477  0.00  0.00           C 0
+TER
+END

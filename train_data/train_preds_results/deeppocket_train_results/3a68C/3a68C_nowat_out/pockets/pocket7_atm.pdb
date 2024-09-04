@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1039
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8874
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6836
+HEADER 5  - Mean B-factor of pocket residues  : 0.1259
+HEADER 6  - Hydrophobicity Score              : -16.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.0142
+HEADER 10 - Pocket volume (convex hull)       : 1.9739
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   1366    C GLY C 172     203.539  45.974 -57.079  0.00  0.00           C 0
+ATOM   1365   CA GLY C 172     204.364  47.087 -57.700  0.00  0.00           C 0
+ATOM   1376  OE2 GLU C 173     198.907  48.272 -57.963  0.51  9.64           O 0
+ATOM   1407  OE2 GLU C 176     203.518  46.571 -51.854  0.00  0.00           O 0
+ATOM   1364    N GLY C 172     204.252  47.054 -59.148  0.25  2.19           N 0
+ATOM   1331    O THR C 168     200.171  50.614 -60.539  0.00  0.00           O 0
+ATOM   1316    OAGLU C 167     203.354  49.883 -61.811  0.26  5.36           O 0
+ATOM   1375  OE1 GLU C 173     200.706  47.404 -58.866  0.44  2.14           O 0
+ATOM   1374   CD GLU C 173     199.652  47.296 -58.193  0.00  0.00           C 0
+ATOM   1373   CG GLU C 173     199.231  45.946 -57.617  0.00  0.00           C 0
+ATOM   1404   CG GLU C 176     202.949  44.738 -53.259  0.00  0.00           C 0
+ATOM   1368    N GLU C 173     202.352  45.771 -57.636  0.58  1.09           N 0
+ATOM   1369   CA GLU C 173     201.450  44.723 -57.188  0.00  0.00           C 0
+TER
+END

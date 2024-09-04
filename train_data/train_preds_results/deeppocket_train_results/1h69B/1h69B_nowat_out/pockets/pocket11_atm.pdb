@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0055
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8013
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5047
+HEADER 5  - Mean B-factor of pocket residues  : 0.5425
+HEADER 6  - Hydrophobicity Score              : -16.1429
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.3017
+HEADER 10 - Pocket volume (convex hull)       : 11.8659
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4286
+ATOM   1612  OE1 GLU B 205     -51.754 -14.914 -26.472  0.00  0.00           O 0
+ATOM    234   NZ LYS B  31     -57.080 -17.985 -25.704  0.00  0.00           N 0
+ATOM   1677  OE2 GLU B 212     -56.373 -15.957 -32.036  0.00  0.00           O 0
+ATOM   1636   CB LYS B 208     -52.867 -19.311 -28.696  0.00  0.00           C 0
+ATOM   1639   CE LYS B 208     -54.171 -19.288 -25.779  0.00  0.00           C 0
+ATOM    208   CB ALA B  28     -55.812 -21.448 -28.588  0.00  0.00           C 0
+ATOM   1676  OE1 GLU B 212     -57.828 -15.878 -33.687  0.68  6.43           O 0
+ATOM    241   CD LYS B  32     -61.107 -18.944 -32.141  0.00  0.00           C 0
+ATOM    243   NZ LYS B  32     -62.142 -17.134 -33.507  0.59  6.56           N 0
+ATOM   1635    O LYS B 208     -54.171 -19.729 -31.718  0.00  0.00           O 0
+ATOM    233   CE LYS B  31     -58.114 -18.999 -26.079  0.00  0.00           C 0
+ATOM    232   CD LYS B  31     -59.509 -18.621 -25.570  0.00  0.00           C 0
+ATOM   1641    N LYS B 209     -52.379 -18.361 -31.650  0.00  0.00           N 0
+ATOM   1646   CG LYS B 209     -52.397 -15.073 -32.969  0.00  0.00           C 0
+ATOM   1608    O GLU B 205     -50.332 -17.139 -29.985  0.68  3.21           O 0
+ATOM   1675   CD GLU B 212     -57.095 -16.514 -32.899  0.00  0.00           C 0
+ATOM    230   CB LYS B  31     -60.932 -19.843 -27.319  0.00  0.00           C 0
+ATOM   1674   CG GLU B 212     -57.098 -18.030 -33.000  0.00  0.00           C 0
+ATOM    207    O ALA B  28     -58.977 -21.719 -29.287  0.66  2.14           O 0
+TER
+END

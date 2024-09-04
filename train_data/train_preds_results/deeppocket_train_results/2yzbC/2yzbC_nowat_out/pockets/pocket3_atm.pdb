@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2496
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0182
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6236
+HEADER 5  - Mean B-factor of pocket residues  : 0.2546
+HEADER 6  - Hydrophobicity Score              : 9.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 300.3449
+HEADER 10 - Pocket volume (convex hull)       : 11.9910
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM   2013    N ASN C 264      47.928  68.020   2.855  0.00  0.00           N 0
+ATOM   2015    C ASN C 264      49.231  66.883   4.520  0.00  0.00           C 0
+ATOM   2016    O ASN C 264      49.184  65.656   4.475  0.00  0.00           O 0
+ATOM   2009   CB ASP C 263      48.977  69.439   0.369  0.00  0.00           C 0
+ATOM   1970   CG GLN C 258      44.718  66.699  -2.104  0.00  0.00           C 0
+ATOM   1955  OD1 ASP C 256      42.477  64.627  -0.030  0.00  0.00           O 0
+ATOM   1972  OE1 GLN C 258      46.827  67.851  -2.236  0.00  0.00           O 0
+ATOM   2021    N PRO C 265      50.373  67.548   4.760  0.00  0.00           N 0
+ATOM   2022   CA PRO C 265      51.644  66.860   5.002  0.00  0.00           C 0
+ATOM   2011  OD1 ASP C 263      51.105  70.309   0.962  0.00  0.00           O 0
+ATOM   2017   CB ASN C 264      46.726  66.947   4.694  0.00  0.00           C 0
+ATOM   1941  CD2 LEU C 254      47.808  62.111   5.089  0.00  0.00           C 0
+ATOM   1957    N LEU C 257      42.255  67.015   2.269  0.48  2.19           N 0
+ATOM   1953   CB ASP C 256      41.188  63.691   1.731  0.00  0.00           C 0
+ATOM   1950   CA ASP C 256      41.884  64.660   2.683  0.00  0.00           C 0
+ATOM   1937    O LEU C 254      43.298  61.702   5.872  0.43  4.29           O 0
+ATOM   1945    O VAL C 255      43.563  65.227   4.768  0.00  0.00           O 0
+TER
+END

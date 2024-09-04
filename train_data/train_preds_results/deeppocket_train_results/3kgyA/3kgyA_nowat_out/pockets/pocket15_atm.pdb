@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.1132
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8044
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5226
+HEADER 5  - Mean B-factor of pocket residues  : 0.1936
+HEADER 6  - Hydrophobicity Score              : 26.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 181.1505
+HEADER 10 - Pocket volume (convex hull)       : 3.3888
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   1694  OG1 THR A 203      36.716  19.205   9.697  0.63  5.36           O 0
+ATOM   1693   CB THR A 203      36.434  18.240   8.699  0.00  0.00           C 0
+ATOM   1695  CG2 THR A 203      36.045  18.935   7.372  0.00  0.00           C 0
+ATOM    360   CB ALA A  43      43.004  19.684   8.649  0.00  0.00           C 0
+ATOM    398   OGASER A  47      39.736  24.616  10.599  0.61  3.21           O 0
+ATOM    519  OE2 GLU A  62      36.319  25.203   9.332  0.73  8.57           O 0
+ATOM    359    O ALA A  43      42.281  22.227  10.608  0.69  3.21           O 0
+ATOM    396   CBASER A  47      40.670  25.420   9.907  0.00  0.00           C 0
+ATOM    362   CA TRP A  44      40.254  20.883  11.936  0.00  0.00           C 0
+ATOM    358    C ALA A  43      42.330  20.981  10.672  0.00  0.00           C 0
+ATOM    361    N TRP A  44      41.446  20.253  11.349  0.41  2.19           N 0
+ATOM    346    O ALA A  40      42.799  15.620   9.537  0.65  6.43           O 0
+ATOM   1692    O THR A 203      36.895  15.904  10.411  0.74  3.21           O 0
+ATOM    365   CB TRP A  44      39.334  19.852  12.586  0.00  0.00           C 0
+TER
+END

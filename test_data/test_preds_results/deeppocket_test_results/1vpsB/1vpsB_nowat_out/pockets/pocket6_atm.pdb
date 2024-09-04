@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1000
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0629
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5409
+HEADER 5  - Mean B-factor of pocket residues  : 0.0759
+HEADER 6  - Hydrophobicity Score              : 25.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 303.4046
+HEADER 10 - Pocket volume (convex hull)       : 11.8466
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0500
+ATOM    821    O PHE B 141      -2.794 147.555  25.602  0.47  3.21           O 0
+ATOM   1984    N ARG B 292      -6.749 146.451  27.250  0.00  0.00           N 0
+ATOM    825  CD2 PHE B 141      -0.638 146.508  27.938  0.00  0.00           C 0
+ATOM   2002  ND2 ASN B 293      -6.033 147.122  31.701  0.00  0.00           N 0
+ATOM   1988   CB ARG B 292      -5.431 144.396  27.300  0.00  0.00           C 0
+ATOM   2049  NE2 HIS B 298      -8.133 154.002  29.995  0.73  4.37           N 0
+ATOM    302   OH TYR B  72      -3.964 154.510  33.592  0.00  0.00           O 0
+ATOM   1983  CG2 THR B 291      -7.501 150.650  28.403  0.00  0.00           C 0
+ATOM   1969  NH2 ARG B 289      -4.824 153.947  28.056  0.70  8.75           N 0
+ATOM   1982  OG1 THR B 291      -8.485 148.528  28.990  0.00  0.00           O 0
+ATOM   2029  CG2 VAL B 296     -12.020 149.469  31.440  0.00  0.00           C 0
+ATOM   1999   CB ASN B 293      -8.157 145.914  31.775  0.00  0.00           C 0
+ATOM   1968  NH1 ARG B 289      -4.891 152.405  26.347  0.55  8.75           N 0
+ATOM    822   CB PHE B 141      -0.082 148.048  26.017  0.00  0.00           C 0
+ATOM   2028  CG1 VAL B 296     -11.295 151.739  30.623  0.00  0.00           C 0
+ATOM   1981   CB THR B 291      -7.413 149.133  28.258  0.00  0.00           C 0
+ATOM   2027   CB VAL B 296     -11.382 150.241  30.280  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.2046
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.7873
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5618
+HEADER 5  - Mean B-factor of pocket residues  : 0.3886
+HEADER 6  - Hydrophobicity Score              : 16.2000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 359.1635
+HEADER 10 - Pocket volume (convex hull)       : 49.4738
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 4.3333
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   1990   CB ASP A 245      23.343  59.668  37.302  0.00  0.00           C 0
+ATOM   1982    O VAL A 244      20.505  62.041  38.378  0.60  5.36           O 0
+ATOM   1981    C VAL A 244      20.696  60.973  38.944  0.00  0.00           C 0
+ATOM   1970    O SER A 242      22.595  64.553  41.674  0.00  0.00           O 0
+ATOM      1    N GLU A   2      21.703  70.016  37.889  0.00  0.00           N 0
+ATOM      2   CA GLU A   2      20.473  69.206  37.782  0.00  0.00           C 0
+ATOM      3    C GLU A   2      20.313  68.401  36.438  0.00  0.00           C 0
+ATOM   1991   CG ASP A 245      24.180  59.829  36.067  0.00  0.00           C 0
+ATOM   1987   CA ASP A 245      21.900  60.033  37.078  0.00  0.00           C 0
+ATOM     43  OE1 GLU A   6      22.206  64.433  32.300  0.00  0.00           O 0
+ATOM   1992  OD1 ASP A 245      23.681  59.769  34.927  0.61  1.07           O 0
+ATOM   1975    C SER A 243      21.408  61.415  42.208  0.00  0.00           C 0
+ATOM   1974   CA SER A 243      22.122  62.506  43.080  0.00  0.00           C 0
+ATOM   1976    O SER A 243      21.632  60.237  42.481  0.48  4.29           O 0
+ATOM      4    O GLU A   2      20.963  68.696  35.441  0.23  2.14           O 0
+ATOM   1993  OD2 ASP A 245      25.375  60.010  36.276  0.52  8.57           O 0
+ATOM   2010   NZ LYS A 247      24.213  62.457  30.838  0.81  7.66           N 0
+ATOM     14   CB MET A   3      17.971  65.501  35.627  0.00  0.00           C 0
+ATOM   2212  CE2 TYR A 271      18.295  63.765  31.403  0.00  0.00           C 0
+ATOM   1999  CG1 ILE A 246      17.376  60.610  34.912  0.00  0.00           C 0
+ATOM     11   CA MET A   3      18.893  66.684  35.226  0.00  0.00           C 0
+ATOM   1986    N ASP A 245      21.402  60.004  38.419  0.00  0.00           N 0
+ATOM   1994    N ILE A 246      20.110  59.581  35.484  0.69  1.09           N 0
+ATOM     10    N MET A   3      19.366  67.432  36.416  0.43  2.19           N 0
+ATOM      9  OE2 GLU A   2      18.581  67.618  39.170  0.34  1.07           O 0
+TER
+END

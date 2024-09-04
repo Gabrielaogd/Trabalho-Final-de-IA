@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0383
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7752
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5066
+HEADER 5  - Mean B-factor of pocket residues  : 0.4830
+HEADER 6  - Hydrophobicity Score              : 57.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 6.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 295.8237
+HEADER 10 - Pocket volume (convex hull)       : 25.6909
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3810
+ATOM    200   CA VAL A  27B     25.512   7.129  46.783  0.00  0.00           C 0
+ATOM    731  NH2 ARG A  92      27.405   4.109  52.641  0.57  4.37           N 0
+ATOM    201    C VAL A  27B     26.068   8.213  47.699  0.00  0.00           C 0
+ATOM    217  OG1 THR A  27D     23.681   6.270  51.811  0.00  0.00           O 0
+ATOM    256  CD2 TYR A  32      29.898   6.220  49.648  0.00  0.00           C 0
+ATOM    711  CE1 TYR A  90      28.588   3.375  46.110  0.00  0.00           C 0
+ATOM    714   OH TYR A  90      28.396   1.668  47.761  0.21  7.50           O 0
+ATOM     16  CD2 LEU A   2      26.388   1.760  43.148  0.00  0.00           C 0
+ATOM    713   CZ TYR A  90      28.691   2.042  46.471  0.00  0.00           C 0
+ATOM    191   CE LYS A  27      21.695   0.233  45.665  0.00  0.00           C 0
+ATOM     13   CB LEU A   2      24.597   0.053  42.925  0.00  0.00           C 0
+ATOM    712  CE2 TYR A  90      29.103   1.092  45.549  0.00  0.00           C 0
+ATOM    192   NZ LYS A  27      21.339  -0.837  46.647  0.00  0.00           N 0
+ATOM    728   NE ARG A  92      29.275   3.308  51.567  0.70  1.09           N 0
+ATOM    729   CZ ARG A  92      28.277   3.133  52.427  0.00  0.00           C 0
+ATOM    730  NH1 ARG A  92      28.156   1.987  53.082  0.00  0.00           N 0
+ATOM    196    O SER A  27A     23.113   5.752  47.053  0.00  0.00           O 0
+ATOM    190   CD LYS A  27      20.602   1.290  45.548  0.00  0.00           C 0
+ATOM     15  CD1 LEU A   2      24.064   2.494  42.726  0.00  0.00           C 0
+ATOM    204  CG1 VAL A  27B     25.939   5.807  44.704  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.2138
+HEADER 1  - Drug Score                        : 0.4034
+HEADER 2  - Number of alpha spheres           :    33
+HEADER 3  - Mean alpha-sphere radius          : 3.9239
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4900
+HEADER 5  - Mean B-factor of pocket residues  : 0.1949
+HEADER 6  - Hydrophobicity Score              : 4.0000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.5213
+HEADER 10 - Pocket volume (convex hull)       : 12.9864
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 21.0000
+HEADER 13 - Number of apolar alpha sphere     :    22
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM    673   CB ALA C  91      61.351  37.976  23.956  0.00  0.00           C 0
+ATOM    714   CAASER C  98      65.254  39.610  19.335  0.00  0.00           C 0
+ATOM    400  CD1 ILE C  55      65.717  37.308  26.075  0.00  0.00           C 0
+ATOM    720   CBASER C  98      64.339  38.466  18.860  0.00  0.00           C 0
+ATOM    399  CG2 ILE C  55      67.018  34.700  25.120  0.00  0.00           C 0
+ATOM    398  CG1 ILE C  55      65.166  35.976  26.352  0.00  0.00           C 0
+ATOM    712    NASER C  98      64.482  40.670  19.980  0.62  1.09           N 0
+ATOM    711   OG SER C  97      64.460  41.628  23.506  0.00  0.00           O 0
+ATOM    453  OD1 ASN C  62      70.279  34.397  21.339  0.73  1.07           O 0
+ATOM    452   CG ASN C  62      69.961  33.522  22.157  0.00  0.00           C 0
+ATOM    455    N VAL C  63      68.403  33.625  18.965  0.73  1.09           N 0
+ATOM    448   CA ASN C  62      68.643  31.926  20.718  0.00  0.00           C 0
+ATOM    441    O LYS C  61      66.465  30.959  19.497  0.64  7.50           O 0
+ATOM    407   CD PRO C  56      65.178  31.527  24.573  0.00  0.00           C 0
+ATOM    388    O ASN C  54      62.820  32.917  27.406  0.57  5.36           O 0
+ATOM    406   CG PRO C  56      65.797  30.591  23.564  0.00  0.00           C 0
+ATOM    460  CG1 VAL C  63      66.359  35.065  17.401  0.00  0.00           C 0
+ATOM    461  CG2 VAL C  63      68.137  36.568  18.405  0.00  0.00           C 0
+ATOM    738   CB SER C 101      69.740  39.123  20.354  0.00  0.00           C 0
+ATOM    739   OG SER C 101      69.786  39.429  21.763  0.56  2.14           O 0
+ATOM    648   NZ LYS C  87      67.248  40.615  23.371  0.73  4.37           N 0
+ATOM    983   CB SER C 133      62.609  35.136  16.992  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : -0.0383
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7983
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6206
+HEADER 5  - Mean B-factor of pocket residues  : 0.4064
+HEADER 6  - Hydrophobicity Score              : -4.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 153.6546
+HEADER 10 - Pocket volume (convex hull)       : 1.8561
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM    605   CD ARG A  82      12.704  -8.165 147.489  0.00  0.00           C 0
+ATOM   1074   OH TYR A 138      13.111  -5.511 144.706  0.84  1.07           O 0
+ATOM    953  OE1 GLU A 124      11.943  -3.340 145.045  0.66  5.36           O 0
+ATOM    608  NH1 ARG A  82      13.312  -5.489 148.080  0.00  0.00           N 0
+ATOM   1072  CE2 TYR A 138      11.552  -6.237 143.024  0.00  0.00           C 0
+ATOM   1027   NZ LYS A 132       7.684  -3.709 143.802  0.39  9.84           N 0
+ATOM   1053    O GLY A 136       6.476  -8.207 143.665  0.00  0.00           O 0
+ATOM    602    O ARG A  82      10.106 -10.665 143.875  0.37  2.14           O 0
+ATOM   1060   CD LYS A 137       7.104 -12.541 144.518  0.00  0.00           C 0
+ATOM   1062   NZ LYS A 137       7.060 -13.062 146.955  0.36  8.75           N 0
+ATOM    603   CB ARG A  82      12.131 -10.131 146.090  0.00  0.00           C 0
+ATOM    604   CG ARG A  82      12.252  -9.622 147.511  0.00  0.00           C 0
+ATOM    600   CA ARG A  82      11.212 -11.337 145.884  0.00  0.00           C 0
+TER
+END

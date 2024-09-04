@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    40:
+HEADER 0  - Pocket Score                      : -0.0821
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.9406
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6218
+HEADER 5  - Mean B-factor of pocket residues  : 0.0921
+HEADER 6  - Hydrophobicity Score              : 21.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 297.4056
+HEADER 10 - Pocket volume (convex hull)       : 5.4429
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.5357
+ATOM    144  NE1 TRP A  79      36.660  54.846  -2.888  0.65  3.28           N 0
+ATOM    142  CD1 TRP A  79      35.345  54.680  -2.511  0.00  0.00           C 0
+ATOM    124    O VAL A  77      32.685  55.800  -9.092  0.00  0.00           O 0
+ATOM    129   CA ASN A  78      31.601  54.382  -6.847  0.00  0.00           C 0
+ATOM   5560    O LYS A 763      35.693  57.386  -1.159  0.83  7.50           O 0
+ATOM    135  ND2 ASN A  78      29.714  57.047  -6.440  0.00  0.00           N 0
+ATOM   4846  OD2 ASP A 675      29.966  57.324  -3.385  0.54  7.50           O 0
+ATOM    143  CD2 TRP A  79      35.955  52.866  -3.640  0.00  0.00           C 0
+ATOM    145  CE2 TRP A  79      37.053  53.749  -3.588  0.00  0.00           C 0
+ATOM    130    C ASN A  78      32.120  53.205  -6.043  0.00  0.00           C 0
+ATOM    136    N TRP A  79      32.448  53.449  -4.776  0.71  1.09           N 0
+ATOM    126  CG1 VAL A  77      33.698  52.376 -10.031  0.00  0.00           C 0
+ATOM    274  CE1 TYR A  95      37.805  50.959  -8.211  0.00  0.00           C 0
+ATOM    125   CB VAL A  77      33.351  53.456 -11.023  0.00  0.00           C 0
+ATOM    147  CZ2 TRP A  79      38.262  53.473  -4.200  0.00  0.00           C 0
+ATOM    272  CD1 TYR A  95      36.471  50.656  -8.355  0.00  0.00           C 0
+ATOM    146  CE3 TRP A  79      36.104  51.635  -4.302  0.00  0.00           C 0
+ATOM    149  CH2 TRP A  79      38.374  52.261  -4.827  0.00  0.00           C 0
+ATOM    148  CZ3 TRP A  79      37.318  51.362  -4.890  0.00  0.00           C 0
+TER
+END

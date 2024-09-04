@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0422
+HEADER 1  - Drug Score                        : 0.0066
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.2215
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6354
+HEADER 5  - Mean B-factor of pocket residues  : 0.2590
+HEADER 6  - Hydrophobicity Score              : 19.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 284.1900
+HEADER 10 - Pocket volume (convex hull)       : 5.5649
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2917
+ATOM   2219   CB ALA A 286      49.140  58.907 -21.321  0.00  0.00           C 0
+ATOM   2121  CD1 TYR A 274      41.910  62.775 -20.987  0.00  0.00           C 0
+ATOM   2218    O ALA A 286      48.209  61.528 -19.470  0.69  5.36           O 0
+ATOM   2245  NE2 GLN A 290      46.820  65.498 -22.055  0.73  9.84           N 0
+ATOM   2119   CB TYR A 274      41.988  60.673 -19.711  0.00  0.00           C 0
+ATOM   2221   CA ALA A 287      46.014  60.017 -18.576  0.00  0.00           C 0
+ATOM   2241   CB GLN A 290      46.826  64.001 -19.690  0.00  0.00           C 0
+ATOM   2193   CD GLN A 283      46.045  52.926 -24.077  0.00  0.00           C 0
+ATOM   2140  OG1 THR A 276      39.789  53.449 -23.656  0.10  8.57           O 0
+ATOM   2141  CG2 THR A 276      39.156  55.773 -23.884  0.00  0.00           C 0
+ATOM   2195  NE2 GLN A 283      46.114  53.062 -25.440  0.00  0.00           N 0
+ATOM   2224   CB ALA A 287      45.027  58.941 -18.157  0.00  0.00           C 0
+ATOM   2118    O TYR A 274      41.007  58.229 -21.250  0.59  9.64           O 0
+ATOM   2161   OG SER A 279      42.108  53.702 -20.920  0.70  3.21           O 0
+ATOM   2192   CG GLN A 283      46.819  54.091 -23.341  0.00  0.00           C 0
+ATOM   2191   CB GLN A 283      46.321  54.093 -21.801  0.00  0.00           C 0
+ATOM   2190    O GLN A 283      46.922  56.691 -19.650  0.72  3.21           O 0
+ATOM   2220    N ALA A 287      47.283  59.535 -19.084  0.83  1.09           N 0
+ATOM   2217    C ALA A 286      48.315  60.290 -19.474  0.00  0.00           C 0
+TER
+END

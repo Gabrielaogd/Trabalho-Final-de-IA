@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0834
+HEADER 1  - Drug Score                        : 0.0105
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9708
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6256
+HEADER 5  - Mean B-factor of pocket residues  : 0.2526
+HEADER 6  - Hydrophobicity Score              : 27.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 337.1057
+HEADER 10 - Pocket volume (convex hull)       : 14.1180
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM    586    O LEU O  75     120.075 344.689 183.489  0.57  4.29           O 0
+ATOM    608   CB LEU O  78     115.582 344.711 181.830  0.00  0.00           C 0
+ATOM    611  CD2 LEU O  78     114.604 346.148 183.608  0.00  0.00           C 0
+ATOM    589  CD1 LEU O  75     118.010 347.968 186.247  0.00  0.00           C 0
+ATOM    161   CB HIS O  22     126.191 345.204 173.707  0.00  0.00           C 0
+ATOM    135    O GLU O  19     124.188 341.839 173.182  0.32  1.07           O 0
+ATOM    643  NH2 ARG O  82     119.376 344.254 174.908  0.40  6.56           N 0
+ATOM    140  OE2 GLU O  19     121.239 344.084 171.451  0.67  3.21           O 0
+ATOM    167    N PHE O  23     125.474 342.730 175.717  0.71  1.09           N 0
+ATOM    160    O HIS O  22     126.499 344.377 176.888  0.61  3.21           O 0
+ATOM    168   CA PHE O  23     124.843 342.215 176.990  0.00  0.00           C 0
+ATOM    588   CG LEU O  75     119.401 347.470 186.599  0.00  0.00           C 0
+ATOM    204  CE1 HIS O  26     123.225 346.268 182.622  0.00  0.00           C 0
+ATOM    618   CD PRO O  79     118.458 344.053 180.753  0.00  0.00           C 0
+ATOM    617   CG PRO O  79     119.804 343.859 180.202  0.00  0.00           C 0
+ATOM    159    C HIS O  22     126.285 343.757 175.805  0.00  0.00           C 0
+ATOM    616   CB PRO O  79     119.605 343.805 178.688  0.00  0.00           C 0
+ATOM    202  ND1 HIS O  26     124.249 346.386 181.787  0.54  6.56           N 0
+ATOM    201   CG HIS O  26     124.503 345.147 181.210  0.00  0.00           C 0
+ATOM    200   CB HIS O  26     125.607 344.939 180.193  0.00  0.00           C 0
+TER
+END

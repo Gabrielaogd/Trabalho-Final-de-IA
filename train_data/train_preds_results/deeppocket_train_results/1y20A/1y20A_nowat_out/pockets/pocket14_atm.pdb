@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0334
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9779
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5920
+HEADER 5  - Mean B-factor of pocket residues  : 0.3701
+HEADER 6  - Hydrophobicity Score              : 21.6250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 179.3474
+HEADER 10 - Pocket volume (convex hull)       : 5.5814
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   1428  NH1 ARG A 187      30.511  35.402   1.173  0.82  2.19           N 0
+ATOM    951  ND2 ASN A 129      34.245  30.913   2.064  0.40  5.47           N 0
+ATOM   1429  NH2 ARG A 187      30.636  35.120  -1.099  0.64  5.47           N 0
+ATOM    950  OD1 ASN A 129      34.823  32.643   0.752  0.65  4.29           O 0
+ATOM   1885    O ARG A 247      26.064  29.229  -1.927  0.00  0.00           O 0
+ATOM    931    O ILE A 127      28.688  29.433   3.921  0.62  3.21           O 0
+ATOM   1894   CA SER A 248      25.241  27.811   0.284  0.00  0.00           C 0
+ATOM   1897   CB SER A 248      25.275  29.029   1.205  0.00  0.00           C 0
+ATOM   1394  CE2 TYR A 184      27.256  34.240   1.065  0.00  0.00           C 0
+ATOM   1878  CD2 PHE A 246      26.280  35.319  -2.695  0.00  0.00           C 0
+ATOM   1396   OH TYR A 184      26.279  32.155   1.728  0.68  2.14           O 0
+ATOM    937   CA ASN A 128      30.555  31.286   4.628  0.00  0.00           C 0
+ATOM    944    N ASN A 129      32.769  32.112   4.132  0.00  0.00           N 0
+ATOM    940   CB ASN A 128      29.753  32.605   4.601  0.00  0.00           C 0
+TER
+END

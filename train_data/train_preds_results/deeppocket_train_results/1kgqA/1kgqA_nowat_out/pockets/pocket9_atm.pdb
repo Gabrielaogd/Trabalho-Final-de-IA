@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0734
+HEADER 1  - Drug Score                        : 0.0187
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1917
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6689
+HEADER 5  - Mean B-factor of pocket residues  : 0.1911
+HEADER 6  - Hydrophobicity Score              : 49.8000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.6991
+HEADER 10 - Pocket volume (convex hull)       : 2.9543
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.9375
+ATOM   1291   CB GLU A 169      32.104  92.050   2.039  0.00  0.00           C 0
+ATOM   1282    O LEU A 168      31.496  95.237   1.759  0.32  6.43           O 0
+ATOM   1283   CB LEU A 168      34.071  95.898  -0.216  0.00  0.00           C 0
+ATOM   1294  OE1 GLU A 169      29.804  90.512   1.014  0.00  0.00           O 0
+ATOM    488    O LEU A  64      29.637  99.677  -5.751  0.57  2.14           O 0
+ATOM    511   CB PHE A  67      30.098  96.610  -7.178  0.00  0.00           C 0
+ATOM    492  CD2 LEU A  64      29.203  99.597  -1.408  0.00  0.00           C 0
+ATOM    524   CD ARG A  68      25.265  97.806  -6.869  0.00  0.00           C 0
+ATOM    515  CE1 PHE A  67      33.409  94.722  -7.026  0.00  0.00           C 0
+ATOM    512   CG PHE A  67      31.517  96.241  -6.824  0.00  0.00           C 0
+ATOM    513  CD1 PHE A  67      32.079  95.053  -7.308  0.00  0.00           C 0
+ATOM    516  CE2 PHE A  67      33.674  96.799  -5.813  0.00  0.00           C 0
+ATOM    514  CD2 PHE A  67      32.324  97.118  -6.100  0.00  0.00           C 0
+ATOM   1286  CD2 LEU A 168      33.503  98.132  -1.308  0.00  0.00           C 0
+ATOM   1285  CD1 LEU A 168      35.114  96.495  -2.335  0.00  0.00           C 0
+ATOM    517   CZ PHE A  67      34.208  95.609  -6.282  0.00  0.00           C 0
+TER
+END

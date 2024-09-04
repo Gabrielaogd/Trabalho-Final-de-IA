@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.0297
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9858
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6628
+HEADER 5  - Mean B-factor of pocket residues  : 0.0779
+HEADER 6  - Hydrophobicity Score              : 50.2000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.2784
+HEADER 10 - Pocket volume (convex hull)       : 7.8099
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   1156   CB ASN B 143      33.656  12.315  86.131  0.00  0.00           C 0
+ATOM    964   CB HIS B 123      37.696  14.588  81.603  0.00  0.00           C 0
+ATOM   1159  ND2 ASN B 143      34.650  12.621  88.333  0.00  0.00           N 0
+ATOM    966  ND1 HIS B 123      38.525  12.296  80.797  0.61  5.47           N 0
+ATOM   1152    N ASN B 143      32.713  11.681  83.958  0.57  1.09           N 0
+ATOM   1146    C MET B 142      32.451  10.632  83.168  0.00  0.00           C 0
+ATOM   1136    O PHE B 141      33.671   9.848  79.373  0.85  1.07           O 0
+ATOM    988   CGALEU B 125      37.913   8.346  78.239  0.00  0.00           C 0
+ATOM    990  CD1ALEU B 125      38.113   7.068  79.093  0.00  0.00           C 0
+ATOM   1145   CA MET B 142      32.563  10.908  81.605  0.00  0.00           C 0
+ATOM   1147    O MET B 142      31.962   9.549  83.541  0.55  5.36           O 0
+ATOM   1137   CB PHE B 141      33.280   6.914  79.285  0.00  0.00           C 0
+ATOM    963    O HIS B 123      35.058  13.126  80.849  0.42  3.21           O 0
+ATOM   1135    C PHE B 141      32.711   9.293  79.831  0.00  0.00           C 0
+ATOM   1153   CA ASN B 143      32.493  11.590  85.440  0.00  0.00           C 0
+TER
+END

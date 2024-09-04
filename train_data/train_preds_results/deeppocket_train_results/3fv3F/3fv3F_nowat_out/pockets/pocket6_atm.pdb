@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0322
+HEADER 1  - Drug Score                        : 0.0255
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7340
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5296
+HEADER 5  - Mean B-factor of pocket residues  : 0.1981
+HEADER 6  - Hydrophobicity Score              : -10.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.5401
+HEADER 10 - Pocket volume (convex hull)       : 5.0027
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM   1185   CB ASN F 156      47.272 149.379  19.024  0.00  0.00           C 0
+ATOM   1113   CD LYS F 148      44.797 152.319  21.277  0.00  0.00           C 0
+ATOM   2442  OD1 ASP F 319      46.630 148.273  22.326  0.57  9.64           O 0
+ATOM   1188  ND2 ASN F 156      49.682 149.533  19.135  0.73  5.47           N 0
+ATOM   1086   CA VAL F 145      50.245 153.673  19.470  0.00  0.00           C 0
+ATOM   1123   CE LYS F 149      49.047 156.898  24.014  0.00  0.00           C 0
+ATOM   1088    O VAL F 145      48.636 155.397  19.959  0.00  0.00           O 0
+ATOM   1116    N LYS F 149      46.147 156.731  20.330  0.00  0.00           N 0
+ATOM   1090  CG1 VAL F 145      50.989 154.269  21.852  0.00  0.00           C 0
+ATOM   1091  CG2 VAL F 145      51.714 152.046  20.730  0.00  0.00           C 0
+ATOM   1114   CE LYS F 148      43.789 151.974  22.365  0.00  0.00           C 0
+ATOM   1117   CA LYS F 149      46.175 157.830  21.332  0.00  0.00           C 0
+ATOM   1112   CG LYS F 148      44.377 153.558  20.526  0.00  0.00           C 0
+ATOM   1110    O LYS F 148      43.912 156.856  19.997  0.00  0.00           O 0
+ATOM   1115   NZ LYS F 148      44.327 150.860  23.202  0.00  0.00           N 0
+TER
+END

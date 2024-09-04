@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0336
+HEADER 1  - Drug Score                        : 0.0037
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8552
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6145
+HEADER 5  - Mean B-factor of pocket residues  : 0.0894
+HEADER 6  - Hydrophobicity Score              : 38.8750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 168.6950
+HEADER 10 - Pocket volume (convex hull)       : 4.2391
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6500
+ATOM   2240  CD1 LEU C 254      -5.926  23.037  84.405  0.00  0.00           C 0
+ATOM   2122   CA LYS C 239     -10.762  22.019  87.240  0.00  0.00           C 0
+ATOM   2154   SD MET C 242      -9.100  24.642  82.277  0.00  0.00           S 0
+ATOM   2126   CG LYS C 239     -11.404  19.787  86.150  0.00  0.00           C 0
+ATOM   2257  CD1 LEU C 256      -6.411  18.648  85.635  0.00  0.00           C 0
+ATOM   3992  CD1 ILE C 464      -6.475  23.383  80.068  0.00  0.00           C 0
+ATOM   3984    O GLY C 463      -4.267  19.275  79.839  0.22  3.21           O 0
+ATOM   3960    O LYS C 460      -6.422  16.603  79.369  0.00  0.00           O 0
+ATOM   3982   CA GLY C 463      -3.396  18.636  81.997  0.00  0.00           C 0
+ATOM   3983    C GLY C 463      -3.580  19.583  80.837  0.00  0.00           C 0
+ATOM   3990  CG1 ILE C 464      -5.301  22.418  79.802  0.00  0.00           C 0
+ATOM   3981    N GLY C 463      -3.894  17.284  81.822  0.00  0.00           N 0
+ATOM   3969    O GLN C 461      -6.436  15.794  83.402  0.80  2.14           O 0
+ATOM   3967   CA GLN C 461      -7.626  15.301  81.368  0.00  0.00           C 0
+ATOM   2128   CE LYS C 239     -12.058  17.648  85.067  0.00  0.00           C 0
+ATOM   3970   CB GLN C 461      -8.834  14.633  82.083  0.00  0.00           C 0
+ATOM   3971   CG GLN C 461     -10.187  14.860  81.402  0.00  0.00           C 0
+ATOM   3973  OE1 GLN C 461     -11.217  15.060  83.579  0.57  1.07           O 0
+TER
+END

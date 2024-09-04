@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0431
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6825
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5079
+HEADER 5  - Mean B-factor of pocket residues  : 0.1914
+HEADER 6  - Hydrophobicity Score              : 20.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 127.3510
+HEADER 10 - Pocket volume (convex hull)       : 0.8512
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   2106  NH2 ARG X 264      10.334  -1.039  25.171  0.67  1.09           N 0
+ATOM   1465  ND2 ASN X 185      10.011  -1.564  27.880  0.00  0.00           N 0
+ATOM   2040   CB ARG X 257      12.536   5.569  26.143  0.00  0.00           C 0
+ATOM   2039    O ARG X 257      10.584   4.057  24.011  0.00  0.00           O 0
+ATOM   2072   CB TYR X 261       7.959   1.902  23.977  0.00  0.00           C 0
+ATOM   1461    O ASN X 185      14.493  -0.381  28.172  0.38  5.36           O 0
+ATOM   2041   CG ARG X 257      13.879   5.350  26.769  0.00  0.00           C 0
+ATOM   1479  CD1 LEU X 187      15.521   2.842  24.411  0.00  0.00           C 0
+ATOM   1462   CB ASN X 185      12.100  -1.948  29.047  0.00  0.00           C 0
+ATOM   2042   CD ARG X 257      13.820   5.283  28.294  0.00  0.00           C 0
+ATOM   2105  NH1 ARG X 264      11.910  -0.782  23.535  0.00  0.00           N 0
+ATOM   1478   CG LEU X 187      15.975   1.553  25.089  0.00  0.00           C 0
+ATOM   1480  CD2 LEU X 187      15.420   0.341  24.355  0.00  0.00           C 0
+TER
+END

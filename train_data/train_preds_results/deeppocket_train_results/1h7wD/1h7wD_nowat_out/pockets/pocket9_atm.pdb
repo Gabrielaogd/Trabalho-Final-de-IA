@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0440
+HEADER 1  - Drug Score                        : 0.2048
+HEADER 2  - Number of alpha spheres           :    44
+HEADER 3  - Mean alpha-sphere radius          : 4.1402
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7159
+HEADER 5  - Mean B-factor of pocket residues  : 0.0526
+HEADER 6  - Hydrophobicity Score              : 4.8000
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 618.3929
+HEADER 10 - Pocket volume (convex hull)       : 89.5465
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 20.8571
+HEADER 13 - Number of apolar alpha sphere     :    28
+HEADER 14 - Proportion of apolar alpha sphere : 0.6364
+ATOM    760   CD LYS D  98      33.057  87.415   4.622  0.00  0.00           C 0
+ATOM    761   CE LYS D  98      33.125  88.274   5.874  0.00  0.00           C 0
+ATOM   6252  CG2 THR D 825      28.690  87.324   9.870  0.00  0.00           C 0
+ATOM    762   NZ LYS D  98      32.801  87.494   7.102  0.32  3.28           N 0
+ATOM   6234  OD2 ASP D 823      32.823  89.881   8.660  0.00  0.00           O 0
+ATOM   6232   CG ASP D 823      32.026  90.045   9.606  0.00  0.00           C 0
+ATOM    649   CB ALA D  83      31.549  92.718   2.390  0.00  0.00           C 0
+ATOM   6231   CB ASP D 823      31.869  91.424  10.196  0.00  0.00           C 0
+ATOM    650    N ASP D  84      30.186  90.305   0.657  0.00  0.00           N 0
+ATOM    646   CA ALA D  83      31.948  91.296   2.017  0.00  0.00           C 0
+ATOM    745  OD2 ASP D  96      29.519  82.382   5.022  0.18  9.64           O 0
+ATOM   6233  OD1 ASP D 823      31.363  89.116  10.098  0.70  2.14           O 0
+ATOM   4233   CB ALA D 552      34.661 100.567  18.009  0.00  0.00           C 0
+ATOM   4231    C ALA D 552      32.429  99.540  18.527  0.00  0.00           C 0
+ATOM   4232    O ALA D 552      31.421 100.024  18.007  0.00  0.00           O 0
+ATOM   4234    N PRO D 553      32.597  98.210  18.638  0.00  0.00           N 0
+ATOM   6199  CG1 VAL D 819      33.173  93.305  15.545  0.00  0.00           C 0
+ATOM   6202   CA GLN D 820      37.082  95.527  14.215  0.00  0.00           C 0
+ATOM   6197    O VAL D 819      35.341  93.594  13.310  0.00  0.00           O 0
+ATOM   4280   CE MET D 559      28.938  99.027  15.699  0.00  0.00           C 0
+ATOM   4239   CG PRO D 553      33.608  96.187  18.086  0.00  0.00           C 0
+ATOM   6221    O GLN D 822      34.474  93.069  10.156  0.00  0.00           O 0
+ATOM   6228   CA ASP D 823      32.591  91.569  11.538  0.00  0.00           C 0
+ATOM   4235   CA PRO D 553      31.537  97.320  18.152  0.00  0.00           C 0
+ATOM   6245   CZ PHE D 824      28.379  94.356  16.172  0.00  0.00           C 0
+ATOM   6243  CE1 PHE D 824      29.399  93.453  16.490  0.00  0.00           C 0
+ATOM    768   OG SER D  99      31.314  82.914   6.782  0.69  3.21           O 0
+ATOM   6251  OG1 THR D 825      31.053  86.762   9.883  0.00  0.00           O 0
+ATOM    744  OD1 ASP D  96      31.049  83.013   3.579  0.00  0.00           O 0
+ATOM   6206   CG GLN D 820      37.163  97.138  16.172  0.00  0.00           C 0
+ATOM   6244  CE2 PHE D 824      27.450  94.029  15.191  0.00  0.00           C 0
+ATOM   6242  CD2 PHE D 824      27.540  92.805  14.531  0.00  0.00           C 0
+ATOM   4309  NH1 ARG D 562      25.393  94.867  12.014  0.00  0.00           N 0
+ATOM   6235    N PHE D 824      30.698  90.834  12.886  0.66  3.28           N 0
+ATOM   6239   CB PHE D 824      28.601  90.559  14.141  0.00  0.00           C 0
+ATOM   6240   CG PHE D 824      28.552  91.894  14.836  0.00  0.00           C 0
+ATOM   6241  CD1 PHE D 824      29.479  92.230  15.819  0.00  0.00           C 0
+TER
+END

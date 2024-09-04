@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0089
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7307
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4553
+HEADER 5  - Mean B-factor of pocket residues  : 0.7639
+HEADER 6  - Hydrophobicity Score              : 34.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 133.8363
+HEADER 10 - Pocket volume (convex hull)       : 3.6369
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2493  CG2 ILE K 342     132.196 -31.867  87.315  0.00  0.00           C 0
+ATOM   2739    O LEU K 372     132.678 -32.468  83.353  0.68  1.07           O 0
+ATOM   1362  OE1 GLU K 191     133.598 -29.199  85.610  0.70  1.07           O 0
+ATOM   2502  OE1 GLN K 343     137.543 -34.635  87.835  0.48  5.36           O 0
+ATOM   2525  CG2 VAL K 346     133.595 -36.077  86.261  0.00  0.00           C 0
+ATOM   2499   CB GLN K 343     135.981 -34.158  90.339  0.00  0.00           C 0
+ATOM   1363  OE2 GLU K 191     135.603 -28.398  85.208  0.14  3.21           O 0
+ATOM   2472   CB GLU K 339     136.017 -28.923  91.249  0.00  0.00           C 0
+ATOM   2495    N GLN K 343     133.626 -33.670  89.843  0.00  0.00           N 0
+ATOM   2745   CA ALA K 373     134.768 -33.886  82.224  0.00  0.00           C 0
+ATOM   2747    O ALA K 373     136.676 -32.718  81.355  0.44  9.64           O 0
+ATOM   2748   CB ALA K 373     135.428 -35.238  82.423  0.00  0.00           C 0
+ATOM   2476  OE2 GLU K 339     137.978 -27.099  89.001  0.80  5.36           O 0
+ATOM   2473   CG GLU K 339     136.146 -27.668  90.411  0.00  0.00           C 0
+ATOM   2471    O GLU K 339     134.887 -31.805  91.653  0.59  3.21           O 0
+ATOM   2469   CA GLU K 339     134.586 -29.450  91.334  0.00  0.00           C 0
+TER
+END

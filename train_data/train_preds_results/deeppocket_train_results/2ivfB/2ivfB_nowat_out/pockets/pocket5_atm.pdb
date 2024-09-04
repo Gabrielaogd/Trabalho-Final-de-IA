@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1999
+HEADER 1  - Drug Score                        : 0.0059
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.6427
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4145
+HEADER 5  - Mean B-factor of pocket residues  : 0.0998
+HEADER 6  - Hydrophobicity Score              : 25.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.9167
+HEADER 9  - Pocket volume (Monte Carlo)       : 138.7593
+HEADER 10 - Pocket volume (convex hull)       : 3.7266
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4231
+ATOM   1207  CG1 ILE B 168      33.334  29.889 -35.348  0.00  0.00           C 0
+ATOM   1299  CG1 VAL B 179      30.099  32.943 -34.064  0.00  0.00           C 0
+ATOM   1201   CB ALA B 167      30.890  32.602 -38.646  0.00  0.00           C 0
+ATOM   1343   SG CYS B 184      26.669  31.949 -35.754  0.00  0.00           S 0
+ATOM   1191  OG1 THR B 165      29.437  30.565 -41.258  0.78  1.07           O 0
+ATOM   1178   SG CYS B 163      30.948  28.682 -39.541  0.00  0.00           S 0
+ATOM   1344    N LYS B 185      25.394  32.106 -38.886  0.61  1.09           N 0
+ATOM   1357    N HIS B 187      24.313  27.685 -37.703  0.51  2.19           N 0
+ATOM   1361   CB HIS B 187      25.339  26.116 -39.315  0.00  0.00           C 0
+ATOM   1367    N ARG B 188      25.438  25.730 -36.074  0.46  2.19           N 0
+ATOM   1393   SG CYS B 190      29.446  26.696 -33.815  0.00  0.00           S 0
+ATOM   1209  CD1 ILE B 168      33.090  28.551 -34.682  0.00  0.00           C 0
+ATOM   1364  CD2 HIS B 187      25.839  27.326 -41.549  0.00  0.00           C 0
+ATOM   1378    N HIS B 189      27.260  23.553 -36.318  0.00  0.00           N 0
+ATOM   1177   CB CYS B 163      32.031  27.505 -38.785  0.00  0.00           C 0
+ATOM   1174   CA CYS B 163      31.911  26.135 -39.500  0.00  0.00           C 0
+ATOM   1185   CD PRO B 164      29.701  25.503 -41.300  0.00  0.00           C 0
+ATOM   1388    N CYS B 190      29.772  23.936 -35.314  0.00  0.00           N 0
+TER
+END

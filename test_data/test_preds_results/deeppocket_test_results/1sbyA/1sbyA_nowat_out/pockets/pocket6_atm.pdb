@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0058
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9300
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5895
+HEADER 5  - Mean B-factor of pocket residues  : 0.4028
+HEADER 6  - Hydrophobicity Score              : 5.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 301.6200
+HEADER 10 - Pocket volume (convex hull)       : 13.1281
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM   1586   CA ARG A 201      33.150  -5.285  27.676  0.00  0.00           C 0
+ATOM   1590   CG ARG A 201      35.698  -5.150  27.778  0.00  0.00           C 0
+ATOM   1616  OE2 GLU A 204      35.633  -5.250  31.389  0.00  0.00           O 0
+ATOM   1581    O PRO A 200      32.263  -7.683  26.517  0.00  0.00           O 0
+ATOM   1612   CB GLU A 204      33.015  -5.142  32.363  0.00  0.00           C 0
+ATOM   1501   CA THR A 191      27.129 -10.698  30.932  0.00  0.00           C 0
+ATOM   1607   CB ALA A 203      28.015  -6.753  31.162  0.00  0.00           C 0
+ATOM   1504   CB THR A 191      27.873 -12.037  30.927  0.00  0.00           C 0
+ATOM   1487    O HIS A 190      28.020  -9.261  33.133  0.00  0.00           O 0
+ATOM   1524  OD1 ASN A 193      27.584 -12.265  23.779  0.00  0.00           O 0
+ATOM   1510    O PHE A 192      27.447  -8.812  26.357  0.46  4.29           O 0
+ATOM   1603    N ALA A 203      28.962  -5.169  29.522  0.46  1.09           N 0
+ATOM   1608    N GLU A 204      30.611  -5.138  31.830  0.52  3.28           N 0
+ATOM   1507    N PHE A 192      26.491  -9.900  28.719  0.62  1.09           N 0
+ATOM   1505  OG1 THR A 191      27.066 -13.087  30.376  0.44  6.43           O 0
+ATOM   1509    C PHE A 192      26.406  -9.452  26.293  0.00  0.00           C 0
+TER
+END

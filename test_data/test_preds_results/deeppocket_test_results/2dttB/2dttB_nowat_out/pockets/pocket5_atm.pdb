@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1016
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8875
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5622
+HEADER 5  - Mean B-factor of pocket residues  : 0.0710
+HEADER 6  - Hydrophobicity Score              : -0.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 145.2065
+HEADER 10 - Pocket volume (convex hull)       : 0.6538
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM    901   CB ASN B 109     -12.341   7.963  49.485  0.00  0.00           C 0
+ATOM    631  OG1 THR B  77     -10.422  10.947  54.935  0.64  7.50           O 0
+ATOM    875  OE2 GLU B 105     -14.884   9.741  54.312  0.38  5.36           O 0
+ATOM    871   CB GLU B 105     -12.420   7.538  54.565  0.00  0.00           C 0
+ATOM    905    N GLY B 110      -9.115   7.218  49.908  0.54  5.47           N 0
+ATOM    899    C ASN B 109     -10.309   6.795  50.311  0.00  0.00           C 0
+ATOM    908    O GLY B 110      -7.043   9.033  49.559  0.31  9.64           O 0
+ATOM    630   CB THR B  77      -9.046  11.326  54.809  0.00  0.00           C 0
+ATOM    907    C GLY B 110      -6.999   8.353  50.582  0.00  0.00           C 0
+ATOM    906   CA GLY B 110      -8.016   7.266  50.851  0.00  0.00           C 0
+ATOM    915  CG2 VAL B 111      -6.364  11.440  52.299  0.00  0.00           C 0
+ATOM    640  OE1 GLU B  78      -7.921  14.705  53.046  0.00  0.00           O 0
+ATOM    641  OE2 GLU B  78      -7.157  15.175  51.042  0.00  0.00           O 0
+TER
+END

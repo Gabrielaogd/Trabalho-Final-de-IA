@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1690
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.7544
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5386
+HEADER 5  - Mean B-factor of pocket residues  : 0.1506
+HEADER 6  - Hydrophobicity Score              : 12.7143
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 206.6442
+HEADER 10 - Pocket volume (convex hull)       : 7.2031
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1200
+ATOM   1512   CG LYS A 199       4.609 -40.045  24.808  0.00  0.00           C 0
+ATOM   1511   CB LYS A 199       3.326 -39.840  25.592  0.00  0.00           C 0
+ATOM   2749    O TYR A 363       5.443 -34.107  22.706  0.00  0.00           O 0
+ATOM   1513   CD LYS A 199       4.374 -40.807  23.512  0.00  0.00           C 0
+ATOM   1540  OE1 GLN A 202       6.393 -34.920  26.473  0.89  2.14           O 0
+ATOM   2744    O ALA A 362       7.660 -37.797  21.594  0.93  2.14           O 0
+ATOM   1979  NH1 ARG A 258       4.595 -31.252  22.999  0.00  0.00           N 0
+ATOM   1548  CD1 TYR A 203      -2.223 -34.407  24.969  0.00  0.00           C 0
+ATOM   1575  OE1 GLU A 206       1.468 -30.478  25.100  0.70  8.57           O 0
+ATOM   1546   CB TYR A 203      -1.073 -35.515  26.925  0.00  0.00           C 0
+ATOM   1510    O LYS A 199       1.742 -37.579  27.333  0.58  4.29           O 0
+ATOM   1542    N TYR A 203       0.934 -34.906  28.177  0.62  2.19           N 0
+ATOM   1541  NE2 GLN A 202       5.425 -33.121  25.541  0.00  0.00           N 0
+ATOM   1576  OE2 GLU A 206       3.416 -31.195  25.789  0.00  0.00           O 0
+ATOM   1508   CA LYS A 199       3.534 -39.114  26.927  0.00  0.00           C 0
+ATOM   1537   CB GLN A 202       4.070 -35.070  28.277  0.00  0.00           C 0
+ATOM   1539   CD GLN A 202       5.581 -33.997  26.528  0.00  0.00           C 0
+ATOM   1543   CA TYR A 203      -0.282 -34.375  27.570  0.00  0.00           C 0
+TER
+END

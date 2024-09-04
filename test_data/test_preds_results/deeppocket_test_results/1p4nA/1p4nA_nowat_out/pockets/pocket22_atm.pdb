@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0223
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1116
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5604
+HEADER 5  - Mean B-factor of pocket residues  : 0.2933
+HEADER 6  - Hydrophobicity Score              : -10.1429
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 261.2100
+HEADER 10 - Pocket volume (convex hull)       : 10.4216
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1981    N GLY A 249      12.739  13.210   4.234  0.51  2.19           N 0
+ATOM   1975  CD1 TYR A 248      16.245  10.728   2.641  0.00  0.00           C 0
+ATOM    155    O ARG A  19      10.598  12.111   0.109  0.41  4.29           O 0
+ATOM   1970   CA TYR A 248      15.143  13.499   4.435  0.00  0.00           C 0
+ATOM   1963    O LYS A 247      17.367  14.707   3.334  0.74  5.36           O 0
+ATOM    158   CD ARG A  19      14.712  10.176  -2.972  0.00  0.00           C 0
+ATOM    157   CG ARG A  19      13.824   9.707  -1.827  0.00  0.00           C 0
+ATOM   1977  CE1 TYR A 248      15.883   9.703   1.761  0.00  0.00           C 0
+ATOM   1812  OG1 THR A 227      19.164  14.163  -0.371  0.48  8.57           O 0
+ATOM   1803   CB ASP A 226      19.559  18.706  -2.230  0.00  0.00           C 0
+ATOM   1792  OD1 ASP A 224      21.065  15.858  -2.824  0.00  0.00           O 0
+ATOM   1793  OD2 ASP A 224      20.436  14.302  -4.236  0.00  0.00           O 0
+ATOM   1968   NZ LYS A 247      14.286  18.664   1.933  0.00  0.00           N 0
+ATOM   1802    O ASP A 226      19.022  17.987   0.614  0.59  4.29           O 0
+ATOM   1984    O GLY A 249      11.286  15.544   4.816  0.43  9.64           O 0
+ATOM    156   CB ARG A  19      12.489  10.436  -1.770  0.00  0.00           C 0
+TER
+END

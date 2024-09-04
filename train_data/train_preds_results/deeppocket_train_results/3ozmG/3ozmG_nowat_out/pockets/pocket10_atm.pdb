@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1454
+HEADER 1  - Drug Score                        : 0.0127
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.6736
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4458
+HEADER 5  - Mean B-factor of pocket residues  : 0.0688
+HEADER 6  - Hydrophobicity Score              : 40.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.6062
+HEADER 10 - Pocket volume (convex hull)       : 11.8478
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   2282  CG2 ILE G 290      10.848  23.727  39.993  0.00  0.00           C 0
+ATOM   2277   CA ILE G 290      12.960  24.914  39.302  0.00  0.00           C 0
+ATOM   2281  CG1 ILE G 290      12.396  24.645  41.728  0.00  0.00           C 0
+ATOM   2046    O ARG G 259      14.531  20.074  43.338  0.62  3.21           O 0
+ATOM   2060  OD1 ASN G 260      18.148  19.997  46.846  0.00  0.00           O 0
+ATOM   2082   CB ASN G 263      16.087  17.152  42.255  0.00  0.00           C 0
+ATOM   2083   CG ASN G 263      17.242  16.281  41.751  0.00  0.00           C 0
+ATOM   2084  OD1 ASN G 263      17.899  15.580  42.527  0.00  0.00           O 0
+ATOM   2085  ND2 ASN G 263      17.478  16.319  40.452  0.57  9.84           N 0
+ATOM   2049   CD ARG G 259      17.960  23.701  43.256  0.00  0.00           C 0
+ATOM   2305   OGASER G 293      16.638  22.781  37.918  0.75  8.57           O 0
+ATOM   2303   CBASER G 293      15.601  22.034  37.290  0.00  0.00           C 0
+ATOM   2071   CB PHE G 262      11.084  19.612  41.646  0.00  0.00           C 0
+ATOM   2176  CD2 LEU G 274      10.122  20.557  38.304  0.00  0.00           C 0
+ATOM   2048   CG ARG G 259      16.873  22.829  43.881  0.00  0.00           C 0
+ATOM   2078    N ASN G 263      13.672  17.627  42.114  0.71  1.09           N 0
+ATOM   2079   CA ASN G 263      14.737  16.749  41.644  0.00  0.00           C 0
+ATOM   2047   CB ARG G 259      15.537  23.013  43.148  0.00  0.00           C 0
+ATOM   2113  CD1 ILE G 266      12.931  17.716  37.376  0.00  0.00           C 0
+TER
+END

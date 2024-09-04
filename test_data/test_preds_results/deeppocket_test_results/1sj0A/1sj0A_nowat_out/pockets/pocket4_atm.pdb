@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1003
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9368
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7313
+HEADER 5  - Mean B-factor of pocket residues  : 0.2101
+HEADER 6  - Hydrophobicity Score              : 36.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.0603
+HEADER 10 - Pocket volume (convex hull)       : 5.5895
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   1501   CB LEU A 497       6.618  29.517  26.976  0.00  0.00           C 0
+ATOM   1538  ND1 HIS A 501      12.455  28.868  27.666  0.70  2.19           N 0
+ATOM   1505    N GLN A 498       8.650  28.938  29.137  0.00  0.00           N 0
+ATOM   1499    C LEU A 497       8.450  28.258  28.022  0.00  0.00           C 0
+ATOM   1506   CA GLN A 498       9.982  29.164  29.654  0.00  0.00           C 0
+ATOM   1509   CB GLN A 498       9.929  30.163  30.816  0.00  0.00           C 0
+ATOM   1500    O LEU A 497       9.343  27.743  27.368  0.67  2.14           O 0
+ATOM   1540  CE1 HIS A 501      12.992  29.778  28.461  0.00  0.00           C 0
+ATOM   1510   CG GLN A 498      11.291  30.784  31.095  0.00  0.00           C 0
+ATOM   1502   CG LEU A 497       6.460  29.469  25.452  0.00  0.00           C 0
+ATOM   1431  CG2 ILE A 487       7.832  23.100  22.393  0.00  0.00           C 0
+ATOM   1432  CD1 ILE A 487      10.699  23.194  23.260  0.00  0.00           C 0
+ATOM   1503  CD1 LEU A 497       6.268  28.034  24.985  0.00  0.00           C 0
+ATOM   1530  OE1 GLN A 500       6.665  24.801  25.250  0.97  2.14           O 0
+ATOM   1527   CB GLN A 500       9.112  24.662  26.926  0.00  0.00           C 0
+ATOM   1532    N HIS A 501      11.853  25.664  26.838  0.00  0.00           N 0
+ATOM   1536   CB HIS A 501      13.160  27.393  25.722  0.00  0.00           C 0
+TER
+END

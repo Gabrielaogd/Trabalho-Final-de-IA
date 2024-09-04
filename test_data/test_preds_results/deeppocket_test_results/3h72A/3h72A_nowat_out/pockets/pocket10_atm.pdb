@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1139
+HEADER 1  - Drug Score                        : 0.0162
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7808
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5232
+HEADER 5  - Mean B-factor of pocket residues  : 0.0717
+HEADER 6  - Hydrophobicity Score              : 49.1111
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.1006
+HEADER 10 - Pocket volume (convex hull)       : 8.8047
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   1376  CG1 VAL A 495      96.442 -18.641  28.164  0.00  0.00           C 0
+ATOM   1219  CG2 ILE A 475      93.546 -17.859  25.764  0.00  0.00           C 0
+ATOM   1224    O ARG A 476      91.723 -21.220  27.392  0.61  4.29           O 0
+ATOM   1216    O ILE A 475      90.155 -17.791  26.761  0.00  0.00           O 0
+ATOM   1565   OH TYR A 519      99.427 -12.224  28.316  0.64  2.14           O 0
+ATOM   1455   NZ LYS A 505      99.242 -14.733  31.348  0.64  9.84           N 0
+ATOM   1367    O VAL A 494     100.529 -17.875  27.693  0.59  1.07           O 0
+ATOM   1113  OE1 GLN A 462      94.527 -11.895  27.862  0.46  5.36           O 0
+ATOM   1220  CD1 ILE A 475      94.182 -15.019  24.744  0.00  0.00           C 0
+ATOM   1553  CD1 ILE A 518      97.680 -13.399  24.556  0.00  0.00           C 0
+ATOM   1377  CG2 VAL A 495      96.824 -20.769  29.416  0.00  0.00           C 0
+ATOM   1375   CB VAL A 495      97.087 -19.271  29.400  0.00  0.00           C 0
+ATOM   1110   CB GLN A 462      91.759 -12.562  27.369  0.00  0.00           C 0
+ATOM   1217   CB ILE A 475      92.496 -16.866  25.260  0.00  0.00           C 0
+ATOM   1362  CG1 VAL A 493      98.097 -17.113  24.938  0.00  0.00           C 0
+TER
+END

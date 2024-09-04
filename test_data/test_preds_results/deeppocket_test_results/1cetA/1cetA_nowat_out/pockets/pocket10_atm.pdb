@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0367
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8832
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6055
+HEADER 5  - Mean B-factor of pocket residues  : 0.0821
+HEADER 6  - Hydrophobicity Score              : 21.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 177.3170
+HEADER 10 - Pocket volume (convex hull)       : 3.3784
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   1690   CB PRO A 246      28.067  20.061  -0.160  0.00  0.00           C 0
+ATOM   1087  NH2 ARG A 171      25.354  22.550  -0.271  0.20  2.19           N 0
+ATOM   1716   CB ALA A 249      28.822  26.164  -0.314  0.00  0.00           C 0
+ATOM   1641  CD1 ILE A 239      26.686  20.479  -3.607  0.00  0.00           C 0
+ATOM   1084   NE ARG A 171      24.297  24.384  -1.163  0.47  2.19           N 0
+ATOM   1687   CA PRO A 246      29.538  19.671  -0.315  0.00  0.00           C 0
+ATOM   1683    O SER A 245      31.595  18.282  -1.422  0.52  5.36           O 0
+ATOM   1640  CG2 ILE A 239      28.529  17.888  -4.229  0.00  0.00           C 0
+ATOM   1712    N ALA A 249      31.128  25.436   0.120  0.00  0.00           N 0
+ATOM   1709   CB VAL A 248      33.749  24.593  -1.293  0.00  0.00           C 0
+ATOM   1693    N TYR A 247      31.365  20.835   0.773  0.00  0.00           N 0
+ATOM   1723   CD PRO A 250      29.594  23.870   1.879  0.00  0.00           C 0
+ATOM   1705    N VAL A 248      32.839  23.106   0.476  0.43  1.09           N 0
+ATOM   1711  CG2 VAL A 248      34.895  23.650  -1.623  0.00  0.00           C 0
+TER
+END

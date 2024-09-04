@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1195
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.8609
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5027
+HEADER 5  - Mean B-factor of pocket residues  : 0.3395
+HEADER 6  - Hydrophobicity Score              : 30.4000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.0538
+HEADER 10 - Pocket volume (convex hull)       : 12.9507
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   1227  CG1 VAL A 385      43.012  35.165  48.413  0.00  0.00           C 0
+ATOM   1176    O SER A 379      35.526  37.335  46.753  0.36  5.36           O 0
+ATOM   1171  OD1 ASP A 378      36.944  34.267  41.611  0.00  0.00           O 0
+ATOM   1290  NE2 GLN A 392      38.999  30.039  44.868  0.44  7.66           N 0
+ATOM   1248  CG1 VAL A 388      38.305  30.681  48.659  0.00  0.00           C 0
+ATOM   1257   CGAGLN A 389      43.374  31.317  46.764  0.00  0.00           C 0
+ATOM   1263  NE2AGLN A 389      44.077  33.185  45.394  0.00  0.00           N 0
+ATOM   1202  CG1AILE A 382      36.490  35.209  49.712  0.00  0.00           C 0
+ATOM   1203  CG2AILE A 382      38.390  34.824  51.344  0.00  0.00           C 0
+ATOM   1228  CG2 VAL A 385      41.861  36.752  49.980  0.00  0.00           C 0
+ATOM   1225    O VAL A 385      42.530  32.170  49.660  0.00  0.00           O 0
+ATOM   1201   CBAILE A 382      37.557  35.867  50.606  0.00  0.00           C 0
+ATOM   1223   CA VAL A 385      42.145  34.325  50.659  0.00  0.00           C 0
+ATOM    542  CD1 LEU A 300      34.243  31.553  50.126  0.00  0.00           C 0
+ATOM   1165    N ASP A 378      34.299  33.309  43.764  0.00  0.00           N 0
+ATOM   1173    N SER A 379      33.743  35.482  45.605  0.38  1.09           N 0
+ATOM   1247   CB VAL A 388      39.152  30.862  49.912  0.00  0.00           C 0
+ATOM   1166   CA ASP A 378      34.776  34.690  43.532  0.00  0.00           C 0
+ATOM   1149    O ALA A 375      36.417  29.127  46.028  0.00  0.00           O 0
+ATOM   1164   OG SER A 377      32.031  31.453  45.982  0.00  0.00           O 0
+TER
+END

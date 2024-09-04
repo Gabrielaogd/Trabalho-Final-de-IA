@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0010
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8943
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6307
+HEADER 5  - Mean B-factor of pocket residues  : 0.5367
+HEADER 6  - Hydrophobicity Score              : 11.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.4533
+HEADER 10 - Pocket volume (convex hull)       : 2.7423
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM    753  OD1 ASP A  92      -4.236  31.877  54.822  0.00  0.00           O 0
+ATOM    770   CB ALA A  95      -4.241  25.990  52.455  0.00  0.00           C 0
+ATOM    750    O ASP A  92      -3.026  28.625  51.759  0.55  1.07           O 0
+ATOM    748   CA ASP A  92      -2.569  30.484  53.128  0.00  0.00           C 0
+ATOM    767   CA ALA A  95      -3.104  25.412  53.280  0.00  0.00           C 0
+ATOM   1588   CB ARG A 199      -2.173  26.926  59.068  0.00  0.00           C 0
+ATOM    769    O ALA A  95      -3.754  23.356  54.341  0.29  5.36           O 0
+ATOM   1590   CD ARG A 199      -1.340  25.477  57.032  0.00  0.00           C 0
+ATOM   1591   NE ARG A 199      -1.384  24.177  57.703  0.00  0.00           N 0
+ATOM   1592   CZ ARG A 199      -1.929  23.058  57.244  0.00  0.00           C 0
+ATOM   1580    O THR A 198      -3.261  25.567  61.807  0.00  0.00           O 0
+ATOM   1587    O ARG A 199      -4.028  28.683  59.937  0.69  8.57           O 0
+ATOM   1593  NH1 ARG A 199      -2.483  22.962  56.048  0.62  2.19           N 0
+ATOM    742    O MET A  91      -0.888  28.551  54.315  0.00  0.00           O 0
+TER
+END

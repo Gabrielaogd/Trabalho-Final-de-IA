@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0526
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1273
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6099
+HEADER 5  - Mean B-factor of pocket residues  : 0.0832
+HEADER 6  - Hydrophobicity Score              : 8.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 303.2707
+HEADER 10 - Pocket volume (convex hull)       : 9.8135
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   2534   CB PRO D 320     -12.846  -0.384  19.136  0.00  0.00           C 0
+ATOM    632  CG1 ILE D  80      -7.747   2.303  15.539  0.00  0.00           C 0
+ATOM    628   CA ILE D  80     -10.221   2.457  15.019  0.00  0.00           C 0
+ATOM    630    O ILE D  80     -10.266   3.176  17.318  0.52  4.29           O 0
+ATOM    604   CE MET D  76     -11.466  -4.883  15.125  0.00  0.00           C 0
+ATOM   2535   CG PRO D 320     -11.960  -0.595  20.329  0.00  0.00           C 0
+ATOM    605    N ASP D  77      -9.947  -0.703  10.538  0.00  0.00           N 0
+ATOM    609   CB ASP D  77      -8.097   0.277   9.246  0.00  0.00           C 0
+ATOM    611  OD1 ASP D  77      -6.126   1.287  10.101  0.50  2.14           O 0
+ATOM    573    O HIS D  73      -9.232  -2.924   8.514  0.56  3.21           O 0
+ATOM    600    O MET D  76     -10.782  -0.026  12.520  0.57  3.21           O 0
+ATOM    624    O SER D  79     -13.000   2.592  15.239  0.00  0.00           O 0
+ATOM   2543   CA GLY D 322     -15.258  -1.627  14.727  0.00  0.00           C 0
+ATOM    603   SD MET D  76     -12.657  -4.203  13.981  0.00  0.00           S 0
+ATOM    601   CB MET D  76     -10.937  -3.310  11.968  0.00  0.00           C 0
+ATOM    634  CD1 ILE D  80      -6.313   2.267  15.009  0.00  0.00           C 0
+ATOM   2554  NE2 GLN D 323     -12.383  -4.953  18.717  0.88  6.56           N 0
+ATOM    599    C MET D  76     -10.764  -0.833  11.580  0.00  0.00           C 0
+ATOM    606   CA ASP D  77      -9.011   0.421  10.463  0.00  0.00           C 0
+TER
+END

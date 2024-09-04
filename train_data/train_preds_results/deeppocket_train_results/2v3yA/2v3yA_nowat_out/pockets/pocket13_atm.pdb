@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.1192
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8522
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5970
+HEADER 5  - Mean B-factor of pocket residues  : 0.1998
+HEADER 6  - Hydrophobicity Score              : -18.6250
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 298.3737
+HEADER 10 - Pocket volume (convex hull)       : 20.8799
+HEADER 11 - Charge Score                      :    -5
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   2021   OG SER A 235      69.360  39.916  66.563  0.56  3.21           O 0
+ATOM   2171  OD2 ASP A 255      68.619  34.953  67.163  0.00  0.00           O 0
+ATOM   2127    O GLU A 250      71.003  39.038  70.602  0.15  5.36           O 0
+ATOM   2019    O SER A 235      66.451  39.141  65.607  0.46  2.14           O 0
+ATOM   2090   OH TYR A 244      65.580  44.856  68.392  0.59  1.07           O 0
+ATOM   2041  OD1 ASN A 238      63.232  41.340  67.685  0.62  9.64           O 0
+ATOM   2123  OE2 GLU A 248      63.680  46.014  72.570  0.00  0.00           O 0
+ATOM   2087  CE1 TYR A 244      63.561  45.130  67.116  0.00  0.00           C 0
+ATOM   2042  ND2 ASN A 238      65.458  41.701  67.839  0.63  6.56           N 0
+ATOM   1781  OE2 GLU A 208      68.045  42.298  66.807  0.00  0.00           O 0
+ATOM   2124    N GLU A 250      70.886  41.526  71.923  0.64  5.47           N 0
+ATOM   2032   CD GLU A 237      61.213  34.880  68.019  0.00  0.00           C 0
+ATOM   2026    N GLU A 237      64.155  36.752  65.455  0.75  3.28           N 0
+ATOM   2031   CG GLU A 237      61.966  35.274  66.762  0.00  0.00           C 0
+ATOM   2030   CB GLU A 237      61.892  36.757  66.434  0.00  0.00           C 0
+ATOM   2120   CG GLU A 248      65.967  46.169  71.956  0.00  0.00           C 0
+ATOM   2117    C GLU A 248      68.842  45.277  71.684  0.00  0.00           C 0
+ATOM   1780  OE1 GLU A 208      68.090  44.207  67.928  0.55  1.07           O 0
+ATOM   2034  OE2 GLU A 237      61.383  33.692  68.398  0.52  8.57           O 0
+TER
+END

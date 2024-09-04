@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0556
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9536
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5973
+HEADER 5  - Mean B-factor of pocket residues  : 0.0823
+HEADER 6  - Hydrophobicity Score              : 36.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 211.6190
+HEADER 10 - Pocket volume (convex hull)       : 5.7426
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM    483    O LEU A  67       6.221  31.155  23.100  0.63  4.29           O 0
+ATOM    531  CD1 ILE A  72       8.658  28.632  24.063  0.00  0.00           C 0
+ATOM    478  OE1 GLU A  66       6.969  33.956  29.038  0.36  7.50           O 0
+ATOM    503  OD1 ASP A  69       5.534  25.801  26.007  0.00  0.00           O 0
+ATOM    428   CG TRP A  60       2.269  33.701  24.512  0.00  0.00           C 0
+ATOM    429  CD1 TRP A  60       2.290  33.200  23.216  0.00  0.00           C 0
+ATOM    497    N ASP A  69       4.226  28.500  22.919  0.00  0.00           N 0
+ATOM     72  OG1 THR A  11      -0.422  28.970  23.475  0.44  6.43           O 0
+ATOM    427   CB TRP A  60       3.462  34.296  25.204  0.00  0.00           C 0
+ATOM    430  CD2 TRP A  60       0.899  33.675  24.926  0.00  0.00           C 0
+ATOM    433  CE3 TRP A  60       0.244  34.070  26.113  0.00  0.00           C 0
+ATOM     73  CG2 THR A  11      -2.449  29.286  24.696  0.00  0.00           C 0
+ATOM    501   CB ASP A  69       3.876  26.719  24.569  0.00  0.00           C 0
+ATOM    476   CG GLU A  66       8.359  33.921  27.113  0.00  0.00           C 0
+ATOM    475   CB GLU A  66       7.606  34.343  25.882  0.00  0.00           C 0
+ATOM    498   CA ASP A  69       4.802  27.268  23.444  0.00  0.00           C 0
+TER
+END

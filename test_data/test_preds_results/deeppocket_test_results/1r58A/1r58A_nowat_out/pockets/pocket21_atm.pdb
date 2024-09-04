@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.1032
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0848
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6520
+HEADER 5  - Mean B-factor of pocket residues  : 0.2310
+HEADER 6  - Hydrophobicity Score              : 46.6000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 196.7589
+HEADER 10 - Pocket volume (convex hull)       : 2.8651
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM   2202    O PRO A 393      11.367  54.465   6.732  0.49  6.43           O 0
+ATOM   2212  CG2 ILE A 394      15.998  54.855   7.887  0.00  0.00           C 0
+ATOM   2231  CD1 LEU A 396      16.844  57.410  12.099  0.00  0.00           C 0
+ATOM   2578  CD1 LEU A 438      13.805  52.401  12.677  0.00  0.00           C 0
+ATOM   2230   CG LEU A 396      16.912  58.318  10.885  0.00  0.00           C 0
+ATOM   2207   CA ILE A 394      14.024  55.164   6.355  0.00  0.00           C 0
+ATOM   2225    N LEU A 396      16.915  58.415   7.825  0.84  1.09           N 0
+ATOM   2232  CD2 LEU A 396      17.192  59.759  11.310  0.00  0.00           C 0
+ATOM   2218   CB ARG A 395      14.762  59.905   5.963  0.00  0.00           C 0
+ATOM   2214    N ARG A 395      14.805  57.461   6.329  0.62  2.19           N 0
+ATOM   2223  NH1 ARG A 395       9.843  59.532   7.463  0.00  0.00           N 0
+ATOM   2220   CD ARG A 395      12.281  59.573   6.060  0.00  0.00           C 0
+ATOM   2211  CG1 ILE A 394      14.245  53.060   7.727  0.00  0.00           C 0
+TER
+END

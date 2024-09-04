@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0525
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.0236
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5673
+HEADER 5  - Mean B-factor of pocket residues  : 0.0039
+HEADER 6  - Hydrophobicity Score              : 11.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 391.5152
+HEADER 10 - Pocket volume (convex hull)       : 29.7423
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4400
+ATOM   3951   CB SER B 504      18.656  47.609  50.069  0.00  0.00           C 0
+ATOM    235   CDAARG B  31      22.317  49.549  50.640  0.00  0.00           C 0
+ATOM   3952   OG SER B 504      18.481  46.431  50.857  0.00  0.00           O 0
+ATOM    206    N GLY B  28      24.847  46.768  47.856  0.00  0.00           N 0
+ATOM    209    O GLY B  28      25.887  46.268  50.405  0.00  0.00           O 0
+ATOM    207   CA GLY B  28      25.783  45.675  48.091  0.00  0.00           C 0
+ATOM    399   CG PRO B  51      26.014  46.310  54.145  0.00  0.00           C 0
+ATOM    231   CBAARG B  31      24.784  49.396  51.159  0.00  0.00           C 0
+ATOM   3935    O GLN B 502      18.732  50.886  54.918  0.51  4.29           O 0
+ATOM   3947    N SER B 504      17.296  48.952  51.606  0.50  1.09           N 0
+ATOM    243  NH2AARG B  31      20.227  51.140  51.737  0.47  1.09           N 0
+ATOM    262  CD1 TYR B  33      20.643  50.231  57.869  0.00  0.00           C 0
+ATOM    398   CB PRO B  51      25.989  45.044  54.993  0.00  0.00           C 0
+ATOM    260   CB TYR B  33      23.132  50.561  57.664  0.00  0.00           C 0
+ATOM    229    OAARG B  31      25.531  49.695  53.956  0.00  0.00           O 0
+ATOM    248    O PHE B  32      23.750  52.298  54.601  0.00  0.00           O 0
+ATOM    395   CA PRO B  51      26.375  45.532  56.400  0.00  0.00           C 0
+ATOM    263  CD2 TYR B  33      21.963  50.091  59.863  0.00  0.00           C 0
+ATOM    261   CG TYR B  33      21.887  50.300  58.485  0.00  0.00           C 0
+ATOM    401    N GLY B  52      26.419  43.948  58.252  0.76  4.37           N 0
+TER
+END

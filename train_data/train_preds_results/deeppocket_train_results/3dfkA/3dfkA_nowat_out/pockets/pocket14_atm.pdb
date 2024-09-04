@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0113
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9456
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4803
+HEADER 5  - Mean B-factor of pocket residues  : 0.1686
+HEADER 6  - Hydrophobicity Score              : 17.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 191.2119
+HEADER 10 - Pocket volume (convex hull)       : 4.8945
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM    715   NE ARG A 101      43.619  25.870  14.057  0.00  0.00           N 0
+ATOM    904  NE2 HIS A 124      50.047  22.652  13.458  0.00  0.00           N 0
+ATOM    718  NH2 ARG A 101      43.633  23.750  13.177  0.47  4.37           N 0
+ATOM    787  CD2 LEU A 109      45.599  25.445  11.045  0.00  0.00           C 0
+ATOM    938  OD1 ASP A 129      48.923  21.531  15.504  0.79  5.36           O 0
+ATOM    786  CD1 LEU A 109      48.024  25.263  10.544  0.00  0.00           C 0
+ATOM    722    O LYS A 102      47.587  30.286  14.112  0.00  0.00           O 0
+ATOM    735  CD2 LEU A 103      50.390  27.790  11.841  0.00  0.00           C 0
+ATOM    714   CD ARG A 101      42.979  27.110  14.530  0.00  0.00           C 0
+ATOM    929    O SER A 128      48.344  24.108  19.249  0.00  0.00           O 0
+ATOM    962   CB LEU A 132      44.696  23.536  19.107  0.00  0.00           C 0
+ATOM    902  CD2 HIS A 124      50.911  23.493  14.114  0.00  0.00           C 0
+ATOM    742   CD PRO A 104      51.913  29.404  15.704  0.00  0.00           C 0
+ATOM    931   OG SER A 128      51.196  24.951  16.877  0.98  2.14           O 0
+ATOM    930   CB SER A 128      50.955  25.722  18.028  0.00  0.00           C 0
+ATOM    965  CD2 LEU A 132      43.618  23.407  16.834  0.00  0.00           C 0
+ATOM    964  CD1 LEU A 132      42.392  24.543  18.708  0.00  0.00           C 0
+TER
+END

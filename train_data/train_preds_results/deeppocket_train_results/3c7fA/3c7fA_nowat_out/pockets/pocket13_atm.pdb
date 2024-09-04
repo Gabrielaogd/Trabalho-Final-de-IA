@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.1030
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7916
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4979
+HEADER 5  - Mean B-factor of pocket residues  : 0.1625
+HEADER 6  - Hydrophobicity Score              : 10.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.8901
+HEADER 10 - Pocket volume (convex hull)       : 7.4520
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2515    C ASP A 333      15.353  24.986  17.234  0.00  0.00           C 0
+ATOM   1729  ND2 ASN A 233      15.006  26.588   9.748  0.00  0.00           N 0
+ATOM   2516    O ASP A 333      16.222  25.785  17.603  0.00  0.00           O 0
+ATOM   2522   CA GLY A 334      16.965  23.804  15.855  0.00  0.00           C 0
+ATOM   2511    O ALA A 332      12.506  24.984  15.324  0.00  0.00           O 0
+ATOM   2521    N GLY A 334      15.619  23.975  16.415  0.00  0.00           N 0
+ATOM   1719  CE2 TYR A 232      16.540  22.240  11.299  0.00  0.00           C 0
+ATOM   1721   OH TYR A 232      14.447  21.173  10.874  0.64  8.57           O 0
+ATOM   1764   OH TYR A 237      19.911  23.460  13.937  0.57  1.07           O 0
+ATOM   1717  CD2 TYR A 232      17.912  22.342  11.054  0.00  0.00           C 0
+ATOM   1739  OG1 THR A 235      20.702  28.232  11.689  0.00  0.00           O 0
+ATOM   2037  NH1AARG A 272      20.920  26.533  17.792  0.57  7.66           N 0
+ATOM   1740  CG2 THR A 235      22.481  27.042  12.801  0.00  0.00           C 0
+ATOM   1713    O TYR A 232      19.827  24.659   9.618  0.00  0.00           O 0
+ATOM   1726   CB ASN A 233      16.622  25.023   8.797  0.00  0.00           C 0
+ATOM   1725    O ASN A 233      18.131  27.349   8.626  0.57  3.21           O 0
+TER
+END

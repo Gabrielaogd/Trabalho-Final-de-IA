@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0401
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8074
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5595
+HEADER 5  - Mean B-factor of pocket residues  : 0.0555
+HEADER 6  - Hydrophobicity Score              : 10.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 194.0729
+HEADER 10 - Pocket volume (convex hull)       : 3.6736
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   1631  CG1 ILE A 219       6.335  12.803   5.717  0.00  0.00           C 0
+ATOM   1626    N ILE A 219       4.004  11.114   6.572  0.00  0.00           N 0
+ATOM   1613    C ASP A 217       5.003   6.901   7.395  0.00  0.00           C 0
+ATOM   1619    N VAL A 218       4.539   7.972   8.028  0.00  0.00           N 0
+ATOM   1614    O ASP A 217       4.631   6.573   6.270  0.00  0.00           O 0
+ATOM   2573   CB SER A 339      10.833  12.727  12.900  0.00  0.00           C 0
+ATOM   1610    O GLY A 216       8.386   6.393   9.539  0.00  0.00           O 0
+ATOM   2594  OD2 ASP A 342      10.113   7.941  13.753  0.46  9.64           O 0
+ATOM   2574   OG SER A 339       9.419  12.634  13.003  0.73  4.29           O 0
+ATOM   1622    O VAL A 218       4.257  10.700   8.772  0.76  1.07           O 0
+ATOM   1564  CG2 THR A 209       5.988  12.804  10.453  0.00  0.00           C 0
+ATOM   1609    C GLY A 216       7.327   6.583  10.134  0.00  0.00           C 0
+ATOM   1612   CA ASP A 217       6.052   6.090   8.142  0.00  0.00           C 0
+ATOM   1633  CD1 ILE A 219       7.003  13.176   7.025  0.00  0.00           C 0
+ATOM   1621    C VAL A 218       3.973  10.319   7.641  0.00  0.00           C 0
+ATOM   1608   CA GLY A 216       7.317   6.936  11.610  0.00  0.00           C 0
+TER
+END

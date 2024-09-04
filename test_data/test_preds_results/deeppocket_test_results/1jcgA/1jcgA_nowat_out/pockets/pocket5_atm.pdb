@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1047
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.6783
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5173
+HEADER 5  - Mean B-factor of pocket residues  : 0.3258
+HEADER 6  - Hydrophobicity Score              : -18.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.0526
+HEADER 10 - Pocket volume (convex hull)       : 10.9728
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4167
+ATOM   1322    O ASP A 180      24.889  -0.899 115.346  0.38  2.14           O 0
+ATOM   1489   CD GLU A 200      28.457  -5.457 119.104  0.00  0.00           C 0
+ATOM   1323   CB ASP A 180      24.445  -0.144 118.374  0.00  0.00           C 0
+ATOM    490  NH1 ARG A  66      24.059  -4.548 120.501  0.58  8.75           N 0
+ATOM   1350  OD1 ASP A 183      29.545  -0.768 116.794  0.63  1.07           O 0
+ATOM   1491  OE2 GLU A 200      28.790  -4.558 119.921  0.44  4.29           O 0
+ATOM   1360  OE2 GLU A 184      21.738  -3.348 113.419  0.77  1.07           O 0
+ATOM    491  NH2 ARG A  66      22.680  -2.778 120.017  0.30  9.84           N 0
+ATOM   1356   CB GLU A 184      24.378  -3.584 112.768  0.00  0.00           C 0
+ATOM   1488   CG GLU A 200      29.033  -5.418 117.680  0.00  0.00           C 0
+ATOM   1490  OE1 GLU A 200      27.667  -6.379 119.406  0.70  8.57           O 0
+ATOM   1320   CA ASP A 180      25.264   0.491 117.252  0.00  0.00           C 0
+ATOM   1487   CB GLU A 200      29.776  -6.699 117.281  0.00  0.00           C 0
+ATOM   1380  CG2 VAL A 187      29.810  -6.245 112.011  0.00  0.00           C 0
+ATOM   1379  CG1 VAL A 187      27.969  -7.533 111.014  0.00  0.00           C 0
+ATOM   1352    N GLU A 184      26.534  -2.452 112.818  0.69  1.09           N 0
+ATOM   1348   CB ASP A 183      28.634  -1.488 114.723  0.00  0.00           C 0
+ATOM   1353   CA GLU A 184      25.791  -3.535 112.185  0.00  0.00           C 0
+ATOM   1378   CB VAL A 187      28.634  -6.181 111.067  0.00  0.00           C 0
+ATOM   1484   CA GLU A 200      30.711  -6.544 116.068  0.00  0.00           C 0
+ATOM   1483    N GLU A 200      31.284  -7.835 115.711  0.53  1.09           N 0
+TER
+END

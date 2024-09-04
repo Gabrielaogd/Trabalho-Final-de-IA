@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0575
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.0115
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5949
+HEADER 5  - Mean B-factor of pocket residues  : 0.3467
+HEADER 6  - Hydrophobicity Score              : 10.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.3651
+HEADER 10 - Pocket volume (convex hull)       : 9.9670
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   2444   CG PRO A 309      12.984 -18.040  27.901  0.00  0.00           C 0
+ATOM   2448    C ALA A 310      12.014 -13.173  24.403  0.00  0.00           C 0
+ATOM   2443   CB PRO A 309      13.749 -16.774  27.658  0.00  0.00           C 0
+ATOM   2455   CB SER A 311      11.855 -13.874  21.139  0.00  0.00           C 0
+ATOM   2456   OG SER A 311      12.632 -13.628  19.979  0.00  0.00           O 0
+ATOM   1271  NH1 ARG A 164      19.060 -18.757  23.042  0.00  0.00           N 0
+ATOM   1242  CE1 TYR A 161      18.766 -13.587  21.516  0.00  0.00           C 0
+ATOM   2449    O ALA A 310      13.243 -13.111  24.370  0.70  7.50           O 0
+ATOM   2442    O PRO A 309      10.689 -15.627  27.350  0.00  0.00           O 0
+ATOM   2441    C PRO A 309      11.824 -15.148  27.387  0.00  0.00           C 0
+ATOM   2446    N ALA A 310      12.203 -14.127  26.632  0.00  0.00           N 0
+ATOM   2451    N SER A 311      11.248 -12.972  23.338  0.00  0.00           N 0
+ATOM   2447   CA ALA A 310      11.286 -13.495  25.697  0.00  0.00           C 0
+ATOM   1291   OH TYR A 166      16.602 -18.922  26.354  0.00  0.00           O 0
+ATOM   1240  CD1 TYR A 161      18.549 -13.367  22.873  0.00  0.00           C 0
+ATOM   1272  NH2 ARG A 164      20.006 -16.728  22.536  0.00  0.00           N 0
+ATOM   1270   CZ ARG A 164      19.801 -17.714  23.395  0.00  0.00           C 0
+ATOM   1234    N TYR A 161      18.928 -13.905  27.295  0.00  0.00           N 0
+ATOM   1230   CB ASN A 160      16.653 -14.618  29.246  0.00  0.00           C 0
+ATOM   1235   CA TYR A 161      19.537 -14.035  25.983  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1256
+HEADER 1  - Drug Score                        : 0.2093
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1843
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7109
+HEADER 5  - Mean B-factor of pocket residues  : 0.0650
+HEADER 6  - Hydrophobicity Score              : 54.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.9411
+HEADER 10 - Pocket volume (convex hull)       : 0.7274
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM     66   CB HIS A  14      -6.636  -9.071   9.621  0.00  0.00           C 0
+ATOM     33    N PHE A  11      -9.493 -11.421   5.595  0.00  0.00           N 0
+ATOM     36    O PHE A  11      -6.685 -10.361   6.487  0.19  5.36           O 0
+ATOM     68  ND1 HIS A  14      -6.754 -10.205  11.860  0.00  0.00           N 0
+ATOM     37   CB PHE A  11      -9.208  -9.329   6.797  0.00  0.00           C 0
+ATOM     67   CG HIS A  14      -6.968  -9.095  11.058  0.00  0.00           C 0
+ATOM     39  CD1 PHE A  11     -11.700  -9.777   6.851  0.00  0.00           C 0
+ATOM     71  NE2 HIS A  14      -7.475  -8.610  13.118  0.52  6.56           N 0
+ATOM     70  CE1 HIS A  14      -7.141  -9.898  13.091  0.00  0.00           C 0
+ATOM     38   CG PHE A  11     -10.628  -8.875   6.928  0.00  0.00           C 0
+ATOM     69  CD2 HIS A  14      -7.370  -8.091  11.873  0.00  0.00           C 0
+ATOM     42  CE2 PHE A  11     -12.243  -7.032   7.414  0.00  0.00           C 0
+ATOM     40  CD2 PHE A  11     -10.906  -7.490   7.205  0.00  0.00           C 0
+ATOM     41  CE1 PHE A  11     -13.028  -9.325   7.024  0.00  0.00           C 0
+ATOM     43   CZ PHE A  11     -13.284  -7.929   7.282  0.00  0.00           C 0
+TER
+END

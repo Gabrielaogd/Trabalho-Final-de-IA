@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.1703
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.9306
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5097
+HEADER 5  - Mean B-factor of pocket residues  : 0.3487
+HEADER 6  - Hydrophobicity Score              : 23.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 371.0248
+HEADER 10 - Pocket volume (convex hull)       : 38.9921
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.3871
+ATOM   1980  CD2 LEU B 238      16.786  36.902 -10.704  0.00  0.00           C 0
+ATOM   2100  CG2 ILE B 254      15.133  34.269 -13.840  0.00  0.00           C 0
+ATOM   1843  CD1 ILE B 220      14.258  38.903 -16.021  0.00  0.00           C 0
+ATOM   2075  OD1 ASP B 251      20.790  36.052 -15.185  0.54  9.64           O 0
+ATOM   2111  NH1 ARG B 255      14.339  39.053 -19.890  0.88  8.75           N 0
+ATOM   2108   CD ARG B 255      15.367  36.463 -20.376  0.00  0.00           C 0
+ATOM   2073   CB ASP B 251      20.353  35.302 -17.398  0.00  0.00           C 0
+ATOM   2076  OD2 ASP B 251      22.110  36.773 -16.786  0.00  0.00           O 0
+ATOM   2074   CG ASP B 251      21.143  36.095 -16.383  0.00  0.00           C 0
+ATOM   1884   NZ LYS B 224      18.712  43.056 -14.828  0.00  0.00           N 0
+ATOM   1844    N ALA B 221      13.308  43.982 -13.850  0.71  1.09           N 0
+ATOM   1848   CB ALA B 221      13.339  46.271 -14.701  0.00  0.00           C 0
+ATOM   1845   CA ALA B 221      13.736  45.345 -13.561  0.00  0.00           C 0
+ATOM   1814    O ASP B 217      12.119  43.702 -16.457  0.61  3.21           O 0
+ATOM   1842  CG2 ILE B 220      15.443  41.257 -14.274  0.00  0.00           C 0
+ATOM   1883   CE LYS B 224      18.452  42.849 -13.369  0.00  0.00           C 0
+ATOM   1840   CB ILE B 220      13.965  41.021 -14.586  0.00  0.00           C 0
+ATOM   1812   CA ASP B 217      11.677  42.381 -18.414  0.00  0.00           C 0
+ATOM   1817  OD1 ASP B 217      13.116  41.382 -20.550  0.45  4.29           O 0
+ATOM   1815   CB ASP B 217      11.906  43.235 -19.669  0.00  0.00           C 0
+ATOM   1816   CG ASP B 217      12.582  42.478 -20.790  0.00  0.00           C 0
+ATOM   2072    O ASP B 251      17.396  33.946 -17.591  0.00  0.00           O 0
+ATOM   2107   CG ARG B 255      15.022  35.791 -19.027  0.00  0.00           C 0
+TER
+END

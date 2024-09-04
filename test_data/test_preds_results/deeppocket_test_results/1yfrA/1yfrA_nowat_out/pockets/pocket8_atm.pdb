@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0252
+HEADER 1  - Drug Score                        : 0.0072
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8741
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5777
+HEADER 5  - Mean B-factor of pocket residues  : 0.2034
+HEADER 6  - Hydrophobicity Score              : 7.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.3070
+HEADER 10 - Pocket volume (convex hull)       : 8.6637
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1999   CD PRO A 243     114.735   9.365  26.314  0.00  0.00           C 0
+ATOM   1961    O ASP A 239     114.759  13.084  26.337  0.68  5.36           O 0
+ATOM   1998   CG PRO A 243     114.032   9.597  25.016  0.00  0.00           C 0
+ATOM   1959   CA ASP A 239     114.159  13.713  28.591  0.00  0.00           C 0
+ATOM   1987   CG PHE A 242     113.134   7.325  29.939  0.00  0.00           C 0
+ATOM   1907   NZ LYS A 232     109.504  10.724  35.435  0.52  9.84           N 0
+ATOM   1944    O GLU A 237     113.794  10.889  32.713  0.00  0.00           O 0
+ATOM   1989  CD2 PHE A 242     112.048   6.839  29.237  0.00  0.00           C 0
+ATOM   1990  CE1 PHE A 242     112.592   5.764  31.761  0.00  0.00           C 0
+ATOM   1991  CE2 PHE A 242     111.233   5.821  29.795  0.00  0.00           C 0
+ATOM   1992   CZ PHE A 242     111.513   5.291  31.035  0.00  0.00           C 0
+ATOM   1948  OE1 GLU A 237     112.566   7.764  36.406  0.58  5.36           O 0
+ATOM   1988  CD1 PHE A 242     113.412   6.785  31.206  0.00  0.00           C 0
+ATOM   1906   CE LYS A 232     110.775  11.500  35.148  0.00  0.00           C 0
+ATOM   1986   CB PHE A 242     114.033   8.336  29.321  0.00  0.00           C 0
+ATOM   1953    O ILE A 238     115.565  11.508  29.692  0.00  0.00           O 0
+TER
+END

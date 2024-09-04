@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0078
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.8116
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4310
+HEADER 5  - Mean B-factor of pocket residues  : 0.2548
+HEADER 6  - Hydrophobicity Score              : 28.5556
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 313.1241
+HEADER 10 - Pocket volume (convex hull)       : 20.0630
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1600
+ATOM    816  OE1 GLU B 140       1.850  24.246  27.833  0.54  3.21           O 0
+ATOM    812    O GLU B 140      -1.698  26.216  25.885  0.38  6.43           O 0
+ATOM   1270   CG GLU B 218       0.688  20.728  26.401  0.00  0.00           C 0
+ATOM   1200  CG2 VAL B 205      -3.208  26.542  29.444  0.00  0.00           C 0
+ATOM   1197    O VAL B 205      -1.520  25.115  32.066  0.00  0.00           O 0
+ATOM   1273  OE2 GLU B 218       0.416  19.043  28.036  0.00  0.00           O 0
+ATOM   1252    O ASN B 216       3.183  20.231  31.439  0.44  9.64           O 0
+ATOM   1212    O GLY B 211       4.368  22.476  39.496  0.37  8.57           O 0
+ATOM   1214   CA PHE B 212       5.371  24.862  38.611  0.00  0.00           C 0
+ATOM   1224    N LYS B 213       6.650  23.460  37.070  0.63  1.09           N 0
+ATOM   1204    O LEU B 206       0.168  25.502  36.595  0.00  0.00           O 0
+ATOM   1219  CD1 PHE B 212       5.109  26.762  35.967  0.00  0.00           C 0
+ATOM   1253   CB ASN B 216       4.522  19.903  34.065  0.00  0.00           C 0
+ATOM   1255  OD1 ASN B 216       4.851  19.249  36.307  0.50  4.29           O 0
+ATOM   1202   CA LEU B 206      -0.245  26.286  34.337  0.00  0.00           C 0
+ATOM   1203    C LEU B 206      -0.653  25.959  35.780  0.00  0.00           C 0
+ATOM   1263  CD1 LEU B 217       4.828  24.613  31.719  0.00  0.00           C 0
+ATOM   1205   CB LEU B 206       0.932  27.294  34.332  0.00  0.00           C 0
+ATOM   1258   CA LEU B 217       4.407  22.266  29.912  0.00  0.00           C 0
+ATOM   1227    O LYS B 213       6.870  22.771  34.307  0.00  0.00           O 0
+TER
+END

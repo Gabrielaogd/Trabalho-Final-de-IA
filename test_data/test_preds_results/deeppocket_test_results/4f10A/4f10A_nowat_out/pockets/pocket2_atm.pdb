@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.1732
+HEADER 1  - Drug Score                        : 0.0235
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.7711
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5705
+HEADER 5  - Mean B-factor of pocket residues  : 0.4224
+HEADER 6  - Hydrophobicity Score              : 11.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 270.0362
+HEADER 10 - Pocket volume (convex hull)       : 11.5596
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.9091
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4583
+ATOM   2305    O ASP A 293       0.537   8.166  51.484  0.00  0.00           O 0
+ATOM   2317  CD2 LEU A 294      -0.256   7.325  56.206  0.00  0.00           C 0
+ATOM   2311   CA LEU A 294      -0.137   6.371  53.468  0.00  0.00           C 0
+ATOM   2339   CB LYS A 297       5.149   6.259  51.756  0.00  0.00           C 0
+ATOM   2341   CD LYS A 297       6.423   6.064  53.856  0.00  0.00           C 0
+ATOM   2313    O LEU A 294       1.721   5.090  52.693  0.61  2.14           O 0
+ATOM   2240  CE1 PHE A 284       0.721   1.738  56.058  0.00  0.00           C 0
+ATOM   2314   CB LEU A 294      -0.871   5.575  54.549  0.00  0.00           C 0
+ATOM   2343   NZ LYS A 297       6.832   5.291  56.146  0.00  0.00           N 0
+ATOM   1798  OD1 ASP A 230       4.561   2.315  56.356  0.00  0.00           O 0
+ATOM   2342   CE LYS A 297       6.660   4.857  54.737  0.00  0.00           C 0
+ATOM   2265   CB ALA A 287      -4.139   3.778  59.315  0.00  0.00           C 0
+ATOM   1795    O ASP A 230       2.068   0.780  60.017  0.27  8.57           O 0
+ATOM   2238  CD1 PHE A 284       0.266   1.147  57.211  0.00  0.00           C 0
+ATOM   2316  CD1 LEU A 294      -1.935   5.570  56.827  0.00  0.00           C 0
+ATOM   2233   CA PHE A 284      -2.093  -0.081  58.963  0.00  0.00           C 0
+ATOM   1796   CB ASP A 230       4.155   2.479  58.677  0.00  0.00           C 0
+ATOM   2232    N PHE A 284      -2.465  -0.636  60.246  0.00  0.00           N 0
+ATOM   2227   CB LYS A 283      -2.892  -0.325  63.333  0.00  0.00           C 0
+ATOM   2225    C LYS A 283      -3.485  -0.135  60.927  0.00  0.00           C 0
+ATOM   2226    O LYS A 283      -4.138   0.825  60.540  0.57  3.21           O 0
+TER
+END

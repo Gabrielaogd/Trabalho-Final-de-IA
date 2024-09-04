@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0308
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8840
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6501
+HEADER 5  - Mean B-factor of pocket residues  : 0.2776
+HEADER 6  - Hydrophobicity Score              : 2.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 175.7592
+HEADER 10 - Pocket volume (convex hull)       : 3.8695
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   3225   CA GLN A 424      22.904  72.284   6.568  0.00  0.00           C 0
+ATOM   3228   CB GLN A 424      21.559  73.000   6.840  0.00  0.00           C 0
+ATOM   1301  OE2 GLU A 166      21.649  76.934   3.390  0.00  0.00           O 0
+ATOM   3224    N GLN A 424      22.567  71.001   5.978  0.70  5.47           N 0
+ATOM   3229   CG GLN A 424      21.522  74.471   6.681  0.00  0.00           C 0
+ATOM   1298   CG GLU A 166      19.335  76.459   2.950  0.00  0.00           C 0
+ATOM   3231  OE1 GLN A 424      19.221  74.665   5.938  0.78  4.29           O 0
+ATOM   3221   CB PRO A 423      20.123  69.118   5.233  0.00  0.00           C 0
+ATOM   1306   CB LEU A 167      17.405  71.696   1.253  0.00  0.00           C 0
+ATOM   1303   CA LEU A 167      16.979  73.103   0.803  0.00  0.00           C 0
+ATOM   1302    N LEU A 167      17.088  74.046   1.970  0.00  0.00           N 0
+ATOM   1308  CD1 LEU A 167      18.287  70.778  -0.843  0.00  0.00           C 0
+ATOM   1309  CD2 LEU A 167      17.674  69.193   0.979  0.00  0.00           C 0
+TER
+END

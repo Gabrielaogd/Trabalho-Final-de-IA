@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0803
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1032
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6489
+HEADER 5  - Mean B-factor of pocket residues  : 0.3765
+HEADER 6  - Hydrophobicity Score              : -19.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 314.1273
+HEADER 10 - Pocket volume (convex hull)       : 11.5373
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7368
+ATOM   1813   CA ARG A 240      32.002  12.499   9.400  0.00  0.00           C 0
+ATOM   1843   CD LYS A 243      36.650  16.181   8.112  0.00  0.00           C 0
+ATOM   1812    N ARG A 240      32.117  12.167  10.813  0.00  0.00           N 0
+ATOM   1817   CG ARG A 240      32.746  10.143   8.754  0.00  0.00           C 0
+ATOM   1851  OG1 THR A 244      31.567  15.533   5.712  0.00  0.00           O 0
+ATOM   1816   CB ARG A 240      31.692  11.240   8.586  0.00  0.00           C 0
+ATOM   1818   CD ARG A 240      32.660   9.081   7.663  0.00  0.00           C 0
+ATOM   1808   CB ASP A 239      33.721  11.718  13.308  0.00  0.00           C 0
+ATOM   1810  OD1 ASP A 239      35.790  12.221  14.373  0.00  0.00           O 0
+ATOM   1806    C ASP A 239      32.428  13.103  11.701  0.00  0.00           C 0
+ATOM   1807    O ASP A 239      32.626  14.273  11.388  0.44  2.14           O 0
+ATOM   1841   CB LYS A 243      34.277  16.420   8.947  0.00  0.00           C 0
+ATOM   1842   CG LYS A 243      35.245  16.663   7.791  0.00  0.00           C 0
+ATOM   1852  CG2 THR A 244      32.401  17.146   4.108  0.00  0.00           C 0
+ATOM   1845   NZ LYS A 243      38.675  15.827   6.706  0.00  0.00           N 0
+ATOM   1844   CE LYS A 243      37.681  16.819   7.195  0.00  0.00           C 0
+TER
+END

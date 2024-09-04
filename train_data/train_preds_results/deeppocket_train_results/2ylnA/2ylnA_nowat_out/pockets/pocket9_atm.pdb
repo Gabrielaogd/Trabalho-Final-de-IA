@@ -1,0 +1,48 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0223
+HEADER 1  - Drug Score                        : 0.0036
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8365
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5316
+HEADER 5  - Mean B-factor of pocket residues  : 0.2546
+HEADER 6  - Hydrophobicity Score              : 0.0000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 472.1824
+HEADER 10 - Pocket volume (convex hull)       : 51.1370
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.2000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.3846
+ATOM    242    NALYS A  67       8.745 -18.510   7.092  0.53  1.09           N 0
+ATOM    254   CDALYS A  67      10.565 -22.477   6.706  0.00  0.00           C 0
+ATOM    252   CGALYS A  67       9.767 -21.330   7.344  0.00  0.00           C 0
+ATOM    250   CBALYS A  67       8.578 -20.898   6.499  0.00  0.00           C 0
+ATOM    238   CB ASP A  66      10.559 -16.285   7.778  0.00  0.00           C 0
+ATOM    235   CA ASP A  66       9.166 -16.109   7.211  0.00  0.00           C 0
+ATOM    227    O HIS A  65       7.205 -14.688   5.907  0.50  9.64           O 0
+ATOM    221  CE2 TYR A  64      10.720 -13.406   4.359  0.00  0.00           C 0
+ATOM    223   OH TYR A  64      13.137 -13.370   4.173  0.57  9.64           O 0
+ATOM   1584  OD2 ASP A 208      11.763 -12.363  -2.373  0.65  2.14           O 0
+ATOM   1583  OD1 ASP A 208      13.894 -12.701  -2.787  0.55  1.07           O 0
+ATOM   1630   NZALYS A 212      12.147 -15.864  -1.979  0.00  0.00           N 0
+ATOM    222   CZ TYR A  64      11.900 -12.716   4.210  0.00  0.00           C 0
+ATOM    256   CEALYS A  67      11.745 -22.827   7.500  0.00  0.00           C 0
+ATOM    241  OD2 ASP A  66      11.742 -16.598   9.745  0.00  0.00           O 0
+ATOM    219  CD2 TYR A  64       9.513 -12.719   4.330  0.00  0.00           C 0
+ATOM   1628   CEALYS A 212      10.654 -15.787  -1.686  0.00  0.00           C 0
+ATOM    186   CB ALA A  60       9.270 -11.106   0.415  0.00  0.00           C 0
+ATOM   2150   CGAGLN A 266      20.018 -13.085   5.018  0.00  0.00           C 0
+ATOM   2156  NE2AGLN A 266      18.717 -13.588   6.959  0.42  5.47           N 0
+ATOM   2166  CE1 PHE A 267      15.737 -11.208   5.148  0.00  0.00           C 0
+ATOM   2164  CD1 PHE A 267      16.060 -10.763   3.817  0.00  0.00           C 0
+ATOM    191   CB PRO A  61      13.698  -9.846   0.101  0.00  0.00           C 0
+ATOM   2161    O PHE A 267      17.246 -10.781  -0.611  0.62  1.07           O 0
+ATOM   2146    OAGLN A 266      19.500 -13.190   1.674  0.00  0.00           O 0
+ATOM   2159   CA PHE A 267      18.288 -10.707   1.488  0.00  0.00           C 0
+TER
+END

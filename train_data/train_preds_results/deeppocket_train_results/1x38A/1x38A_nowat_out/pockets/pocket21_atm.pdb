@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0310
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8078
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4245
+HEADER 5  - Mean B-factor of pocket residues  : 0.3208
+HEADER 6  - Hydrophobicity Score              : -24.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.1703
+HEADER 10 - Pocket volume (convex hull)       : 4.4480
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM    512   CD LYS A  68       8.138  32.457  12.976  0.00  0.00           C 0
+ATOM   2810   CB PRO A 366       7.045  25.601  11.913  0.00  0.00           C 0
+ATOM    513   CE LYS A  68       8.655  32.527  11.539  0.00  0.00           C 0
+ATOM    511   CG LYS A  68       9.105  31.716  13.891  0.00  0.00           C 0
+ATOM   2809    O PRO A 366       5.245  25.690  14.590  0.74  7.50           O 0
+ATOM    554  OD2 ASP A  72      12.728  30.343  12.196  0.71  5.36           O 0
+ATOM    545  OE1 GLN A  71       9.985  25.960  14.796  0.51  4.29           O 0
+ATOM    510   CB LYS A  68       8.553  31.614  15.298  0.00  0.00           C 0
+ATOM   2830   CB ALA A 369       5.776  27.701  17.374  0.00  0.00           C 0
+ATOM   2807   CA PRO A 366       7.153  25.000  13.327  0.00  0.00           C 0
+ATOM    576  OD1 ASP A  75      14.418  25.635  12.152  0.00  0.00           O 0
+ATOM   2812   CD PRO A 366       8.271  23.582  11.699  0.00  0.00           C 0
+ATOM   2811   CG PRO A 366       7.297  24.464  11.007  0.00  0.00           C 0
+TER
+END

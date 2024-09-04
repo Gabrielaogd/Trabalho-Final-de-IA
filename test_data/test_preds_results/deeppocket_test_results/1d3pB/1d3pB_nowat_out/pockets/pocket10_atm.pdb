@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0064
+HEADER 1  - Drug Score                        : 0.0043
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0400
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5656
+HEADER 5  - Mean B-factor of pocket residues  : 0.5434
+HEADER 6  - Hydrophobicity Score              : 6.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 347.4114
+HEADER 10 - Pocket volume (convex hull)       : 17.1359
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.6957
+ATOM   1939   CG LYS B 284      -8.100 -10.669  29.890  0.00  0.00           C 0
+ATOM   1931   CD LYS B 283     -14.621  -9.252  27.748  0.00  0.00           C 0
+ATOM   1903  CE1 PHE B 280     -15.088 -10.230  32.106  0.00  0.00           C 0
+ATOM   1972  OE1 GLN B 287     -10.632  -7.407  26.639  0.00  0.00           O 0
+ATOM   1913   NE ARG B 281     -12.280 -18.364  35.632  0.00  0.00           N 0
+ATOM   1915  NH1 ARG B 281     -10.199 -17.697  34.842  0.15  9.84           N 0
+ATOM   1904  CE2 PHE B 280     -14.899 -11.768  33.938  0.00  0.00           C 0
+ATOM   1914   CZ ARG B 281     -10.951 -18.299  35.755  0.00  0.00           C 0
+ATOM   1912   CD ARG B 281     -13.071 -17.806  34.529  0.00  0.00           C 0
+ATOM   1911   CG ARG B 281     -12.250 -17.569  33.287  0.00  0.00           C 0
+ATOM   1940   CD LYS B 284      -8.465 -11.642  31.020  0.00  0.00           C 0
+ATOM   1905   CZ PHE B 280     -14.650 -10.514  33.393  0.00  0.00           C 0
+ATOM   1898    O PHE B 280     -13.517 -13.562  30.388  0.41  2.14           O 0
+ATOM   1941   CE LYS B 284      -7.269 -11.957  31.921  0.00  0.00           C 0
+ATOM   1909    O ARG B 281     -10.769 -15.843  30.647  0.33  3.21           O 0
+ATOM   1942   NZ LYS B 284      -6.911 -10.807  32.813  0.00  0.00           N 0
+ATOM   1907   CA ARG B 281     -12.997 -15.934  31.507  0.00  0.00           C 0
+ATOM   1929   CB LYS B 283     -13.187 -11.304  27.785  0.00  0.00           C 0
+ATOM   1934    N LYS B 284     -10.010 -11.689  27.624  0.00  0.00           N 0
+TER
+END

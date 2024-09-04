@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0958
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9669
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5190
+HEADER 5  - Mean B-factor of pocket residues  : 0.2881
+HEADER 6  - Hydrophobicity Score              : 14.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 286.0565
+HEADER 10 - Pocket volume (convex hull)       : 8.3579
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM    850    O LYS A 108      12.826  33.731  17.870  0.00  0.00           O 0
+ATOM    362   CG GLN A  47      11.528  28.977  15.929  0.00  0.00           C 0
+ATOM    563  CD1 ILE A  71       8.603  32.751  18.459  0.00  0.00           C 0
+ATOM    361   CB GLN A  47      11.097  30.332  15.507  0.00  0.00           C 0
+ATOM    852   CG LYS A 108      12.186  33.196  21.892  0.00  0.00           C 0
+ATOM    363   CD GLN A  47      10.515  27.995  16.441  0.00  0.00           C 0
+ATOM    347    O GLY A  45      16.221  31.334  18.769  0.47  5.36           O 0
+ATOM    853   CD LYS A 108      10.885  32.779  22.567  0.00  0.00           C 0
+ATOM    364  OE1 GLN A  47       9.390  28.290  16.761  0.00  0.00           O 0
+ATOM    561  CG1 ILE A  71       7.739  31.518  18.086  0.00  0.00           C 0
+ATOM    855   NZ LYS A 108       9.994  31.424  24.461  0.00  0.00           N 0
+ATOM    365  NE2 GLN A  47      10.807  26.673  16.476  0.00  0.00           N 0
+ATOM    851   CB LYS A 108      12.047  33.962  20.598  0.00  0.00           C 0
+ATOM    688  NE2 HIS A  87       3.469  27.802  18.650  0.00  0.00           N 0
+ATOM    687  CE1 HIS A  87       3.697  27.233  19.831  0.00  0.00           C 0
+ATOM    685  ND1 HIS A  87       3.451  28.130  20.822  0.00  0.00           N 0
+TER
+END

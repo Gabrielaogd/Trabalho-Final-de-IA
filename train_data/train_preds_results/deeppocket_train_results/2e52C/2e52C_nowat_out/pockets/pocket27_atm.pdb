@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0536
+HEADER 1  - Drug Score                        : 0.0061
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1532
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7841
+HEADER 5  - Mean B-factor of pocket residues  : 0.6562
+HEADER 6  - Hydrophobicity Score              : 5.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 325.8979
+HEADER 10 - Pocket volume (convex hull)       : 10.8561
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   2125  CG1 ILE C 258      98.208  20.543 -35.339  0.00  0.00           C 0
+ATOM   2092   CD LYS C 254      93.842  24.242 -39.316  0.00  0.00           C 0
+ATOM   2091   CG LYS C 254      93.431  22.807 -39.028  0.00  0.00           C 0
+ATOM   2127  CD1 ILE C 258      98.045  22.016 -35.039  0.00  0.00           C 0
+ATOM   2121   CA ILE C 258      98.216  18.170 -34.576  0.00  0.00           C 0
+ATOM   2148    O ASN C 261     101.782  15.390 -34.346  0.35  8.57           O 0
+ATOM   2126  CG2 ILE C 258      99.372  19.909 -33.178  0.00  0.00           C 0
+ATOM   2152  ND2 ASN C 261     101.314  14.738 -36.447  0.00  0.00           N 0
+ATOM   2115    O ASN C 257      97.820  15.823 -35.948  0.76  2.14           O 0
+ATOM   2090   CB LYS C 254      93.741  22.416 -37.607  0.00  0.00           C 0
+ATOM   2089    O LYS C 254      95.046  19.882 -36.054  0.46  2.14           O 0
+ATOM   2087   CA LYS C 254      93.296  20.995 -37.272  0.00  0.00           C 0
+ATOM   2116   CB ASN C 257      95.259  16.460 -37.848  0.00  0.00           C 0
+ATOM   2119  ND2 ASN C 257      93.385  16.317 -39.404  0.64  9.84           N 0
+ATOM   2120    N ILE C 258      97.011  17.810 -35.326  0.00  0.00           N 0
+ATOM   2114    C ASN C 257      96.881  16.602 -35.863  0.00  0.00           C 0
+TER
+END

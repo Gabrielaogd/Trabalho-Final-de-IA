@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1305
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7813
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5856
+HEADER 5  - Mean B-factor of pocket residues  : 0.2960
+HEADER 6  - Hydrophobicity Score              : 19.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 173.9413
+HEADER 10 - Pocket volume (convex hull)       : 1.9274
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3478
+ATOM   1221    C SER A 164      21.134  -6.282   5.121  0.00  0.00           C 0
+ATOM   1227    C GLN A 165      21.814  -9.639   6.158  0.00  0.00           C 0
+ATOM   1222    O SER A 164      20.867  -5.661   6.155  0.09  5.36           O 0
+ATOM   1226   CA GLN A 165      20.888  -8.439   6.239  0.00  0.00           C 0
+ATOM   1225    N GLN A 165      21.127  -7.612   5.058  0.00  0.00           N 0
+ATOM   1214    O LEU A 163      24.205  -5.702   3.188  0.00  0.00           O 0
+ATOM   1234    N CYS A 166      22.284 -10.111   7.306  0.67  2.19           N 0
+ATOM   1240   SGACYS A 166      25.828 -10.473   7.925  0.00  0.00           S 0
+ATOM   1264  NH2 ARG A 169      29.090  -8.383   8.868  0.59  4.37           N 0
+ATOM    286   CE MET A  36      28.271 -10.329   5.712  0.00  0.00           C 0
+ATOM   1261   NE ARG A 169      27.384  -7.722  10.265  0.54  4.37           N 0
+ATOM   1215   CB LEU A 163      24.349  -8.733   2.554  0.00  0.00           C 0
+ATOM   1238   CBACYS A 166      24.555 -11.005   6.761  0.00  0.00           C 0
+ATOM   1259   CG ARG A 169      25.161  -8.514  11.063  0.00  0.00           C 0
+ATOM   1232  OE1 GLN A 165      18.942  -8.097   8.937  0.34  1.07           O 0
+ATOM   1273    O ASP A 171      19.812  -6.014  13.067  0.58  6.43           O 0
+ATOM   1258   CB ARG A 169      24.242  -8.618  12.281  0.00  0.00           C 0
+TER
+END

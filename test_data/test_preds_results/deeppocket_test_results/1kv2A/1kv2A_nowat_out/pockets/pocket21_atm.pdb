@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.1384
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 4.0093
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5797
+HEADER 5  - Mean B-factor of pocket residues  : 0.1114
+HEADER 6  - Hydrophobicity Score              : 17.6250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 235.7350
+HEADER 10 - Pocket volume (convex hull)       : 9.6979
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM   2188   CB ALA A 300      13.674  42.548   5.075  0.00  0.00           C 0
+ATOM   1436  OE1 GLN A 202      17.256  34.875   3.852  0.00  0.00           O 0
+ATOM   2176   CB THR A 298      11.836  38.203   6.560  0.00  0.00           C 0
+ATOM   2177  OG1 THR A 298      11.592  39.551   6.165  0.25  4.29           O 0
+ATOM   2184    N ALA A 300      14.112  41.673   7.277  0.68  2.19           N 0
+ATOM   1017   CA LYS A 139      19.040  41.216   7.463  0.00  0.00           C 0
+ATOM   1019    O LYS A 139      20.279  40.736   5.471  0.50  2.14           O 0
+ATOM   1056   CA SER A 143      21.060  39.040   2.526  0.00  0.00           C 0
+ATOM   1059   CB SER A 143      21.205  40.550   2.631  0.00  0.00           C 0
+ATOM   1023   CE LYS A 139      17.929  45.112   4.608  0.00  0.00           C 0
+ATOM   1021   CG LYS A 139      18.829  43.469   6.279  0.00  0.00           C 0
+ATOM   2342  CG1 VAL A 319      20.328  44.128   1.781  0.00  0.00           C 0
+ATOM   2179    N ALA A 299      13.578  39.310   8.651  0.66  1.09           N 0
+ATOM   1051  ND1 HIS A 142      18.003  36.244   8.048  0.58  3.28           N 0
+ATOM   1020   CB LYS A 139      18.405  42.605   7.438  0.00  0.00           C 0
+ATOM   1055    N SER A 143      21.036  38.480   3.862  0.00  0.00           N 0
+ATOM   1049   CB HIS A 142      19.486  37.033   6.176  0.00  0.00           C 0
+ATOM   2183   CB ALA A 299      15.786  40.126   9.217  0.00  0.00           C 0
+ATOM   1048    O HIS A 142      20.635  36.354   3.218  0.50  2.14           O 0
+ATOM   1047    C HIS A 142      20.838  37.191   4.105  0.00  0.00           C 0
+TER
+END

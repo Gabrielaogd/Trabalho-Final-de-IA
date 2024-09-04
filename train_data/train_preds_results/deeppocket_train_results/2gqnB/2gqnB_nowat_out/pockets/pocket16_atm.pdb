@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0479
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9817
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6902
+HEADER 5  - Mean B-factor of pocket residues  : 0.4257
+HEADER 6  - Hydrophobicity Score              : 47.6250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 322.4582
+HEADER 10 - Pocket volume (convex hull)       : 18.1615
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM    251  CE2 PHE B  36      19.716  42.572  47.943  0.00  0.00           C 0
+ATOM    400  CE1 PHE B  55      19.049  46.573  45.073  0.00  0.00           C 0
+ATOM    402   CZ PHE B  55      17.857  47.379  45.126  0.00  0.00           C 0
+ATOM    296   NZ LYS B  42      21.095  46.316  50.805  0.00  0.00           N 0
+ATOM    230    O LEU B  34      17.448  39.467  47.310  0.46  5.36           O 0
+ATOM    409  CD1 TYR B  56      12.386  43.188  46.348  0.00  0.00           C 0
+ATOM    395    O PHE B  55      16.670  42.582  44.834  0.61  1.07           O 0
+ATOM    227    N LEU B  34      14.889  39.038  46.512  0.48  1.09           N 0
+ATOM    252   CZ PHE B  36      19.594  42.657  46.547  0.00  0.00           C 0
+ATOM    407   CB TYR B  56      13.857  44.305  44.565  0.00  0.00           C 0
+ATOM    408   CG TYR B  56      12.579  44.228  45.410  0.00  0.00           C 0
+ATOM    222   CA SER B  33      12.873  39.143  47.854  0.00  0.00           C 0
+ATOM    226   OG SER B  33      12.234  39.100  50.269  0.00  0.00           O 0
+ATOM    225   CB SER B  33      12.999  38.452  49.238  0.00  0.00           C 0
+ATOM    411  CE1 TYR B  56      11.201  43.075  47.102  0.00  0.00           C 0
+ATOM    401  CE2 PHE B  55      16.828  47.152  44.247  0.00  0.00           C 0
+ATOM    410  CD2 TYR B  56      11.553  45.155  45.250  0.00  0.00           C 0
+ATOM    428  NH1 ARG B  58       9.757  49.720  44.757  0.64  7.66           N 0
+ATOM   1780   OH TYR B 238      12.044  48.326  42.623  0.74  4.29           O 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0445
+HEADER 1  - Drug Score                        : 0.0031
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1000
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6724
+HEADER 5  - Mean B-factor of pocket residues  : 0.1156
+HEADER 6  - Hydrophobicity Score              : 56.3000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 294.6646
+HEADER 10 - Pocket volume (convex hull)       : 11.3491
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM    753  CD1 LEU A 103      28.008   3.927  57.803  0.00  0.00           C 0
+ATOM    274   CB SER A  37      29.708   8.338  51.785  0.00  0.00           C 0
+ATOM    334  CG1 VAL A  45      30.766   5.875  56.303  0.00  0.00           C 0
+ATOM    275   OG SER A  37      30.437   7.221  51.301  0.00  0.00           O 0
+ATOM    324    O LEU A  44      33.586   6.286  54.217  0.52  1.07           O 0
+ATOM    287    O SER A  39      34.441   4.611  51.384  0.34  2.14           O 0
+ATOM    910  CG2 VAL A 123      31.948   2.056  56.987  0.00  0.00           C 0
+ATOM    318   CB PRO A  43      34.442   0.596  53.189  0.00  0.00           C 0
+ATOM    316    C PRO A  43      35.303   2.720  54.287  0.00  0.00           C 0
+ATOM    321    N LEU A  44      35.251   4.036  54.109  0.00  0.00           N 0
+ATOM    261   CZ PHE A  35      27.457   7.624  57.480  0.00  0.00           C 0
+ATOM    271   CA SER A  37      30.338   8.870  53.069  0.00  0.00           C 0
+ATOM    260  CE2 PHE A  35      26.520   8.507  56.936  0.00  0.00           C 0
+ATOM    503  CD1 LEU A  69      22.470   5.366  56.729  0.00  0.00           C 0
+ATOM    908   CB VAL A 123      32.292   0.564  56.963  0.00  0.00           C 0
+ATOM    909  CG1 VAL A 123      31.041  -0.276  57.157  0.00  0.00           C 0
+ATOM    754  CD2 LEU A 103      27.455   1.559  57.231  0.00  0.00           C 0
+ATOM    935  CG2 VAL A 126      28.128  -1.970  55.979  0.00  0.00           C 0
+TER
+END

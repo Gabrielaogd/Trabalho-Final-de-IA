@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : 0.0186
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0232
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5686
+HEADER 5  - Mean B-factor of pocket residues  : 0.0826
+HEADER 6  - Hydrophobicity Score              : -16.6667
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 204.1749
+HEADER 10 - Pocket volume (convex hull)       : 5.2094
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3508  NH2 ARG A 421     -15.488   9.392 -55.835  0.45  5.47           N 0
+ATOM   3931  OG1 THR A 476     -16.956   7.023 -52.326  0.00  0.00           O 0
+ATOM   5603  OE1 GLN A 678     -16.487   6.351 -59.030  0.71  2.14           O 0
+ATOM   3505   NE ARG A 421     -14.799   7.911 -54.226  0.00  0.00           N 0
+ATOM   3932  CG2 THR A 476     -18.091   9.155 -52.636  0.00  0.00           C 0
+ATOM   3502   CB ARG A 421     -13.427   5.290 -54.589  0.00  0.00           C 0
+ATOM   3501    O ARG A 421     -13.961   2.753 -56.672  0.00  0.00           O 0
+ATOM   3899   CB PRO A 472     -16.475   1.922 -52.218  0.00  0.00           C 0
+ATOM   5595   NZ LYS A 677     -19.331   1.699 -58.822  0.00  0.00           N 0
+ATOM   3875  OD1 ASP A 468     -22.581   1.388 -55.558  0.51  5.36           O 0
+ATOM   3531  OD1 ASN A 424     -16.815  -0.865 -54.820  0.47  2.14           O 0
+ATOM   5593   CD LYS A 677     -17.400   0.103 -58.717  0.00  0.00           C 0
+ATOM   3907  OG1 THR A 473     -21.378   2.443 -51.095  0.54  4.29           O 0
+ATOM   3898    O PRO A 472     -17.239   4.863 -50.825  0.00  0.00           O 0
+ATOM   3903   CA THR A 473     -19.804   4.052 -50.208  0.00  0.00           C 0
+ATOM   3897    C PRO A 472     -17.447   3.656 -50.682  0.00  0.00           C 0
+ATOM   3877    N GLY A 469     -19.931  -1.298 -52.587  0.00  0.00           N 0
+ATOM   3902    N THR A 473     -18.642   3.167 -50.365  0.71  1.09           N 0
+TER
+END

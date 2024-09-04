@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0369
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0273
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7046
+HEADER 5  - Mean B-factor of pocket residues  : 0.2728
+HEADER 6  - Hydrophobicity Score              : 23.7143
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 183.3435
+HEADER 10 - Pocket volume (convex hull)       : 3.4391
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   2479   CB ARG A 328       1.986  29.619  20.062  0.00  0.00           C 0
+ATOM   2449  NH2 ARG A 324       0.432  33.009  20.073  0.46  9.84           N 0
+ATOM   2478    O ARG A 328       1.429  30.922  17.535  0.46  5.36           O 0
+ATOM   2484  NH1 ARG A 328      -1.026  27.348  22.730  0.00  0.00           N 0
+ATOM   2476   CA ARG A 328       2.066  28.914  18.701  0.00  0.00           C 0
+ATOM   2477    C ARG A 328       2.078  29.877  17.528  0.00  0.00           C 0
+ATOM   2499  OD1 ASP A 330      -1.649  30.317  13.218  0.42  8.57           O 0
+ATOM   2488    C THR A 329       2.123  29.503  14.176  0.00  0.00           C 0
+ATOM   2489    O THR A 329       2.381  28.297  14.111  0.00  0.00           O 0
+ATOM   2480   CG ARG A 328       1.565  28.583  21.120  0.00  0.00           C 0
+ATOM   2481   CD ARG A 328       1.126  29.324  22.381  0.00  0.00           C 0
+ATOM   2592  CG1 VAL A 342      -1.075  24.512  20.685  0.00  0.00           C 0
+ATOM   2523  CD1 TRP A 333       1.144  25.238  14.453  0.00  0.00           C 0
+ATOM   2466    O TYR A 327       2.033  26.217  18.122  0.54  1.07           O 0
+ATOM   2593  CG2 VAL A 342      -1.431  23.637  18.408  0.00  0.00           C 0
+ATOM   2525  NE1 TRP A 333       1.380  24.740  15.714  0.62  1.09           N 0
+TER
+END

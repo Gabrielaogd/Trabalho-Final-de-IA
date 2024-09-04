@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0467
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9079
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6681
+HEADER 5  - Mean B-factor of pocket residues  : 0.5026
+HEADER 6  - Hydrophobicity Score              : 30.1250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 2.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.8952
+HEADER 10 - Pocket volume (convex hull)       : 7.6758
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM     43  CD2 LEU B   8      24.193  30.458  18.969  0.00  0.00           C 0
+ATOM     12    O SER B   4      19.576  32.033  17.388  0.71  1.07           O 0
+ATOM     16   CA THR B   5      21.284  34.125  16.510  0.00  0.00           C 0
+ATOM     15    N THR B   5      20.169  33.510  15.767  0.67  2.19           N 0
+ATOM     11    C SER B   4      19.403  32.533  16.262  0.00  0.00           C 0
+ATOM    176    O ALA B  25      22.596  26.454  18.277  0.75  1.07           O 0
+ATOM     40   CB LEU B   8      21.845  31.015  19.726  0.00  0.00           C 0
+ATOM    191    O ALA B  28      23.746  26.169  13.305  0.14  8.57           O 0
+ATOM    194   CA ALA B  29      25.961  27.212  14.704  0.00  0.00           C 0
+ATOM      5   CB ASN B   3      18.156  27.623  15.371  0.00  0.00           C 0
+ATOM      9    N SER B   4      17.758  30.754  15.864  0.00  0.00           N 0
+ATOM     10   CA SER B   4      18.264  32.029  15.347  0.00  0.00           C 0
+ATOM      4    O ASN B   3      16.673  30.144  13.991  0.66  2.14           O 0
+ATOM      3    C ASN B   3      17.098  29.876  15.108  0.00  0.00           C 0
+ATOM     21  CG2 THR B   5      23.272  35.730  16.300  0.00  0.00           C 0
+ATOM     20  OG1 THR B   5      22.080  34.856  14.347  0.00  0.00           O 0
+ATOM    190    C ALA B  28      23.989  25.722  14.460  0.00  0.00           C 0
+ATOM    192   CB ALA B  28      21.663  25.145  15.158  0.00  0.00           C 0
+ATOM    193    N ALA B  29      25.038  26.143  15.203  0.00  0.00           N 0
+ATOM    198    N ALA B  30      27.054  27.749  12.626  0.00  0.00           N 0
+TER
+END

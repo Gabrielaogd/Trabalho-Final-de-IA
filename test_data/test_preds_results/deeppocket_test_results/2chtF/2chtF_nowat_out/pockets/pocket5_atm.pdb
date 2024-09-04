@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1636
+HEADER 1  - Drug Score                        : 0.0173
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.9455
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5731
+HEADER 5  - Mean B-factor of pocket residues  : 0.1458
+HEADER 6  - Hydrophobicity Score              : 27.4444
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 268.3045
+HEADER 10 - Pocket volume (convex hull)       : 15.2402
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.3704
+ATOM    725   CE MET F  76      87.936  24.581  38.777  0.00  0.00           C 0
+ATOM    466   OG SER F  48      83.993  23.435  39.950  0.52  3.21           O 0
+ATOM    746  OE1 GLU F  78      85.064  23.585  45.044  0.57  7.50           O 0
+ATOM    747  OE2 GLU F  78      83.424  24.417  43.920  0.32  5.36           O 0
+ATOM    465   CB SER F  48      84.982  22.492  39.613  0.00  0.00           C 0
+ATOM    864    C VAL F  91      83.545  28.194  35.683  0.00  0.00           C 0
+ATOM    849   CB ARG F  90      81.522  25.586  39.479  0.00  0.00           C 0
+ATOM     56   NE ARG F   7      82.783  30.154  39.087  0.63  1.09           N 0
+ATOM     58  NH1 ARG F   7      82.523  30.316  41.367  0.33  6.56           N 0
+ATOM     55   CD ARG F   7      83.683  31.302  39.037  0.00  0.00           C 0
+ATOM    876   SD MET F  92      87.135  31.874  37.549  0.00  0.00           S 0
+ATOM    874   CB MET F  92      86.733  29.447  36.245  0.00  0.00           C 0
+ATOM    449  CD1 LEU F  46      90.557  26.743  36.355  0.00  0.00           C 0
+ATOM     57   CZ ARG F   7      82.247  29.723  40.211  0.00  0.00           C 0
+ATOM    851   CD ARG F  90      81.503  25.770  41.951  0.00  0.00           C 0
+ATOM    865    O VAL F  91      83.011  29.022  36.414  0.00  0.00           O 0
+ATOM    730    O GLN F  77      87.962  20.229  42.831  0.67  5.36           O 0
+ATOM    875   CG MET F  92      87.604  30.693  36.267  0.00  0.00           C 0
+ATOM    870    N MET F  92      84.798  28.325  35.289  0.48  1.09           N 0
+ATOM    848    O ARG F  90      82.735  24.615  36.722  0.00  0.00           O 0
+ATOM    847    C ARG F  90      81.895  25.476  37.022  0.00  0.00           C 0
+TER
+END

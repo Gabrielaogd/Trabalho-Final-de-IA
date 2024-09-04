@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0264
+HEADER 1  - Drug Score                        : 0.0059
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.2669
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7259
+HEADER 5  - Mean B-factor of pocket residues  : 0.2768
+HEADER 6  - Hydrophobicity Score              : -16.7500
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 282.9152
+HEADER 10 - Pocket volume (convex hull)       : 6.3349
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM   2368    O ASP X 314       3.160 -23.680  18.280  0.69  1.07           O 0
+ATOM   2385    N GLY X 317       2.307 -24.623  15.506  0.00  0.00           N 0
+ATOM   2386   CA GLY X 317       2.366 -23.420  14.689  0.00  0.00           C 0
+ATOM   2376    O SER X 315       4.296 -27.056  17.035  0.00  0.00           O 0
+ATOM   1962   CG GLU X 263       6.575 -23.435  20.132  0.00  0.00           C 0
+ATOM   1965  OE2 GLU X 263       8.719 -24.152  19.384  0.00  0.00           O 0
+ATOM   2362   CD LYS X 313       2.837 -19.042  14.797  0.00  0.00           C 0
+ATOM   2342    O GLN X 311       5.196 -15.611  18.339  0.56  2.14           O 0
+ATOM   1951    O LYS X 262       5.202 -18.601  19.936  0.66  1.07           O 0
+ATOM   1952   CB LYS X 262       7.979 -16.941  19.695  0.00  0.00           C 0
+ATOM   2360   CB LYS X 313       2.329 -19.986  17.072  0.00  0.00           C 0
+ATOM   1963   CD GLU X 263       7.564 -24.499  19.706  0.00  0.00           C 0
+ATOM   1964  OE1 GLU X 263       7.181 -25.688  19.695  0.66  2.14           O 0
+ATOM   2335    O THR X 310       3.388 -14.561  14.606  0.38  4.29           O 0
+ATOM   2347  NE2 GLN X 311       7.007 -12.929  15.822  0.33  4.37           N 0
+ATOM   2363   CE LYS X 313       2.717 -17.837  13.868  0.00  0.00           C 0
+ATOM   1961   CB GLU X 263       7.187 -22.042  20.216  0.00  0.00           C 0
+ATOM   1950    C LYS X 262       6.274 -18.599  20.540  0.00  0.00           C 0
+ATOM   1957    N GLU X 263       6.855 -19.711  20.980  0.70  1.09           N 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0065
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0101
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6054
+HEADER 5  - Mean B-factor of pocket residues  : 0.3485
+HEADER 6  - Hydrophobicity Score              : 6.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.2885
+HEADER 10 - Pocket volume (convex hull)       : 9.4425
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   1726   CD PRO A 264      28.897  17.631   9.250  0.00  0.00           C 0
+ATOM   1725   CG PRO A 264      29.869  16.996  10.184  0.00  0.00           C 0
+ATOM   1696    O ILE A 261      28.005  14.327   9.570  0.47  3.21           O 0
+ATOM   1817   NZ LYS A 274      31.918  19.006   4.495  0.00  0.00           N 0
+ATOM   1816   CE LYS A 274      31.130  19.593   5.640  0.00  0.00           C 0
+ATOM   1672  NH1 ARG A 258      26.430  12.599   4.870  0.00  0.00           N 0
+ATOM   1704    O LEU A 262      26.339  16.385   7.193  0.38  1.07           O 0
+ATOM   1815   CD LYS A 274      29.633  19.783   5.337  0.00  0.00           C 0
+ATOM   1688   CB LYS A 260      29.532  10.191   9.519  0.00  0.00           C 0
+ATOM   1690   CD LYS A 260      31.737   9.858   8.402  0.00  0.00           C 0
+ATOM   1841  OE2 GLU A 277      29.616  20.930   1.794  0.55  6.43           O 0
+ATOM   1847   CG GLN A 278      25.561  16.726   2.023  0.00  0.00           C 0
+ATOM   1850  NE2 GLN A 278      26.000  16.708   4.408  0.73  2.19           N 0
+ATOM   1848   CD GLN A 278      25.653  15.984   3.347  0.00  0.00           C 0
+ATOM   1669   CD ARG A 258      26.915  10.134   6.049  0.00  0.00           C 0
+ATOM   1692   NZ LYS A 260      32.779   9.291   6.246  0.63  9.84           N 0
+TER
+END

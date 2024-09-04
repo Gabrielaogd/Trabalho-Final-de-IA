@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0631
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7982
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4938
+HEADER 5  - Mean B-factor of pocket residues  : 0.1706
+HEADER 6  - Hydrophobicity Score              : 9.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 248.4998
+HEADER 10 - Pocket volume (convex hull)       : 5.7331
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1782  OD2 ASP A 249      12.469  47.121   8.667  0.00  0.00           O 0
+ATOM   1703  NH1 ARG A 239       9.004  43.858   4.989  0.73  4.37           N 0
+ATOM   1700   CD ARG A 239      10.389  44.794   2.758  0.00  0.00           C 0
+ATOM   1798  CD1 ILE A 251      12.431  44.118   7.285  0.00  0.00           C 0
+ATOM   1698   CB ARG A 239      12.583  46.083   2.313  0.00  0.00           C 0
+ATOM   1697    O ARG A 239      12.472  49.170   1.353  0.00  0.00           O 0
+ATOM   1779   CB ASP A 249      14.797  47.763   8.528  0.00  0.00           C 0
+ATOM   1778    O ASP A 249      16.235  45.856   6.995  0.33  1.07           O 0
+ATOM   1711  ND1 HIS A 240      17.064  51.399   3.758  0.12  7.66           N 0
+ATOM   1706   CA HIS A 240      15.261  49.617   1.774  0.00  0.00           C 0
+ATOM   1709   CB HIS A 240      16.676  49.400   2.280  0.00  0.00           C 0
+ATOM   1708    O HIS A 240      14.820  51.622   0.592  0.62  6.43           O 0
+ATOM   1705    N HIS A 240      14.600  48.366   1.567  0.60  1.09           N 0
+ATOM   1696    C ARG A 239      13.297  48.241   1.295  0.00  0.00           C 0
+TER
+END

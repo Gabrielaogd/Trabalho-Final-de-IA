@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0631
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8038
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5841
+HEADER 5  - Mean B-factor of pocket residues  : 0.2231
+HEADER 6  - Hydrophobicity Score              : 32.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 207.3993
+HEADER 10 - Pocket volume (convex hull)       : 2.8795
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM    438  OE1 GLN A  59      25.800   4.119  32.568  0.00  0.00           O 0
+ATOM    589   CB PHE A  79      25.643  -0.247  27.918  0.00  0.00           C 0
+ATOM    585    N PHE A  79      24.526   1.542  26.680  0.66  4.37           N 0
+ATOM    745  NE1 TRP A  98      27.108   2.769  29.384  0.65  1.09           N 0
+ATOM    566   CB PRO A  76      26.355   7.723  28.906  0.00  0.00           C 0
+ATOM    565    O PRO A  76      23.482   8.430  28.115  0.00  0.00           O 0
+ATOM    439  NE2 GLN A  59      25.720   6.335  32.968  0.00  0.00           N 0
+ATOM    577   CA LYS A  78      23.118   3.347  25.866  0.00  0.00           C 0
+ATOM    572    O VAL A  77      21.361   5.390  26.528  0.00  0.00           O 0
+ATOM    571    C VAL A  77      22.446   5.681  26.020  0.00  0.00           C 0
+ATOM    743  CD1 TRP A  98      27.010   3.478  28.209  0.00  0.00           C 0
+ATOM    576    N LYS A  78      23.354   4.773  25.674  0.00  0.00           N 0
+ATOM    564    C PRO A  76      24.384   8.102  27.337  0.00  0.00           C 0
+TER
+END

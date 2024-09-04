@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0654
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6992
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4351
+HEADER 5  - Mean B-factor of pocket residues  : 0.2324
+HEADER 6  - Hydrophobicity Score              : 19.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 159.8842
+HEADER 10 - Pocket volume (convex hull)       : 4.0350
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM    691   NZ LYS A 442     -14.074 -75.139 -15.265  0.00  0.00           N 0
+ATOM    663  CD1AILE A 439     -16.662 -79.614 -17.374  0.00  0.00           C 0
+ATOM    157    O ASN A 379     -20.715 -74.714 -18.427  0.39  2.14           O 0
+ATOM    160  OD1 ASN A 379     -18.020 -74.324 -21.288  0.12  7.50           O 0
+ATOM    552  CE1 TYR A 426     -20.512 -76.956 -15.675  0.00  0.00           C 0
+ATOM    555   OH TYR A 426     -20.187 -78.480 -17.455  0.47  2.14           O 0
+ATOM    158   CB ASN A 379     -19.246 -72.866 -19.851  0.00  0.00           C 0
+ATOM    152  OD1 ASP A 378     -17.750 -69.683 -17.593  0.00  0.00           O 0
+ATOM    703   OH TYR A 443     -17.226 -73.808 -13.801  0.74  2.14           O 0
+ATOM    659  CG1AILE A 439     -15.826 -79.262 -16.181  0.00  0.00           C 0
+ATOM    149    O ASP A 378     -19.953 -71.846 -16.987  0.00  0.00           O 0
+ATOM    661  CG2AILE A 439     -17.538 -78.960 -14.357  0.00  0.00           C 0
+ATOM    153  OD2 ASP A 378     -17.422 -69.117 -15.509  0.00  0.00           O 0
+TER
+END

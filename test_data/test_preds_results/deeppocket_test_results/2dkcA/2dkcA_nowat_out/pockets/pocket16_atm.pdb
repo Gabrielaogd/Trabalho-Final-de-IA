@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0586
+HEADER 1  - Drug Score                        : 0.0039
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7695
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5867
+HEADER 5  - Mean B-factor of pocket residues  : 0.3152
+HEADER 6  - Hydrophobicity Score              : 57.1667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.7189
+HEADER 10 - Pocket volume (convex hull)       : 3.3953
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.9375
+ATOM    868   CB SER A 123       2.455 -20.478  48.706  0.00  0.00           C 0
+ATOM    865   CA SER A 123       3.304 -20.325  47.445  0.00  0.00           C 0
+ATOM    864    N SER A 123       3.438 -18.916  47.110  0.00  0.00           N 0
+ATOM    862  CG1 VAL A 122       6.380 -16.976  47.335  0.00  0.00           C 0
+ATOM    836   CB LYS A 119       1.946 -14.901  51.577  0.00  0.00           C 0
+ATOM    837   CG LYS A 119       2.795 -13.822  52.252  0.00  0.00           C 0
+ATOM    838   CD LYS A 119       3.066 -14.112  53.720  0.00  0.00           C 0
+ATOM    833   CA LYS A 119       2.067 -14.860  50.051  0.00  0.00           C 0
+ATOM    830  CG2 ILE A 118       3.360 -11.209  47.874  0.00  0.00           C 0
+ATOM    863  CG2 VAL A 122       5.254 -14.826  46.729  0.00  0.00           C 0
+ATOM     18  CG2 ILE A   3       6.681 -11.803  52.468  0.00  0.00           C 0
+ATOM    835    O LYS A 119       2.048 -17.081  49.194  0.53  4.29           O 0
+ATOM    861   CB VAL A 122       5.044 -16.293  47.079  0.00  0.00           C 0
+ATOM    917  CD1 LEU A 129       9.225 -13.721  48.962  0.00  0.00           C 0
+TER
+END

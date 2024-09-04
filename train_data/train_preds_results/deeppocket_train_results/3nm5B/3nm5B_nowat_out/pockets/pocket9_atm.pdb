@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0856
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7665
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6358
+HEADER 5  - Mean B-factor of pocket residues  : 0.0012
+HEADER 6  - Hydrophobicity Score              : 25.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.8842
+HEADER 10 - Pocket volume (convex hull)       : 4.9568
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM    409    N LYS B  54      19.259  36.260  37.950  0.00  0.00           N 0
+ATOM   1136  OD1 ASP B 151      17.667  33.967  37.478  0.00  0.00           O 0
+ATOM    400    O ILE B  52      15.559  38.573  39.371  0.00  0.00           O 0
+ATOM   1137  OD2 ASP B 151      17.743  33.861  35.283  0.83  5.36           O 0
+ATOM   1135   CG ASP B 151      17.421  33.386  36.402  0.00  0.00           C 0
+ATOM   1133    O ASP B 151      14.415  30.999  37.718  0.00  0.00           O 0
+ATOM    406   CA GLY B  53      17.479  36.590  39.538  0.00  0.00           C 0
+ATOM   1328   CE MET B 174      14.794  33.009  40.827  0.00  0.00           C 0
+ATOM    422   CB VAL B  55      18.784  39.051  33.639  0.00  0.00           C 0
+ATOM    425    N HIS B  56      18.763  40.416  36.466  0.66  1.09           N 0
+ATOM    431  ND1 HIS B  56      15.012  41.043  38.185  0.65  1.09           N 0
+ATOM    430   CG HIS B  56      16.141  41.769  37.877  0.00  0.00           C 0
+ATOM    433  CE1 HIS B  56      13.953  41.626  37.645  0.00  0.00           C 0
+ATOM    432  CD2 HIS B  56      15.720  42.832  37.151  0.00  0.00           C 0
+ATOM    423  CG1 VAL B  55      18.737  40.389  32.888  0.00  0.00           C 0
+ATOM    434  NE2 HIS B  56      14.353  42.716  37.015  0.54  7.66           N 0
+ATOM    418    N VAL B  55      19.798  37.894  35.612  0.82  1.09           N 0
+TER
+END

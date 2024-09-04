@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0934
+HEADER 1  - Drug Score                        : 0.0088
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9293
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4649
+HEADER 5  - Mean B-factor of pocket residues  : 0.5796
+HEADER 6  - Hydrophobicity Score              : 3.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 215.8616
+HEADER 10 - Pocket volume (convex hull)       : 4.1454
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM      7  CD1 LEU A   5      23.040  31.321  60.836  0.00  0.00           C 0
+ATOM   1524   CD LYS A 217      23.519  28.857  64.433  0.00  0.00           C 0
+ATOM    198  OD1 ASP A  32      25.047  37.638  64.982  0.00  0.00           O 0
+ATOM   1490   CD LYS A 213      23.394  33.010  68.469  0.00  0.00           C 0
+ATOM   1523   CG LYS A 217      22.098  29.440  64.226  0.00  0.00           C 0
+ATOM    199  OD2 ASP A  32      22.871  37.780  65.041  0.64  3.21           O 0
+ATOM      4    O LEU A   5      21.335  36.369  59.152  0.21  4.29           O 0
+ATOM     23  ND2 ASN A   7      23.016  39.625  61.611  0.31  4.37           N 0
+ATOM   1487    O LYS A 213      20.218  31.176  66.430  0.64  1.07           O 0
+ATOM   1516  CG2 ILE A 216      18.063  33.170  62.884  0.00  0.00           C 0
+ATOM   1488   CB LYS A 213      21.050  33.704  67.960  0.00  0.00           C 0
+ATOM      5   CB LEU A   5      21.901  33.306  59.757  0.00  0.00           C 0
+ATOM     12    O PRO A   6      19.821  36.191  62.287  0.60  4.29           O 0
+TER
+END

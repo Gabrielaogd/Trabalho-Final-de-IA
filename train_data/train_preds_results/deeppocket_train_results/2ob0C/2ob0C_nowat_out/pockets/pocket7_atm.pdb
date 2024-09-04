@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.1111
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7653
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5105
+HEADER 5  - Mean B-factor of pocket residues  : 0.2348
+HEADER 6  - Hydrophobicity Score              : 25.1429
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.0671
+HEADER 10 - Pocket volume (convex hull)       : 10.6419
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1053
+ATOM     58    O VAL C  11      55.382 359.412 -84.439  0.00  0.00           O 0
+ATOM    324    N GLY C  43      49.841 358.017 -80.221  0.75  2.19           N 0
+ATOM    296    O VAL C  39      53.344 360.744 -79.658  0.19  4.29           O 0
+ATOM    327    O GLY C  43      49.403 359.767 -82.459  0.32  4.29           O 0
+ATOM    303    O LEU C  40      54.876 357.063 -79.597  0.45  7.50           O 0
+ATOM     68  CG2 THR C  12      56.968 358.046 -87.207  0.00  0.00           C 0
+ATOM     51   CB ASP C  10      52.909 358.916 -87.923  0.00  0.00           C 0
+ATOM     54  OD2 ASP C  10      51.684 356.943 -88.492  0.00  0.00           O 0
+ATOM     52   CG ASP C  10      51.614 358.167 -88.232  0.00  0.00           C 0
+ATOM    325   CA GLY C  43      49.203 357.595 -81.477  0.00  0.00           C 0
+ATOM    326    C GLY C  43      48.705 358.759 -82.320  0.00  0.00           C 0
+ATOM     55    N VAL C  11      54.024 361.233 -86.086  0.00  0.00           N 0
+ATOM     53  OD1 ASP C  10      50.517 358.774 -88.226  0.65  4.29           O 0
+ATOM    336  OE2 GLU C  44      46.809 357.458 -87.537  0.63  6.43           O 0
+ATOM    333   CG GLU C  44      45.847 357.871 -85.375  0.00  0.00           C 0
+ATOM    328    N GLU C  44      47.495 358.617 -82.861  0.00  0.00           N 0
+TER
+END

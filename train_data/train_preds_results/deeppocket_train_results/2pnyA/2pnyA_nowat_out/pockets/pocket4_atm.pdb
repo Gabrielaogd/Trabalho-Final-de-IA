@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.2666
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.4890
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3155
+HEADER 5  - Mean B-factor of pocket residues  : 0.0399
+HEADER 6  - Hydrophobicity Score              : 15.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 106.5500
+HEADER 10 - Pocket volume (convex hull)       : 2.1027
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM    377   CB HIS A  40      29.102  20.313  19.732  0.00  0.00           C 0
+ATOM    674   CB VAL A  75      24.033  23.962  21.780  0.00  0.00           C 0
+ATOM    675  CG1 VAL A  75      25.130  23.397  22.691  0.00  0.00           C 0
+ATOM    683  CG2 THR A  76      28.297  24.685  20.219  0.00  0.00           C 0
+ATOM    670    N VAL A  75      22.967  26.040  20.895  0.49  1.09           N 0
+ATOM    346   CE LYS A  36      23.522  20.952  17.050  0.00  0.00           C 0
+ATOM    164  OE1 GLN A  13      19.147  24.039  17.082  0.38  1.07           O 0
+ATOM    669   NZ LYS A  74      21.239  25.516  15.639  0.46  3.28           N 0
+ATOM    682  OG1 THR A  76      27.204  25.779  18.265  0.35  7.50           O 0
+ATOM    378   CG HIS A  40      28.973  20.348  18.225  0.00  0.00           C 0
+ATOM    347   NZ LYS A  36      24.231  21.416  15.843  0.19  6.56           N 0
+ATOM    668   CE LYS A  74      21.983  26.693  16.164  0.00  0.00           C 0
+ATOM    633  NH2 ARG A  70      25.328  27.447  16.297  0.46  2.19           N 0
+ATOM    201  CD2 LEU A  17      23.225  19.399  21.172  0.00  0.00           C 0
+ATOM    676  CG2 VAL A  75      22.668  23.310  22.055  0.00  0.00           C 0
+TER
+END

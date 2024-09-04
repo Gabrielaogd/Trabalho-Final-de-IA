@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0076
+HEADER 1  - Drug Score                        : 0.0059
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8522
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6940
+HEADER 5  - Mean B-factor of pocket residues  : 0.4545
+HEADER 6  - Hydrophobicity Score              : 18.8333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 302.8126
+HEADER 10 - Pocket volume (convex hull)       : 15.2586
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.4286
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM     57   CB SER A   7      -9.299 -18.793  18.001  0.00  0.00           C 0
+ATOM     80  CD2 PHE A  10     -12.819 -15.567  19.631  0.00  0.00           C 0
+ATOM     54   CA SER A   7      -9.976 -18.158  19.209  0.00  0.00           C 0
+ATOM     82  CE2 PHE A  10     -12.134 -14.425  19.237  0.00  0.00           C 0
+ATOM     56    O SER A   7     -11.647 -19.600  20.188  0.00  0.00           O 0
+ATOM    106    N GLY A  15     -18.314 -17.543  17.188  0.59  1.09           N 0
+ATOM    107   CA GLY A  15     -18.291 -18.041  15.825  0.00  0.00           C 0
+ATOM    105   CB ALA A  14     -16.941 -15.785  19.587  0.00  0.00           C 0
+ATOM    103    C ALA A  14     -18.176 -16.237  17.443  0.00  0.00           C 0
+ATOM     87    O GLY A  11     -17.577 -18.788  21.039  0.70  4.29           O 0
+ATOM    104    O ALA A  14     -17.950 -15.417  16.565  0.39  4.29           O 0
+ATOM     53    N SER A   7      -9.058 -17.264  19.900  0.00  0.00           N 0
+ATOM     77   CB PHE A  10     -14.167 -16.924  21.278  0.00  0.00           C 0
+ATOM     89   CA LYS A  12     -19.548 -20.715  20.666  0.00  0.00           C 0
+ATOM     91    O LYS A  12     -20.381 -19.551  18.736  0.00  0.00           O 0
+ATOM     92   CB LYS A  12     -20.445 -21.943  20.837  0.00  0.00           C 0
+ATOM     94   CD LYS A  12     -19.782 -24.396  20.969  0.00  0.00           C 0
+TER
+END

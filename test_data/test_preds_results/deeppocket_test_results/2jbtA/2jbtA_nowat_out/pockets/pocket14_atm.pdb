@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0679
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0790
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6171
+HEADER 5  - Mean B-factor of pocket residues  : 0.5194
+HEADER 6  - Hydrophobicity Score              : 21.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.3979
+HEADER 10 - Pocket volume (convex hull)       : 2.5463
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   1251  NH1 ARG A 185      17.325  71.935  81.124  0.66  7.66           N 0
+ATOM   1312  CG2 ILE A 193      14.862  66.849  84.604  0.00  0.00           C 0
+ATOM   1671   CG LYS A 237      14.971  65.830  81.031  0.00  0.00           C 0
+ATOM   1331   OG SER A 195      18.302  67.356  83.279  0.83  1.07           O 0
+ATOM   1674   NZ LYS A 237      12.213  67.339  80.324  0.00  0.00           N 0
+ATOM   1248   CD ARG A 185      18.045  71.070  83.685  0.00  0.00           C 0
+ATOM   1250   CZ ARG A 185      17.321  72.817  82.116  0.00  0.00           C 0
+ATOM   1311  CG1 ILE A 193      13.429  67.777  86.472  0.00  0.00           C 0
+ATOM   1256    O PHE A 186      12.893  72.045  87.912  0.36  9.64           O 0
+ATOM   1034  OE2 GLU A 156      16.828  74.363  85.293  0.67  5.36           O 0
+ATOM   1252  NH2 ARG A 185      16.994  74.081  81.886  0.00  0.00           N 0
+ATOM   1249   NE ARG A 185      17.649  72.429  83.341  0.00  0.00           N 0
+ATOM   1246   CB ARG A 185      17.286  70.801  86.036  0.00  0.00           C 0
+ATOM   1310   CB ILE A 193      14.840  67.337  86.042  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0936
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8278
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5259
+HEADER 5  - Mean B-factor of pocket residues  : 0.2101
+HEADER 6  - Hydrophobicity Score              : 5.2500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 131.6190
+HEADER 10 - Pocket volume (convex hull)       : 0.7709
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM     92   CD ARG B  20      43.830   2.879  61.238  0.00  0.00           C 0
+ATOM    708  OE1 GLU B  93      45.995   5.147  62.572  0.48  8.57           O 0
+ATOM     75  CG2 VAL B  17      46.803   1.018  55.439  0.00  0.00           C 0
+ATOM    105  NE2 GLN B  21      46.017   6.323  55.154  0.00  0.00           N 0
+ATOM     95  NH1 ARG B  20      44.591   0.395  60.114  0.79  4.37           N 0
+ATOM    102   CG GLN B  21      43.749   6.562  56.033  0.00  0.00           C 0
+ATOM     90   CB ARG B  20      42.232   2.981  59.234  0.00  0.00           C 0
+ATOM     91   CG ARG B  20      42.565   3.516  60.617  0.00  0.00           C 0
+ATOM     74  CG1 VAL B  17      45.945   3.227  54.404  0.00  0.00           C 0
+ATOM     72    O VAL B  17      42.977   3.507  55.680  0.00  0.00           O 0
+ATOM    709  OE2 GLU B  93      44.975   7.003  62.088  0.36  2.14           O 0
+ATOM     70   CA VAL B  17      44.360   1.566  55.528  0.00  0.00           C 0
+TER
+END

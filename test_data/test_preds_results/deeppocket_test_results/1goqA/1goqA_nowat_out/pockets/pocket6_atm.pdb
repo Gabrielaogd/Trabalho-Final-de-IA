@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1038
+HEADER 1  - Drug Score                        : 0.0239
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8703
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5705
+HEADER 5  - Mean B-factor of pocket residues  : 0.2489
+HEADER 6  - Hydrophobicity Score              : 19.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.6447
+HEADER 10 - Pocket volume (convex hull)       : 5.0928
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM      2   CA ALA A   2       7.418   1.522  29.577  0.00  0.00           C 0
+ATOM      6    N ALA A   3       7.585   0.016  31.511  0.00  0.00           N 0
+ATOM   2207   CG PRO A 290       4.691   5.113  29.890  0.00  0.00           C 0
+ATOM      5   CB ALA A   2       5.952   1.545  29.157  0.00  0.00           C 0
+ATOM   2248  OD1 ASN A 295       0.620   3.573  31.923  0.88  6.43           O 0
+ATOM     15   CB GLN A   4       3.647  -3.342  31.593  0.00  0.00           C 0
+ATOM   2269  CG2 VAL A 298       0.264  -1.784  29.733  0.00  0.00           C 0
+ATOM   2238  CE1 TYR A 294       2.409   0.657  28.368  0.00  0.00           C 0
+ATOM   2236  CD1 TYR A 294       1.543   1.727  28.603  0.00  0.00           C 0
+ATOM   2268  CG1 VAL A 298      -0.158  -2.965  31.905  0.00  0.00           C 0
+ATOM     11    N GLN A   4       5.828  -2.240  31.331  0.62  2.19           N 0
+ATOM   2267   CB VAL A 298      -0.772  -2.090  30.817  0.00  0.00           C 0
+ATOM   2243   CA ASN A 295      -1.693   2.055  31.532  0.00  0.00           C 0
+ATOM   2246   CB ASN A 295      -1.553   3.000  32.730  0.00  0.00           C 0
+ATOM     16   CG GLN A   4       3.786  -3.698  33.056  0.00  0.00           C 0
+ATOM     10   CB ALA A   3       7.658  -1.056  33.722  0.00  0.00           C 0
+ATOM   2245    O ASN A 295      -3.096   0.219  32.181  0.32  2.14           O 0
+TER
+END

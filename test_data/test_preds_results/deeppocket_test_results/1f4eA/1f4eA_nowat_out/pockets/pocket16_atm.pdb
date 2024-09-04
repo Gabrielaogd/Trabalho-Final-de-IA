@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0554
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1620
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6872
+HEADER 5  - Mean B-factor of pocket residues  : 0.2415
+HEADER 6  - Hydrophobicity Score              : 39.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 291.4274
+HEADER 10 - Pocket volume (convex hull)       : 7.0294
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM   1594  CG1 VAL A 196      43.565  80.661  84.561  0.00  0.00           C 0
+ATOM   1589    N VAL A 196      44.730  82.935  86.240  0.68  2.19           N 0
+ATOM   1595  CG2 VAL A 196      46.070  80.714  84.624  0.00  0.00           C 0
+ATOM   1587  OE1 GLU A 195      46.380  86.570  84.162  0.60  9.64           O 0
+ATOM   1575    O LEU A 194      41.639  85.681  85.507  0.57  4.29           O 0
+ATOM   1515  ND1 HIS A 186      43.449  79.568  81.154  0.63  8.75           N 0
+ATOM   1517  CE1 HIS A 186      44.718  79.207  81.309  0.00  0.00           C 0
+ATOM   1865   NZ LYS A 229      48.555  82.098  76.512  0.53  7.66           N 0
+ATOM   1869    O LEU A 230      45.470  79.857  76.320  0.55  6.43           O 0
+ATOM   1581   CA GLU A 195      44.220  85.317  86.442  0.00  0.00           C 0
+ATOM   1512    O HIS A 186      39.128  81.076  82.512  0.53  1.07           O 0
+ATOM   1540    N GLN A 190      38.254  83.694  83.603  0.75  1.09           N 0
+ATOM   1539   CB ALA A 189      40.204  82.538  85.742  0.00  0.00           C 0
+ATOM   1887  CG1 ILE A 232      40.044  80.509  76.907  0.00  0.00           C 0
+ATOM   1882    N ILE A 232      41.779  81.272  74.632  0.70  7.66           N 0
+ATOM   1889  CD1 ILE A 232      39.563  80.757  78.317  0.00  0.00           C 0
+ATOM   1541   CA GLN A 190      37.894  84.678  82.591  0.00  0.00           C 0
+ATOM   1544   CB GLN A 190      37.756  84.035  81.195  0.00  0.00           C 0
+ATOM   1886   CB ILE A 232      39.671  81.648  75.939  0.00  0.00           C 0
+TER
+END

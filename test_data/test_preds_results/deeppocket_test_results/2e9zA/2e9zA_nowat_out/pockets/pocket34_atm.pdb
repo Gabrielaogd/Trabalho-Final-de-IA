@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : -0.1043
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0169
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6445
+HEADER 5  - Mean B-factor of pocket residues  : 0.4034
+HEADER 6  - Hydrophobicity Score              : -0.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 323.7392
+HEADER 10 - Pocket volume (convex hull)       : 10.8984
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   2100    O PRO A 269      15.944   7.777  40.225  0.67  8.57           O 0
+ATOM   2051  CG2 THR A 263      19.662   7.206  43.314  0.00  0.00           C 0
+ATOM   2098   CA PRO A 269      16.259   7.651  42.603  0.00  0.00           C 0
+ATOM   2101   CB PRO A 269      15.555   6.600  43.449  0.00  0.00           C 0
+ATOM   1153  NH1 ARG A 153      12.055   6.326  39.225  0.00  0.00           N 0
+ATOM   2126    N TRP A 273      14.818   8.263  36.056  0.58  1.09           N 0
+ATOM   1152   CZ ARG A 153      12.232   5.298  40.044  0.00  0.00           C 0
+ATOM   1154  NH2 ARG A 153      13.106   5.393  41.037  0.50  4.37           N 0
+ATOM   2125  OE2 GLU A 272      18.374   4.564  35.056  0.76  8.57           O 0
+ATOM   1151   NE ARG A 153      11.536   4.178  39.874  0.62  5.47           N 0
+ATOM   2130   CB TRP A 273      12.567   7.379  36.443  0.00  0.00           C 0
+ATOM   1150   CD ARG A 153      10.548   3.969  38.819  0.00  0.00           C 0
+ATOM   2127   CA TRP A 273      13.545   7.954  35.416  0.00  0.00           C 0
+ATOM   2132  CD1 TRP A 273      10.920   5.969  35.083  0.00  0.00           C 0
+ATOM   2164   NZ LYS A 276      17.849   4.188  32.004  0.70  7.66           N 0
+ATOM   2162   CD LYS A 276      16.149   5.948  31.527  0.00  0.00           C 0
+ATOM   2121   CB GLU A 272      17.846   7.695  36.445  0.00  0.00           C 0
+ATOM   2123   CD GLU A 272      18.909   5.607  35.488  0.00  0.00           C 0
+ATOM   2124  OE1 GLU A 272      19.965   5.600  36.155  0.80  5.36           O 0
+TER
+END
