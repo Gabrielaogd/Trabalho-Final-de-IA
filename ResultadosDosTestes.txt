@@ -1,0 +1,33 @@
+XGB ------------------------
+Loading model
+Predicting data
+Test set accuracy: 0.9656798038845936
+Test set MCC: 0.6369697257695079
+Precision: 0.7015762352227948
+Recall: 0.6111697913916029
+F1-Score: 0.6532599491955969
+Confusion Matrix:
+[[133638   1969]
+ [  2945   4629]]
+SVM ------------------------
+Loading model
+Predicting data
+Test set accuracy: 0.961056285400996
+Test set MCC: 0.625858727404228
+Precision: 0.62221678492782
+Recall: 0.6715077898072352
+F1-Score: 0.6459232918465837
+Confusion Matrix:
+[[132519   3088]
+ [  2488   5086]]
+RF ------------------------
+Loading model
+Predicting data
+Test set accuracy: 0.9656588513839127
+Test set MCC: 0.6407444229073762
+Precision: 0.6956265645707554
+Recall: 0.6237127013467124
+F1-Score: 0.6577097111033763
+Confusion Matrix:
+[[133540   2067]
+ [  2850   4724]]
